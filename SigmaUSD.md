@@ -2,9 +2,9 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-02-27T19:20:51.376Z
+date: 2021-02-27T19:48:33.663Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
 ---
 
@@ -234,6 +234,77 @@ Reserve always backs sigma USD. The price ERG/USD floats (up/down) as users trad
 ![screenshot_2021-02-25_at_19.14.01.png](/screenshot_2021-02-25_at_19.14.01.png)
 ![unknown.png](/unknown.png)
 
+
+# Longterm framework of SigmaUSD.
+- SigmaUSD is an essential building block for a functioning DeFi System.  
+- The focus for ERG now shifts to building on the foundation it has set. 
+- Gateways, Dex’s, Liquidity Pools, LETS systems. It is time to build use and utility. 
+- The importance and significance, of stable value cannot be overstated. 
+- This is critical to the long-term prosperity of the Ergo Network and is important to understand. 
+
+## What is a stablecoin? 
+
+It is a derivate product. The intent of this derivative is to create a way to stabilize volatility. 
+
+Price stability is a critical part of finance, without price stability it becomes difficult to create longer term modeling for financial products. Investment takes risk, a good business whether on-chain or off requires modeling and forecasting to estimate profitability. 
+
+The crypto space by nature is highly volatile. SigmaUSD and SigmaRSV are mechanisms to create stable value. Stable value is the foundation for a prosperous economy. 
+
+Derivatives were originally created to minimize volatility when trading in foreign currencies. 
+
+In a globalized economy the shift in purchasing power of one currency vs another can be a highly destructive force. Instability disrupts trade, and destroys business models. 
+
+Stability comes at a cost. Instability in price is often added as a premium, sometimes a price premium, and other times an interest premium. 
+
+The cost of SigmaUSD is the current USD value of ERG plus a 2.5% fee. 
+
+This is a low premium, 2.5%. 
+
+What is your currency interest rate? What is the rate at which a bank will collateralize an asset you hold and offer a loan?
+
+Very few have access to this low of a premium in the global economy, and the bank may not be offering liquidity with little to no reserve.
+
+SigmaUSD allows anyone who owns ERG to collateralize their ERG and create liquid value. What does this really mean?
+
+The long-term goal will be to create a use cases for this stablecoin that offers a return beyond this 2.5% fee. 
+
+## Why?
+
+When Dapps and use/utility are in place that supersede this 2.5% fee magic happens. 
+
+A user can take their ERG, create SigmaUSD, then use that to create a return greater than the 2.5% cost of stability. 
+
+The majority of business models rely on stability and price/risk prediction rather than asset speculation. 
+
+SigmaUSD is not just an opportunity to take a short position on ERG. Rather it is a way to use your personal reserve value to generate yield. 
+
+As Defi on Ergo delivers additional gateways, decentralized exchanges, or ergo swap liquidity pools, it allows growth opportunity for this stable value.
+
+No economy can function properly with high price volatility. A stable, robust decentralized economy requires a stable and robust mechanism currency. Ideally a currency that is backed by a reserve asset to insure its value.  
+
+Once the 2.5% cost of stability is overcome, the dynamic of the SigmaRSV will change dramatically. Users have incentive to continually mint/redeem SigmaUSD. 
+
+Perhaps the value of ERG will go up, and a user may have missed some price appreciation, however if they overcame the 2.5% threshold the user had a net USD gain. 
+
+Using stable value as the medium to invest, and overcoming the 2.5% threshold generates returns. This transforms a short, to a way to create value from stability.   
+
+Imagine the following scenarios. A User chooses stability for a 2.5% premium. 
+
+Even if the price of ERG appreciates, and the user has the capacity to net a gain. It is true, they will have less redeemable ERG, but growth is growth. They end with a larger position in USD. 
+
+Perhaps the value of ERG goes down, the stable value is used to create a net USD gain. Upon redemption the stable value can be redeemed for a larger ERG position. Not only did they grow their position in USD, they grew their position in ERG as well. 
+
+When SigmaUSD becomes a pathway of generative value beyond a short, it incentivizes users to interact with the AgeUSD protocol on ERG. 
+
+The result of this will be healthy reserve system that nets growth through interaction and exchange.
+
+At this point, expect appreciation in SigmaRSV. Expect the treasury to grow. 
+
+This is the major barrier to overcome, the 2.5% fee. 
+
+All things being equal this is a very low barrier to success. 
+
+-Nautilus.
 
 # Cardano on StableCoins
 
