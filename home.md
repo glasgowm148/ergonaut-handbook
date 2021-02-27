@@ -2,9 +2,9 @@
 title: Ergonaut
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2021-02-27T19:25:08.178Z
+date: 2021-02-27T19:26:09.976Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
 ---
 
