@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-02-27T19:55:46.036Z
+date: 2021-02-28T11:34:47.299Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -71,15 +71,17 @@ You have to go through the equations and run them with a specific scenario to pr
 > SigmaUSD is a call option on the dollar amount held in reserves. So if the price of ERG drops, the same amount of $ buys more ERG
 {.is-info}
 
-
-Even though since launch, the price rose significantly - there were several large SigUSD buys shorting Erg. This offers decentralised liquidity for miners and large holders who can choose to mint SigUSD in order to ensure they can always redeem the dollar value - while keeping the option to quickly buy back into Erg on an unexpected dip. 
+This offers decentralised liquidity for miners and large holders who can choose to mint SigUSD in order to ensure they can always redeem the dollar value - while keeping the option to quickly buy back into Erg on an unexpected dip. 
 
 SigmaUSD also serves a second purpose when there is a Defi ecosystem; 
 
-If price appreciation runs past the opening position of SigmaUSD the short position offers no gain in ERG... but does become a useful stablecoin.
+If price appreciation runs past the opening position of SigmaUSD the short position offers no gain in ERG, but does become a useful stablecoin.
 
 An example; if ERG doubled there is no incentive for SigmaUSD holders to close a short at a loss of ERG. The incentive changes to build an ecosystem that gives further utility or return to that stable locked value. This creates market incentive to build further utility for SigmaUSD. 
 
+Ergonauts can support the network by 'cashing out' into SigmaUSD. It's important to remember that this is still a bull run, it is wise to set cash-out points.
+
+An example; Someone who invested $1000 may set a 'cash-out' point at $10,000 where they withdraw their initial investment. This prevents complete loss in the event of a market-crash. Using SigmaUSD for this purchase means this can be done decentralised, without dealing with an exchange - and also gives you the bonus of easily redeeming bonus ergs if the the market dips and you want to take profits. It's essentially a very low-risk short position as you can never be liquidated, and will never actually loose dollar value. 
 
 
 ### Fees
