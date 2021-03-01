@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-01T11:24:05.110Z
+date: 2021-03-01T17:56:07.219Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -14,6 +14,7 @@ dateCreated: 2021-02-24T08:02:25.004Z
 > There is currently significant demand . With Ergo being in the UTXO model and all of the dApp design patterns being quite young, we have limitations for the throughput. We have a lot of high level design ideas to address this for the future, with asynchronous EUTXO protocols, but this is something that is still being deeply researched. 
 >
 >As such we decided that it was better for the community to have something in the near term rather than waiting another year for the research to solidify into an implementation. - Robert k
+> You read read the official [Emurgo blog post here](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
 {.is-warning}
 
 
