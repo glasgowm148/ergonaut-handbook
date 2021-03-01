@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-02-28T11:34:47.299Z
+date: 2021-03-01T11:24:05.110Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -66,6 +66,8 @@ If you assume a static amount of ergs in the protocol, then the max would be how
 You have to go through the equations and run them with a specific scenario to predict the exact return. 
 
 [Ergo Summit 2021 - The IOHK Perspective - Designing the AgeUSD StableCoin](https://youtu.be/zG-rxMCDIa0?t=9247)
+
+An article by community member Verium provides an [introduction to ERGO’s SigmaUSD stablecoin risk and reward mechanism.](https://veriumfellow.medium.com/introduction-to-ergos-sigmausd-stablecoin-risk-and-reward-mechanism-18690b52d672)
 
 ### FAQ : Why would anyone buy SigUSD?
 > SigmaUSD is a call option on the dollar amount held in reserves. So if the price of ERG drops, the same amount of $ buys more ERG
