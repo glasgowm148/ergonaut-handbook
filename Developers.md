@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-02T16:07:47.411Z
+date: 2021-03-02T16:09:05.768Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -28,6 +28,16 @@ dateCreated: 2021-02-24T08:19:45.758Z
 - Kiosk
 
 # ErgoScript
+Learn [Ergoscript by reading example smart contracts](https://github.com/ergoplatform/ergoscript-by-example) powered by the Ergo Playground.
 
-[Ergoscript by example](https://github.com/ergoplatform/ergoscript-by-example)
+Each contract example includes a `Ergo Playground` link which allows you to instantly edit and run the smart contract code inside of your browser.
+
+If you ever need clarity about how specific types/functions/operators in ErgoScript work, please reference the [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md).
+
+For an overarching summary of how everything in this repo works, please reference the video below:
+
+ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
+
+
+
 
