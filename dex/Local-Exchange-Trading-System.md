@@ -2,7 +2,7 @@
 title: Local Exchange Trading System (LETS)
 description: 
 published: true
-date: 2021-03-02T18:11:57.861Z
+date: 2021-03-02T18:25:32.191Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T18:11:57.861Z
@@ -28,11 +28,3 @@ Most LETS groups consist of 50 to 250 members, with paper-based credit notes and
 Moreover, building lots of small credit systems on the same blockchain enables interoperability and novel financial products designed to strengthen the system as a whole. Hundreds of different LETS could exist, for individuals and small businesses, with different participation criteria, different credit limits, collateralisation requirements and other parameters. And yet they could still be connected by gateways allowing liquidity to move between different LETS, if required – while avoiding exposure to toxic debt.
 
 *What use cases do you have for Ergo to address the broken financial system? Let us know.*
-
-Share post:
-
-[Facebook](http://www.facebook.com/sharer.php?u=https%3a%2f%2fergoplatform.org%2fen%2fblog%2f2020_02_12_welcome_to_smart_money%2f)
-
-[Twitter](https://twitter.com/share?url=https%3a%2f%2fergoplatform.org%2fen%2fblog%2f2020_02_12_welcome_to_smart_money%2f&hashtags=ergoplatform)
-
-[Ergoplatform.org](https://ergoplatform.org/en/blog/2020_02_12_welcome_to_smart_money/)
