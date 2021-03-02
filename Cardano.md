@@ -2,9 +2,9 @@
 title: Cardano
 description: 
 published: true
-date: 2021-02-27T19:24:26.576Z
+date: 2021-03-02T22:47:40.071Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
 ---
 
@@ -49,5 +49,5 @@ We are exploring those, and there's been a lot of excitement on these government
 # Articles
     
 - [Ergo will complement Cardano](https://forum.cardano.org/t/ergo-will-complement-cardano/45412)
-- There is another article [here](/https://veriumfellow.medium.com/what-will-ergo-bring-to-cardano-2f7ae911a9bd) with a more technical overview of what Ergo brings to ADA.
-- [https://thedailychain.com/hoskinson-cardano-working-on-stablecoin-to-rival-makerdao-developing-defi-products/](thedailychain.com/hoskinson-cardano-working-on-stablecoin-to-rival-makerdao-developing-defi-products/)
+- There is another article [here](https://veriumfellow.medium.com/what-will-ergo-bring-to-cardano-2f7ae911a9bd) with a more technical overview of what Ergo brings to ADA.
+- [https://thedailychain.com/hoskinson-cardano-working-on-stablecoin-to-rival-makerdao-developing-defi-products/](https://thedailychain.com/hoskinson-cardano-working-on-stablecoin-to-rival-makerdao-developing-defi-products/)
