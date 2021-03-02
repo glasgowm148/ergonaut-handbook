@@ -2,7 +2,7 @@
 title: Sigma Protocols
 description: 
 published: true
-date: 2021-03-02T19:14:21.430Z
+date: 2021-03-02T19:42:36.835Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T18:10:43.150Z
@@ -29,11 +29,3 @@ However, there are dozens of other Sigma protocols. One of the great things abou
 When combined with a blockchain, these composable proofs enable some very powerful use cases. The logic for proofs can include conditions based on blockchain state. For example, ‘If the deadline block height has been reached, Alice can provide knowledge of a secret key for a refund. OR a ring signature from Alice and Bob is required to spend coins.’ Or ‘If this account holds a minimum of 100 ERG, Alice OR Bob can remove funds above that amount.’
 
 Thus some very interesting and flexible DeFi applications can be built on Ergo, using secure, straightforward and efficient Sigma protocols.
-
-Share post:
-
-[Facebook](http://www.facebook.com/sharer.php?u=https%3a%2f%2fergoplatform.org%2fen%2fblog%2f2020_02_12_welcome_to_smart_money%2f)
-
-[Twitter](https://twitter.com/share?url=https%3a%2f%2fergoplatform.org%2fen%2fblog%2f2020_02_12_welcome_to_smart_money%2f&hashtags=ergoplatform)
-
-[Ergoplatform.org](https://ergoplatform.org/en/blog/2020_02_12_welcome_to_smart_money/)
