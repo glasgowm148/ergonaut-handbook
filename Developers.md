@@ -2,13 +2,13 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-02T16:09:30.174Z
+date: 2021-03-02T16:10:06.996Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
 ---
 
-# Developers
+# Overview
 
 - ErgoAppKit
 - ErgoTool : A CLI for Errgo
@@ -21,8 +21,7 @@ dateCreated: 2021-02-24T08:19:45.758Z
 - Sigma-rust
 - Ergo Appkit: library for polyglot development of Ergo Applications based on GraalVM
 - Tx Builder - Interact with dApps without writing code
-- ErgoScript 
-- Playground 
+- [ErgoScript Playground](https://github.com/ergoplatform/ergoscript-by-example)
 - ErgoTree compiler 
 - Kiosk
 
