@@ -2,7 +2,7 @@
 title: Decentralised Exchanges
 description: 
 published: true
-date: 2021-03-02T18:24:43.349Z
+date: 2021-03-02T18:25:08.864Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T18:17:44.836Z
@@ -10,4 +10,4 @@ dateCreated: 2021-03-02T18:17:44.836Z
 
 - [ErgoSwap](/ErgoSwap) (previously ErgoDex)
 - [Local Exchange Trading System (LETS)](/dex/Local-Exchange-Trading-System)
-- SigmaUSD (AgeUSD)
+- [SigmaUSD](/SigmaUSD) (AgeUSD)
