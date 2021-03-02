@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-02T16:11:25.708Z
+date: 2021-03-02T16:15:57.634Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -14,7 +14,7 @@ dateCreated: 2021-02-24T08:19:45.758Z
 - ErgoTool : A CLI for Errgo
 - Scorex (2) - The modular blockchain framework
 - Multi-signatures - distributed-signatures
-- ErgoTool: A Command Line Interface for Ergo
+- [ErgoTool:](https://github.com/Emurgo/ergo-node-interface) A Command Line Interface for Ergo
 - ErgoScan: Ergo block explorer interface
 - Ergo-js
 - Ergo-Bootstrap: easy to use tool with cluster deployments for dApp development
