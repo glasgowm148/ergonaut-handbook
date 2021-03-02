@@ -2,9 +2,9 @@
 title: FAQ
 description: 
 published: true
-date: 2021-02-25T20:30:09.069Z
+date: 2021-03-02T18:09:15.020Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
 ---
 
@@ -77,6 +77,8 @@ All cryptocurrencies rely on contributions from the scientific research communit
 Robert K, discusses this [here (14:45)](https://youtu.be/2sbTMrQwWOw)
 
 With smart contracts it's basically impossible to prevent pools, so they turned it off so that not only larger players were able to take advantage of the loophole. Ergo is now focusing on memory hardness in attempt to keep mining as fair as possible, which should help prevent ASICs mining at least.
+
+“Bypassing Non-Outsourceable Proof-of-Work Schemes Using Collateralized Smart Contracts” https://ia.cr/2020/044 was presented by Alex Chepurnoy at WTSC workshop associated with Financial Cryptography and Data Security 2020 in Malaysia
 
 # Your Questions Answered
 
