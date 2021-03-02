@@ -2,12 +2,13 @@
 title: Ergonaut
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2021-02-27T19:28:44.161Z
+date: 2021-03-02T16:12:59.877Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
 ---
 
+![ergonaut-4k.png](/ergonaut-4k.png)
 ## Welcome to Ergo!
 
 Ergo builds advanced cryptographic features and radically new DeFi functionality on the rock-solid foundations laid by a decade of blockchain theory and development. It complements tried and tested principles with the latest peer-reviewed academic research into cryptography, consensus models and digital currencies. 
