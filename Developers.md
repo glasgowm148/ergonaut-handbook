@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-02T16:09:05.768Z
+date: 2021-03-02T16:09:30.174Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -21,7 +21,6 @@ dateCreated: 2021-02-24T08:19:45.758Z
 - Sigma-rust
 - Ergo Appkit: library for polyglot development of Ergo Applications based on GraalVM
 - Tx Builder - Interact with dApps without writing code
-
 - ErgoScript 
 - Playground 
 - ErgoTree compiler 
@@ -36,7 +35,7 @@ If you ever need clarity about how specific types/functions/operators in ErgoScr
 
 For an overarching summary of how everything in this repo works, please reference the video below:
 
-ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
+[ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
 
 
 
