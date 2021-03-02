@@ -2,13 +2,13 @@
 title: Ergonaut
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2021-03-02T16:13:24.615Z
+date: 2021-03-02T19:09:29.823Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
 ---
 
-## Welcome to Ergo!
+## Welcome to Smart Money!
 ![ergonaut-4k.png](/ergonaut-4k.png)
 
 Ergo builds advanced cryptographic features and radically new DeFi functionality on the rock-solid foundations laid by a decade of blockchain theory and development. It complements tried and tested principles with the latest peer-reviewed academic research into cryptography, consensus models and digital currencies. 
@@ -115,4 +115,15 @@ Releasing the "Oracle Core" to the public provides all the code/tooling/smart co
 
 Ergo has already developed two public Oracle Pools, ADA/USD and Erg/USD. [explorer.ergoplatform.com/en/oracle-pools-list](https://explorer.ergoplatform.com/en/oracle-pools-list)
 
+
+It’s the smartest crypto you’ve never heard of. Ergo takes the best of Bitcoin and integrates Sigma protocols so powerful they make Ethereum look like it would lose a game of chess against your cat. If you’re tired of spin and hype over solid tech, Ergo will remind you that in crypto, it’s always been fashionable to be intelligent. Bright is the new black, people, and Ergo is set to dazzle you.
+
+DeFi is set to be the major blockchain trend for 2020. Many new smart contract platforms are positioning to become one of the handful of big players in the space. With a strong head start, competent development team and impressive network, Ethereum’s place in this billion-dollar (and growing) movement is assured. The others must offer something different – dramatically different – to differentiate themselves against this background. Ergo is a smart contracts and DeFi platform that may have what it takes to carve out a niche in this fast-moving and competitive new sector.
+
+
+
+# **Sigma protocols**
+The platform is unashamedly conservative, basing as many features as possible on Bitcoin – after all, Bitcoin is the most battle-tested crypto network in existence. Ergo’s UTXO model, PoW mining and finite supply draw on Bitcoin’s approaches to consensus and economic incentives.
+
+But Ergo also incorporates cutting-edge research into new cryptographic processes, using Sigma protocols to enable DeFi applications that would be either complex and messy or simply impossible on other platforms. Sigma protocols are a well-known class of zero-knowledge proofs that allow developers to implement very powerful processes very elegantly. For example, what if you want to build a privacy service that allows any one of a dozen different accounts to spend funds from an address – but no one can tell who has made each transfer? Such a ‘ring contract’ is possible with Ethereum, but it would require a clunky and expensive workaround. With Ergo’s Sigma protocols, it’s possible to implement this kind of use case and many others quickly, efficiently and – above all – securely. Sigma protocols have not been deployed in such generic form within crypto before. Yet this kind of out-of-the-box functionality is hugely valuable, especially when no other DeFi platform offers it.
 
