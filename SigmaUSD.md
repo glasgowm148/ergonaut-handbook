@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-02T17:05:40.899Z
+date: 2021-03-02T20:31:26.691Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -11,21 +11,20 @@ dateCreated: 2021-02-24T08:02:25.004Z
 > Introducing [SigmaUSD.io](https://sigmausd.io/#/) the first UTxO-based stable coin - an instantiation of the [AgeUSD protocol](https://github.com/Emurgo/age-usd). The foundation on which a new era of digital finance will be built. 
 {.is-success}
 
-> There is currently significant demand . With Ergo being in the UTXO model and all of the dApp design patterns being quite young, we have limitations for the throughput. We have a lot of high level design ideas to address this for the future, with asynchronous EUTXO protocols, but this is something that is still being deeply researched. 
->
->As such we decided that it was better for the community to have something in the near term rather than waiting another year for the research to solidify into an implementation. - Robert k
-> You read read the official [Emurgo blog post here](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
-{.is-warning}
 
 
 IOHK, Ergo, and Emurgo designed the economic model of SigmaUSD. Its economic model maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.
 
-> There are currently large shorters who are using the bootstrapping period to take advantage and claim ergs during the dips
-{.is-danger}
+
+- You read read the official [Emurgo announcement blog post here](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
+{.is-warning}
+
 
 
 ## ELI5
-Everyone struggles to get their head around this concept — so here's an ELI5 version without the checks-and-balances to start you off. 
+> Simplified version, ignoring checks and balances. This is the worlds first UTXO stablecoin - so now one can predict what will happen. 
+{.is-warning}
+
 
 **Assuming Erg is $1;**
 
@@ -48,18 +47,13 @@ Everyone struggles to get their head around this concept — so here's an ELI5 v
 6. The transaction should appear within your transaction history on the homepage within a few minutes. Green means the operation passed, red means it failed. 
 7. Your funds will automatically be sent 
 
-> There are some last minute growing pains being ironed out, and lots of people trying to get their hands on SigmaRSV. If your transaction failed, try again in a little bit. 
-{.is-warning}
-
-
->The bootstrap period where the reserve ratio can go above 800% lasts until block 450k (about the end of March) 
+>The bootstrap period where the reserve ratio can go above 800% lasts until block 450k (about the end of March) - - [You can view the blockheight here](https://explorer.ergoplatform.com/en/)
 {.is-info}
 
 You'll be able to keep them in there, or redeem them and get your Ergs back. You just won't be able to mint more sigRSV once the bootstrap period finishes if the reserve ratio is > 800%
 
-- [You can view the current reserve here](https://explorer.ergoplatform.com/en/addresses/2zYVHmdQDGtyyZfeqFPdMFqWzMdK299yCj5uDJjiSxRgpHyjiV3mVfZCimFbEVkNkCuypT1khjhupnEb6af3ztdatgag24UzLjW7heidiBF4MqK42TBZC1mLNcm851kvjaEwMsm8bnT2ZwJ6g18ZdDtdKTqEq7KBtp9gkvXiScoNNrA55JhC5o1ZdKRfjRqKMsfWBqmUqTNZfLXy62ddoP8oGT6HafqzKp9YLdSr172KYsnJoK3MhRciMG3McYHfkCFzT3fgNiaTosEtDKUSxaDEmY3r6eTF5H1QmYdkDfEe9AGxzjPgcwR19CfTkuGt8Xg3iUnLRciZ6hVBJc642qDR1EBjY8g7sAtestKYxRLKvUrjV9o3rbFccpgREynwf63mHUZ2jFnuuP2YfeJZdhPf6eK7dnLQ6HDkq5JBd76G7ErB17V1yCr7J6DrC6m47B8aY1XU5fFFQ6Hy6fJm7jzb5DHdn3U4V3TdUM5WwMe6hAmTBz3kFtJBKAiqTw5g53doV7CuUWqC9fTKhGo3BYfXtjFCxeJLwxsXx91s5MWT4tST4XBFnoJP6SZKkfuW7ZvtRbcgpVsz37X6o7YxitwNzaDNmkR9GVLU1XK4cQZjfBijQrTXTTApXnq6wPzzvHTgKyxVuQdDcniEDcgQwttTX4mqooCqxshjy79XL3sFCSTxh4Pjm9UjCgq9daTn83Ro2LnHHifaMjXpFGAbySvqwNvxwBHJnsTXKh2fRggxLDLVobBUfq7DxssPfSaeF4exmdU3mhtuhVhFxAaUVY3LBigWcm4642GtzECVmFRLy1y96m7utcqBiMoyNDy8K3hrM6uzpnA5VYuC6s3jqYp6wZ95QCcRyc3roZL6qTrRXiJupiwYXL3FA1THXPAXLm3PgM7VosJth3bj)
+- [Reserve Wallet](https://explorer.ergoplatform.com/en/addresses/2zYVHmdQDGtyyZfeqFPdMFqWzMdK299yCj5uDJjiSxRgpHyjiV3mVfZCimFbEVkNkCuypT1khjhupnEb6af3ztdatgag24UzLjW7heidiBF4MqK42TBZC1mLNcm851kvjaEwMsm8bnT2ZwJ6g18ZdDtdKTqEq7KBtp9gkvXiScoNNrA55JhC5o1ZdKRfjRqKMsfWBqmUqTNZfLXy62ddoP8oGT6HafqzKp9YLdSr172KYsnJoK3MhRciMG3McYHfkCFzT3fgNiaTosEtDKUSxaDEmY3r6eTF5H1QmYdkDfEe9AGxzjPgcwR19CfTkuGt8Xg3iUnLRciZ6hVBJc642qDR1EBjY8g7sAtestKYxRLKvUrjV9o3rbFccpgREynwf63mHUZ2jFnuuP2YfeJZdhPf6eK7dnLQ6HDkq5JBd76G7ErB17V1yCr7J6DrC6m47B8aY1XU5fFFQ6Hy6fJm7jzb5DHdn3U4V3TdUM5WwMe6hAmTBz3kFtJBKAiqTw5g53doV7CuUWqC9fTKhGo3BYfXtjFCxeJLwxsXx91s5MWT4tST4XBFnoJP6SZKkfuW7ZvtRbcgpVsz37X6o7YxitwNzaDNmkR9GVLU1XK4cQZjfBijQrTXTTApXnq6wPzzvHTgKyxVuQdDcniEDcgQwttTX4mqooCqxshjy79XL3sFCSTxh4Pjm9UjCgq9daTn83Ro2LnHHifaMjXpFGAbySvqwNvxwBHJnsTXKh2fRggxLDLVobBUfq7DxssPfSaeF4exmdU3mhtuhVhFxAaUVY3LBigWcm4642GtzECVmFRLy1y96m7utcqBiMoyNDy8K3hrM6uzpnA5VYuC6s3jqYp6wZ95QCcRyc3roZL6qTrRXiJupiwYXL3FA1THXPAXLm3PgM7VosJth3bj)
 - [Erg/USD Explorer](https://explorer.ergoplatform.com/en/oracle-pool-state/ergusd) 
-- [You can view the blockheight here](https://explorer.ergoplatform.com/en/)
 
 
 
@@ -315,7 +309,14 @@ This is the major barrier to overcome, the 2.5% fee.
 
 All things being equal this is a very low barrier to success. 
 
--Nautilus.
+
+# Issues
+
+There is currently significant demand. With Ergo being in the UTXO model and all of the dApp design patterns being quite young, we have limitations for the throughput. We have a lot of high level design ideas to address this for the future, with asynchronous EUTXO protocols, but this is something that is still being deeply researched. 
+
+As such we decided that it was better for the community to have something in the near term rather than waiting another year for the research to solidify into an implementation.
+
+
 
 # Cardano on StableCoins
 
