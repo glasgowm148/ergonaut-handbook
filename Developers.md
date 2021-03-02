@@ -2,11 +2,14 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-02T16:15:57.634Z
+date: 2021-03-02T18:06:16.458Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
 ---
+
+Ergo enables new models of financial interaction, underpinned by smart contracts built on flexible and powerful Sigma protocols but easily accessible to developers.
+
 
 # Overview
 
