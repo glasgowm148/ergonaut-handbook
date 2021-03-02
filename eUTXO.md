@@ -2,7 +2,7 @@
 title: eUTXO
 description: 
 published: true
-date: 2021-03-02T18:14:57.749Z
+date: 2021-03-02T18:15:25.177Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:17:43.660Z
@@ -29,12 +29,3 @@ The UXTO model has several implications. For a start, each object is immutable �
 That makes security much simpler, because either a UTXO exists in the form you are expecting, or it does not exist at all. With the account model, you need to carefully check that the account you’re dealing with is in the state it should be (and developers typically don’t do that properly). This also makes UTXOs more friendly for offchain protocols, like sidechains and the Lightning Network.
 
 Accounts make it easier to store the ‘state’, but easy doesn’t always mean better. With Ergo’s extended UTXO model, state transitions are more explicit and so they are cleaner – there are no unwanted surprises. It might be a little bit more burdensome to deal with, but it’s a lot better and more straightforward in terms of security.
-
-
-Share post:
-
-[Facebook](http://www.facebook.com/sharer.php?u=https%3a%2f%2fergoplatform.org%2fen%2fblog%2f2020_02_12_welcome_to_smart_money%2f)
-
-[Twitter](https://twitter.com/share?url=https%3a%2f%2fergoplatform.org%2fen%2fblog%2f2020_02_12_welcome_to_smart_money%2f&hashtags=ergoplatform)
-
-[Ergoplatform.org](https://ergoplatform.org/en/blog/2020_02_12_welcome_to_smart_money/)
