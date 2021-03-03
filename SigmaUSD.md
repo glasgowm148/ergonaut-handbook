@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-03T00:43:53.213Z
+date: 2021-03-03T00:45:15.738Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -57,7 +57,8 @@ You'll be able to keep them in there or redeem them and get your Ergs back. You 
 
 
 
-### faq: If Erg goes 10x, can I get 10x more Erg?
+> If Erg goes 10x, can I get 10x more Erg?
+{.is-info}
 
 If people are minting and redeeming stablecoins a lot in future, the 1% fee can add up quickly. Your return ratio depends on many factors such as when you entered, when you exit, the oracle price fluctuations, the initial reserves, the total amount of SigmaUSD in reverse. 
 
@@ -70,9 +71,11 @@ You have to go through the equations and run them with a specific scenario to pr
 
 An article by community member Verium provides an [introduction to ERGO's SigmaUSD stablecoin risk and reward mechanism.](https://veriumfellow.medium.com/introduction-to-ergos-sigmausd-stablecoin-risk-and-reward-mechanism-18690b52d672)
 
-### faq: Why would anyone buy SigUSD?
-> SigmaUSD is a call option on the dollar amount held in reserves. So if the price of ERG drops, the same amount of $ buys more ERG
+> Why would anyone buy SigUSD?
 {.is-info}
+
+**SigmaUSD is a call option on the dollar amount held in reserves.** So if the price of ERG drops, the same amount of $ buys more ERG
+
 
 This offers decentralised liquidity for miners and large holders who can choose to mint SigUSD to ensure they can always redeem the dollar value - while keeping the option to quickly buy back into Erg on an unexpected dip. 
 
