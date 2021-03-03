@@ -2,13 +2,15 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-03T14:25:57.491Z
+date: 2021-03-03T14:26:33.753Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
 ---
 
-> Introducing [SigmaUSD.io](https://sigmausd.io/#/) the first UTxO-based stable coin - an instantiation of the [AgeUSD protocol](https://github.com/Emurgo/age-usd). The foundation on which a new era of digital finance will be built. 
+> Introducing [SigmaUSD.io](https://sigmausd.io/#/) the first UTxO-based stable coin - an instantiation of the [AgeUSD protocol](https://github.com/Emurgo/age-usd). The foundation on which a new era of digital finance will be built.
+>
+> IOHK, Ergo, and Emurgo designed the economic model of SigmaUSD. Its economic model maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.
 {.is-success}
 
 # Overview 
