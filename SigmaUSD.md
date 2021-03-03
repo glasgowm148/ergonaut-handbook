@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-03T14:20:00.008Z
+date: 2021-03-03T14:20:09.390Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -94,8 +94,8 @@ SigmaUSD still lacks a mature DeFi ecosystem, with 1% of each transaction going 
 ## Overview
 **Reserve Providers** submit Ergs to the dApp's reserves and by doing so mint ReserveCoins (**SigmaRSV**). Each SigmaRSV represent a portion of the underlying Erg reserves held in the dApp.
 
-**SigmaUSD** Users also submit Ergs to the dApp reserves; however, in their case, they mint SigmaUSD instead. This is only allowed by the protocol if there are sufficient reserves within the dApp (reserves are above the minimum reserve ratio). At any given moment, a SigmaUSD user can redeem their SigmaUSD in exchange for an amount of Ergs from the reserves equal to the current exchange rate as sourced by the Erg-USD [oracle pool](https://explorer.ergoplatform.com/en/oracle-pool-state/ergusd) 
-.
+**SigmaUSD** Users also submit Ergs to the dApp reserves; however, in their case, they mint SigmaUSD instead. This is only allowed by the protocol if there are sufficient reserves within the dApp (reserves are above the minimum reserve ratio). At any given moment, a SigmaUSD user can redeem their SigmaUSD in exchange for an amount of Ergs from the reserves equal to the current exchange rate as sourced by the Erg-USD [oracle pool](https://explorer.ergoplatform.com/en/oracle-pool-state/ergusd). 
+
 
 Reserve Providers can only redeem their ReserveCoins for Ergs if the price of Ergs goes up (or a substantial amount of protocol fees are collected) and thus cover the value of all existing minted SigmaUSD plus an extra margin. By redeeming their ReserveCoins, they profit as they receive more underlying reserve cryptocurrency than when they minted their ReserveCoins (the increased amount coming from users who minted SigmaUSD).
 
