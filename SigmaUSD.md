@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-03T00:45:15.738Z
+date: 2021-03-03T09:58:36.295Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -319,17 +319,23 @@ There is currently significant demand. With Ergo being in the UTXO model and all
 
 We decided that it was better for the community to have something in the near term rather than waiting another year for the research to solidify into an implementation.
 
+# Resources
+
+## StatiCoin
+
+SigmaUSD is an instantiation of AgeUSD which was inspired by [StatiCoin](http://staticoin.com/whitepaper.pdf)
 
 
-# Cardano on StableCoins
 
-** Cardano's Stablecoin Will be 'Better Than MakerDAO,' Says Hoskinson**
+## Cardano on StableCoins
+
+**Cardano's Stablecoin Will be 'Better Than MakerDAO,' Says Hoskinson**
 > "For example, we've partnered with Emrugo, and we're right now working on the logistics of a stablecoin with them that we're going to be building first on Ergo to verify everything works correctly, and then we'll pull it over into Cardano and this is going to be an algorithmic stablecoin," said Hoskinson, adding, "We think it'll be significantly better than MakerDAO."
 
-** 'Will SigmaUSD launch with Goguen?**
+**'Will SigmaUSD launch with Goguen?**
 >'  I'm going to see if we can do a SigmaUSD port after we do native-assets; we already have a Plutus implementation. We're discussing a lot of legal and regulatory stuff. It's a high priority of mine because it's interconnected for what we'd like to do for the next generation of Cardano, and it's very important to pull those things together.
 
-Charles answering '*are there use cases where PoW is better*'.
+Charles answering `*are there use cases where PoW is better*'.
 
 >Until we deploy Orboros Genesis, PoW is significantly better and unique vs PoS in that you don't need a checkpoint, which is a huge advantage...and if you desire to gain a lot of computational abilities, especially with async resistance, PoW is better as you're building a supercomputer
 >We are going to do a stablecoin. It's just when you say stablecoin; there are many different types of stablecoins. You have things like asset-backed stablecoins where Tether (USDT) is an example of that, where someone buys USD, and they store in a bank account and then for every USD you mint a tether. You have commodity-backed stablecoins like goldcoins or these things... You have metastable coins where you take a basket of stablecoins, and you create a synthetic asset that's backed by that basket, and then you have algorithmic stablecoins like the Maker DAOs, where some mechanic keeps the coins stable, and then you have central bank issue digital currencies which is a sexy hot topic, like the Marshall Islands for example. There's a whole spectrum there, and actually, we have teams who look at each of these. In Africa, in particular, many governments have come to us and said, hey, we want to do commodity-backed stable coins.
@@ -338,4 +344,6 @@ Charles answering '*are there use cases where PoW is better*'.
 We are exploring those, and there's been a lot of excitement on these governments' monetary policy side. The big challenge is also the regulatory layer on top of stablecoins. There needs to be the ability to freeze them, reverse transactions in the compliance layer. Cardano has a unique advantage here in that we have a product called Prism, and it's our identity management stack. It's blockchain agnostic, but it's tightly integrated with Cardano. It's a layer two identity stack based on DIDs, and this is going to enable people to have things like authenticated addresses where you could associate an address or an asset with a DID. DID is a decentralised identifier; then you can do KYC and AML on that DID, and then suddenly you can create a transitive graph of ownership and verify that all the people touching it has the right to do that. Who signs that DID is completely neutral. You could have a government sign it; regulatory bodies sign it; you can have a private entity like Pwc sign it or something like that.
 
 https://thedailychain.com/hoskinson-cardano-working-on-stablecoin-to-rival-makerdao-developing-defi-products/
+
+
 
