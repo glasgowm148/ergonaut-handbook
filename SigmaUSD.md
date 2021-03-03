@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-03T14:22:34.246Z
+date: 2021-03-03T14:23:40.758Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -300,6 +300,10 @@ SigRSV is a **long** position, shorters were able to use their volume to profit 
 ## StatiCoin
 
 SigmaUSD is an instantiation of AgeUSD which was inspired by [StatiCoin](http://staticoin.com/whitepaper.pdf)
+
+## ErgoMixer
+
+You can now mix your SigUSD and SigRSV coins directly into the [ErgoMixer](/ErgoMixer)
 
 ## Articles
 - You can read the official [Emurgo announcement blog post here](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
