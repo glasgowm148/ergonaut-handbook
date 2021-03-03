@@ -2,7 +2,7 @@
 title: Use Cases
 description: 
 published: true
-date: 2021-03-03T00:39:31.041Z
+date: 2021-03-03T16:28:39.636Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T18:20:54.146Z
@@ -32,7 +32,7 @@ However, even the most complex use case is more straightforward than general-pur
 # **Ergo’s approach**
 This is essentially the approach that Ergo takes, providing superior support for real-world financial agreements. It does this through:
 
-1. Support for multi-stage contracts (watch details for developers)
+1. Support for multi-stage contracts 
 2. A simple high-level language, ErgoScript, enabling clear descriptions of contractual logic
 3. Support for formal verification of contracts for improved security guarantees (Ergo Platform deployed its first formally verified p2p crowdfunding contract just three months after the network launched)
 4. Easy Oracle creation
