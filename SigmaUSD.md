@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-03T14:27:31.160Z
+date: 2021-03-03T14:32:40.196Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -37,8 +37,6 @@ Reserve Providers can only redeem their ReserveCoins for Ergs if the price of Er
 > This provides individuals with the ability to choose to either go **long** on Erg by minting **SigmaRSV** or to choose **stability** by minting **SigmaUSD.**
 {.is-info}
 
-> Ignoring complexity, see below.
-{.is-warning}
 
 ## Sigmausd.io Purchase
 
