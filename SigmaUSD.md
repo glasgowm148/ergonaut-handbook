@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-04T19:09:47.345Z
+date: 2021-03-04T19:10:23.715Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -12,6 +12,9 @@ dateCreated: 2021-02-24T08:02:25.004Z
 >
 >Its economic model designed in partnership between IOHK, Ergo, and Emurgo maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. **Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.**
 {.is-success}
+
+- [FAQ](/SigmaUSD/FAQ)
+- [Overview](/SigmaUSD/Overview)
 
 # Overview 
 IOHK, Ergo, and Emurgo designed the economic model of SigmaUSD. Its economic model maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.
@@ -43,8 +46,7 @@ Reserve Providers can only redeem their ReserveCoins for Ergs if the price of Er
 - When price dips, SigUSD holders who exit at a lower point than they entered, they must be rewarded extra erg to make their SigUSD up to $1
 - SigRSV profits depend on these accumulated transaction fees minus any withdrawn by SigUSD holders. 
 
-- [FAQ](/SigmaUSD/FAQ)
-- 
+
 
 
 
