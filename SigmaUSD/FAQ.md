@@ -2,11 +2,12 @@
 title: Sigma-FAQ
 description: 
 published: true
-date: 2021-03-04T19:07:06.877Z
+date: 2021-03-04T19:13:18.397Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-04T19:07:06.877Z
 ---
+
 
 # FAQ
 ## Sigmausd.io Purchase
@@ -54,14 +55,27 @@ Ergonauts can support the network by 'cashing out' into SigmaUSD. It's important
 An example; Someone who invested $1000 may set a 'cash-out' point at $10,000 where they withdraw their initial investment. This prevents complete loss in the event of a market crash. Using SigmaUSD for this purchase means this can be done decentralised, without dealing with an exchange - and also gives you the bonus of easily redeeming bonus ergs if the market dips and you want to take profits. It's essentially a very low-risk short position as you can never be liquidated and will never actually loose dollar value. 
 
 
-## Fees
+# My transaction failed
+There is currently significant demand. With Ergo being in the UTXO model and all of the dApp design patterns being quite young, we have limitations for the throughput. We have many high-level design ideas to address this for the future, with asynchronous EUTXO protocols, but this is still being deeply researched. 
+
+We decided that it was better for the community to have something in the near term rather than waiting another year for the research to solidify into an implementation.
+
+
+# My profits are lower than expected
+
+SigRSV is a **long** position, shorters were able to use their volume to profit off the dips during the initial launch. Their ability to do so has been reduced now so transactions will be building up at a faster rate. 
+
+[SigmaUSD DAO bank is a complex beast - ergoforums.org](https://www.ergoforum.org/t/sigmausd-dao-bank-is-a-complex-beast/767)
+
+# Why are the fees so high?
+
+> The fee to close a MakerDAO CDP and return your dai is currently 8.5%
+{.is-danger}
 
 Fees are set at 1.25%. 1% goes directly back to the reserves and 0.25% for the frontend implementation implementors. 
 
 If you mint sigmaRSV, you get that 1% back anyways since your reserve coins match the reserve. The more SigRSV you buy, the lower that fee is for you since you own a larger portion of the reserves.
 
-> The fee to close a MakerDAO CDP and return your dai is currently 8.5%
-{.is-danger}
 
 SigmaUSD still lacks a mature DeFi ecosystem, with 1% of each transaction going to the reserves as the price appreciation, there is potential for a large return. 
 
