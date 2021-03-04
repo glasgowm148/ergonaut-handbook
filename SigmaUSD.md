@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-04T19:10:23.715Z
+date: 2021-03-04T19:10:31.232Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -14,7 +14,7 @@ dateCreated: 2021-02-24T08:02:25.004Z
 {.is-success}
 
 - [FAQ](/SigmaUSD/FAQ)
-- [Overview](/SigmaUSD/Overview)
+- [Detailed Overview](/SigmaUSD/Overview)
 
 # Overview 
 IOHK, Ergo, and Emurgo designed the economic model of SigmaUSD. Its economic model maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.
