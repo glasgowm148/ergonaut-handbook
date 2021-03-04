@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-04T19:10:31.232Z
+date: 2021-03-04T19:13:42.220Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -13,20 +13,7 @@ dateCreated: 2021-02-24T08:02:25.004Z
 >Its economic model designed in partnership between IOHK, Ergo, and Emurgo maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. **Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.**
 {.is-success}
 
-- [FAQ](/SigmaUSD/FAQ)
-- [Detailed Overview](/SigmaUSD/Overview)
 
-# Overview 
-IOHK, Ergo, and Emurgo designed the economic model of SigmaUSD. Its economic model maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.
-
-**Reserve Providers** submit Ergs to the dApp's reserves and by doing so mint ReserveCoins (**SigmaRSV**). Each SigmaRSV represent a portion of the underlying Erg reserves held in the dApp.
-
-**SigmaUSD** Users also submit Ergs to the dApp reserves; however, in their case, they mint SigmaUSD instead. This is only allowed by the protocol if there are sufficient reserves within the dApp (reserves are above the minimum reserve ratio). At any given moment, a SigmaUSD user can redeem their SigmaUSD in exchange for an amount of Ergs from the reserves equal to the current exchange rate as sourced by the Erg-USD [oracle pool](https://explorer.ergoplatform.com/en/oracle-pool-state/ergusd). 
-
-Reserve Providers can only redeem their ReserveCoins for Ergs if the price of Ergs goes up (or a substantial amount of protocol fees are collected) and thus cover the value of all existing minted SigmaUSD plus an extra margin. By redeeming their ReserveCoins, they profit as they receive more underlying reserve cryptocurrency than when they minted their ReserveCoins (the increased amount coming from users who minted SigmaUSD).
-
-> Reserve Providers allow SigmaUSD users to enjoy the stability of value. On their end, the Reserve Providers absorb the potential upside (if the value of the reserves goes up via the price of Ergs increasing compared to USD) and absorb the potential downside (if the underlying cryptocurrency in reserve goes down in price).
-{.is-info}
 
 
 # Basic overview
@@ -46,7 +33,9 @@ Reserve Providers can only redeem their ReserveCoins for Ergs if the price of Er
 - When price dips, SigUSD holders who exit at a lower point than they entered, they must be rewarded extra erg to make their SigUSD up to $1
 - SigRSV profits depend on these accumulated transaction fees minus any withdrawn by SigUSD holders. 
 
-
+See these other articles for more information 
+- [FAQ](/SigmaUSD/FAQ)
+- [Detailed Overview](/SigmaUSD/Overview)
 
 
 
@@ -56,35 +45,12 @@ Reserve Providers can only redeem their ReserveCoins for Ergs if the price of Er
 
 Unlike Ethereum-based crypto-backed stablecoins, such as DAI, Emurgo introduces a Staticoin protocol-inspired design that does not rely on CDPs (Collateralized Debt Positions). The reason for this is the vulnerability of CDP-based protocols in terms of high volatility and blockchain congestion. As Emurgo states, "Black Thursday," when MakerDAO CDPs were triggered for liquidation due to volatility and then sold for $0 due to blockchain congestion that prevented others from bidding, demonstrated that a new design is needed. For SigmaUSD, this scenario is not possible.
 
-As the community is going straight to the SigmaUSD-based stablecoin launch, we recommend again this impressive presentation by Bruno Woltzenlogel Paleo, "An IOHK Perspective: Designing The SigmaUSD Stablecoin Protocol — An Economic Analysis" from the ErgoSummit.
 
-
-
-
-
-# Issues
-
-## Failed transactions
-There is currently significant demand. With Ergo being in the UTXO model and all of the dApp design patterns being quite young, we have limitations for the throughput. We have many high-level design ideas to address this for the future, with asynchronous EUTXO protocols, but this is still being deeply researched. 
-
-We decided that it was better for the community to have something in the near term rather than waiting another year for the research to solidify into an implementation.
-
-
-## Lower than expected profits
-
-SigRSV is a **long** position, shorters were able to use their volume to profit off the dips during the initial launch. Their ability to do so has been reduced now so transactions will be building up at a faster rate. 
-
-[SigmaUSD DAO bank is a complex beast - ergoforums.org](https://www.ergoforum.org/t/sigmausd-dao-bank-is-a-complex-beast/767)
 
 # Resources
 
-## StatiCoin
-
-SigmaUSD is an instantiation of AgeUSD which was inspired by [StatiCoin](http://staticoin.com/whitepaper.pdf)
-
-## ErgoMixer
-
-You can now mix your SigUSD and SigRSV coins directly into the [ErgoMixer](/ErgoMixer)
+- SigmaUSD is an instantiation of AgeUSD which was inspired by [StatiCoin](http://staticoin.com/whitepaper.pdf)
+- You can now mix your SigUSD and SigRSV coins directly into the [ErgoMixer](/ErgoMixer)
 
 ## Articles
 - You can read the official [Emurgo announcement blog post here](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
