@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-04T19:13:42.220Z
+date: 2021-03-04T19:14:38.462Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -27,17 +27,12 @@ dateCreated: 2021-02-24T08:02:25.004Z
 > This provides individuals with the ability to choose to either go **long** on Erg by minting **SigmaRSV** or to choose **stability** by minting **SigmaUSD.**
 {.is-info}
 
+## Incentive 
 **The 1% fee goes back into the reserve**
 - This fee accumulates in the reserve.
 - SigmaRSV is an option call on the reserve. (You own a %)
 - When price dips, SigUSD holders who exit at a lower point than they entered, they must be rewarded extra erg to make their SigUSD up to $1
 - SigRSV profits depend on these accumulated transaction fees minus any withdrawn by SigUSD holders. 
-
-See these other articles for more information 
-- [FAQ](/SigmaUSD/FAQ)
-- [Detailed Overview](/SigmaUSD/Overview)
-
-
 
 ## Advantages over MakerDAO
 > **No liquidations!**
@@ -46,6 +41,9 @@ See these other articles for more information
 Unlike Ethereum-based crypto-backed stablecoins, such as DAI, Emurgo introduces a Staticoin protocol-inspired design that does not rely on CDPs (Collateralized Debt Positions). The reason for this is the vulnerability of CDP-based protocols in terms of high volatility and blockchain congestion. As Emurgo states, "Black Thursday," when MakerDAO CDPs were triggered for liquidation due to volatility and then sold for $0 due to blockchain congestion that prevented others from bidding, demonstrated that a new design is needed. For SigmaUSD, this scenario is not possible.
 
 
+**See these other articles for more information**
+- [FAQ](/SigmaUSD/FAQ)
+- [Detailed Overview](/SigmaUSD/Overview)
 
 # Resources
 
