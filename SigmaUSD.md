@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-03T14:32:40.196Z
+date: 2021-03-04T07:57:09.129Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -26,7 +26,7 @@ Reserve Providers can only redeem their ReserveCoins for Ergs if the price of Er
 {.is-info}
 
 
-# ELI5
+# Basic overview
 
 **Assuming Erg is $1;**
 
@@ -37,7 +37,15 @@ Reserve Providers can only redeem their ReserveCoins for Ergs if the price of Er
 > This provides individuals with the ability to choose to either go **long** on Erg by minting **SigmaRSV** or to choose **stability** by minting **SigmaUSD.**
 {.is-info}
 
+**The 1% fee goes back into the reserve**
+- This fee accumulates in the reserve.
+- SigmaRSV is an option call on the reserve. (You own a %)
+- When price dips, SigUSD holders who exit at a lower point than they entered, they must be rewarded extra erg to make their SigUSD up to $1
+- SigRSV profits depend on these accumulated transaction fees minus any withdrawn by SigUSD holders. 
 
+
+
+# FAQ
 ## Sigmausd.io Purchase
 
 1. Visit [SigmaUSD.io](https://sigmausd.io/#/)
@@ -294,6 +302,8 @@ We decided that it was better for the community to have something in the near te
 ## Lower than expected profits
 
 SigRSV is a **long** position, shorters were able to use their volume to profit off the dips during the initial launch. Their ability to do so has been reduced now so transactions will be building up at a faster rate. 
+
+[SigmaUSD DAO bank is a complex beast - ergoforums.org](https://www.ergoforum.org/t/sigmausd-dao-bank-is-a-complex-beast/767)
 
 # Resources
 
