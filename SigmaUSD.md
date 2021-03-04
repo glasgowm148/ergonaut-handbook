@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-04T19:14:38.462Z
+date: 2021-03-04T19:16:47.558Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -14,25 +14,22 @@ dateCreated: 2021-02-24T08:02:25.004Z
 {.is-success}
 
 
-
-
-# Basic overview
-
 **Assuming Erg is $1;**
 
 - You take 100 ERG worth $1 each and mint them into either StableCoins or ReserveCoins
 - If you mint SigmaRSV, and the price goes up 10% — you get back 110 ERG when you cash out.
 - If you mint into the SigmaUSD, and the price goes up 10% — you still get $100 out, but because its went up 10%, you get 90ERG
 
+
+**The 1% fee taken during minting goes back into the reserve**
+- This fee accumulates in the reserve.
+- SigmaRSV is an **option call on the reserve**. 
+- When price dips, SigUSD holders who exit at a lower point than they entered, they must be rewarded extra erg to make their SigUSD up to $1
+- SigRSV profits depend on these accumulated transaction fees minus any withdrawn by SigUSD holders. 
+
 > This provides individuals with the ability to choose to either go **long** on Erg by minting **SigmaRSV** or to choose **stability** by minting **SigmaUSD.**
 {.is-info}
 
-## Incentive 
-**The 1% fee goes back into the reserve**
-- This fee accumulates in the reserve.
-- SigmaRSV is an option call on the reserve. (You own a %)
-- When price dips, SigUSD holders who exit at a lower point than they entered, they must be rewarded extra erg to make their SigUSD up to $1
-- SigRSV profits depend on these accumulated transaction fees minus any withdrawn by SigUSD holders. 
 
 ## Advantages over MakerDAO
 > **No liquidations!**
