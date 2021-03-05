@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-03-03T01:03:44.439Z
+date: 2021-03-05T12:38:30.726Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -28,6 +28,20 @@ Ergo is one of the few that is also UTXO based which leads to interoperability
 1. The Ergo headless dApps framework.
 1. Oracle pools — layered pools of pools of oracles with deviation checking consensus opening a whole new world of applications.
 1. Local Exchange Trading System on top of Ergo.
+
+# Oracle Pools
+
+The oracle solution for Cardano will post data from Ergo’s oracle pools, treating the pre-processed data as a trusted source for its own records to the blockchain.
+
+[First steps towards interoperability with Cardano oracles](https://ergoplatform.org/en/blog/2020-11-09-first-steps-towards-interoperability-with-cardano-oracles/)
+
+https://btcmanager.com/ergo-oracle-solution-cardano-ada-interoperability/
+
+https://forum.cardano.org/t/ergo-will-complement-cardano/45412
+
+https://emurgo.io/blog/emurgo-releases-oracle-core-for-developers
+
+
 
 # Cardano on StableCoins
 
