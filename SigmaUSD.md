@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-05T09:33:36.097Z
+date: 2021-03-05T09:36:24.769Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
