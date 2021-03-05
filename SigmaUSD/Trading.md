@@ -2,7 +2,7 @@
 title: SigmaUSD Trading
 description: 
 published: true
-date: 2021-03-04T19:05:25.523Z
+date: 2021-03-05T11:38:49.696Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-04T14:06:42.085Z
@@ -12,7 +12,7 @@ dateCreated: 2021-03-04T14:06:42.085Z
 > [Telegram Group](https://t.me/SigmaUSD)
 {.is-info}
 
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnBzsEOi0Kz5bD0K5gq9hzdDJSvmkD92EgMXZW0rAh6rDztJCwA0Rl2CMAieegrWNQdI3sDlTknPd4/pubhtml?widget=true&amp;headers=false"></iframe>
 
 # Articles
 - [introduction-to-ergos-sigmausd-stablecoin-risk-and-reward-mechanism](https://veriumfellow.medium.com/introduction-to-ergos-sigmausd-stablecoin-risk-and-reward-mechanism-18690b52d672)
