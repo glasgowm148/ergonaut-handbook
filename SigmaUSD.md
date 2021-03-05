@@ -2,11 +2,17 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-04T19:16:47.558Z
+date: 2021-03-05T09:33:36.097Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
 ---
+
+> [Finding The Right Balance](https://ergoplatform.org/en/blog/2021_03_04-finding-right-balance/)
+{.is-warning}
+
+
+
 
 > Introducing [SigmaUSD.io](https://sigmausd.io/#/) the first UTxO-based stable coin - an instantiation of the [AgeUSD protocol](https://github.com/Emurgo/age-usd). The foundation on which a new era of digital finance will be built.
 >
