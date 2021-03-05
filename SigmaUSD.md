@@ -2,22 +2,27 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-05T09:36:24.769Z
+date: 2021-03-05T11:31:35.397Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
 ---
 
 > [Finding The Right Balance](https://ergoplatform.org/en/blog/2021_03_04-finding-right-balance/)
+> [Community Discussion on Reddit](https://www.reddit.com/r/ergonauts/comments/lx7an4/sigmausd_dao_bank_is_a_complex_beast_highlevel/gpr96fq/?context=3)
 {.is-warning}
-
-
 
 
 > Introducing [SigmaUSD.io](https://sigmausd.io/#/) the first UTxO-based stable coin - an instantiation of the [AgeUSD protocol](https://github.com/Emurgo/age-usd). The foundation on which a new era of digital finance will be built.
 >
 >Its economic model designed in partnership between IOHK, Ergo, and Emurgo maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. **Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.**
 {.is-success}
+
+
+
+
+
+# Overview
 
 
 **Assuming Erg is $1;**
