@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-03-05T12:38:30.726Z
+date: 2021-03-06T02:11:36.147Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -32,6 +32,8 @@ Ergo is one of the few that is also UTXO based which leads to interoperability
 # Oracle Pools
 
 The oracle solution for Cardano will post data from Ergo’s oracle pools, treating the pre-processed data as a trusted source for its own records to the blockchain.
+
+[Ergo vs Chainlink](https://www.ergoforum.org/t/oracle-pools-a-new-oracle-model/263)
 
 [First steps towards interoperability with Cardano oracles](https://ergoplatform.org/en/blog/2020-11-09-first-steps-towards-interoperability-with-cardano-oracles/)
 
