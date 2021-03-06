@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-03-06T02:11:36.147Z
+date: 2021-03-06T02:14:21.080Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -42,6 +42,11 @@ https://btcmanager.com/ergo-oracle-solution-cardano-ada-interoperability/
 https://forum.cardano.org/t/ergo-will-complement-cardano/45412
 
 https://emurgo.io/blog/emurgo-releases-oracle-core-for-developers
+
+# Emurgo
+
+**[EMURGO to Partner with Ergo and Build Blockchain-Based Decentralized Financial Solutions](https://emurgo.io/blog/emurgo-to-partner-with-ergo-and-build-blockchain-based-decentralized-financial-solutions)**
+EMURGO’s strategic partnership with Ergo aligns with the objective to also meet the increasing needs for tailored decentralized financial (DeFi) solutions moving forward. As the interest in building decentralized financial services grows in tandem with the overall blockchain industry, this partnership allows for much-needed deeper research & DeFi solutions development. These solutions will explore the usage of Ergo’s smart contracts that are embedded with privacy features and interoperable with Cardano’s large global network. This will in turn, offer developers, investors, and interested parties the flexibility to utilize Ergo’s functionalities or to fully on-ramp onto larger blockchain ecosystems such as Cardano. - 
 
 
 
