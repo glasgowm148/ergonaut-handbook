@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-05T21:35:55.710Z
+date: 2021-03-10T18:09:46.869Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -12,6 +12,9 @@ dateCreated: 2021-02-24T08:19:45.758Z
 {.is-info}
 
 https://sigmaverse.io/
+
+
+[Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
 
 
 
