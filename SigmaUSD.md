@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-05T11:31:35.397Z
+date: 2021-03-10T18:23:23.144Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -40,6 +40,10 @@ dateCreated: 2021-02-24T08:02:25.004Z
 
 > This provides individuals with the ability to choose to either go **long** on Erg by minting **SigmaRSV** or to choose **stability** by minting **SigmaUSD.**
 {.is-info}
+
+
+> This is a simplistic example to explain how the logic of the contract works. How much you can redeem depends on how much has been minted, how much in profits shorters have been taken, transaction fees paid, and a couple of other things.
+{.is-warning}
 
 
 ## Advantages over MakerDAO
