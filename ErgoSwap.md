@@ -2,13 +2,15 @@
 title: ErgoSwap
 description: 
 published: true
-date: 2021-03-19T23:42:27.809Z
+date: 2021-03-19T23:42:38.288Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:55:32.108Z
 ---
 
-[EIP-0014: Decentalized Exchange Contracts](https://github.com/ergoplatform/eips/pull/27)
+> [EIP-0014: Decentalized Exchange Contracts](https://github.com/ergoplatform/eips/pull/27)
+{.is-info}
+
 
 
 ErgoSwap is a Uniswap-like AMM-based Decentralised Exchange (DEX), allowing for direct peer-to-peer cryptocurrency transactions, reducing the need for centralised exchanges.
