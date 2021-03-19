@@ -2,19 +2,19 @@
 title: ErgoSwap
 description: 
 published: true
-date: 2021-02-25T11:55:17.114Z
+date: 2021-03-19T23:42:27.809Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-02-24T09:55:32.108Z
 ---
 
-ETA: Q3 2021 ErgoDex support added in yoroi wallet
+[EIP-0014: Decentalized Exchange Contracts](https://github.com/ergoplatform/eips/pull/27)
 
-ErgoSwap is a Uniswap-like AMM-based Decentralised Exchange (DEX). DEXs are a type of cryptocurrency exchange which allows for direct peer-to-peer cryptocurrency transactions, reducing the need for centralised exchanges.
 
-In ErgoSwap anyone can discover the match for orders and then submit the swap transaction and get incentive including offchain services, it shows more or less approach of Ergo and concepts of earning without mining rig with Ergo dapps while promoting decentralization and privacy at the same time
+ErgoSwap is a Uniswap-like AMM-based Decentralised Exchange (DEX), allowing for direct peer-to-peer cryptocurrency transactions, reducing the need for centralised exchanges.
 
-Atomic exchange for tokens on top of Ergo is implemented in the core, so yes, everything will be DEX and there will be lots of DEXes, matchers also possible
+In ErgoSwap anyone can discover the match for orders and then submit the swap transaction, while getting incentives (including offchain services). Demonstrating concepts of earning without mining rig with Ergo dApps while supporting decentralization and privacy.
+
 
 ![screenshot_2021-02-24_at_09.55.05.png](/screenshot_2021-02-24_at_09.55.05.png)
 
@@ -24,4 +24,4 @@ Above the standard and private swaps, Gravity will be implemented - making ERC20
 1. Swaps & Gateways in Q2
 1. Full-fledged DEX ~2022
 
-Ergo has the built-in atomic exchange for its custom, first-class citizen tokens already implemented.
+Ergo has the built-in atomic exchange for its custom, first-class citizen tokens built into the core, 
