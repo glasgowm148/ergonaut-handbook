@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-10T18:09:46.869Z
+date: 2021-03-23T19:45:39.657Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -28,7 +28,7 @@ https://sigmaverse.io/
 - ErgoScan: Ergo block explorer interface
 - Ergo-js
 - Ergo-Bootstrap: easy to use tool with cluster deployments for dApp development
-- Sigma-rust
+- [Sigma-rust](https://github.com/ergoplatform/sigma-rust)
 - Ergo Appkit: library for polyglot development of Ergo Applications based on GraalVM
 - Tx Builder - Interact with dApps without writing code
 - [ErgoScript Playground](https://github.com/ergoplatform/ergoscript-by-example)
