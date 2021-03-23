@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-03-06T02:14:28.675Z
+date: 2021-03-23T23:17:00.267Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -13,12 +13,9 @@ Ergo Founded was by Charles Hoskinson’s *“favorite technologist”* Alex Che
 > “one of the most revolutionary cryptocurrencies ever built. Got so many crazy ideas like non-outsourceable puzzles and sigma protocols and pruning the blockchain and roller chains. All this crazy stuff. Even has a proof of no premine.” — Charles Hoskinson
 {.is-success}
 
-There are a lot of smart contracts platforms out there, most of them are Ethereum style (account based). Cardano’s smart contract platform is UTXO based.
+The main objective of Ergo is to provide financial contracts in an efficient and secure way, so that people can use them in a decentralized manner and without any need for prior trust. The fully Cardano-compatible PoW can make great contributions to all developers in the Cardano ecosystem. Ergo is the first blockchain to adopt the smart contract language in the same eUTxO (extended UTXO) model as Cardano, enabling Proof of Work compatibility.
 
-Ergo is one of the few that is also UTXO based which leads to interoperability
-
-> Due to this, Ergo will be able to launch already tested DeFi products onto the Cardano chain.
-{.is-info}
+Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is, if it is doing collateralized DeFi, the larger the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient security for all more complex DApps implementations on top of the common UTxO model rather than trying to translate very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are completely different.
 
 
 1. Ergo will bring all the advantages of Proof of Work to users of the Cardano ecosystem.
