@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-23T19:45:39.657Z
+date: 2021-03-23T19:47:20.595Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -11,10 +11,18 @@ dateCreated: 2021-02-24T08:19:45.758Z
 > Ergo enables new models of financial interaction, underpinned by smart contracts built on flexible and powerful Sigma protocols but easily accessible to developers.
 {.is-info}
 
-https://sigmaverse.io/
-
+See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
 
 [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
+
+[Sigma-rust](https://github.com/ergoplatform/sigma-rust) - Rust implementation of ErgoScript cryptocurrency scripting language. To get better understanding on how to use it in your project check out how its being used in the following projects:
+
+- [Ergo Headless dApp Framework](https://github.com/Emurgo/ergo-headless-dapp-framework);
+- [Ergo Node Interface Library](https://github.com/Emurgo/ergo-node-interface);
+- [Oracle Core](https://github.com/ergoplatform/oracle-core);
+- [AgeUSD Stablecoin Protocol](https://github.com/Emurgo/age-usd);
+- [Yoroi wallet](https://github.com/Emurgo/yoroi-frontend) (WASM bindings);
+- [Ergo Desktop Wallet](https://github.com/ErgoWallet/ergowallet-desktop) (WASM bindings);
 
 
 
@@ -28,7 +36,7 @@ https://sigmaverse.io/
 - ErgoScan: Ergo block explorer interface
 - Ergo-js
 - Ergo-Bootstrap: easy to use tool with cluster deployments for dApp development
-- [Sigma-rust](https://github.com/ergoplatform/sigma-rust)
+
 - Ergo Appkit: library for polyglot development of Ergo Applications based on GraalVM
 - Tx Builder - Interact with dApps without writing code
 - [ErgoScript Playground](https://github.com/ergoplatform/ergoscript-by-example)
