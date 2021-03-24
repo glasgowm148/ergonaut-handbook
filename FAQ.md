@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2021-03-24T08:30:10.717Z
+date: 2021-03-24T08:31:07.621Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -36,6 +36,8 @@ Proof-of-Work has tried and tested methods, and provides several benefits over P
 
 Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is, if it is doing collateralized DeFi, the larger the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient security for all more complex DApps implementations on top of the common UTxO model rather than trying to translate very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are completely different.
 
+[Cardano](/Cardano)
+
 
 ## Can I mine Erg?
 
@@ -45,6 +47,8 @@ You will need a dedicated GPU (AMD/Intel), see [Mining](/Mining)
 
 DEx, StableCoin, bringing PoW benefits to Cardano, Oracle Pools, and much more !
 
+[use-cases](/use-cases)
+
 # Oracle Pools? Like Chainlink?
 There's a solid comparison of Oracle Pools on Ergo vs Chainlink givenon the [ergoforum](https://www.ergoforum.org/t/oracle-pools-a-new-oracle-model/263) (by Robert Kornacki, Head of Research @ Emurgo)
 
@@ -52,6 +56,7 @@ There's a solid comparison of Oracle Pools on Ergo vs Chainlink givenon the [erg
 [A new Cardano-based project is handling oracles a lot differently than Chainlink](https://cointelegraph.com/news/a-new-cardano-based-project-is-handling-oracles-a-lot-differently-than-chainlink)
 
 
+[Oracle-Pools](/Oracle-Pools)
 # What is the Ergo Foundation? 
 
 The Ergo Foundation is a community-driven entity focused on:
