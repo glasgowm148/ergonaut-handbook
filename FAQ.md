@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2021-03-24T08:29:28.678Z
+date: 2021-03-24T08:30:10.717Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -33,6 +33,9 @@ Not yet, Ledger support underway.
 # Why PoW ?
 
 Proof-of-Work has tried and tested methods, and provides several benefits over PoS. You can see Charles Hoskinson discussing some of those benefits in a [recent AMA (timestamped)](https://youtu.be/Y27Q3wL_Hko?t=207)
+
+Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is, if it is doing collateralized DeFi, the larger the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient security for all more complex DApps implementations on top of the common UTxO model rather than trying to translate very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are completely different.
+
 
 ## Can I mine Erg?
 
