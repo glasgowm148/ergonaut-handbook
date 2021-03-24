@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-24T14:29:48.502Z
+date: 2021-03-24T14:30:15.462Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -35,7 +35,7 @@ For an overarching summary of how everything in this repo works, please referenc
 - [Yoroi wallet](https://github.com/Emurgo/yoroi-frontend) (WASM bindings);
 - [Ergo Desktop Wallet](https://github.com/ErgoWallet/ergowallet-desktop) (WASM bindings);
 
-> New developer? A list of *good first* issues for Sigma-Rust is [available on GitHub](https://github.com/ergoplatform/sigma-rust/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 ) - @greenhat on [Discord](https://discord.gg/Q86PNMwRsu) is ready to assist anyone who is interested.
+> New developer? A list of "*good first*" issues for Sigma-Rust is [available on GitHub](https://github.com/ergoplatform/sigma-rust/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 ) - @greenhat on [Discord](https://discord.gg/Q86PNMwRsu) is ready to assist anyone who is interested.
 {.is-info}
 
 
