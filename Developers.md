@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-24T14:10:06.053Z
+date: 2021-03-24T14:10:51.623Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -11,22 +11,22 @@ dateCreated: 2021-02-24T08:19:45.758Z
 > Ergo enables new models of financial interaction, underpinned by smart contracts built on flexible and powerful Sigma protocols but easily accessible to developers.
 {.is-info}
 
-See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
+- See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
+- [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
 
-[Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
-
+## ErgoScript
 Learn [Ergoscript by reading example smart contracts](https://github.com/ergoplatform/ergoscript-by-example) powered by the Ergo Playground.
 
 Each contract example includes a `Ergo Playground` link which allows you to instantly edit and run the smart contract code inside of your browser.
 
 If you ever need clarity about how specific types/functions/operators in ErgoScript work, please reference the [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md).
 
-For an overarching summary of how everything in this repo works, please reference the video below:
-
-[ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
+For an overarching summary of how everything in this repo works, please reference the video [ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
 
 
-[Sigma-rust](https://github.com/ergoplatform/sigma-rust) - Rust implementation of ErgoScript cryptocurrency scripting language. To get better understanding on how to use it in your project check out how its being used in the following projects:
+## Rust
+
+[Sigma-rust](https://github.com/ergoplatform/sigma-rust) - implementation of ErgoScript cryptocurrency scripting language. To get better understanding on how to use it in your project check out how its being used in the following projects:
 
 - [Ergo Headless dApp Framework](https://github.com/Emurgo/ergo-headless-dapp-framework);
 - [Ergo Node Interface Library](https://github.com/Emurgo/ergo-node-interface);
