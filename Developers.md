@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-24T14:12:26.967Z
+date: 2021-03-24T14:27:08.033Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -34,6 +34,10 @@ For an overarching summary of how everything in this repo works, please referenc
 - [AgeUSD Stablecoin Protocol](https://github.com/Emurgo/age-usd);
 - [Yoroi wallet](https://github.com/Emurgo/yoroi-frontend) (WASM bindings);
 - [Ergo Desktop Wallet](https://github.com/ErgoWallet/ergowallet-desktop) (WASM bindings);
+
+> New developer? A list of *good first* issues are [available on Git](https://github.com/ergoplatform/sigma-rust/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 )
+{.is-success}
+
 
 # Appkit
 
