@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-24T14:10:51.623Z
+date: 2021-03-24T14:11:07.983Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -14,7 +14,7 @@ dateCreated: 2021-02-24T08:19:45.758Z
 - See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
 - [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
 
-## ErgoScript
+# ErgoScript
 Learn [Ergoscript by reading example smart contracts](https://github.com/ergoplatform/ergoscript-by-example) powered by the Ergo Playground.
 
 Each contract example includes a `Ergo Playground` link which allows you to instantly edit and run the smart contract code inside of your browser.
@@ -24,7 +24,7 @@ If you ever need clarity about how specific types/functions/operators in ErgoScr
 For an overarching summary of how everything in this repo works, please reference the video [ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
 
 
-## Rust
+# Rust
 
 [Sigma-rust](https://github.com/ergoplatform/sigma-rust) - implementation of ErgoScript cryptocurrency scripting language. To get better understanding on how to use it in your project check out how its being used in the following projects:
 
@@ -37,7 +37,7 @@ For an overarching summary of how everything in this repo works, please referenc
 
 
 
-# Overview
+# Misc
 
 - ErgoAppKit
 - ErgoTool : A CLI for Errgo
