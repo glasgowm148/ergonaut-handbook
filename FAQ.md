@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2021-03-04T18:54:50.610Z
+date: 2021-03-24T08:29:28.678Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -10,8 +10,14 @@ dateCreated: 2021-02-24T09:09:29.612Z
 
 # Where can I buy Erg?
 
-The leading exchanges are currently CoinEx, Hotbit and Bitmart.
-
+* CoinEx
+* TradeOgre
+* Hotbit
+* Gate.io
+* ProBit
+* BitMart
+* Tidex
+* Waves.exchange
 # Where can I store Erg?
 
 Yoroi is the most popular choice, you can also run a full node or use Coinbarn. more information on [ergoplatform.org](https://ergoplatform.org/en/wallets/)
