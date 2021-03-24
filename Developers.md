@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-24T14:27:08.033Z
+date: 2021-03-24T14:27:22.758Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -36,7 +36,7 @@ For an overarching summary of how everything in this repo works, please referenc
 - [Ergo Desktop Wallet](https://github.com/ErgoWallet/ergowallet-desktop) (WASM bindings);
 
 > New developer? A list of *good first* issues are [available on Git](https://github.com/ergoplatform/sigma-rust/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 )
-{.is-success}
+{.is-info}
 
 
 # Appkit
