@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-23T19:47:20.595Z
+date: 2021-03-24T14:09:29.803Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -14,6 +14,8 @@ dateCreated: 2021-02-24T08:19:45.758Z
 See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
 
 [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
+
+Learn ErgoScript by reading example smart contracts powered by the [ErgoScript Playground](https://github.com/ergoplatform/ergoscript-by-example)  
 
 [Sigma-rust](https://github.com/ergoplatform/sigma-rust) - Rust implementation of ErgoScript cryptocurrency scripting language. To get better understanding on how to use it in your project check out how its being used in the following projects:
 
@@ -39,7 +41,7 @@ See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
 
 - Ergo Appkit: library for polyglot development of Ergo Applications based on GraalVM
 - Tx Builder - Interact with dApps without writing code
-- [ErgoScript Playground](https://github.com/ergoplatform/ergoscript-by-example)
+
 - [FlowCards: A Declarative Framework for Development of Ergo dApps](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/)
 - ErgoTree compiler 
 - Kiosk
