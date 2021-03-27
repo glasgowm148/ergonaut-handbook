@@ -2,9 +2,9 @@
 title: NiPoPoWs
 description: 
 published: true
-date: 2021-02-24T09:25:03.986Z
+date: 2021-03-27T11:14:19.726Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-02-24T08:18:28.474Z
 ---
 
@@ -26,3 +26,5 @@ A super-efficient Ergo wallet with SPV security is in development, so stay tuned
  Dionysis Zindros, explains technical landscape of Non-Interactive Proofs of Proof-of-Work. Dionysis takes a diligent approach for the Ergo Cast with an elaborate rundown of what Non-Interactive Proofs of Proof-of-Work truly are. Furthermore, Dionysis evaluates the operation, implementation, as well as impact that his primitive delivers upon. Furthermore, we unveil a brand-new piece of research that -as of yet- has never been shared publicly: log-space mining.
 
 [NiPoPoWs & Log-Space Mining – Ergo Cast Episode #5](https://ergocast.io/episode/nipopows-ergo-cast-episode-5/)
+
+[Sidechains: Why These Researchers Think They Solved a Key Piece of the Puzzle](https://bitcoinmagazine.com/technical/sidechains-why-these-researchers-think-they-solved-key-piece-puzzle)
