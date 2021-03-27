@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-03-23T23:17:00.267Z
+date: 2021-03-27T18:02:42.411Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -45,6 +45,10 @@ https://emurgo.io/blog/emurgo-releases-oracle-core-for-developers
 **[EMURGO to Partner with Ergo and Build Blockchain-Based Decentralized Financial Solutions](https://emurgo.io/blog/emurgo-to-partner-with-ergo-and-build-blockchain-based-decentralized-financial-solutions)**
 EMURGO’s strategic partnership with Ergo aligns with the objective to also meet the increasing needs for tailored decentralized financial (DeFi) solutions moving forward. As the interest in building decentralized financial services grows in tandem with the overall blockchain industry, this partnership allows for much-needed deeper research & DeFi solutions development. These solutions will explore the usage of Ergo’s smart contracts that are embedded with privacy features and interoperable with Cardano’s large global network. This will in turn, offer developers, investors, and interested parties the flexibility to utilize Ergo’s functionalities or to fully on-ramp onto larger blockchain ecosystems such as Cardano. 
 
+
+# Proof-of-Stake
+
+Proof of Stake (PoS) is a burgeoning Sybil resistance mechanism that aims to have a digital asset (“token”) serve as security collateral in crypto networks. However, PoS has so far eluded a comprehensive threat model that encompasses both Byzantine attacks from distributed systems and financial attacks that arise from the dual usage of the token as a means of payment and a Sybil resistance mechanism. In particular, the existence of derivatives markets makes malicious coordination among validators easier to execute than in Proof of Work systems. We demonstrate that it is also possible for on-chain lending smart contracts to cannibalize network security in PoS systems. When the yield provided by these contracts is more attractive than the inflation rate provided from staking, stakers will tend to remove their staked tokens and lend them out, thus reducing network security. 
 
 
 # Cardano on StableCoins
