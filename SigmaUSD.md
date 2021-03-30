@@ -2,15 +2,15 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-10T18:23:23.144Z
+date: 2021-03-30T10:17:34.484Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
 ---
 
-> [Finding The Right Balance](https://ergoplatform.org/en/blog/2021_03_04-finding-right-balance/)
-> [Community Discussion on Reddit](https://www.reddit.com/r/ergonauts/comments/lx7an4/sigmausd_dao_bank_is_a_complex_beast_highlevel/gpr96fq/?context=3)
-{.is-warning}
+> [SigmaUSD is live!](https://sigmausd.io/#/)
+{.is-success}
+
 
 
 > Introducing [SigmaUSD.io](https://sigmausd.io/#/) the first UTxO-based stable coin - an instantiation of the [AgeUSD protocol](https://github.com/Emurgo/age-usd). The foundation on which a new era of digital finance will be built.
@@ -56,6 +56,15 @@ Unlike Ethereum-based crypto-backed stablecoins, such as DAI, Emurgo introduces 
 **See these other articles for more information**
 - [FAQ](/SigmaUSD/FAQ)
 - [Detailed Overview](/SigmaUSD/Overview)
+
+
+# SigmaUSD v1
+
+
+- [Finding The Right Balance](https://ergoplatform.org/en/blog/2021_03_04-finding-right-balance/)
+- [Community Discussion on Reddit](https://www.reddit.com/r/ergonauts/comments/lx7an4/sigmausd_dao_bank_is_a_complex_beast_highlevel/gpr96fq/?context=3)
+
+
 
 # Resources
 
