@@ -2,7 +2,7 @@
 title: Autolykos
 description: 
 published: true
-date: 2021-03-27T11:34:59.265Z
+date: 2021-04-02T23:56:05.364Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:34:47.337Z
@@ -45,3 +45,20 @@ Also, table size (N value) is growing with time as follows. Until block 614,400,
 (https://www.docdroid.net/mcoitvK/ergopow-pdf)
 
 https://eprint.iacr.org/2020/044.pdf
+
+
+## 51% Attack
+
+Mining pools offer a buffer against such network attacks as the hash rate is distributed across thousands of individual miners.
+
+The memory hardened aspect of ergo also makes this vector of attack more expensive as there is no ASIC support to rent. With the collective rentable rigs at the moment this isnt a viable path to a 51% attack. In theory, someone could build a massive GPU farm to try to launch such an attack. If a bad actor can rent a warehouse of ASIC and mine on a small chain with 51% attacks are a viable option... if there is an offramp. 
+
+Usually, this attack is done for profit and there is massive dumping that occurs on an exchange as it is occuring. Meaning the attacker is going to dump tokens on an exchange then "double-spend" them back into their wallet. The current exchange situation doesn't provide the liquidity for a viable offramp. The rentable ASIC support isn't an option. So is it possible, in theory, yes, practical or likely I dont think so at all.
+
+Ethereum classic is perhaps a bad example, as it shares the same mining algorithm as Eth. One could buy more than 100% existing hashrate of eth classic on NiceHash. It's not the same case for Ergo. Ergo also believes in the 'Good Miner' principle, In the case of Bitcoin - it was a good thing 51% existed. 
+
+Autolykos v1 originally had non-outsourcability built-in, however, it became apparent that with smart contracts it's basically impossible to prevent pools, so they turned it off so that not only larger players were able to take advantage of the loophole. Ergo is now focusing on memory hardness in an attempt to keep mining as fair as possible, which should help prevent ASICs mining at least. There are also some improvements for pooling, e.g. Stratum 2 protocol
+
+“Bypassing Non-Outsourceable Proof-of-Work Schemes Using Collateralized Smart Contracts” https://ia.cr/2020/044 was presented by Alex Chepurnoy at WTSC workshop associated with Financial Cryptography and Data Security 2020 in Malaysia
+
+It's also discussed here on 'Unblocked with Robert Kornacki' [(14:45)](https://www.youtube.com/watch?v=2sbTMrQwWOw&feature=youtu.be)
