@@ -2,11 +2,16 @@
 title: Gravity
 description: 
 published: true
-date: 2021-04-02T23:51:49.943Z
+date: 2021-04-02T23:52:33.684Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T23:50:21.495Z
 ---
+
+> Development In Progress
+{.is-info}
+
+
 
 We are excited to announce Waves’ new partnership agreement with the Ergo Foundation. The agreement stipulates integration of Ergo as a Gravity target chain, as well as collaborative R&D on cross-chain solutions with a focus on decentralized finance (DeFi) and decentralized oracles.
 
