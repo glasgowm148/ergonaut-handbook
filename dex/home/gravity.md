@@ -2,11 +2,13 @@
 title: Gravity
 description: 
 published: true
-date: 2021-04-02T23:50:21.495Z
+date: 2021-04-02T23:51:49.943Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T23:50:21.495Z
 ---
+
+We are excited to announce Waves’ new partnership agreement with the Ergo Foundation. The agreement stipulates integration of Ergo as a Gravity target chain, as well as collaborative R&D on cross-chain solutions with a focus on decentralized finance (DeFi) and decentralized oracles.
 
 One of the first collaborative tasks will be integration of the Ergo blockchain into the Gravity blockchain-agnostic network, with the creation of cross-chain gateways between the Ergo blockchain and other Gravity target chains.
 
@@ -15,6 +17,7 @@ One of the first collaborative tasks will be integration of the Ergo blockchain 
 
 “Integration with Gravity is more than an interesting technical challenge,” adds Alexander Chepurnoy, Ergo core developer. “It offers an opportunity to open the Ergo blockchain to a large number of digital assets from the blockchain networks integrated with Gravity, which will create a stable foundation for the development of DeFi on Ergo.”
 
+  - [Waves partners with Ergo to foster interoperability solutions via Gravity](https://medium.com/wavesprotocol/waves-partners-with-ergo-to-foster-interoperability-solutions-via-gravity-e184bca91d71)
 
 ### TRON
 
