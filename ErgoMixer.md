@@ -2,7 +2,7 @@
 title: ErgoMixer
 description: 
 published: true
-date: 2021-04-03T00:11:18.864Z
+date: 2021-04-03T00:11:27.544Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:54.623Z
@@ -17,7 +17,7 @@ ErgoMixer is a web application for mixing ergs and tokens based on Ergo platform
 
 
 
-Mixer v3.3.0 is out.
+**Mixer v3.3.0 is out**
 
 changelog:
 - SigUSD/RSV mixing
