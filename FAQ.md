@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2021-04-03T00:00:33.962Z
+date: 2021-04-03T00:01:15.086Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -52,11 +52,12 @@ DEx, StableCoin, bringing PoW benefits to Cardano, Oracle Pools, and much more !
 # Oracle Pools? Like Chainlink?
 There's a solid comparison of Oracle Pools on Ergo vs Chainlink givenon the [ergoforum](https://www.ergoforum.org/t/oracle-pools-a-new-oracle-model/263) (by Robert Kornacki, Head of Research @ Emurgo)
 
-[Is the Ergo Oracle Sleeper the Next Chainlink?](https://www.reddit.com/r/AltStreetBets/comments/kfxst7/is_the_ergo_oracle_sleeper_the_next_chainlink/)
-[A new Cardano-based project is handling oracles a lot differently than Chainlink](https://cointelegraph.com/news/a-new-cardano-based-project-is-handling-oracles-a-lot-differently-than-chainlink)
+
+- See our detailed article on [Oracle-Pools](/Oracle-Pools) for more
+- [Is the Ergo Oracle Sleeper the Next Chainlink?](https://www.reddit.com/r/AltStreetBets/comments/kfxst7/is_the_ergo_oracle_sleeper_the_next_chainlink/)
+- [A new Cardano-based project is handling oracles a lot differently than Chainlink](https://cointelegraph.com/news/a-new-cardano-based-project-is-handling-oracles-a-lot-differently-than-chainlink)
 
 
-[Oracle-Pools](/Oracle-Pools)
 # What is the Ergo Foundation? 
 
 The Ergo Foundation is a community-driven entity focused on:
