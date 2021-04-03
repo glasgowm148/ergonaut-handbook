@@ -2,15 +2,19 @@
 title: ErgoMixer
 description: 
 published: true
-date: 2021-04-03T00:09:52.912Z
+date: 2021-04-03T00:10:56.466Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:54.623Z
 ---
 
+ErgoMixer is a web application for mixing ergs and tokens based on Ergo platform. ErgoMixer is completely serverless; It only needs to connect to the explorer and a node (any node! no api_key is needed).
+
+
 > The following command will install ErgoMixer and related dependencies
 >`curl -s "https://getmixer.ergonaut.space/install.sh" | bash`
 {.is-info}
+
 
 
 Mixer v3.3.0 is out.
@@ -33,6 +37,5 @@ download: https://github.com/ergoMixer/ergoMixBack/releases/tag/3.3.0
 
 
 # ErgoMixer
-ErgoMixer is a web application for mixing ergs and tokens based on Ergo platform. ErgoMixer is completely serverless; It only needs to connect to the explorer and a node (any node! no api_key is needed).
 
 [The repository is available on Github](https://github.com/ergoMixer/ergoMixBack)
