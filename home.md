@@ -2,7 +2,7 @@
 title: Ergonaut
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2021-04-03T00:13:48.861Z
+date: 2021-04-03T00:15:02.719Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -10,18 +10,18 @@ dateCreated: 2021-02-24T07:55:49.194Z
 
 ## Welcome to Smart Money!
 
-![](/ergonaut-4k.png =450x250)
+
+<img align="right" src="/ergonaut-4k.png" width="450px" height="250px">
 
 Ergo builds advanced cryptographic features and radically new DeFi functionality on the rock-solid foundations laid by a decade of blockchain theory and development. It complements tried and tested principles with the latest peer-reviewed academic research into cryptography, consensus models and digital currencies. 
-
-
-> *“It's one of the most revolutionary cryptocurrencies ever built. Got so many crazy ideas like non-outsourceable puzzles and sigma protocols and pruning the blockchain and roller chains. All this crazy stuff. Even has a proof of no premine. So really a technological marvel in many respects, and it reflects about 8 years of knowledge that Alex has amassed as both a researcher and a developer. Super concise code and it blows my mind that the market cap is where it's at. It should be a top 10 coin or top 15 coin, but you know —  it shows you that marketing and liquidity matters just as much as the research."*  — Charles Hoskinson
-{.is-info}
 
 
 
 
 # Overview
+
+> *“It's one of the most revolutionary cryptocurrencies ever built. Got so many crazy ideas like non-outsourceable puzzles and sigma protocols and pruning the blockchain and roller chains. All this crazy stuff. Even has a proof of no premine. So really a technological marvel in many respects, and it reflects about 8 years of knowledge that Alex has amassed as both a researcher and a developer. Super concise code and it blows my mind that the market cap is where it's at. It should be a top 10 coin or top 15 coin, but you know —  it shows you that marketing and liquidity matters just as much as the research."*  — Charles Hoskinson
+{.is-info}
 > Research-led but real-world focused
 {.is-success}
 
