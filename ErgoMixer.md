@@ -2,7 +2,7 @@
 title: ErgoMixer
 description: 
 published: true
-date: 2021-04-03T00:10:56.466Z
+date: 2021-04-03T00:11:02.674Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:54.623Z
@@ -33,9 +33,5 @@ download: https://github.com/ergoMixer/ergoMixBack/releases/tag/3.3.0
 
 > defect: not working with safari anymore.
 {.is-warning}
-
-
-
-# ErgoMixer
 
 [The repository is available on Github](https://github.com/ergoMixer/ergoMixBack)
