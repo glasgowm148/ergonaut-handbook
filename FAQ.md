@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2021-04-03T00:03:13.499Z
+date: 2021-04-03T00:05:20.263Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -53,7 +53,19 @@ You will need a dedicated GPU (AMD/Intel), see [Mining](/Mining)
 
 ## dApps
 
-DEx, StableCoin, bringing PoW benefits to Cardano, Oracle Pools, and much more !
+- ErgoMixer
+- ErogAuctions
+- ErgoUtils
+
+## SigmaUSD
+
+Algorithmic Stablecoin, backed by a reserve which in it's most simplest form is betting long and short bets against each other. See [SigmaUSD](/SigmaUSD) for more.
+
+## ErgoSwap
+
+AMM + Order-Book Liquidity
+
+[ErgoSwap](/ErgoSwap)
 
 
 ## Oracle Pools
