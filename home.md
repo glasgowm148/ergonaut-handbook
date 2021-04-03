@@ -2,11 +2,14 @@
 title: Ergonaut
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2021-04-03T00:15:02.719Z
+date: 2021-04-03T00:15:31.683Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
 ---
+
+> *“It's one of the most revolutionary cryptocurrencies ever built. Got so many crazy ideas like non-outsourceable puzzles and sigma protocols and pruning the blockchain and roller chains. All this crazy stuff. Even has a proof of no premine. So really a technological marvel in many respects, and it reflects about 8 years of knowledge that Alex has amassed as both a researcher and a developer. Super concise code and it blows my mind that the market cap is where it's at. It should be a top 10 coin or top 15 coin, but you know —  it shows you that marketing and liquidity matters just as much as the research."*  — Charles Hoskinson
+{.is-info}
 
 ## Welcome to Smart Money!
 
@@ -20,12 +23,14 @@ Ergo builds advanced cryptographic features and radically new DeFi functionality
 
 # Overview
 
-> *“It's one of the most revolutionary cryptocurrencies ever built. Got so many crazy ideas like non-outsourceable puzzles and sigma protocols and pruning the blockchain and roller chains. All this crazy stuff. Even has a proof of no premine. So really a technological marvel in many respects, and it reflects about 8 years of knowledge that Alex has amassed as both a researcher and a developer. Super concise code and it blows my mind that the market cap is where it's at. It should be a top 10 coin or top 15 coin, but you know —  it shows you that marketing and liquidity matters just as much as the research."*  — Charles Hoskinson
-{.is-info}
-> Research-led but real-world focused
-{.is-success}
+
+
 
 Ergo is a unique Proof-of-Work (PoW) cryptocurrency and DeFi platform, building on the first principles of Bitcoin. With a research-driven but practical development model, Ergo has prioritized useful features without compromising on security. The platform's smart contracts are built on the extended UTXO (eUTXO) model with a unique data input concept, offering a radically different approach to provide robust, flexible cryptography and easy, safe scripting on privacy-centric Sigma Protocols (non-interactive zero-knowledge proofs). Storage rent for long-term survivability, ultra-efficient light clients, and NiPoPoW technology for interoperability.
+
+
+> Research-led but real-world focused
+{.is-success}
 
 Ergo Platform's native token, ERG, is used to pay all transaction fees for transfers and smart contract execution. Storage fees are also charged on dormant accounts, providing ongoing incentives for miners even after block rewards end. This new economic model ensures a sustainable network. ERG functions as the core token and will be used for different dApps collateral like stablecoin and many other applications. Off-the-peg use of ring and threshold signatures powers non-custodial and non-interactive dApps like ErgoMixer for both ERG and custom tokens.
 
