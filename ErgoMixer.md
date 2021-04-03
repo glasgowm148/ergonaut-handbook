@@ -2,7 +2,7 @@
 title: ErgoMixer
 description: 
 published: true
-date: 2021-03-28T13:39:32.549Z
+date: 2021-04-03T00:09:52.912Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:54.623Z
@@ -11,6 +11,25 @@ dateCreated: 2021-02-24T08:03:54.623Z
 > The following command will install ErgoMixer and related dependencies
 >`curl -s "https://getmixer.ergonaut.space/install.sh" | bash`
 {.is-info}
+
+
+Mixer v3.3.0 is out.
+
+changelog:
+-     SigUSD/RSV mixing
+-     SigUSD/RSV direct mint
+-     UI/UX improvement
+-     Minor UI bug fix; pending deposit of tokens
+
+
+
+ergoforum: https://www.ergoforum.org/t/ergomixer-zerojoin-mixer-for-erg-and-tokens/318/17?u=anon2020s
+
+download: https://github.com/ergoMixer/ergoMixBack/releases/tag/3.3.0
+
+> defect: not working with safari anymore.
+{.is-warning}
+
 
 
 # ErgoMixer
