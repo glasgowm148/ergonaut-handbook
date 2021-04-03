@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2021-04-02T23:58:56.748Z
+date: 2021-04-03T00:00:33.962Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -41,38 +41,11 @@ Usually, this attack is done for profit and there is massive dumping that occurs
 Ethereum classic is perhaps a bad example, as it shares the same mining algorithm as Eth. One could buy more than 100% existing hashrate of eth classic on NiceHash. It's not the same case for Ergo. Ergo also believes in the 'Good Miner' principle, In the case of Bitcoin - it was a good thing 51% existed. 
 
 
-
-# Where can I buy Erg?
-
-* CoinEx
-* TradeOgre
-* Hotbit
-* Gate.io
-* ProBit
-* BitMart
-* Tidex
-* Waves.exchange
-# Where can I store Erg?
-
-Yoroi is the most popular choice, you can also run a full node or use Coinbarn. more information on [ergoplatform.org](https://ergoplatform.org/en/wallets/)
-
-## Is there mobile support?
-
-Soon! There is an iOS app near completion by a community member, and Yoroi Mobile integration is also being worked on.
-
-## Can we use a hardware wallet?
-
-Not yet, Ledger support underway. 
-
-
-
-## Can I mine Erg?
-
-You will need a dedicated GPU (AMD/Intel), see [Mining](/Mining)
-
 # What uses will Ergo have?
 
 DEx, StableCoin, bringing PoW benefits to Cardano, Oracle Pools, and much more !
+
+[Sigmaverse.io](https://sigmaverse.io)
 
 [use-cases](/use-cases)
 
@@ -116,6 +89,36 @@ All cryptocurrencies rely on contributions from the scientific research communit
 # What is 'EFYT'
 
 To fund development, promotion, events, to swap Ergo’s Ergo First Year Tokens (“EFYT”, further discussed below) into Ergs and to fund other activities which may advance the platform, Ergo has in place a Treasury which will receive 4.43% of the Ergs released during emission. During the first 2 years post‐mainnet launch, the Treasury will receive 7.5 Ergs per block. Given that the block reward for each block is 75 Ergs total, the Treasury’s allocation of Ergs is equivalent to 10% of the total block reward over the first 2 years and leaves miners with a block reward of 67.5 Ergs per block. After 2 years, the Treasury will continue to receive the part of the block reward that exceeds 67.5 Erg, however, this will be 0 after year 2.5 when the block reward becomes 66 Ergs per block. Readers familiar with some other PoW protocols with a Treasury, such as ZCash, may find this to be similar, however, it should be noted that the amount of Ergs going to the Treasury comprise a total of only 4,330,791.5, or 4.43% of the total monetary base, and is completed in just 2.5 years. This compares with ZCash’s Treasury, which was 10% of the ZCash total monetary base and 20% of all issued ZCash coins during the first 4 years. With Ergo, it is hoped that by 1 year post‐mainnet launch, Ergo will have achieved a high level of decentralization with a diverse developer, miner and user base. For the first year, the Treasury will be used for swapping of the EFYT on the Waves platform for Erg. For the remaining 1.5 years, a community voting mechanism will be put in place to determine how Treasury funds are spent.
+
+# Basics
+
+## Where can I buy Erg?
+
+* CoinEx
+* TradeOgre
+* Hotbit
+* Gate.io
+* ProBit
+* BitMart
+* Tidex
+* Waves.exchange
+
+## Where can I store Erg?
+
+Yoroi is the most popular choice, you can also run a full node or use Coinbarn. more information on [ergoplatform.org](https://ergoplatform.org/en/wallets/)
+
+### Is there mobile support?
+
+Soon! There is an iOS app near completion by a community member, and Yoroi Mobile integration is also being worked on.
+
+### Can we use a hardware wallet?
+
+Not yet, Ledger support underway. 
+
+
+## Can I mine Erg?
+
+You will need a dedicated GPU (AMD/Intel), see [Mining](/Mining)
 
 
 
