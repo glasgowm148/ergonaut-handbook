@@ -2,7 +2,7 @@
 title: Ergonaut
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2021-04-03T00:17:01.407Z
+date: 2021-04-04T01:28:36.354Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -16,7 +16,6 @@ dateCreated: 2021-02-24T07:55:49.194Z
 Ergo builds advanced cryptographic features and radically new DeFi functionality on the rock-solid foundations laid by a decade of blockchain theory and development. It complements tried and tested principles with the latest peer-reviewed academic research into cryptography, consensus models and digital currencies. 
 
 ---
-<img align="right" src="/ergonaut-4k.png" width="400px" height="230px">
 
 Ergo is a unique Proof-of-Work (PoW) cryptocurrency and DeFi platform, building on the first principles of Bitcoin. With a research-driven but practical development model, Ergo has prioritized useful features without compromising on security. The platform's smart contracts are built on the extended UTXO (eUTXO) model with a unique data input concept, offering a radically different approach to provide robust, flexible cryptography and easy, safe scripting on privacy-centric Sigma Protocols (non-interactive zero-knowledge proofs). Storage rent for long-term survivability, ultra-efficient light clients, and NiPoPoW technology for interoperability.
 
