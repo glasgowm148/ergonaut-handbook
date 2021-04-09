@@ -2,13 +2,15 @@
 title: eUTXO
 description: 
 published: true
-date: 2021-03-02T18:15:25.177Z
+date: 2021-04-09T20:08:30.139Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:17:43.660Z
 ---
 
 Ergo takes the most secure and best-established features of Bitcoin and implements advanced new cryptographic features on its rock-solid foundations. This series explores the choices we have made in creating Ergo, with the first article unpacking the advantages of the UTXO model.
+
+[Multi-Stage Contracts in the UTXO Model: Delivery by Alexander Chepurnoy & Amitabh Saxena](https://www.youtube.com/watch?v=g3FlM_WOwBU)
 
 When you’re dealing with financial value, you cannot afford to take chances. Every architecture decision in a cryptocurrency platform has implications. While there are different ways to solve the same problem, some solutions are better tested and more reliable than others.
 
