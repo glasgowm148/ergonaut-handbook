@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-03-30T10:17:34.484Z
+date: 2021-04-09T21:15:33.106Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -19,7 +19,7 @@ dateCreated: 2021-02-24T08:02:25.004Z
 {.is-success}
 
 
-
+[SigmaUSD vs the competition.](https://curiaregiscrypto.medium.com/sigmausd-vs-the-competition-e70b23fe37a3)
 
 
 # Overview
