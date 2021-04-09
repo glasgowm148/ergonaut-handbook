@@ -2,7 +2,7 @@
 title: Ergonaut
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2021-04-04T01:29:10.580Z
+date: 2021-04-09T21:44:10.191Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -42,7 +42,7 @@ Ergo is designed to be a self-amendable protocol that allows to absorb new ideas
 {.is-info}
 
 
-[Building Ergo: How the AgeUSD stablecoin works](https://ergoplatform.org/en/blog/2021-02-05-building-ergo-how-the-ageusd-stablecoin-works/)
+
 
 
 
