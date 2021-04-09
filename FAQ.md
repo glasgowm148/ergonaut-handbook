@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2021-04-03T09:02:13.735Z
+date: 2021-04-09T21:21:00.424Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -18,7 +18,7 @@ Although PoS is a very secure protocol, some smart contracts may require the con
 
 [Cardano](/Cardano)
 
-[Ergo: Why Proof of Work? - Medium](https://curiaregiscrypto.medium.com/ergo-why-proof-of-work-47c9b25fae70)
+[Ergo: Why Proof of Work?](https://curiaregiscrypto.medium.com/ergo-why-proof-of-work-47c9b25fae70)
 
 ## Why was non-outsourceability turned off?
 
