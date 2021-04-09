@@ -2,16 +2,11 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-04-09T21:44:29.784Z
+date: 2021-04-09T21:44:43.338Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
 ---
-
-> [SigmaUSD is live!](https://sigmausd.io/#/)
-{.is-success}
-
-
 
 > Introducing [SigmaUSD.io](https://sigmausd.io/#/) the first UTxO-based stable coin - an instantiation of the [AgeUSD protocol](https://github.com/Emurgo/age-usd). The foundation on which a new era of digital finance will be built.
 >
