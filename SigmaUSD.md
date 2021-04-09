@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-04-09T21:44:43.338Z
+date: 2021-04-09T21:46:02.823Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -38,7 +38,7 @@ dateCreated: 2021-02-24T08:02:25.004Z
 {.is-info}
 
 
-> This is a simplistic example to explain how the logic of the contract works. How much you can redeem depends on how much has been minted, how much in profits shorters have been taken, transaction fees paid, and a couple of other things.
+> This is a simplistic example to explain how the logic of the contract works. The value you can redeem for your SigRSV floats up and down based on transaction fees and profits/losses SigUSD holders take when withdrawing.
 {.is-warning}
 
 
