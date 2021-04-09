@@ -2,7 +2,7 @@
 title: Oracle Pools
 description: 
 published: true
-date: 2021-04-09T21:21:58.651Z
+date: 2021-04-09T21:29:49.347Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-09T16:21:22.071Z
@@ -17,6 +17,8 @@ The oracle solution for Cardano will post data from Ergo’s oracle pools, treat
 [First steps towards interoperability with Cardano oracles](https://ergoplatform.org/en/blog/2020-11-09-first-steps-towards-interoperability-with-cardano-oracles/)
 
 [Ergo Blockchain: Oracle Pool Governance Update](https://curiaregiscrypto.medium.com/ergo-blockchain-oracle-pool-governance-update-d078d58571b0)
+
+[The role of Ergo Oracles](https://veriumfellow.medium.com/oracle-special-4e36cfa6a852)
 
 https://btcmanager.com/ergo-oracle-solution-cardano-ada-interoperability/
 
