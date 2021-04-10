@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:31:26.576Z
+date: 2021-04-10T13:33:19.235Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -33,23 +33,28 @@ Learn [Ergoscript by reading example smart contracts](https://github.com/ergopla
 
 Each contract example includes a `Ergo Playground` link which allows you to instantly edit and run the smart contract code inside of your browser.
 
-If you ever need clarity about how specific types/functions/operators in ErgoScript work, please reference the [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md).
+- If you ever need clarity about how specific types/functions/operators in ErgoScript work, please reference the [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md).
+- 
+- For an overarching summary of how everything in this repo works, please reference the video [ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
 
-For an overarching summary of how everything in this repo works, please reference the video [ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
 
- - [ErgoScript by Example](https://github.com/ergoplatform/ergoscript-by-example) - repository with ErgoScript examples you can play with in Ergo Playground 
  - [Ergo notary](https://github.com/sininen-taivas/ergo-notary) - simple command-line tool to certificate files on the Ergo blockchain. 
  See also [forum topic](https://www.ergoforum.org/t/ergo-notary-command-line-tool/75) on a particular example
  - [Miner rewards script](https://github.com/lorien/ergotools) Simple command-line tool to find miner rewards not spent and form withdrawing transaction requests for them
  - [A Quick Primer on ErgoScript](https://github.com/ergoplatform/ergo/wiki/ErgoScript-Overview) Learn the basics of ErgoScript quickly and create your first contract
  - [ErgoScript Design patterns](https://www.ergoforum.org/t/ergoscript-design-patterns/222)
 
- 
- you can do that with node API and also ErgoScript to P2S (pay-to-script) address  compiler, e.g. `https://wallet.plutomonkey.com/p2s` . For example, you want to create a coin anyone can spend. Then create and compile to P2S address the following script:
+ For example, you want to create a coin anyone can spend. Then create and compile to P2S address the following script:
 
 `https://wallet.plutomonkey.com/p2s/?source=ewogIHRydWUKfQ==`
 
-And then use `http://127.0.0.1:9053/swagger#/utils/AddressToRaw` API call to get "raw" representation of the address, so script bytes in case of P2S (the result is the same as `ErgoTreeSerializer.DefaultSerializer.serializeErgoTree(script)`) . For the example script the result would be
+ you can do that with node API and also ErgoScript to P2S (pay-to-script) address  compiler, e.g. 
+
+`https://wallet.plutomonkey.com/p2s` . 
+
+And then use `http://127.0.0.1:9053/swagger#/utils/AddressToRaw` API call to get the "raw" representation of the address, so script bytes in the case of a P2S (the result is the same as `ErgoTreeSerializer.DefaultSerializer.serializeErgoTree(script)`) . 
+
+The result would be
 ```
 {
   "raw": "10010101d17300"
