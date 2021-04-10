@@ -2,14 +2,16 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:29:58.267Z
+date: 2021-04-10T13:31:26.576Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
 ---
 
-> Ergo enables new models of financial interaction, underpinned by smart contracts built on flexible and powerful Sigma protocols but easily accessible to developers.
+> This site is a community resource website, ergonauts are encouraged to create an account and add to the site. the site is backed up and available to use on [Github](https://github.com/glasgowm148/ergonaut-handbook). Submit pull requests to update this (and other) pages!
 {.is-info}
+
+
 
 
 
