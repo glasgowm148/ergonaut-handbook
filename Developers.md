@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T14:19:46.001Z
+date: 2021-04-10T14:22:39.099Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -11,33 +11,18 @@ dateCreated: 2021-02-24T08:19:45.758Z
 > This site is a community resource website, ergonauts are encouraged to create an account and add to the site. the site is backed up and available to use on [Github](https://github.com/glasgowm148/ergonaut-handbook). Submit pull requests to update this (and other) pages!
 {.is-info}
 
+The Ergo ecosystem is quickly growing with new design patterns, tools, dApps, and more every single month. This is an exciting point in time for developers to jump in and get started.
 
-# Overview
+That said, while building dApps on top of Ergo, vital infrastructure components to develop and run your dApp might be intimidating to set up for someone who is unfamiliar with the existing tooling. Between an Ergo full node, explorer back end, explorer front end, logging, and metrics, it can become quite overwhelming for a nascent dApp developer entering into the ecosystem.
 
+For this reason, we are introducing [ergo-bootstrap](https://github.com/ergoplatform/ergo-bootstrap), an easy-to-use tool that enables quick and clean Ergo blockchain cluster deployments which supports a variety of useful infrastructure components you will need on your path of dApp development. This was developed by Marek of Five Binaries thanks to a grant given by the Ergo Foundation and their latest push to empower the ecosystem via funding key projects.
+
+- [Ergo Bootstrap, Streamlining Ergo dApp Infrastructure With One Simple Tool](https://ergoplatform.org/en/blog/2020-12-11-ergo-bootstrap-streamlining-ergo-dapp-infrastructure-with-one-simple-tool/)
 
 - See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
 - [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
 
-## Tools
-- [Ergo Bootstrap, Streamlining Ergo dApp Infrastructure With One Simple Tool](https://ergoplatform.org/en/blog/2020-12-11-ergo-bootstrap-streamlining-ergo-dapp-infrastructure-with-one-simple-tool/)
- - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for developers. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) for examples. 
- - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address that corresponding to a script - [Video tutorial #2](https://www.youtube.com/watch?v=DgztoNDFG8U) 
- - [ergo-dex-sdk-js](https://github.com/ergoplatform/ergo-dex-sdk-js)
 
-### Appkit
-
-
- - [Ergo Appkit (Polyglot library)](https://github.com/aslesarenko/ergo-appkit) - Appkit: A Library for Polyglot Development of Ergo Applications using [GraalVM](https://www.graalvm.org/)
-  - [Appkit Examples](https://github.com/aslesarenko/ergo-appkit-examples) - Examples of using Ergo Appkit for Polyglot Development of Ergo Applications
-
-
-The Appkit library is based on GraalVM - a novel next generation approach to implement software which is reusable across several programming languages and execution environments.
-
-Appkit has idiomatic Java API and is written in Java/Scala. It is a thin wrapper around core components provided by ErgoScript interpreter and Ergo protocol implementations which are written in Scala.
-
-Using Appkit Ergo applications can be written in one of the languages supported by GraalVM (i.e. Java, JavaScript, C/C++, Python, Ruby, R) and using this library applications can communicate with Ergo nodes via unified API and programming model provided by Appkit. In addition Appkit based Ergo applications can be compiled into native code using native-image ahead of time compiler and then executed without Java VM with very fast startup time and lower runtime memory overhead compared to a Java VM.
-
- - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
 
 ## Hackathon
 
@@ -126,6 +111,28 @@ Interpreter for a family of Sigma-State authentication languages, [a list of goo
 ## Scorex 
 
 - [ScoreX](https://github.com/scorexfoundation/scorex), The modular blockchain framework
+
+## Tools
+
+ - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for developers. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) for examples. 
+ - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address that corresponding to a script - [Video tutorial #2](https://www.youtube.com/watch?v=DgztoNDFG8U) 
+ - [ergo-dex-sdk-js](https://github.com/ergoplatform/ergo-dex-sdk-js)
+
+### Appkit
+
+
+ - [Ergo Appkit (Polyglot library)](https://github.com/aslesarenko/ergo-appkit) - Appkit: A Library for Polyglot Development of Ergo Applications using [GraalVM](https://www.graalvm.org/)
+  - [Appkit Examples](https://github.com/aslesarenko/ergo-appkit-examples) - Examples of using Ergo Appkit for Polyglot Development of Ergo Applications
+
+
+The Appkit library is based on GraalVM - a novel next generation approach to implement software which is reusable across several programming languages and execution environments.
+
+Appkit has idiomatic Java API and is written in Java/Scala. It is a thin wrapper around core components provided by ErgoScript interpreter and Ergo protocol implementations which are written in Scala.
+
+Using Appkit Ergo applications can be written in one of the languages supported by GraalVM (i.e. Java, JavaScript, C/C++, Python, Ruby, R) and using this library applications can communicate with Ergo nodes via unified API and programming model provided by Appkit. In addition Appkit based Ergo applications can be compiled into native code using native-image ahead of time compiler and then executed without Java VM with very fast startup time and lower runtime memory overhead compared to a Java VM.
+
+ - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
+ 
 
 # Misc
 
