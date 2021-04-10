@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T00:15:02.897Z
+date: 2021-04-10T00:19:30.219Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -11,41 +11,21 @@ dateCreated: 2021-02-24T08:19:45.758Z
 > Ergo enables new models of financial interaction, underpinned by smart contracts built on flexible and powerful Sigma protocols but easily accessible to developers.
 {.is-info}
 
+
+
+
+# Overview
+
+
 - See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
 - [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
 
-**Services**
 
+
+
+**Services**
 - Mainnet explorer: https://explorer.ergoplatform.com/
 - Testnet explorer: https://testnet.ergoplatform.com/
-
-Manuals
-
-- Full node set-up: https://git.io/fjqwx
-- Start mining: https://git.io/fjqwp
-
-
-
-**Documents**:
-
-- White paper: https://docs.ergoplatform.com/whitepaper.pdf
-- Yellow paper (in progress): https://docs.ergoplatform.com/YellowPaper.pdf
-- Short overview: https://docs.ergoplatform.com/teaser.pdf
-- ErgoScript tutorial: https://docs.ergoplatform.com/ErgoScript.pdf
-- ErgoScript advanced tutorial: https://docs.ergoplatform.com/sigmastate_protocols.pdf
-- Autolykos PoW scheme specification: https://docs.ergoplatform.com/ErgoPow.pdf
-
-**Sources**:
-
-- Main repository: https://github.com/ergoplatform/ergo
-- Base framework: https://github.com/scorexfoundation/scorex
-
-
-
-**Test vectors:**
-- Ergo transaction serialization: https://git.io/fjqwX
-- Signature scheme: https://git.io/fjqwH
-
 # Languages
 
 ## ErgoScript
@@ -81,8 +61,14 @@ For an overarching summary of how everything in this repo works, please referenc
 - Typescrypt library with support of tokens and complex transactions: https://github.com/coinbarn/ergo-ts
 - Basic transaction operations: https://github.com/ergoplatform/ergo-js
 
+# Libaries
 
-# Appkit
+**Test vectors:**
+- Ergo transaction serialization: https://git.io/fjqwX
+- Signature scheme: https://git.io/fjqwH
+
+
+## Appkit
 
 [Appkit](https://github.com/ergoplatform/ergo-appkit): A Library for Polyglot Development of Ergo Applications
 
@@ -97,32 +83,55 @@ Using Appkit Ergo applications can be written in one of the languages supported 
 - Node API: https://git.io/fjqwb
 - Explorer API: https://git.io/fjqwN
 
-# Sigmastate-Interpreter
 
-Interpreter for a family of Sigma-State authentication languages, [a list of good first issues is available on Github](https://github.com/ScorexFoundation/sigmastate-interpreter/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
-
-Once implemented, it will be used in Explorer, Playground and probably other tools.
 
 
 # Misc
 
-- ErgoAppKit
 - ErgoTool : A CLI for Errgo
-- Scorex (2) - The modular blockchain framework
+
 - Multi-signatures - distributed-signatures
 - [ErgoTool:](https://github.com/Emurgo/ergo-node-interface) A Command Line Interface for Ergo
 - ErgoScan: Ergo block explorer interface
 - Ergo-js
 - Ergo-Bootstrap: easy to use tool with cluster deployments for dApp development
-
-- Ergo Appkit: library for polyglot development of Ergo Applications based on GraalVM
 - Tx Builder - Interact with dApps without writing code
-
-- [FlowCards: A Declarative Framework for Development of Ergo dApps](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/)
 - ErgoTree compiler 
 - Kiosk
 
-# Proposed Nautilus ZK Treasury
+# Frameworks
+- [FlowCards: A Declarative Framework for Development of Ergo dApps](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/)
+## Scorex 
+ The modular blockchain framework
+https://github.com/scorexfoundation/scorex
+
+
+## Sigmastate-Interpreter
+
+Interpreter for a family of Sigma-State authentication languages, [a list of good first issues is available on Github](https://github.com/ScorexFoundation/sigmastate-interpreter/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+
+Once implemented, it will be used in Explorer, Playground and probably other tools.
+
+# Documents
+
+Manuals
+
+- Full node set-up: https://git.io/fjqwx
+- Start mining: https://git.io/fjqwp
+
+- White paper: https://docs.ergoplatform.com/whitepaper.pdf
+- Yellow paper (in progress): https://docs.ergoplatform.com/YellowPaper.pdf
+- Short overview: https://docs.ergoplatform.com/teaser.pdf
+- ErgoScript tutorial: https://docs.ergoplatform.com/ErgoScript.pdf
+- ErgoScript advanced tutorial: https://docs.ergoplatform.com/sigmastate_protocols.pdf
+- Autolykos PoW scheme specification: https://docs.ergoplatform.com/ErgoPow.pdf
+
+**Sources**:
+- Main repository: https://github.com/ergoplatform/ergo
+
+# ZK Treasury
+
+## Proposed Nautilus ZK Treasury
 
 This basic concept is to create a visual programming toolkit to assist developers in learning and developing contracts in the EUTXO model. 
 
