@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:42:20.662Z
+date: 2021-04-10T13:45:07.042Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -17,6 +17,28 @@ dateCreated: 2021-02-24T08:19:45.758Z
 
 - See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
 - [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
+
+## Hackathon
+
+We are thinking about organizing a hackathon, likely in May. The topic would be "**Completing the Basics**", so improving basic infrastructure needed for building the DApps, (also, to profit from them) 
+
+The following topics will likely be covered
+
+* Improvements to ErgoScript (not all the ErgoTree features are projected into it)
+* Improvements to Ergo AppKit (basic library for constructing transactions and building offchain logic on top of for Java and JVM languages) 
+* Improvements to Ergo Node Interface and Headless DApp Framework (basic library for constructing transactions and building offchain logic with Rust)
+* Crowdfunding apps
+* Visual tool for constructing multi-signatures (could be a good first step for visual tools to construct more complex scripts)
+* Tokenization schemes
+* Tools for NFTs
+* Applications for data notarization and names registration
+* Stealth addresses pool implementation
+* Applications on top of mixer API 
+* More data connectors for the oracle pools
+* Private swaps with other chains on Schnorr signature (Bitcoin Cash, Litecoin (?), Komodo (?))
+
+Everyone participating will be rewarded for delivering anything making any progress towards the current state.
+
 
 
 
