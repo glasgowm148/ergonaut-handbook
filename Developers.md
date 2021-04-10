@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:39:37.455Z
+date: 2021-04-10T13:41:04.108Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -23,9 +23,7 @@ dateCreated: 2021-02-24T08:19:45.758Z
 # Languages
 
 ## ErgoScript
-Learn [Ergoscript by reading example smart contracts](https://github.com/ergoplatform/ergoscript-by-example) powered by the Ergo Playground.
-
-Each contract example includes a `Ergo Playground` link which allows you to instantly edit and run the smart contract code inside of your browser.
+Learn [Ergoscript by reading example smart contracts](https://github.com/ergoplatform/ergoscript-by-example) powered by the Ergo Playground. Each contract example includes a `Ergo Playground` link which allows you to instantly edit and run the smart contract code inside of your browser.
 
 - If you ever need clarity about how specific types/functions/operators in ErgoScript work, please reference the [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md).
 - 
@@ -38,24 +36,12 @@ Each contract example includes a `Ergo Playground` link which allows you to inst
  - [A Quick Primer on ErgoScript](https://github.com/ergoplatform/ergo/wiki/ErgoScript-Overview) Learn the basics of ErgoScript quickly and create your first contract
  - [ErgoScript Design patterns](https://www.ergoforum.org/t/ergoscript-design-patterns/222)
 
- For example, you want to create a coin anyone can spend. Then create and compile to P2S address the following script:
 
-`https://wallet.plutomonkey.com/p2s/?source=ewogIHRydWUKfQ==`
 
- you can do that with node API and also ErgoScript to P2S (pay-to-script) address  compiler, e.g. 
-
-`https://wallet.plutomonkey.com/p2s` . 
-
-And then use `http://127.0.0.1:9053/swagger#/utils/AddressToRaw` API call to get the "raw" representation of the address, so script bytes in the case of a P2S (the result is the same as `ErgoTreeSerializer.DefaultSerializer.serializeErgoTree(script)`) . 
-
-The result would be
-```
-{
-  "raw": "10010101d17300"
-}
-```
 
 ## Rust
+> A list of "*good first*" issues for Sigma-Rust is [available on GitHub](https://github.com/ergoplatform/sigma-rust/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 ) - @greenhat on [Discord](https://discord.gg/Q86PNMwRsu) is ready to assist anyone who is interested.
+{.is-info}
 
 [Sigma-rust](https://github.com/ergoplatform/sigma-rust) - implementation of ErgoScript cryptocurrency scripting language. To get better understanding on how to use it in your project check out how its being used in the following projects:
 
@@ -68,8 +54,7 @@ The result would be
 - [Ergo Utilities](https://github.com/robkorn/ergo-utilities-rust/) - General utilities to make writing off-chain Ergo code in Rust simpler 
 
 
-> New developer? A list of "*good first*" issues for Sigma-Rust is [available on GitHub](https://github.com/ergoplatform/sigma-rust/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 ) - @greenhat on [Discord](https://discord.gg/Q86PNMwRsu) is ready to assist anyone who is interested.
-{.is-info}
+
 
 ## Scala
 
