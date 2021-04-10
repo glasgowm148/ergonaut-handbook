@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T00:19:30.219Z
+date: 2021-04-10T00:22:16.157Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -63,6 +63,9 @@ For an overarching summary of how everything in this repo works, please referenc
 
 # Libaries
 
+- Ergo-Bootstrap: easy to use tool with cluster deployments for dApp development
+
+
 **Test vectors:**
 - Ergo transaction serialization: https://git.io/fjqwX
 - Signature scheme: https://git.io/fjqwH
@@ -72,32 +75,17 @@ For an overarching summary of how everything in this repo works, please referenc
 
 [Appkit](https://github.com/ergoplatform/ergo-appkit): A Library for Polyglot Development of Ergo Applications
 
-Appkit library is based on GraalVM - a novel next generation approach to implement software which is reusable across several programming languages and execution environments.
+The Appkit library is based on GraalVM - a novel next generation approach to implement software which is reusable across several programming languages and execution environments.
 
 Appkit has idiomatic Java API and is written in Java/Scala. It is a thin wrapper around core components provided by ErgoScript interpreter and Ergo protocol implementations which are written in Scala.
 
 Using Appkit Ergo applications can be written in one of the languages supported by GraalVM (i.e. Java, JavaScript, C/C++, Python, Ruby, R) and using this library applications can communicate with Ergo nodes via unified API and programming model provided by Appkit. In addition Appkit based Ergo applications can be compiled into native code using native-image ahead of time compiler and then executed without Java VM with very fast startup time and lower runtime memory overhead compared to a Java VM.
 
-# API
+## ErgoDEX sdk
 
-- Node API: https://git.io/fjqwb
-- Explorer API: https://git.io/fjqwN
-
+https://github.com/ergoplatform/ergo-dex-sdk-js
 
 
-
-# Misc
-
-- ErgoTool : A CLI for Errgo
-
-- Multi-signatures - distributed-signatures
-- [ErgoTool:](https://github.com/Emurgo/ergo-node-interface) A Command Line Interface for Ergo
-- ErgoScan: Ergo block explorer interface
-- Ergo-js
-- Ergo-Bootstrap: easy to use tool with cluster deployments for dApp development
-- Tx Builder - Interact with dApps without writing code
-- ErgoTree compiler 
-- Kiosk
 
 # Frameworks
 - [FlowCards: A Declarative Framework for Development of Ergo dApps](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/)
@@ -111,6 +99,24 @@ https://github.com/scorexfoundation/scorex
 Interpreter for a family of Sigma-State authentication languages, [a list of good first issues is available on Github](https://github.com/ScorexFoundation/sigmastate-interpreter/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 
 Once implemented, it will be used in Explorer, Playground and probably other tools.
+
+
+# Misc
+
+## API
+
+- Node API: https://git.io/fjqwb
+- Explorer API: https://git.io/fjqwN
+
+## Tools
+- ErgoTool : A CLI for Errgo
+
+- Multi-signatures - distributed-signatures
+- [ErgoTool:](https://github.com/Emurgo/ergo-node-interface) A Command Line Interface for Ergo
+- ErgoScan: Ergo block explorer interface
+- Tx Builder - Interact with dApps without writing code
+- ErgoTree compiler 
+- Kiosk
 
 # Documents
 
