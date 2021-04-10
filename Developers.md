@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:33:19.235Z
+date: 2021-04-10T13:36:06.551Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -23,9 +23,7 @@ dateCreated: 2021-02-24T08:19:45.758Z
 - [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
 
 
-**Services**
-- Mainnet explorer: https://explorer.ergoplatform.com/
-- Testnet explorer: https://testnet.ergoplatform.com/
+
 # Languages
 
 ## ErgoScript
@@ -71,6 +69,7 @@ The result would be
 - [AgeUSD Stablecoin Protocol](https://github.com/Emurgo/age-usd);
 - [Yoroi wallet](https://github.com/Emurgo/yoroi-frontend) (WASM bindings);
 - [Ergo Desktop Wallet](https://github.com/ErgoWallet/ergowallet-desktop) (WASM bindings);
+- [Ergo Utilities](https://github.com/robkorn/ergo-utilities-rust/) - General utilities to make writing off-chain Ergo code in Rust simpler 
 
 > New developer? A list of "*good first*" issues for Sigma-Rust is [available on GitHub](https://github.com/ergoplatform/sigma-rust/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 ) - @greenhat on [Discord](https://discord.gg/Q86PNMwRsu) is ready to assist anyone who is interested.
 {.is-info}
@@ -97,7 +96,10 @@ The result would be
 
 ## Appkit
 
-[Appkit](https://github.com/ergoplatform/ergo-appkit): A Library for Polyglot Development of Ergo Applications
+
+ - [Ergo Appkit (Polyglot library)](https://github.com/aslesarenko/ergo-appkit) - Appkit: A Library for Polyglot Development of Ergo Applications using [GraalVM](https://www.graalvm.org/)
+  - [Appkit Examples](https://github.com/aslesarenko/ergo-appkit-examples) - Examples of using Ergo Appkit for Polyglot Development of Ergo Applications
+ - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
 
 The Appkit library is based on GraalVM - a novel next generation approach to implement software which is reusable across several programming languages and execution environments.
 
@@ -130,20 +132,22 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 - [Multi-Stage Contracts in the UTXO Model: Delivery by Alexander Chepurnoy & Amitabh Saxena](https://www.youtube.com/watch?v=g3FlM_WOwBU)
 - [Non-Interactive Proofs of Proof-of-Work](https://eprint.iacr.org/2017/963.pdf)
 
-## API
 
+## Services
+- [Mainnet explorer](https://explorer.ergoplatform.com/)
+- [Testnet explorer](https://testnet.ergoplatform.com/)
 - [Node API](https://git.io/fjqwb)
 - [Explorer API](https://git.io/fjqwN)
 
 ## Tools
+- [Main repository](https://github.com/ergoplatform/ergo)
  - [Sigma-Rust](https://github.com/ergoplatform/sigma-rust/) - Alternative and simple implementation of ErgoTree interpreter and transaction building tools
- - [Ergo Utilities](https://github.com/robkorn/ergo-utilities-rust/) - General utilities to make writing off-chain Ergo code in Rust simpler 
- - [Ergo Appkit (Polyglot library)](https://github.com/aslesarenko/ergo-appkit) - Appkit: A Library for Polyglot Development of Ergo Applications using [GraalVM](https://www.graalvm.org/)
+
+
  - [ergo-ts (TypeScript)](https://github.com/coinbarn/ergo-ts)
  - [ergo-js (JavaScript)](https://github.com/ergoplatform/ergo-js) 
  - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for a developer. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) about particular example 
- - [Appkit Examples](https://github.com/aslesarenko/ergo-appkit-examples) - Examples of using Ergo Appkit for Polyglot Development of Ergo Applications
- - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
+
  - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address corresponding to some script  
 [Video tutorial #2](https://www.youtube.com/watch?v=DgztoNDFG8U) 
  - [Oracle Core](https://github.com/ergoplatform/oracle-core) - Run your oracle pools!
@@ -161,20 +165,17 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 
 # Documents
 
-**Manuals**
 
-- Full node set-up: https://git.io/fjqwx
-- Start mining: https://git.io/fjqwp
+- [Full node set-up](: https://git.io/fjqwx
+- [Start mining]( https://git.io/fjqwp
+- [White paper]( https://docs.ergoplatform.com/whitepaper.pdf)
+- [Yellow paper (in progress)]( https://docs.ergoplatform.com/YellowPaper.pdf)
+- [Short overview]( https://docs.ergoplatform.com/teaser.pdf)
+- [ErgoScript tutorial]( https://docs.ergoplatform.com/ErgoScript.pdf)
+- [ErgoScript advanced tutorial]( https://docs.ergoplatform.com/sigmastate_protocols.pdf)
+- [Autolykos PoW scheme specification]( https://docs.ergoplatform.com/ErgoPow.pdf)
 
-- White paper: https://docs.ergoplatform.com/whitepaper.pdf
-- Yellow paper (in progress): https://docs.ergoplatform.com/YellowPaper.pdf
-- Short overview: https://docs.ergoplatform.com/teaser.pdf
-- ErgoScript tutorial: https://docs.ergoplatform.com/ErgoScript.pdf
-- ErgoScript advanced tutorial: https://docs.ergoplatform.com/sigmastate_protocols.pdf
-- Autolykos PoW scheme specification: https://docs.ergoplatform.com/ErgoPow.pdf
 
-**Sources**:
-- Main repository: https://github.com/ergoplatform/ergo
 
 # ZK Treasury
 
