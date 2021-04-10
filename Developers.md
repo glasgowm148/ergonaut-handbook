@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T00:23:14.734Z
+date: 2021-04-10T00:26:34.128Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -36,6 +36,14 @@ Each contract example includes a `Ergo Playground` link which allows you to inst
 If you ever need clarity about how specific types/functions/operators in ErgoScript work, please reference the [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md).
 
 For an overarching summary of how everything in this repo works, please reference the video [ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
+
+ - [ErgoScript by Example](https://github.com/ergoplatform/ergoscript-by-example) - repository with ErgoScript examples you can play with in Ergo Playground 
+ - [Ergo notary](https://github.com/sininen-taivas/ergo-notary) - simple command-line tool to certificate files on the Ergo blockchain. 
+ See also [forum topic](https://www.ergoforum.org/t/ergo-notary-command-line-tool/75) on a particular example
+ - [Ergo oracles](https://github.com/sininen-taivas/ergo-oracle) - simple command-line tool to launch oracles. Inbuilt implementations for USD/ERG, EUR/ERG, BTC/ERG, AUG/ERG (gold) prices delivery. See also a [forum topic with example](https://www.ergoforum.org/t/erg-usd-oracle-on-top-of-ergo/119)
+ - [Ergo Crowdfunding CLI](https://github.com/robkorn/ergo-crowdfunding-cli) Command-line tool which enables participating and interacting with crowdfunding campaigns on Ergo 
+ - [Miner rewards script](https://github.com/lorien/ergotools) Simple command-line tool to find miner rewards not spent and form withdrawing transaction requests for them
+ - [A Quick Primer on ErgoScript](https://github.com/ergoplatform/ergo/wiki/ErgoScript-Overview) Learn the basics of ErgoScript quickly and create your first contract
 
 ## Rust
 
@@ -109,12 +117,27 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 - Explorer API: https://git.io/fjqwN
 
 ## Tools
-- Multi-signatures - distributed-signatures
-- [ErgoTool:](https://github.com/Emurgo/ergo-node-interface) A Command Line Interface for Ergo
-- ErgoScan: Ergo block explorer interface
-- Tx Builder - Interact with dApps without writing code
-- ErgoTree compiler 
-- Kiosk
+ - [Sigma-Rust](https://github.com/ergoplatform/sigma-rust/) - Alternative and simple implementation of ErgoTree interpreter and transaction building tools
+ - [Ergo Utilities](https://github.com/robkorn/ergo-utilities-rust/) - General utilities to make writing off-chain Ergo code in Rust simpler 
+ - [Ergo Appkit (Polyglot library)](https://github.com/aslesarenko/ergo-appkit) - Appkit: A Library for Polyglot Development of Ergo Applications using [GraalVM](https://www.graalvm.org/)
+ - [ergo-ts (TypeScript)](https://github.com/coinbarn/ergo-ts)
+ - [ergo-js (JavaScript)](https://github.com/ergoplatform/ergo-js) 
+ - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for a developer. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) about particular example 
+ - [Appkit Examples](https://github.com/aslesarenko/ergo-appkit-examples) - Examples of using Ergo Appkit for Polyglot Development of Ergo Applications
+ - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
+ - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address corresponding to some script  
+  - [ErgoMixer](https://github.com/ergoMixer/ergoMixBack) - Non-interactive and non-custodial mixer! [Video tutorial #1](https://www.youtube.com/watch?v=03_2HH82Plw),
+[Video tutorial #2](https://www.youtube.com/watch?v=DgztoNDFG8U) 
+ - [Oracle Core](https://github.com/ergoplatform/oracle-core) - Run your oracle pools!
+ - [Ergo Auctions House](http://ergoauctions.org/#/auction/active) - Buy and sell collectible tokens and not only! [Source code](https://github.com/anon-real/ErgoAuctionHouse)
+ - ZK Treasury: [Server](https://github.com/anon-real/DistributedSigsServer) and [Client](https://github.com/anon-real/DistributedSigsClient) - a tool for joint spendings with on-chain privacy 
+
+## Github
+
+- ErgoFund UI
+- ErgoDex
+- AgeUSD
+- SigmaUSD
 
 # Documents
 
