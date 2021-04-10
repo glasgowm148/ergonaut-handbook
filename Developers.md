@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:36:55.807Z
+date: 2021-04-10T13:38:32.252Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -113,22 +113,30 @@ Using Appkit Ergo applications can be written in one of the languages supported 
 
 ## ErgoDEX sdk
 
-https://github.com/ergoplatform/ergo-dex-sdk-js
+- [ergo-dex-sdk-js](https://github.com/ergoplatform/ergo-dex-sdk-js)
 
 
 
 # Frameworks
 - [FlowCards: A Declarative Framework for Development of Ergo dApps](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/)
-## Scorex 
- The modular blockchain framework
-https://github.com/scorexfoundation/scorex
-
 
 ## Sigmastate-Interpreter
 
 Interpreter for a family of Sigma-State authentication languages, [a list of good first issues is available on Github](https://github.com/ScorexFoundation/sigmastate-interpreter/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 
 Once implemented, it will be used in Explorer, Playground and probably other tools.
+
+## Oracle Core
+
+ - [Oracle Core](https://github.com/ergoplatform/oracle-core) - Run your oracle pools!
+
+## Scorex 
+
+- [ScoreX](https://github.com/scorexfoundation/scorex), The modular blockchain framework
+
+
+
+
 
 
 # Misc
@@ -147,12 +155,9 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 - [Main repository](https://github.com/ergoplatform/ergo)
  - [Sigma-Rust](https://github.com/ergoplatform/sigma-rust/) - Alternative and simple implementation of ErgoTree interpreter and transaction building tools
  - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
-
  - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for a developer. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) about particular example 
-
  - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address corresponding to some script  
 [Video tutorial #2](https://www.youtube.com/watch?v=DgztoNDFG8U) 
- - [Oracle Core](https://github.com/ergoplatform/oracle-core) - Run your oracle pools!
 
 ## dApps
   - [ErgoMixer](https://github.com/ergoMixer/ergoMixBack) - Non-interactive and non-custodial mixer! [Video tutorial #1](https://www.youtube.com/watch?v=03_2HH82Plw),
