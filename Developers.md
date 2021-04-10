@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T00:26:34.128Z
+date: 2021-04-10T00:28:29.743Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -126,14 +126,13 @@ Once implemented, it will be used in Explorer, Playground and probably other too
  - [Appkit Examples](https://github.com/aslesarenko/ergo-appkit-examples) - Examples of using Ergo Appkit for Polyglot Development of Ergo Applications
  - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
  - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address corresponding to some script  
-  - [ErgoMixer](https://github.com/ergoMixer/ergoMixBack) - Non-interactive and non-custodial mixer! [Video tutorial #1](https://www.youtube.com/watch?v=03_2HH82Plw),
 [Video tutorial #2](https://www.youtube.com/watch?v=DgztoNDFG8U) 
  - [Oracle Core](https://github.com/ergoplatform/oracle-core) - Run your oracle pools!
- - [Ergo Auctions House](http://ergoauctions.org/#/auction/active) - Buy and sell collectible tokens and not only! [Source code](https://github.com/anon-real/ErgoAuctionHouse)
+
+## dApps
+  - [ErgoMixer](https://github.com/ergoMixer/ergoMixBack) - Non-interactive and non-custodial mixer! [Video tutorial #1](https://www.youtube.com/watch?v=03_2HH82Plw),
+- [Ergo Auctions House](http://ergoauctions.org/#/auction/active) - Buy and sell collectible tokens and not only! [Source code](https://github.com/anon-real/ErgoAuctionHouse)
  - ZK Treasury: [Server](https://github.com/anon-real/DistributedSigsServer) and [Client](https://github.com/anon-real/DistributedSigsClient) - a tool for joint spendings with on-chain privacy 
-
-## Github
-
 - ErgoFund UI
 - ErgoDex
 - AgeUSD
