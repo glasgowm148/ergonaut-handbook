@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:29:09.547Z
+date: 2021-04-10T13:29:43.858Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -124,8 +124,8 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 
 ## API
 
-- Node API: https://git.io/fjqwb
-- Explorer API: https://git.io/fjqwN
+- [Node API](https://git.io/fjqwb)
+- [Explorer API](https://git.io/fjqwN)
 
 ## Tools
  - [Sigma-Rust](https://github.com/ergoplatform/sigma-rust/) - Alternative and simple implementation of ErgoTree interpreter and transaction building tools
@@ -153,7 +153,7 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 
 # Documents
 
-Manuals
+**Manuals**
 
 - Full node set-up: https://git.io/fjqwx
 - Start mining: https://git.io/fjqwp
