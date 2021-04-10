@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:45:07.042Z
+date: 2021-04-10T13:50:37.269Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -85,6 +85,7 @@ Learn [Ergoscript by reading example smart contracts](https://github.com/ergopla
 
  - [ergo-ts (TypeScript)](https://github.com/coinbarn/ergo-ts) with support of tokens and complex transactions
  - [ergo-js (JavaScript)](https://github.com/ergoplatform/ergo-js) with basic transaction operations
+ - [Ergo JS Template](https://github.com/anon-real/ergo-js-template)
 
 
 # Libaries
