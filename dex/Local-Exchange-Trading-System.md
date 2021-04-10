@@ -2,13 +2,16 @@
 title: Local Exchange Trading System (LETS)
 description: 
 published: true
-date: 2021-03-02T18:25:32.191Z
+date: 2021-04-10T00:08:19.109Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T18:11:57.861Z
 ---
 
 *The need to reform the global financial system has been clear since the last crisis in 2008. Now, COVID-19 has forced our hands. We cannot delay, and the best way to start is from the grassroots.*
+
+
+- See [A Trustless Local Exchange Trading System](https://github.com/ergoplatform/ergo/wiki/A-Trustless-Local-Exchange-Trading-System) on GitHub for more information.
 
 As lockdowns across the world effectively shut down whole sectors and a large part of the economy, we are entering a new era at breakneck pace. Central banks are taking unprecedented action in the form of money printing but, just like last time around, they will almost certainly fail at the ‘last mile’ (intentionally or otherwise): while their efforts will benefit the financial sector and the wealthy, the funds will not reach those small businesses and individuals who need them the most.
 
