@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T00:12:51.452Z
+date: 2021-04-10T00:15:02.897Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -14,32 +14,17 @@ dateCreated: 2021-02-24T08:19:45.758Z
 - See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
 - [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
 
-# ErgoScript
-Learn [Ergoscript by reading example smart contracts](https://github.com/ergoplatform/ergoscript-by-example) powered by the Ergo Playground.
-
-Each contract example includes a `Ergo Playground` link which allows you to instantly edit and run the smart contract code inside of your browser.
-
-If you ever need clarity about how specific types/functions/operators in ErgoScript work, please reference the [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md).
-
-For an overarching summary of how everything in this repo works, please reference the video [ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
-
 **Services**
 
 - Mainnet explorer: https://explorer.ergoplatform.com/
 - Testnet explorer: https://testnet.ergoplatform.com/
 
-**Addresses**
-
-An article on address schemas is on Ergo Platform Blog
 Manuals
 
 - Full node set-up: https://git.io/fjqwx
 - Start mining: https://git.io/fjqwp
 
-**API**
 
-- Node API: https://git.io/fjqwb
-- Explorer API: https://git.io/fjqwN
 
 **Documents**:
 
@@ -55,26 +40,24 @@ Manuals
 - Main repository: https://github.com/ergoplatform/ergo
 - Base framework: https://github.com/scorexfoundation/scorex
 
-**Libraries:**
-
-**Scala:**
-
-- Smart contract language: https://github.com/ScorexFoundation/sigmastate-interpreter
-- Basic cryptography library: https://github.com/input-output-hk/scrypto
-
-**JS:**
-
-- Typescrypt library with support of tokens and complex transactions: https://github.com/coinbarn/ergo-ts
-- Basic transaction operations: https://github.com/ergoplatform/ergo-js
 
 
 **Test vectors:**
 - Ergo transaction serialization: https://git.io/fjqwX
 - Signature scheme: https://git.io/fjqwH
 
+# Languages
 
+## ErgoScript
+Learn [Ergoscript by reading example smart contracts](https://github.com/ergoplatform/ergoscript-by-example) powered by the Ergo Playground.
 
-# Rust
+Each contract example includes a `Ergo Playground` link which allows you to instantly edit and run the smart contract code inside of your browser.
+
+If you ever need clarity about how specific types/functions/operators in ErgoScript work, please reference the [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md).
+
+For an overarching summary of how everything in this repo works, please reference the video [ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
+
+## Rust
 
 [Sigma-rust](https://github.com/ergoplatform/sigma-rust) - implementation of ErgoScript cryptocurrency scripting language. To get better understanding on how to use it in your project check out how its being used in the following projects:
 
@@ -88,6 +71,16 @@ Manuals
 > New developer? A list of "*good first*" issues for Sigma-Rust is [available on GitHub](https://github.com/ergoplatform/sigma-rust/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 ) - @greenhat on [Discord](https://discord.gg/Q86PNMwRsu) is ready to assist anyone who is interested.
 {.is-info}
 
+## Scala
+
+- Smart contract language: https://github.com/ScorexFoundation/sigmastate-interpreter
+- Basic cryptography library: https://github.com/input-output-hk/scrypto
+
+## JS
+
+- Typescrypt library with support of tokens and complex transactions: https://github.com/coinbarn/ergo-ts
+- Basic transaction operations: https://github.com/ergoplatform/ergo-js
+
 
 # Appkit
 
@@ -99,6 +92,10 @@ Appkit has idiomatic Java API and is written in Java/Scala. It is a thin wrapper
 
 Using Appkit Ergo applications can be written in one of the languages supported by GraalVM (i.e. Java, JavaScript, C/C++, Python, Ruby, R) and using this library applications can communicate with Ergo nodes via unified API and programming model provided by Appkit. In addition Appkit based Ergo applications can be compiled into native code using native-image ahead of time compiler and then executed without Java VM with very fast startup time and lower runtime memory overhead compared to a Java VM.
 
+# API
+
+- Node API: https://git.io/fjqwb
+- Explorer API: https://git.io/fjqwN
 
 # Sigmastate-Interpreter
 
