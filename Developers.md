@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:41:04.108Z
+date: 2021-04-10T13:42:20.662Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -52,8 +52,6 @@ Learn [Ergoscript by reading example smart contracts](https://github.com/ergopla
 - [Yoroi wallet](https://github.com/Emurgo/yoroi-frontend) (WASM bindings);
 - [Ergo Desktop Wallet](https://github.com/ErgoWallet/ergowallet-desktop) (WASM bindings);
 - [Ergo Utilities](https://github.com/robkorn/ergo-utilities-rust/) - General utilities to make writing off-chain Ergo code in Rust simpler 
-
-
 
 
 ## Scala
