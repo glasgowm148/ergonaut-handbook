@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:38:32.252Z
+date: 2021-04-10T13:39:37.455Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -10,10 +10,6 @@ dateCreated: 2021-02-24T08:19:45.758Z
 
 > This site is a community resource website, ergonauts are encouraged to create an account and add to the site. the site is backed up and available to use on [Github](https://github.com/glasgowm148/ergonaut-handbook). Submit pull requests to update this (and other) pages!
 {.is-info}
-
-
-
-
 
 
 # Overview
@@ -71,6 +67,7 @@ The result would be
 - [Ergo Desktop Wallet](https://github.com/ErgoWallet/ergowallet-desktop) (WASM bindings);
 - [Ergo Utilities](https://github.com/robkorn/ergo-utilities-rust/) - General utilities to make writing off-chain Ergo code in Rust simpler 
 
+
 > New developer? A list of "*good first*" issues for Sigma-Rust is [available on GitHub](https://github.com/ergoplatform/sigma-rust/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 ) - @greenhat on [Discord](https://discord.gg/Q86PNMwRsu) is ready to assist anyone who is interested.
 {.is-info}
 
@@ -83,7 +80,6 @@ The result would be
 
  - [ergo-ts (TypeScript)](https://github.com/coinbarn/ergo-ts) with support of tokens and complex transactions
  - [ergo-js (JavaScript)](https://github.com/ergoplatform/ergo-js) with basic transaction operations
-
 
 
 # Libaries
@@ -116,7 +112,6 @@ Using Appkit Ergo applications can be written in one of the languages supported 
 - [ergo-dex-sdk-js](https://github.com/ergoplatform/ergo-dex-sdk-js)
 
 
-
 # Frameworks
 - [FlowCards: A Declarative Framework for Development of Ergo dApps](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/)
 
@@ -134,13 +129,9 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 
 - [ScoreX](https://github.com/scorexfoundation/scorex), The modular blockchain framework
 
-
-
-
-
-
 # Misc
 
+- [Main repository](https://github.com/ergoplatform/ergo)
 - [Multi-Stage Contracts in the UTXO Model: Delivery by Alexander Chepurnoy & Amitabh Saxena](https://www.youtube.com/watch?v=g3FlM_WOwBU)
 - [Non-Interactive Proofs of Proof-of-Work](https://eprint.iacr.org/2017/963.pdf)
 
@@ -152,8 +143,6 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 - [Explorer API](https://git.io/fjqwN)
 
 ## Tools
-- [Main repository](https://github.com/ergoplatform/ergo)
- - [Sigma-Rust](https://github.com/ergoplatform/sigma-rust/) - Alternative and simple implementation of ErgoTree interpreter and transaction building tools
  - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
  - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for a developer. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) about particular example 
  - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address corresponding to some script  
