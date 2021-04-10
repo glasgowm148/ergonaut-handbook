@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:50:37.269Z
+date: 2021-04-10T14:16:35.148Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -17,6 +17,13 @@ dateCreated: 2021-02-24T08:19:45.758Z
 
 - See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
 - [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
+
+## Tools
+- [Ergo Bootstrap, Streamlining Ergo dApp Infrastructure With One Simple Tool](https://ergoplatform.org/en/blog/2020-12-11-ergo-bootstrap-streamlining-ergo-dapp-infrastructure-with-one-simple-tool/)
+
+ - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for a developer. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) for examples. 
+ - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address that corresponding to a script - [Video tutorial #2](https://www.youtube.com/watch?v=DgztoNDFG8U) 
+
 
 ## Hackathon
 
@@ -90,7 +97,6 @@ Learn [Ergoscript by reading example smart contracts](https://github.com/ergopla
 
 # Libaries
 
-- Ergo-Bootstrap: easy to use tool with cluster deployments for dApp development
 
 
 **Test vectors:**
@@ -125,11 +131,9 @@ Using Appkit Ergo applications can be written in one of the languages supported 
 
 Interpreter for a family of Sigma-State authentication languages, [a list of good first issues is available on Github](https://github.com/ScorexFoundation/sigmastate-interpreter/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 
-Once implemented, it will be used in Explorer, Playground and probably other tools.
-
 ## Oracle Core
 
- - [Oracle Core](https://github.com/ergoplatform/oracle-core) - Run your oracle pools!
+- [Oracle Core](https://github.com/ergoplatform/oracle-core) - Run your oracle pools!
 
 ## Scorex 
 
@@ -148,11 +152,7 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 - [Node API](https://git.io/fjqwb)
 - [Explorer API](https://git.io/fjqwN)
 
-## Tools
- - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
- - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for a developer. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) about particular example 
- - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address corresponding to some script  
-[Video tutorial #2](https://www.youtube.com/watch?v=DgztoNDFG8U) 
+
 
 ## dApps
   - [ErgoMixer](https://github.com/ergoMixer/ergoMixBack) - Non-interactive and non-custodial mixer! [Video tutorial #1](https://www.youtube.com/watch?v=03_2HH82Plw),
@@ -164,6 +164,7 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 
  - [Ergo oracles](https://github.com/sininen-taivas/ergo-oracle) - simple command-line tool to launch oracles. Inbuilt implementations for USD/ERG, EUR/ERG, BTC/ERG, AUG/ERG (gold) prices delivery. See also a [forum topic with example](https://www.ergoforum.org/t/erg-usd-oracle-on-top-of-ergo/119)
  - [Ergo Crowdfunding CLI](https://github.com/robkorn/ergo-crowdfunding-cli) Command-line tool which enables participating and interacting with crowdfunding campaigns on Ergo 
+ - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
 
 # Documents
 
