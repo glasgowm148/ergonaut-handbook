@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T14:16:35.148Z
+date: 2021-04-10T14:18:21.508Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -23,6 +23,7 @@ dateCreated: 2021-02-24T08:19:45.758Z
 
  - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for a developer. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) for examples. 
  - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address that corresponding to a script - [Video tutorial #2](https://www.youtube.com/watch?v=DgztoNDFG8U) 
+ - [ergo-dex-sdk-js](https://github.com/ergoplatform/ergo-dex-sdk-js)
 
 
 ## Hackathon
@@ -99,9 +100,6 @@ Learn [Ergoscript by reading example smart contracts](https://github.com/ergopla
 
 
 
-**Test vectors:**
-- Ergo transaction serialization: https://git.io/fjqwX
-- Signature scheme: https://git.io/fjqwH
 
 
 ## Appkit
@@ -119,9 +117,6 @@ Using Appkit Ergo applications can be written in one of the languages supported 
 
  - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
 
-## ErgoDEX sdk
-
-- [ergo-dex-sdk-js](https://github.com/ergoplatform/ergo-dex-sdk-js)
 
 
 # Frameworks
@@ -144,6 +139,11 @@ Interpreter for a family of Sigma-State authentication languages, [a list of goo
 - [Main repository](https://github.com/ergoplatform/ergo)
 - [Multi-Stage Contracts in the UTXO Model: Delivery by Alexander Chepurnoy & Amitabh Saxena](https://www.youtube.com/watch?v=g3FlM_WOwBU)
 - [Non-Interactive Proofs of Proof-of-Work](https://eprint.iacr.org/2017/963.pdf)
+
+**Test vectors:**
+- [Ergo transaction serialization](https://git.io/fjqwX)
+- [Signature scheme](https://git.io/fjqwH)
+
 
 
 ## Services
