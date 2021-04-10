@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:36:06.551Z
+date: 2021-04-10T13:36:55.807Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -79,10 +79,12 @@ The result would be
 - Smart contract language: https://github.com/ScorexFoundation/sigmastate-interpreter
 - Basic cryptography library: https://github.com/input-output-hk/scrypto
 
-## JS
+## JS/TS
 
-- Typescrypt library with support of tokens and complex transactions: https://github.com/coinbarn/ergo-ts
-- Basic transaction operations: https://github.com/ergoplatform/ergo-js
+ - [ergo-ts (TypeScript)](https://github.com/coinbarn/ergo-ts) with support of tokens and complex transactions
+ - [ergo-js (JavaScript)](https://github.com/ergoplatform/ergo-js) with basic transaction operations
+
+
 
 # Libaries
 
@@ -99,13 +101,15 @@ The result would be
 
  - [Ergo Appkit (Polyglot library)](https://github.com/aslesarenko/ergo-appkit) - Appkit: A Library for Polyglot Development of Ergo Applications using [GraalVM](https://www.graalvm.org/)
   - [Appkit Examples](https://github.com/aslesarenko/ergo-appkit-examples) - Examples of using Ergo Appkit for Polyglot Development of Ergo Applications
- - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
+
 
 The Appkit library is based on GraalVM - a novel next generation approach to implement software which is reusable across several programming languages and execution environments.
 
 Appkit has idiomatic Java API and is written in Java/Scala. It is a thin wrapper around core components provided by ErgoScript interpreter and Ergo protocol implementations which are written in Scala.
 
 Using Appkit Ergo applications can be written in one of the languages supported by GraalVM (i.e. Java, JavaScript, C/C++, Python, Ruby, R) and using this library applications can communicate with Ergo nodes via unified API and programming model provided by Appkit. In addition Appkit based Ergo applications can be compiled into native code using native-image ahead of time compiler and then executed without Java VM with very fast startup time and lower runtime memory overhead compared to a Java VM.
+
+ - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
 
 ## ErgoDEX sdk
 
@@ -142,10 +146,8 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 ## Tools
 - [Main repository](https://github.com/ergoplatform/ergo)
  - [Sigma-Rust](https://github.com/ergoplatform/sigma-rust/) - Alternative and simple implementation of ErgoTree interpreter and transaction building tools
+ - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
 
-
- - [ergo-ts (TypeScript)](https://github.com/coinbarn/ergo-ts)
- - [ergo-js (JavaScript)](https://github.com/ergoplatform/ergo-js) 
  - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for a developer. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) about particular example 
 
  - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address corresponding to some script  
