@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T13:29:43.858Z
+date: 2021-04-10T13:29:58.267Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -40,6 +40,8 @@ For an overarching summary of how everything in this repo works, please referenc
  See also [forum topic](https://www.ergoforum.org/t/ergo-notary-command-line-tool/75) on a particular example
  - [Miner rewards script](https://github.com/lorien/ergotools) Simple command-line tool to find miner rewards not spent and form withdrawing transaction requests for them
  - [A Quick Primer on ErgoScript](https://github.com/ergoplatform/ergo/wiki/ErgoScript-Overview) Learn the basics of ErgoScript quickly and create your first contract
+ - [ErgoScript Design patterns](https://www.ergoforum.org/t/ergoscript-design-patterns/222)
+
  
  you can do that with node API and also ErgoScript to P2S (pay-to-script) address  compiler, e.g. `https://wallet.plutomonkey.com/p2s` . For example, you want to create a coin anyone can spend. Then create and compile to P2S address the following script:
 
@@ -120,7 +122,6 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 
 - [Multi-Stage Contracts in the UTXO Model: Delivery by Alexander Chepurnoy & Amitabh Saxena](https://www.youtube.com/watch?v=g3FlM_WOwBU)
 - [Non-Interactive Proofs of Proof-of-Work](https://eprint.iacr.org/2017/963.pdf)
-- [ErgoScript Design patterns](https://www.ergoforum.org/t/ergoscript-design-patterns/222)
 
 ## API
 
