@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T00:22:16.157Z
+date: 2021-04-10T00:23:14.734Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -109,8 +109,6 @@ Once implemented, it will be used in Explorer, Playground and probably other too
 - Explorer API: https://git.io/fjqwN
 
 ## Tools
-- ErgoTool : A CLI for Errgo
-
 - Multi-signatures - distributed-signatures
 - [ErgoTool:](https://github.com/Emurgo/ergo-node-interface) A Command Line Interface for Ergo
 - ErgoScan: Ergo block explorer interface
