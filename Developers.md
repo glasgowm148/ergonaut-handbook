@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-03-24T15:30:54.819Z
+date: 2021-04-10T00:12:51.452Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -22,6 +22,56 @@ Each contract example includes a `Ergo Playground` link which allows you to inst
 If you ever need clarity about how specific types/functions/operators in ErgoScript work, please reference the [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md).
 
 For an overarching summary of how everything in this repo works, please reference the video [ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
+
+**Services**
+
+- Mainnet explorer: https://explorer.ergoplatform.com/
+- Testnet explorer: https://testnet.ergoplatform.com/
+
+**Addresses**
+
+An article on address schemas is on Ergo Platform Blog
+Manuals
+
+- Full node set-up: https://git.io/fjqwx
+- Start mining: https://git.io/fjqwp
+
+**API**
+
+- Node API: https://git.io/fjqwb
+- Explorer API: https://git.io/fjqwN
+
+**Documents**:
+
+- White paper: https://docs.ergoplatform.com/whitepaper.pdf
+- Yellow paper (in progress): https://docs.ergoplatform.com/YellowPaper.pdf
+- Short overview: https://docs.ergoplatform.com/teaser.pdf
+- ErgoScript tutorial: https://docs.ergoplatform.com/ErgoScript.pdf
+- ErgoScript advanced tutorial: https://docs.ergoplatform.com/sigmastate_protocols.pdf
+- Autolykos PoW scheme specification: https://docs.ergoplatform.com/ErgoPow.pdf
+
+**Sources**:
+
+- Main repository: https://github.com/ergoplatform/ergo
+- Base framework: https://github.com/scorexfoundation/scorex
+
+**Libraries:**
+
+**Scala:**
+
+- Smart contract language: https://github.com/ScorexFoundation/sigmastate-interpreter
+- Basic cryptography library: https://github.com/input-output-hk/scrypto
+
+**JS:**
+
+- Typescrypt library with support of tokens and complex transactions: https://github.com/coinbarn/ergo-ts
+- Basic transaction operations: https://github.com/ergoplatform/ergo-js
+
+
+**Test vectors:**
+- Ergo transaction serialization: https://git.io/fjqwX
+- Signature scheme: https://git.io/fjqwH
+
 
 
 # Rust
