@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T14:18:51.371Z
+date: 2021-04-10T14:19:46.001Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -20,8 +20,7 @@ dateCreated: 2021-02-24T08:19:45.758Z
 
 ## Tools
 - [Ergo Bootstrap, Streamlining Ergo dApp Infrastructure With One Simple Tool](https://ergoplatform.org/en/blog/2020-12-11-ergo-bootstrap-streamlining-ergo-dapp-infrastructure-with-one-simple-tool/)
-
- - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for a developer. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) for examples. 
+ - [Kiosk](https://github.com/scalahub/Kiosk) - interface to Ergo node with additional features for developers. See this [forum post](https://www.ergoforum.org/t/ergoscript-playground-using-kiosk/96) for examples. 
  - [Ergo P2S Playground](https://wallet.plutomonkey.com/p2s/?source=dHJ1ZQ==) - A web-based tool to quickly get the address that corresponding to a script - [Video tutorial #2](https://www.youtube.com/watch?v=DgztoNDFG8U) 
  - [ergo-dex-sdk-js](https://github.com/ergoplatform/ergo-dex-sdk-js)
 
