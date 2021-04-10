@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T14:22:39.099Z
+date: 2021-04-10T19:26:07.012Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -169,8 +169,8 @@ Using Appkit Ergo applications can be written in one of the languages supported 
 # Documents
 
 
-- [Full node set-up](: https://git.io/fjqwx
-- [Start mining]( https://git.io/fjqwp
+- [Full node set-up](https://git.io/fjqwx)
+- [Start mining](https://git.io/fjqwp)
 - [White paper]( https://docs.ergoplatform.com/whitepaper.pdf)
 - [Yellow paper (in progress)]( https://docs.ergoplatform.com/YellowPaper.pdf)
 - [Short overview]( https://docs.ergoplatform.com/teaser.pdf)
