@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-11T10:27:21.462Z
+date: 2021-04-11T10:28:04.214Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -105,7 +105,7 @@ Learn [Ergoscript by reading example smart contracts](https://github.com/ergopla
 Interpreter for a family of Sigma-State authentication languages, [a list of good first issues is available on Github](https://github.com/ScorexFoundation/sigmastate-interpreter/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 
 ## Oracle Core
-
+The oracle core is the off-chain component that oracles who are part of an oracle pool run. This oracle core provides a HTTP API interface for reading the current protocol state & another for submitting datapoints. Once a datapoint is submited, the oracle core will automatically generate the required tx and post it as well as any other actions required for the protocol to run. This thereby allows the oracle to participate in the oracle pool protocol without any extra effort for the oracle operator.
 - [Oracle Core](https://github.com/ergoplatform/oracle-core) - Run your oracle pools!
 
 ## Scorex 
