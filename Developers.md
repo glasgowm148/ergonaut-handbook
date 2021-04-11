@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-11T10:28:04.214Z
+date: 2021-04-11T10:28:47.146Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -11,6 +11,7 @@ dateCreated: 2021-02-24T08:19:45.758Z
 > This site is a community resource website, ergonauts are encouraged to create an account and add to the site. the site is backed up and available to use on [Github](https://github.com/glasgowm148/ergonaut-handbook). Submit pull requests to update this (and other) pages!
 {.is-info}
 
+# Getting Started
 The Ergo ecosystem is quickly growing with new design patterns, tools, dApps, and more every single month. This is an exciting point in time for developers to jump in and get started.
 
 That said, while building dApps on top of Ergo, vital infrastructure components to develop and run your dApp might be intimidating to set up for someone who is unfamiliar with the existing tooling. Between an Ergo full node, explorer back end, explorer front end, logging, and metrics, it can become quite overwhelming for a nascent dApp developer entering into the ecosystem.
