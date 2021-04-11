@@ -2,7 +2,7 @@
 title: ErgoMixer
 description: 
 published: true
-date: 2021-04-11T10:46:19.861Z
+date: 2021-04-11T17:41:37.204Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:54.623Z
@@ -20,6 +20,7 @@ The mixer only mixes while the application is running - however, you can close t
 
 - [ErgoMixer GitHub](https://github.com/ergoMixer/ergoMixBack)
 - [Video tutorial](https://www.youtube.com/watch?v=03_2HH82Plw)
+- Technical Paper: [ZeroJoin: Combining ZeroCoin and CoinJoin](https://eprint.iacr.org/2020/560.pdf)
 
 
 
