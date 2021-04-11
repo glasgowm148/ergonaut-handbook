@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-11T10:17:49.556Z
+date: 2021-04-11T10:22:39.689Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -32,8 +32,8 @@ The following topics will likely be covered
 
 * Improvements to ErgoScript (not all the ErgoTree features are projected into it)
 * Improvements to Ergo AppKit (basic library for constructing transactions and building offchain logic on top of for Java and JVM languages) 
-* Improvements to Ergo Node Interface and Headless DApp Framework (basic library for constructing transactions and building offchain logic with Rust)
-* Crowdfunding apps
+* Improvements to Ergo Node Interface and - [Ergo Headless dApp Framework](https://github.com/Emurgo/ergo-headless-dapp-framework) (basic library for constructing transactions and building offchain logic with Rust)
+* [Ergo Crowdfunding](https://github.com/robkorn/ergo-crowdfunding-cli) apps/UI 
 * Visual tool for constructing multi-signatures (could be a good first step for visual tools to construct more complex scripts)
 * Tokenization schemes
 * Tools for NFTs
