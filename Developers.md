@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-11T10:28:47.146Z
+date: 2021-04-11T10:31:34.117Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -18,12 +18,11 @@ That said, while building dApps on top of Ergo, vital infrastructure components 
 
 For this reason, we are introducing [ergo-bootstrap](https://github.com/ergoplatform/ergo-bootstrap), an easy-to-use tool that enables quick and clean Ergo blockchain cluster deployments which supports a variety of useful infrastructure components you will need on your path of dApp development. This was developed by Marek of Five Binaries thanks to a grant given by the Ergo Foundation and their latest push to empower the ecosystem via funding key projects.
 
-- [Ergo Bootstrap, Streamlining Ergo dApp Infrastructure With One Simple Tool](https://ergoplatform.org/en/blog/2020-12-11-ergo-bootstrap-streamlining-ergo-dapp-infrastructure-with-one-simple-tool/)
+Ergo bootstrap tool, build on top of ergo-nix, will help you to quickly deploy an Ergo blockchain cluster with a handful of useful tools you might need to start developing your dApps.
 
-- See the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/)
-- [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819)
+Read more on the blog - [Ergo Bootstrap, Streamlining Ergo dApp Infrastructure With One Simple Tool](https://ergoplatform.org/en/blog/2020-12-11-ergo-bootstrap-streamlining-ergo-dapp-infrastructure-with-one-simple-tool/)
 
-
+You can see the currently deployed dApps on [sigmaverse.io](https://sigmaverse.io/), and this recent post on the forum on [Ergo dApp Ecosystem Development - ergoforum](https://www.ergoforum.org/t/what-apps-can-you-do-on-ergo/819) gives some indication to where development is needed. 
 
 ## Hackathon
 
