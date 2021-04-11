@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-10T19:26:07.012Z
+date: 2021-04-11T10:17:49.556Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -143,7 +143,7 @@ Using Appkit Ergo applications can be written in one of the languages supported 
 **Test vectors:**
 - [Ergo transaction serialization](https://git.io/fjqwX)
 - [Signature scheme](https://git.io/fjqwH)
-
+- [Ergo Improvement Proposals](https://github.com/ergoplatform/eips/)
 
 
 ## Services
