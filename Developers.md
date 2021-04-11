@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-11T10:33:15.740Z
+date: 2021-04-11T10:35:03.098Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -54,7 +54,7 @@ Everyone participating will be rewarded for delivering anything that progresses 
 Learn [Ergoscript by reading example smart contracts](https://github.com/ergoplatform/ergoscript-by-example) powered by the Ergo Playground. Each contract example includes a `Ergo Playground` link which allows you to instantly edit and run the smart contract code inside of your browser.
 
 - If you ever need clarity about how specific types/functions/operators in ErgoScript work, please reference the [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md).
-- For an overarching summary of how everything in this repo works, please reference the video [ErgoScript By Example & Ergo Playground Introductory Video](https://www.youtube.com/watch?v=8l2v1asHgyA)
+- For an overarching summary, please reference this [video](https://www.youtube.com/watch?v=8l2v1asHgyA)
  - [A Quick Primer on ErgoScript](https://github.com/ergoplatform/ergo/wiki/ErgoScript-Overview) Learn the basics of ErgoScript quickly and create your first contract
  - [ErgoScript Design patterns](https://www.ergoforum.org/t/ergoscript-design-patterns/222)
 
@@ -92,7 +92,6 @@ Learn [Ergoscript by reading example smart contracts](https://github.com/ergopla
 
 
 # Frameworks
-- [FlowCards: A Declarative Framework for Development of Ergo dApps](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/)
 
 ## Sigmastate-Interpreter
 
@@ -179,9 +178,10 @@ Please check out existing EIPs, such as [EIP-1](eip-0001.md), to understand the 
  - [Ergo Crowdfunding CLI](https://github.com/robkorn/ergo-crowdfunding-cli) Command-line tool which enables participating and interacting with crowdfunding campaigns on Ergo 
  - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
 
-# Documents
 
+# Documentation
 
+- [FlowCards: A Declarative Framework for Development of Ergo dApps](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/)
 - [Full node set-up](https://git.io/fjqwx)
 - [Start mining](https://git.io/fjqwp)
 - [White paper]( https://docs.ergoplatform.com/whitepaper.pdf)
