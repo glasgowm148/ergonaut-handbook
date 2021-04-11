@@ -2,7 +2,7 @@
 title: ErgoMixer
 description: 
 published: true
-date: 2021-04-11T10:39:22.812Z
+date: 2021-04-11T10:46:19.861Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:54.623Z
@@ -14,6 +14,8 @@ dateCreated: 2021-02-24T08:03:54.623Z
 
 
 ErgoMixer is a web application for mixing ergs and tokens based on Ergo platform. ErgoMixer is a completely serverless, Non-interactive and non-custodial mixer; It only needs to connect to the explorer and a node (any node! no api_key is needed).
+
+The mixer only mixes while the application is running - however, you can close to pause mixing at any time, covert addresses will also work fine and start mixing when you launch the application. 
 
 
 - [ErgoMixer GitHub](https://github.com/ergoMixer/ergoMixBack)
