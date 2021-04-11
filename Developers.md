@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-11T10:31:34.117Z
+date: 2021-04-11T10:32:07.980Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -43,7 +43,7 @@ The following topics will likely be covered
 * More data connectors for the oracle pools
 * Private swaps with other chains on Schnorr signature (Bitcoin Cash, Litecoin (?), Komodo (?))
 
-Everyone participating will be rewarded for delivering anything making any progress towards the current state.
+Everyone participating will be rewarded for delivering anything that progresses the current state.
 
 
 
