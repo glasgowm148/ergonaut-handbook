@@ -2,7 +2,7 @@
 title: Donations
 description: 
 published: true
-date: 2021-04-11T10:48:22.265Z
+date: 2021-04-11T10:49:11.902Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T20:48:27.560Z
@@ -17,7 +17,7 @@ This site is a community resource website, ergonauts are encouraged to create an
 # Donations
 If you like me to spend countless more hours collating resources, and making erg digestable - feel free to make it worth my time!
 
-<kbd>9hqXcLTMdBMQXoH42ZMo63yFJKrAWasTGL8os4ZCiBiEGxvVXb5</kbd>
+<kbd>9iMzrpFRNyxFufMyCr4MfPsjLZHPgofphL2rqog9v3zB6wCNGL1</kbd>
 
 ![canvas.png](/canvas.png)
 
