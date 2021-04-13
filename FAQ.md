@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2021-04-09T21:23:54.321Z
+date: 2021-04-13T13:55:15.014Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -16,8 +16,7 @@ Proof-of-Work has tried and tested methods, and provides several benefits over P
 
 Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is, if it is doing collateralized DeFi, the larger the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient security for all more complex DApps implementations on top of the common UTxO model rather than trying to translate very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are completely different.
 
-[Cardano](/Cardano)
-
+- See our post on [Cardano](/Cardano) for more information
 - [Ergo: Why Proof of Work?](https://curiaregiscrypto.medium.com/ergo-why-proof-of-work-47c9b25fae70)
 - [Entering the Next Era of Pow With Ergo](https://curiaregiscrypto.medium.com/entering-the-next-era-of-pow-with-ergo-e4d83530410c)
 ## Why was non-outsourceability turned off?
