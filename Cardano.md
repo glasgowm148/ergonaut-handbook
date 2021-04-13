@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-03-27T18:02:42.411Z
+date: 2021-04-13T09:46:25.083Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -26,7 +26,11 @@ Although PoS is a very secure protocol, some smart contracts may require the con
 1. Oracle pools — layered pools of pools of oracles with deviation checking consensus opening a whole new world of applications.
 1. Local Exchange Trading System on top of Ergo.
 
+Currently, the blocks in the Ergo Network are produced at an interval of approx. 2 minutes. Ergo’s solutions to transaction congestion are as follows: (1) At Layer 0 Network Protocol Layer, the network protocol is optimized. (2) At Layer 1 Blockchain Layer, the Ergo blockchain adopts stateless clients that can receive blocks that carry transactions relevant to specific inputs or outputs, rather than digesting the whole sum of transactions of the blockchain, stateless clients are ideal for high volume applications, increasing performance by removing server load. Ergo blockchain also adopts NiPoPoW which allows light clients to synchronize with the network by downloading less than one megabyte of data and allows to ordinary people with smart phone to join the Ergo network and use the services on top of Ergo with with full node security, avoiding the problem that some Layers 2 pathways for lite client environments trade security for functionality. Additionally, Ergo miners may change the
+
 # Oracle Pools
+
+Although Ergo adopts the PoW mechanism while Cardano adopts the PoS mechanism, they are highly compatible because both are based on eUTXO models. Ergo will bring to Cardano the advantages of PoW, for instance, NiPoPoW, which supports ultra-light clients and cross-chain interoperability, because NiPoPoW cannot be used on PoS, and Cardano cannot use the technology directly but can use it via Ergo’s PoW to support ultra-light clients. Furthermore, Cardano has adopted Ergo's oracle pool scheme instead of Chainlink. The advantage of the oracle pool model is that no oracle tokens are issued so that the end users can use the oracle services for at an extremely low cost, and its another advantage is that its data sources are decentralized and more reliable. Currently, Ergo oracle pools have two use cases, namely ERG/USD Oracle Pool and ADA/USD Oracle Pool. For details, please refer to the article "Deep Interpretation: What Ergo Will Bring to Cardano".
 
 The oracle solution for Cardano will post data from Ergo’s oracle pools, treating the pre-processed data as a trusted source for its own records to the blockchain.
 
