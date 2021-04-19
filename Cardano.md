@@ -2,11 +2,15 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-13T09:57:24.175Z
+date: 2021-04-19T20:19:52.098Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
 ---
+
+> [F5: Scale-UP Cardano's DeFi Ecosystem - ErgoDex Plutus Port ](https://cardano.ideascale.com/a/dtd/ErgoDex-Plutus-Port/352410-48088)
+{.is-info}
+
 
 Ergo Founded was by Charles Hoskinson’s *“favorite technologist”* Alex Chepurnoy who contributed to the development of Cardano and founded smartcontract.com (now Chainlink). In a interview Hoskinson described Ergo as;
 
