@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-20T09:23:19.722Z
+date: 2021-04-20T10:47:42.937Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -12,7 +12,7 @@ dateCreated: 2021-02-25T07:53:55.991Z
 {.is-info}
 
 
-Ergo Founded was by Charles Hoskinson’s *“favorite technologist”* Alex Chepurnoy who contributed to the development of Cardano and founded smartcontract.com (now Chainlink). In a interview Hoskinson described Ergo as;
+Ergo was founded by Charles Hoskinson’s *“favorite technologist”* Alex Chepurnoy who contributed to the development of Cardano and founded smartcontract.com (now Chainlink). In a interview Hoskinson described Ergo as;
 
 > “one of the most revolutionary cryptocurrencies ever built. Got so many crazy ideas like non-outsourceable puzzles and sigma protocols and pruning the blockchain and roller chains. All this crazy stuff. Even has a proof of no premine.” — Charles Hoskinson
 {.is-success}
