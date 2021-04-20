@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-20T12:14:37.313Z
+date: 2021-04-20T12:14:49.604Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -19,7 +19,7 @@ Ergo was founded by Charles Hoskinson’s *“favorite technologist”*,  Alex C
 
 The main objective of Ergo is to provide financial contracts efficiently and securely so that people can use them in a decentralised manner and without any need for prior trust. The fully Cardano-compatible PoW can make significant contributions to all developers in the Cardano ecosystem. Ergo is the first blockchain to adopt the smart contract language in the same eUTxO (extended UTXO) model as Cardano, enabling Proof of Work compatibility.
 
-## Security
+# Security
 
 > Robert Kornacki (Head of R&D @ Emurgo) — 01/06/2020
 >
