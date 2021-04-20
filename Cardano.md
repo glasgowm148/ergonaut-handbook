@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-19T20:19:52.098Z
+date: 2021-04-20T09:23:19.722Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -18,6 +18,18 @@ Ergo Founded was by Charles Hoskinson’s *“favorite technologist”* Alex Che
 {.is-success}
 
 The main objective of Ergo is to provide financial contracts in an efficient and secure way, so that people can use them in a decentralized manner and without any need for prior trust. The fully Cardano-compatible PoW can make great contributions to all developers in the Cardano ecosystem. Ergo is the first blockchain to adopt the smart contract language in the same eUTxO (extended UTXO) model as Cardano, enabling Proof of Work compatibility.
+
+## Security
+
+> Robert Kornacki (Head of R&D @ Emurgo) — 01/06/2020
+>
+> @kushti I've been mulling over the point you raised/article that talked about DeFi breaking PoS blockchains, and really I think the article was way too narrow in scope. To me it looks like smart contracts are literally the antithesis of PoS.
+Any contract that deals with not just data, but uses the core PoS blockchain token at all degrades the security of the network. This means DAOs/treasuries, smart contract multi-sig wallets, gaming/gambling, etc.
+>
+> The success of a PoS smart contract powered blockchain's literally leads to a death spiral as coins are used in contracts that provide users with new benefits while destroying the network (so it's much worse than the original claim of just DeFi giving better returns leading to problems).
+>
+> It's a really obvious point in retrospect, but how has no one addressed this seriously with the rise of a million PoS blockchains and Ethereum itself switching to PoS?
+
 
 Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is, if it is doing collateralized DeFi, the larger the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient security for all more complex DApps implementations on top of the common UTxO model rather than trying to translate very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are completely different.
 
