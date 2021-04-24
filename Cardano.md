@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-24T08:59:37.930Z
+date: 2021-04-24T09:01:49.170Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -12,6 +12,7 @@ dateCreated: 2021-02-25T07:53:55.991Z
 {.is-info}
 
 
+# Overview
 Ergo was founded by Charles Hoskinson’s *“favorite technologist”*,  Alex Chepurnoy - who contributed to the development of Cardano and founded smartcontract.com (now Chainlink). In an interview, Hoskinson described Ergo as;
 
 > “one of the most revolutionary cryptocurrencies ever built. Got so many crazy ideas like non-outsourceable puzzles and sigma protocols and pruning the blockchain and roller chains. All this crazy stuff. Even has a proof of no premine.” — Charles Hoskinson
@@ -27,6 +28,12 @@ The main objective of Ergo is to provide financial contracts efficiently and sec
 1. The Ergo headless dApps framework.
 1. Oracle pools — layered pools of oracles with deviation checking consensus opening a whole new world of applications.
 1. Local Exchange Trading System on top of Ergo.
+
+## Articles
+    
+- [Ergo will complement Cardano](https://forum.cardano.org/t/ergo-will-complement-cardano/45412)
+- There is another article [here](https://veriumfellow.medium.com/what-will-ergo-bring-to-cardano-2f7ae911a9bd) with a more technical overview of what Ergo brings to ADA.
+- [hoskinson-cardano-working-on-stablecoin to rival makerdao developing defi products](https://thedailychain.com/hoskinson-cardano-working-on-stablecoin-to-rival-makerdao-developing-defi-products/)
 
 
 # Staking Pitfalls
@@ -59,17 +66,11 @@ The oracle solution for Cardano will post data from Ergo’s oracle pools, treat
 Although Ergo adopts the PoW mechanism while Cardano adopts the PoS mechanism, they are highly compatible because both are based on eUTXO models. Ergo will bring Cardano the advantages of PoW, for instance, NiPoPoW, which supports ultra-light clients and cross-chain interoperability, because NiPoPoW cannot be used on PoS, and Cardano cannot use the technology directly but can use it via Ergo’s PoW to support ultra-light clients. Furthermore, Cardano has adopted Ergo's oracle pool scheme instead of Chainlink. The advantage of the oracle pool model is that no oracle tokens are issued so that the end-users can use the oracle services at an extremely low cost, and another advantage is that its data sources are decentralised and more reliable. Currently, Ergo oracle pools have two use cases, namely ERG/USD Oracle Pool and ADA/USD Oracle Pool. For details, please refer to the article "Deep Interpretation: What Ergo Will Bring to Cardano".
 
 
-
-[Ergo vs Chainlink](https://www.ergoforum.org/t/oracle-pools-a-new-oracle-model/263)
-
-[First steps towards interoperability with Cardano oracles](https://ergoplatform.org/en/blog/2020-11-09-first-steps-towards-interoperability-with-cardano-oracles/)
-
-https://btcmanager.com/ergo-oracle-solution-cardano-ada-interoperability/
-
-https://forum.cardano.org/t/ergo-will-complement-cardano/45412
-
-https://emurgo.io/blog/emurgo-releases-oracle-core-for-developers
-
+- [Ergo vs Chainlink](https://www.ergoforum.org/t/oracle-pools-a-new-oracle-model/263)
+- [First steps towards interoperability with Cardano oracles](https://ergoplatform.org/en/blog/2020-11-09-first-steps-towards-interoperability-with-cardano-oracles/)
+- [BTCManager: Ergo Oracle Solution Cardano ADA Interoperability](https://btcmanager.com/ergo-oracle-solution-cardano-ada-interoperability/)
+- [Cardano Forums: Ergo Will Compliment Cardano](https://forum.cardano.org/t/ergo-will-complement-cardano/45412)
+- [Emurgo: Emurgo releases oracle core for developers](https://emurgo.io/blog/emurgo-releases-oracle-core-for-developers)
 # Emurgo
 
 **[EMURGO to Partner with Ergo and Build Blockchain-Based Decentralised Financial Solutions](https://emurgo.io/blog/emurgo-to-partner-with-ergo-and-build-blockchain-based-decentralized-financial-solutions)**
@@ -96,8 +97,3 @@ The economic model for SigmaUSD (The AgeUSD Protocol) was created in joint partn
 We are exploring those, and there's been a lot of excitement on these governments' monetary policy side. The big challenge is also the regulatory layer on top of stablecoins. There needs to be the ability to freeze them, reverse transactions in the compliance layer. Cardano has a unique advantage here in that we have a product called Prism, and it's our identity management stack. It's blockchain agnostic, but it's tightly integrated with Cardano. It's a layer two identity stack based on DIDs, and this is going to enable people to have things like authenticated addresses where you could associate an address or an asset with a DID. DID is a decentralised identifier; then you can do KYC and AML on that DID, and then suddenly you can create a transitive graph of ownership and verify that all the people touching it has the right to do that. Who signs that DID is completely neutral. You could have a government sign it; regulatory bodies sign it; you can have a private entity like Pwc sign it or something like that.
 
 
-# Articles
-    
-- [Ergo will complement Cardano](https://forum.cardano.org/t/ergo-will-complement-cardano/45412)
-- There is another article [here](https://veriumfellow.medium.com/what-will-ergo-bring-to-cardano-2f7ae911a9bd) with a more technical overview of what Ergo brings to ADA.
-- [https://thedailychain.com/hoskinson-cardano-working-on-stablecoin-to-rival-makerdao-developing-defi-products/](https://thedailychain.com/hoskinson-cardano-working-on-stablecoin-to-rival-makerdao-developing-defi-products/)
