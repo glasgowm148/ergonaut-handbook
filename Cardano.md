@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-24T11:12:26.498Z
+date: 2021-04-24T11:12:40.484Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -90,7 +90,7 @@ The economic model for SigmaUSD (The AgeUSD Protocol) was created in joint partn
 
 
 **Cardano's Stablecoin Will be 'Better Than MakerDAO,' Says Hoskinson**
-> "For example, we've partnered with Emrugo, and we're right now working on the logistics of a stablecoin with them that we're going to be building first on Ergo to verify everything works correctly, and then we'll pull it over into Cardano and this is going to be an algorithmic stablecoin," said Hoskinson, adding, "We think it'll be significantly better than MakerDAO."
+> "For example, we've partnered with Emurgo, and we're right now working on the logistics of a stablecoin with them that we're going to be building first on Ergo to verify everything works correctly, and then we'll pull it over into Cardano and this is going to be an algorithmic stablecoin," said Hoskinson, adding, "We think it'll be significantly better than MakerDAO."
 
 **'Will SigmaUSD launch with gougen?**
 >'  I'm going to see if we can do a SigmaUSD port after we do native-assets; we already have a Plutus implementation. We're discussing a lot of legal and regularatory stuff. It's a high priority of mine because it's interconnected for what we'd like to do for the next generation of Cardano, and it's very important to pull those things together.
