@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-24T08:59:06.038Z
+date: 2021-04-24T08:59:37.930Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -37,20 +37,19 @@ Although PoS is a very secure protocol, some smart contracts may require the con
 Proof of Stake (PoS) is a burgeoning Sybil resistance mechanism that aims to have a digital asset (“token”) serve as security collateral in crypto networks. However, PoS has so far eluded a comprehensive threat model that encompasses both Byzantine attacks from distributed systems and financial attacks that arise from the dual usage of the token as a means of payment and a Sybil resistance mechanism. In particular, the existence of derivatives markets makes malicious coordination among validators easier to execute than in Proof of Work systems. We demonstrate that it is also possible for on-chain lending smart contracts to cannibalise network security in PoS systems. When the yield provided by these contracts is more attractive than the inflation rate provided from staking, stakers will tend to remove their staked tokens and lend them out, thus reducing network security. 
 
 
+Currently, the blocks in the Ergo Network are produced at an interval of approx. 2 minutes. Ergo’s solutions to transaction congestion are as follows: (1) At Layer 0 Network Protocol Layer, the network protocol is optimised. (2) At Layer 1 Blockchain Layer, the Ergo blockchain adopts stateless clients that can receive blocks that carry transactions relevant to specific inputs or outputs; rather than digesting the whole sum of transactions of the blockchain, stateless clients are ideal for high volume applications, increasing performance by removing server load. Ergo blockchain also adopts NiPoPoW which allows light clients to synchronise with the network by downloading less than one megabyte of data and allows to ordinary people with smart phone to join the Ergo network and use the services on top of Ergo with with full node security, avoiding the problem that some Layers 2 pathways for lite client environments trade security for functionality.
+
 
 
 > Robert Kornacki (Head of R&D @ Emurgo) — 01/06/2020
 >
 > @kushti I've been mulling over the point you raised/article that talked about DeFi breaking PoS blockchains, and really I think the article was way too narrow in scope. To me it looks like smart contracts are literally the antithesis of PoS.
-Any contract that deals with not just data, but uses the core PoS blockchain token at all degrades the security of the network. This means DAOs/treasuries, smart contract multi-sig wallets, gaming/gambling, etc.
+>
+>Any contract that deals with not just data, but uses the core PoS blockchain token at all degrades the security of the network. This means DAOs/treasuries, smart contract multi-sig wallets, gaming/gambling, etc.
 >
 > The success of a PoS smart contract powered blockchain's literally leads to a death spiral as coins are used in contracts that provide users with new benefits while destroying the network (so it's much worse than the original claim of just DeFi giving better returns leading to problems).
 >
 > It's a really obvious point in retrospect, but how has no one addressed this seriously with the rise of a million PoS blockchains and Ethereum itself switching to PoS?
-
-
-
-Currently, the blocks in the Ergo Network are produced at an interval of approx. 2 minutes. Ergo’s solutions to transaction congestion are as follows: (1) At Layer 0 Network Protocol Layer, the network protocol is optimised. (2) At Layer 1 Blockchain Layer, the Ergo blockchain adopts stateless clients that can receive blocks that carry transactions relevant to specific inputs or outputs; rather than digesting the whole sum of transactions of the blockchain, stateless clients are ideal for high volume applications, increasing performance by removing server load. Ergo blockchain also adopts NiPoPoW which allows light clients to synchronise with the network by downloading less than one megabyte of data and allows to ordinary people with smart phone to join the Ergo network and use the services on top of Ergo with with full node security, avoiding the problem that some Layers 2 pathways for lite client environments trade security for functionality. 
 
 # Oracle Pools
 
