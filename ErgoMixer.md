@@ -2,7 +2,7 @@
 title: ErgoMixer
 description: 
 published: true
-date: 2021-04-11T17:41:37.204Z
+date: 2021-04-24T11:26:01.497Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:54.623Z
@@ -10,6 +10,7 @@ dateCreated: 2021-02-24T08:03:54.623Z
 
 > The following command will install ErgoMixer and related dependencies
 >`curl -s "https://getmixer.ergonaut.space/install.sh" | bash`
+> There are also Mac and Windows applications available on the GitHub.
 {.is-info}
 
 
