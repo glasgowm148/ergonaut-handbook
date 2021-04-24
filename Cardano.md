@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-24T09:01:49.170Z
+date: 2021-04-24T09:02:14.988Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -58,7 +58,12 @@ Currently, the blocks in the Ergo Network are produced at an interval of approx.
 >
 > It's a really obvious point in retrospect, but how has no one addressed this seriously with the rise of a million PoS blockchains and Ethereum itself switching to PoS?
 
-# Oracle Pools
+# Emurgo
+
+**[EMURGO to Partner with Ergo and Build Blockchain-Based Decentralised Financial Solutions](https://emurgo.io/blog/emurgo-to-partner-with-ergo-and-build-blockchain-based-decentralized-financial-solutions)**
+EMURGO’s strategic partnership with Ergo aligns with the objective to also meet the increasing needs for tailored decentralised financial (DeFi) solutions moving forward. As the interest in building decentralised financial services grows in tandem with the overall blockchain industry, this partnership allows for much-needed deeper research & DeFi solutions development. These solutions will explore the usage of Ergo’s smart contracts that are embedded with privacy features and interoperable with Cardano’s extensive global network. This will, in turn, offer developers, investors, and interested parties the flexibility to utilise Ergo’s functionalities or to fully on-ramp onto larger blockchain ecosystems such as Cardano. 
+
+## Oracle Pools
 
 The oracle solution for Cardano will post data from Ergo’s oracle pools, treating the pre-processed data as a trusted source for its records to the blockchain.
 
@@ -71,10 +76,7 @@ Although Ergo adopts the PoW mechanism while Cardano adopts the PoS mechanism, t
 - [BTCManager: Ergo Oracle Solution Cardano ADA Interoperability](https://btcmanager.com/ergo-oracle-solution-cardano-ada-interoperability/)
 - [Cardano Forums: Ergo Will Compliment Cardano](https://forum.cardano.org/t/ergo-will-complement-cardano/45412)
 - [Emurgo: Emurgo releases oracle core for developers](https://emurgo.io/blog/emurgo-releases-oracle-core-for-developers)
-# Emurgo
 
-**[EMURGO to Partner with Ergo and Build Blockchain-Based Decentralised Financial Solutions](https://emurgo.io/blog/emurgo-to-partner-with-ergo-and-build-blockchain-based-decentralized-financial-solutions)**
-EMURGO’s strategic partnership with Ergo aligns with the objective to also meet the increasing needs for tailored decentralised financial (DeFi) solutions moving forward. As the interest in building decentralised financial services grows in tandem with the overall blockchain industry, this partnership allows for much-needed deeper research & DeFi solutions development. These solutions will explore the usage of Ergo’s smart contracts that are embedded with privacy features and interoperable with Cardano’s extensive global network. This will, in turn, offer developers, investors, and interested parties the flexibility to utilise Ergo’s functionalities or to fully on-ramp onto larger blockchain ecosystems such as Cardano. 
 
 
 # StableCoin
