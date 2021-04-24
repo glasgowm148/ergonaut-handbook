@@ -2,7 +2,7 @@
 title: ErgoAuctions
 description: 
 published: true
-date: 2021-04-24T11:25:06.981Z
+date: 2021-04-24T11:25:16.845Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:23.364Z
@@ -22,7 +22,7 @@ Ergo Auction House is a decentralized auction house, secure and easy to use. A s
 4. Create a new auction, copy the price and address
 5. Go back to  [ergoUtils](https://ergoutils.org/), click 'Advanced', and send the token and the fee directly to the AuctionHouse. 
 
-- [NFT Viewer](https://ab6x.com/nft/)
+* [NFT Viewer](https://ab6x.com/nft/)
 
 
 [How To Issue an Artwork NFT Auction - Ergo Blockchain](https://www.youtube.com/watch?v=OAHFHrHq3Oc&feature=emb_title)
