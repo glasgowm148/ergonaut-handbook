@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-24T08:55:27.290Z
+date: 2021-04-24T08:59:06.038Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -20,6 +20,7 @@ Ergo was founded by Charles Hoskinson’s *“favorite technologist”*,  Alex C
 The main objective of Ergo is to provide financial contracts efficiently and securely so that people can use them in a decentralised manner and without any need for prior trust. The fully Cardano-compatible PoW can make significant contributions to all developers in the Cardano ecosystem. Ergo is the first blockchain to adopt the smart contract language in a similar eUTxO (extended UTXO) model as Cardano, with NiPoPoWs to enable compatibility. 
 
 1. Ergo will bring all the advantages of Proof of Work to users of the Cardano ecosystem.
+1. [ErgoDex](https://ergonaut.space/ergodex.pdf?11)
 1. Ergo is the first blockchain to adopt smart contract language similar to the UTxO model Cardano uses, bringing compatibility with Proof of Work to a whole new level.
 1. Long-term scalability of dApps with the ability of parallelisation of dApps.
 1. More advanced cryptography with sigma protocols — highly flexible and composable cryptographic signatures.
@@ -27,9 +28,13 @@ The main objective of Ergo is to provide financial contracts efficiently and sec
 1. Oracle pools — layered pools of oracles with deviation checking consensus opening a whole new world of applications.
 1. Local Exchange Trading System on top of Ergo.
 
+
 # Staking Pitfalls
 
 Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is if it is doing collateralised DeFi, the more significant the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient protection for all more complex DApps implementations on top of the standard UTxO model rather than translating very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are entirely different.
+
+
+Proof of Stake (PoS) is a burgeoning Sybil resistance mechanism that aims to have a digital asset (“token”) serve as security collateral in crypto networks. However, PoS has so far eluded a comprehensive threat model that encompasses both Byzantine attacks from distributed systems and financial attacks that arise from the dual usage of the token as a means of payment and a Sybil resistance mechanism. In particular, the existence of derivatives markets makes malicious coordination among validators easier to execute than in Proof of Work systems. We demonstrate that it is also possible for on-chain lending smart contracts to cannibalise network security in PoS systems. When the yield provided by these contracts is more attractive than the inflation rate provided from staking, stakers will tend to remove their staked tokens and lend them out, thus reducing network security. 
 
 
 
@@ -45,16 +50,16 @@ Any contract that deals with not just data, but uses the core PoS blockchain tok
 
 
 
-
-
-
 Currently, the blocks in the Ergo Network are produced at an interval of approx. 2 minutes. Ergo’s solutions to transaction congestion are as follows: (1) At Layer 0 Network Protocol Layer, the network protocol is optimised. (2) At Layer 1 Blockchain Layer, the Ergo blockchain adopts stateless clients that can receive blocks that carry transactions relevant to specific inputs or outputs; rather than digesting the whole sum of transactions of the blockchain, stateless clients are ideal for high volume applications, increasing performance by removing server load. Ergo blockchain also adopts NiPoPoW which allows light clients to synchronise with the network by downloading less than one megabyte of data and allows to ordinary people with smart phone to join the Ergo network and use the services on top of Ergo with with full node security, avoiding the problem that some Layers 2 pathways for lite client environments trade security for functionality. 
 
 # Oracle Pools
 
+The oracle solution for Cardano will post data from Ergo’s oracle pools, treating the pre-processed data as a trusted source for its records to the blockchain.
+
+
 Although Ergo adopts the PoW mechanism while Cardano adopts the PoS mechanism, they are highly compatible because both are based on eUTXO models. Ergo will bring Cardano the advantages of PoW, for instance, NiPoPoW, which supports ultra-light clients and cross-chain interoperability, because NiPoPoW cannot be used on PoS, and Cardano cannot use the technology directly but can use it via Ergo’s PoW to support ultra-light clients. Furthermore, Cardano has adopted Ergo's oracle pool scheme instead of Chainlink. The advantage of the oracle pool model is that no oracle tokens are issued so that the end-users can use the oracle services at an extremely low cost, and another advantage is that its data sources are decentralised and more reliable. Currently, Ergo oracle pools have two use cases, namely ERG/USD Oracle Pool and ADA/USD Oracle Pool. For details, please refer to the article "Deep Interpretation: What Ergo Will Bring to Cardano".
 
-The oracle solution for Cardano will post data from Ergo’s oracle pools, treating the pre-processed data as a trusted source for its records to the blockchain.
+
 
 [Ergo vs Chainlink](https://www.ergoforum.org/t/oracle-pools-a-new-oracle-model/263)
 
@@ -72,12 +77,10 @@ https://emurgo.io/blog/emurgo-releases-oracle-core-for-developers
 EMURGO’s strategic partnership with Ergo aligns with the objective to also meet the increasing needs for tailored decentralised financial (DeFi) solutions moving forward. As the interest in building decentralised financial services grows in tandem with the overall blockchain industry, this partnership allows for much-needed deeper research & DeFi solutions development. These solutions will explore the usage of Ergo’s smart contracts that are embedded with privacy features and interoperable with Cardano’s extensive global network. This will, in turn, offer developers, investors, and interested parties the flexibility to utilise Ergo’s functionalities or to fully on-ramp onto larger blockchain ecosystems such as Cardano. 
 
 
-# Proof-of-Stake
+# StableCoin
 
-Proof of Stake (PoS) is a burgeoning Sybil resistance mechanism that aims to have a digital asset (“token”) serve as security collateral in crypto networks. However, PoS has so far eluded a comprehensive threat model that encompasses both Byzantine attacks from distributed systems and financial attacks that arise from the dual usage of the token as a means of payment and a Sybil resistance mechanism. In particular, the existence of derivatives markets makes malicious coordination among validators easier to execute than in Proof of Work systems. We demonstrate that it is also possible for on-chain lending smart contracts to cannibalise network security in PoS systems. When the yield provided by these contracts is more attractive than the inflation rate provided from staking, stakers will tend to remove their staked tokens and lend them out, thus reducing network security. 
+The economic model for SigmaUSD (The AgeUSD Protocol) was created in joint partnership between IOHK, Emurgo and Ergo. While SigmaUSD.io uses ERG as it's BaseCoin, the Plutus port will use ADA. However the details of this implementation are still unclear. 
 
-
-# Cardano on StableCoins
 
 **Cardano's Stablecoin Will be 'Better Than MakerDAO,' Says Hoskinson**
 > "For example, we've partnered with Emrugo, and we're right now working on the logistics of a stablecoin with them that we're going to be building first on Ergo to verify everything works correctly, and then we'll pull it over into Cardano and this is going to be an algorithmic stablecoin," said Hoskinson, adding, "We think it'll be significantly better than MakerDAO."
