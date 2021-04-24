@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-20T12:14:49.604Z
+date: 2021-04-24T08:54:59.598Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -19,7 +19,20 @@ Ergo was founded by Charles Hoskinson’s *“favorite technologist”*,  Alex C
 
 The main objective of Ergo is to provide financial contracts efficiently and securely so that people can use them in a decentralised manner and without any need for prior trust. The fully Cardano-compatible PoW can make significant contributions to all developers in the Cardano ecosystem. Ergo is the first blockchain to adopt the smart contract language in the same eUTxO (extended UTXO) model as Cardano, enabling Proof of Work compatibility.
 
-# Security
+1. Ergo will bring all the advantages of Proof of Work to users of the Cardano ecosystem.
+1. Ergo is the first blockchain to adopt smart contract language similar to the UTxO model Cardano uses, bringing compatibility with Proof of Work to a whole new level.
+1. Long-term scalability of dApps with the ability of parallelisation of dApps.
+1. More advanced cryptography with sigma protocols — highly flexible and composable cryptographic signatures.
+1. The Ergo headless dApps framework.
+1. Oracle pools — layered pools of oracles with deviation checking consensus opening a whole new world of applications.
+1. Local Exchange Trading System on top of Ergo.
+
+# Staking Pitfalls
+
+Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is if it is doing collateralised DeFi, the more significant the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient protection for all more complex DApps implementations on top of the standard UTxO model rather than translating very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are entirely different.
+
+
+
 
 > Robert Kornacki (Head of R&D @ Emurgo) — 01/06/2020
 >
@@ -31,16 +44,9 @@ Any contract that deals with not just data, but uses the core PoS blockchain tok
 > It's a really obvious point in retrospect, but how has no one addressed this seriously with the rise of a million PoS blockchains and Ethereum itself switching to PoS?
 
 
-Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is if it is doing collateralised DeFi, the more significant the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient protection for all more complex DApps implementations on top of the standard UTxO model rather than translating very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are entirely different.
 
 
-1. Ergo will bring all the advantages of Proof of Work to users of the Cardano ecosystem.
-1. Ergo is the first blockchain to adopt smart contract language similar to the UTxO model Cardano uses, bringing compatibility with Proof of Work to a whole new level.
-1. Long-term scalability of dApps with the ability of parallelisation of dApps.
-1. More advanced cryptography with sigma protocols — highly flexible and composable cryptographic signatures.
-1. The Ergo headless dApps framework.
-1. Oracle pools — layered pools of oracles with deviation checking consensus opening a whole new world of applications.
-1. Local Exchange Trading System on top of Ergo.
+
 
 Currently, the blocks in the Ergo Network are produced at an interval of approx. 2 minutes. Ergo’s solutions to transaction congestion are as follows: (1) At Layer 0 Network Protocol Layer, the network protocol is optimised. (2) At Layer 1 Blockchain Layer, the Ergo blockchain adopts stateless clients that can receive blocks that carry transactions relevant to specific inputs or outputs; rather than digesting the whole sum of transactions of the blockchain, stateless clients are ideal for high volume applications, increasing performance by removing server load. Ergo blockchain also adopts NiPoPoW which allows light clients to synchronise with the network by downloading less than one megabyte of data and allows to ordinary people with smart phone to join the Ergo network and use the services on top of Ergo with with full node security, avoiding the problem that some Layers 2 pathways for lite client environments trade security for functionality. 
 
