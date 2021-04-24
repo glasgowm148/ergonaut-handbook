@@ -2,7 +2,7 @@
 title: Sigma-FAQ
 description: 
 published: true
-date: 2021-03-04T19:13:18.397Z
+date: 2021-04-24T12:03:27.187Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-04T19:07:06.877Z
@@ -72,7 +72,7 @@ SigRSV is a **long** position, shorters were able to use their volume to profit 
 > The fee to close a MakerDAO CDP and return your dai is currently 8.5%
 {.is-danger}
 
-Fees are set at 1.25%. 1% goes directly back to the reserves and 0.25% for the frontend implementation implementors. 
+Fees are set at 2.25%. 2% goes directly back to the reserves and 0.25% for the frontend implementation implementors. 
 
 If you mint sigmaRSV, you get that 1% back anyways since your reserve coins match the reserve. The more SigRSV you buy, the lower that fee is for you since you own a larger portion of the reserves.
 
