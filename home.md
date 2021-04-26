@@ -2,7 +2,7 @@
 title: Ergonaut
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2021-04-19T15:35:54.189Z
+date: 2021-04-26T07:58:32.867Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -99,6 +99,14 @@ Long‐term survivability and self‐amenability are what give Ergo its resilien
 
 
 ## **Scalability** 
+
+Currently, the blocks in the Ergo Network are produced at an interval of approx. 2 minutes. Ergo’s solutions to transaction congestion are as follows: 
+
+(1) At Layer 0 Network Protocol Layer, the network protocol is optimised. 
+
+(2) At Layer 1 Blockchain Layer, the Ergo blockchain adopts stateless clients that can receive blocks that carry transactions relevant to specific inputs or outputs; rather than digesting the whole sum of transactions of the blockchain, stateless clients are ideal for high volume applications, increasing performance by removing server load. Ergo blockchain also adopts NiPoPoW which allows light clients to synchronise with the network by downloading less than one megabyte of data and allows to ordinary people with smart phone to join the Ergo network and use the services on top of Ergo with with full node security, avoiding the problem that some Layers 2 pathways for lite client environments trade security for functionality.
+
+
 
 Stateless clients, NiPoPoWs,  Full nodes on Raspberry Pi's, ultra-efficient SPV clients and other means to survive in the long-term even under the load. Storage rent to prevent spam & dust and stabilize mining income
 
