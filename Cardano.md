@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-24T11:12:40.484Z
+date: 2021-04-26T07:57:42.075Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -43,8 +43,6 @@ Although PoS is a very secure protocol, some smart contracts may require the con
 
 Proof of Stake (PoS) is a burgeoning Sybil resistance mechanism that aims to have a digital asset (“token”) serve as security collateral in crypto networks. However, PoS has so far eluded a comprehensive threat model that encompasses both Byzantine attacks from distributed systems and financial attacks that arise from the dual usage of the token as a means of payment and a Sybil resistance mechanism. In particular, the existence of derivatives markets makes malicious coordination among validators easier to execute than in Proof of Work systems. We demonstrate that it is also possible for on-chain lending smart contracts to cannibalise network security in PoS systems. When the yield provided by these contracts is more attractive than the inflation rate provided from staking, stakers will tend to remove their staked tokens and lend them out, thus reducing network security. 
 
-
-Currently, the blocks in the Ergo Network are produced at an interval of approx. 2 minutes. Ergo’s solutions to transaction congestion are as follows: (1) At Layer 0 Network Protocol Layer, the network protocol is optimised. (2) At Layer 1 Blockchain Layer, the Ergo blockchain adopts stateless clients that can receive blocks that carry transactions relevant to specific inputs or outputs; rather than digesting the whole sum of transactions of the blockchain, stateless clients are ideal for high volume applications, increasing performance by removing server load. Ergo blockchain also adopts NiPoPoW which allows light clients to synchronise with the network by downloading less than one megabyte of data and allows to ordinary people with smart phone to join the Ergo network and use the services on top of Ergo with with full node security, avoiding the problem that some Layers 2 pathways for lite client environments trade security for functionality.
 
 
 
