@@ -2,7 +2,7 @@
 title: Origins
 description: 
 published: true
-date: 2021-04-28T12:20:48.572Z
+date: 2021-04-28T12:21:42.708Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:31:43.096Z
@@ -34,7 +34,7 @@ I hope Ergo will be useful here. Thousands of small cooperatives and individual 
 As an example, let’s consider the use and integration with communities, cooperative federations, nonprofit foundations, and philanthropic trusts. 
 
 Let’s try to create grassroots finance. Yes many other things can be built, but I think this goal of mine should not be forgotten. My dream is smart contracts that help create value and protect the common people. 
-Bitcoin Origins
+## Bitcoin Origins
 
 The first Bitcoin block (known as the Genesis block) contained a message stating “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.”
 
@@ -45,7 +45,7 @@ This block timestamped both the inception of Bitcoin but also the start of an er
 Decentralization is political. It gave birth to the idea that monopolized powers could be replaced by technology. Systems could be put in place to transfer value globally without the need for intermediaries or oversight. People could choose the currency they use, and choose who, how and when they could exchange value with one another. 
 
 An entire industry formed around the idea of P2P commerce. Open, borderless and secure channels that potentially could prove mechanisms to level the economic playing field, and provide tools for prosperity for the average citizen of earth. 
-Current Market Mindset
+## Current Market Mindset
 
 The mentality of crypto markets shifted greatly after the ICO mania of 2017. In fact, it seems that the space as a whole has come to celebrate bailouts, printing, and stimulus.
 
@@ -54,7 +54,7 @@ Yes, there have been some massive price gains in fiat, a lot of hype-based marke
 This is something that needs to be addressed. If cryptocurrency is to be implemented as an effective tool for the average human, we need tooling and adoption. Right now, it seems the market mentality is as follows: how do we honeypot new users with hype marketing, drive pumps and cannibalize these new members of communities.
 
 The current state of the market is a little sad. We need to get back to the roots of the crypto-revolution, decentralized tools that are private, secure, and drive real world adoption of these systems. The ideal is to create tools that help people create value. 
-Why is this important?
+## Why is this important?
 
 The global economy has not improved since the original bailouts. I understand that the central narrative around privacy and security always plays on emotional extremes, however the reality is it is always the common humans that get burned when economies implode. 
 
