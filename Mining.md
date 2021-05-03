@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2021-05-03T10:43:39.447Z
+date: 2021-05-03T10:44:13.477Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -22,7 +22,7 @@ dateCreated: 2021-02-24T09:16:51.182Z
 {.is-warning}
 
 
-## Requirements
+# Requirements
 PC/Linux + GPU (Nvidia/AMD) of 6GB minimum as Ergo heavily relies on memory usage while the core processor sits idle.
 
 
@@ -36,7 +36,7 @@ Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autoly
 
 
 
-## Resources
+# Resources
 
 - [Mining Pool Stats](https://miningpoolstats.stream/ergo)
 - [How to set up and configure a full Ergo node on Windows (Youtube)](https://www.youtube.com/watch?v=fpEDJ1CM6ns)
@@ -46,11 +46,7 @@ Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autoly
 - [ErgoPlatform - Mining Calculator](https://ergoplatform.org/en/mining/)
 - [Plutomonkey Calculator](https://pool.plutomonkey.com/)
 
-### Guides
-> There are active miner communities for Ergo on [Discord](https://discord.gg/Q86PNMwRsu) and [Telegram](https://t.me/ergo_mining)
-{.is-info}
-
-
+# Guides
 
 - [ErgoForum: Mining Ergo for Fun and Profit](https://www.ergoforum.org/t/mining-ergo-for-fun-and-profit/154)
 - [ErgoPlatform: Mining Ergo for Fun and Profit](https://ergoplatform.org/en/blog/2019_12_22_mining_for_fun/)
@@ -71,6 +67,10 @@ Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autoly
 **Nanopool**
 - [Here’s a quick step-by-step guide for newbies on how to mine Ergo on Nanopool](https://help.nanopool.org/article/217-step-by-step-guide)
 - [Ergo Mining Setup Windows Smos Hive Amd Nvidia (Youtube)](https://www.youtube.com/watch?v=47eBVIjWYqY)
+
+
+> There are active miner communities for Ergo on [Discord](https://discord.gg/Q86PNMwRsu) and [Telegram](https://t.me/ergo_mining)
+{.is-info}
 
 
 
