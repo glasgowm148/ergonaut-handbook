@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-05-03T16:42:59.441Z
+date: 2021-05-03T16:43:16.410Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -48,16 +48,6 @@ Proof of Stake (PoS) is a burgeoning Sybil resistance mechanism that aims to hav
 - [How Secure is Cardano?](https://medium.com/@undersearcher/how-secure-is-cardano-5f1e076be968)
 
 
-
-> Robert Kornacki (Head of R&D @ Emurgo) — 01/06/2020
->
-> @kushti I've been mulling over the point you raised/article that talked about DeFi breaking PoS blockchains, and really I think the article was way too narrow in scope. To me it looks like smart contracts are literally the antithesis of PoS.
->
->Any contract that deals with not just data, but uses the core PoS blockchain token at all degrades the security of the network. This means DAOs/treasuries, smart contract multi-sig wallets, gaming/gambling, etc.
->
-> The success of a PoS smart contract powered blockchain's literally leads to a death spiral as coins are used in contracts that provide users with new benefits while destroying the network (so it's much worse than the original claim of just DeFi giving better returns leading to problems).
->
-> It's a really obvious point in retrospect, but how has no one addressed this seriously with the rise of a million PoS blockchains and Ethereum itself switching to PoS?
 
 # Emurgo
 
