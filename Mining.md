@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2021-05-03T10:52:41.672Z
+date: 2021-05-03T10:53:34.632Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -32,6 +32,8 @@ For the [AMD miner](https://github.com/mhssamadani/Autolykos2_AMD_Miner), the co
 Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autolykos2_NV_Miner)
 
 - [Autolykos v2 hashrates](https://www.ergoforum.org/t/autolykos-v2-hashrates/580)
+- Miners can fix value by minting [SigUSD](https://sigmausd.io/#/)
+
 
 
 
