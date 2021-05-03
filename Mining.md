@@ -2,24 +2,18 @@
 title: Mining
 description: 
 published: true
-date: 2021-05-03T10:46:15.130Z
+date: 2021-05-03T10:50:22.395Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
 ---
 
 # Overview
-Ergo uses the [Autolykos](https://ergonaut.space/en/Autolykos) protocol, which employs a [non-linear difficulty algorithm](https://www.docdroid.net/mcoitvK/ergopow-pdf#page=2). The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
-
-A 6GB GPU is the suggested minimum as Ergo heavily relies on memory usage while the core processor sits idle.
+Ergo has a strictly limited supply, an 8‐year emission schedule and a declining rate of emission over these 8 years. All tokens are mined through an original Asic and Pool‐resistant Proof‐of‐Work (“PoW”) algorithm called [Autolykos](https://ergonaut.space/en/Autolykos), which employs a [non-linear difficulty algorithm](https://www.docdroid.net/mcoitvK/ergopow-pdf#page=2). Therefore, there are 0 Ergs in existence at launch of mainnet as there was no ICO nor pre‐mine. At the end of 8 years, the final Erg supply will be 97,739,925 Ergs. The Ergo block interval is 2 minutes and for the first 2 years, each block will release a total of 75 Ergs to be shared between the miners and the Treasury (Treasury discussed below). But starting at year 2, the rate of emission will fall by 3.0 Ergs and thereafter further decline every 3 months by an additional 3.0 Ergs, which will result in an end to emission 8 years after launch. There will be no additional inflation and the Erg monetary base will remain fixed. The [emission schedule chart](https://ergoplatform.org/en/blog/2019_05_20-curve/) illustrates this.
 
 
-**FAQ**
-- Block time is 2-4 minutes
-- Block-reward is 67.5 ERG
-- Circulation is near 33m currently. Max 90m and full circulation in about 8 years
-- The Ergo Treasury locks 10% for the first 2-years (ending soon), before dropping to 4%
 - [What about 51% attacks](https://www.reddit.com/r/ergonauts/comments/mgpnb7/51_attack_possibilities/) ? 
+- The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
 
 
 > Please don't mine direct to exchanges, and avoid pools who hold a significant % of the hashrate.
@@ -27,7 +21,7 @@ A 6GB GPU is the suggested minimum as Ergo heavily relies on memory usage while 
 
 
 # Requirements
-
+A 6GB GPU is the suggested minimum as Ergo heavily relies on memory usage while the core processor sits idle.
 
 
 For the [AMD miner](https://github.com/mhssamadani/Autolykos2_AMD_Miner), the compatible Operating Systems are
