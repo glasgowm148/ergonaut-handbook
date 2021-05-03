@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-04-26T07:57:42.075Z
+date: 2021-05-03T15:39:02.982Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -95,6 +95,6 @@ The economic model for SigmaUSD (The AgeUSD Protocol) was created in joint partn
 
 **Charles answering '*are there use cases where PoW is better*'.**
 
->Until we deploy Orboros Genesis, PoW is significantly better and unique vs PoS in that you don't need a checkpoint, which is a huge advantage...and if you desire to gain a lot of computational abilities, especially with async resistance, PoW is better as you're building a supercomputer
+>Until we deploy Orboros Genesis, PoW is significantly better and unique vs PoS in that you don't need a checkpoint, which is a huge advantage...and if you desire to gain a lot of computational abilities, especially with async resistance, PoW is better as you're essentially building a supercomputer
 
 
