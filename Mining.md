@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2021-05-03T10:40:20.915Z
+date: 2021-05-03T10:40:28.848Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -63,6 +63,7 @@ Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autoly
 
 **SRBminer**
 - [SRBMiner-MULTI - How to mine Ergo coin (autolykos2)](https://www.youtube.com/watch?v=thBPstQJVWo)
+
 **Nanopool**
 - [Here’s a quick step-by-step guide for newbies on how to mine Ergo on Nanopool](https://help.nanopool.org/article/217-step-by-step-guide)
 - [Ergo Mining Setup Windows Smos Hive Amd Nvidia (Youtube)](https://www.youtube.com/watch?v=47eBVIjWYqY)
