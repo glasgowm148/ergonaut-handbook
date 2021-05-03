@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2021-05-03T10:50:22.395Z
+date: 2021-05-03T10:52:41.672Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -30,6 +30,8 @@ For the [AMD miner](https://github.com/mhssamadani/Autolykos2_AMD_Miner), the co
 - Ubuntu 16.04 (64-bit version)
 
 Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autolykos2_NV_Miner)
+
+- [Autolykos v2 hashrates](https://www.ergoforum.org/t/autolykos-v2-hashrates/580)
 
 
 
