@@ -2,19 +2,23 @@
 title: Mining
 description: 
 published: true
-date: 2021-05-03T10:44:13.477Z
+date: 2021-05-03T10:46:15.130Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
 ---
+
+# Overview
+Ergo uses the [Autolykos](https://ergonaut.space/en/Autolykos) protocol, which employs a [non-linear difficulty algorithm](https://www.docdroid.net/mcoitvK/ergopow-pdf#page=2). The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
+
+A 6GB GPU is the suggested minimum as Ergo heavily relies on memory usage while the core processor sits idle.
+
 
 **FAQ**
 - Block time is 2-4 minutes
 - Block-reward is 67.5 ERG
 - Circulation is near 33m currently. Max 90m and full circulation in about 8 years
 - The Ergo Treasury locks 10% for the first 2-years (ending soon), before dropping to 4%
-- Ergo uses the [Autolykos](https://ergonaut.space/en/Autolykos) protocol
-  - Autolykos uses a [non-linear difficulty algorithm](https://www.docdroid.net/mcoitvK/ergopow-pdf#page=2). The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
 - [What about 51% attacks](https://www.reddit.com/r/ergonauts/comments/mgpnb7/51_attack_possibilities/) ? 
 
 
@@ -23,7 +27,6 @@ dateCreated: 2021-02-24T09:16:51.182Z
 
 
 # Requirements
-PC/Linux + GPU (Nvidia/AMD) of 6GB minimum as Ergo heavily relies on memory usage while the core processor sits idle.
 
 
 
