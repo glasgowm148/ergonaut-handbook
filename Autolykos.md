@@ -2,7 +2,7 @@
 title: Autolykos
 description: 
 published: true
-date: 2021-04-02T23:56:05.364Z
+date: 2021-05-03T10:47:12.642Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:34:47.337Z
@@ -15,7 +15,7 @@ Security  of  Proof-of-Work  blockchains  relies  on  multiple  miners  trying t
 
 The first threat to decentralization came from mining pools – miners tend to unite in mining pools. Regardless of the PoW algorithm number of pools controlling more then 50% of computational power is usually quite small:  4 pools in Bitcoin, 2 in Ethereum, 3 in ZCash, etc.  This problem led to the notion of non-outsourceable puzzles. 
 
-These are the puzzles constructed in such a way that if a mining pool outsources the puzzle toa miner, miner can recover pool’s private key and steal the reward witha non-negligible probability.  However the existing solutions either have too large solution size (kilobyte is already on the edge of acceptability fordistributed ledgers) or very specific and can not be modified or extendedin any way without breaking non-outsourceability. The second threat to cryptocurrencies decentralization is that ASIC-equipped miners are able to find PoW solutions orders of magnitude fasterand more efficiently than miners equipped with the commodity hardware.In order to reduce the disparity between the ASICs and regular hardware,memory-bound computations where proposed in. 
+These are the puzzles constructed in such a way that if a mining pool outsources the puzzle toa miner, miner can recover pool’s private key and steal the reward witha non-negligible probability.  However the existing solutions either have too large solution size (kilobyte is already on the edge of acceptability fordistributed ledgers) or very specific and can not be modified or extendedin any way without breaking non-outsourceability. The second threat to cryptocurrencies decentralization is that ASIC-equipped miners are able to find PoW solutions orders of magnitude fasterand more efficiently than miners equipped with the commodity hardware. In order to reduce the disparity between the ASICs and regular hardware,memory-bound computations where proposed in. 
 
 The most interesting practical examples are two asymmetric memory-hard PoW schemes which require significantly less memory to verify a solution than to find it. Despite  the  fact  that  ASICs  already  exist  for  both  of  them,  they remain the only asymmetric memory-hard PoW algorithms in use. 
 
