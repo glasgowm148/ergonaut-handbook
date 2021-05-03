@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2021-05-03T10:30:09.496Z
+date: 2021-05-03T10:34:29.667Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -16,6 +16,9 @@ dateCreated: 2021-02-24T09:16:51.182Z
 - Block-reward is 67.5 ERG
 - Circulation is near 33m currently. Max 90m and full circulation in about 8 years
 - The Ergo Treasury locks 10% for the first 2-years (ending soon), before dropping to 4%
+- Ergo uses the [Autolykos](https://ergonaut.space/en/Autolykos) protocol
+  - Autolykos uses a non-linear difficulty algorithm. The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
+- [What about 51% attacks](https://www.reddit.com/r/ergonauts/comments/mgpnb7/51_attack_possibilities/) ? 
 
 
 
@@ -49,6 +52,7 @@ Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autoly
 
 **Pools**
 - [Hero Miners: How to Mine Ergo (ERG)? Complete Beginner’s Guide](https://herominers.medium.com/how-to-mine-ergo-erg-complete-beginners-guide-608a87e89ed6)
+- [HeroMiners : How to mine Erg](https://ergo.herominers.com/#how-to-mine-ergo-erg
 - [Here’s a quick step-by-step guide for newbies on how to mine Ergo on Nanopool](https://help.nanopool.org/article/217-step-by-step-guide)
 
 ### Community Support
