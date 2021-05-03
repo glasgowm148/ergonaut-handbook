@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2021-05-03T10:53:34.632Z
+date: 2021-05-03T10:54:35.528Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -46,6 +46,7 @@ Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autoly
 
 - [ErgoPlatform - Mining Calculator](https://ergoplatform.org/en/mining/)
 - [Plutomonkey Calculator](https://pool.plutomonkey.com/)
+- [Miner Stats](https://minerstat.com/coin/erg)
 
 # Guides
 
@@ -58,7 +59,7 @@ Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autoly
 
 **HeroMiners**
 - [Hero Miners: How to Mine Ergo (ERG)? Complete Beginner’s Guide](https://herominers.medium.com/how-to-mine-ergo-erg-complete-beginners-guide-608a87e89ed6)
-- [HeroMiners : How to mine Erg](https://ergo.herominers.com/#how-to-mine-ergo-erg
+- [HeroMiners: How to mine Erg](https://ergo.herominers.com/#how-to-mine-ergo-erg)
 - [How to Mine Ergo? Step by Step (Youtube)](https://www.youtube.com/watch?v=4SnpCF67kyc)
 
 
