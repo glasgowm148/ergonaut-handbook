@@ -2,7 +2,7 @@
 title: Autolykos
 description: 
 published: true
-date: 2021-05-03T10:47:12.642Z
+date: 2021-05-03T11:34:23.122Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:34:47.337Z
@@ -19,7 +19,10 @@ These are the puzzles constructed in such a way that if a mining pool outsources
 
 The most interesting practical examples are two asymmetric memory-hard PoW schemes which require significantly less memory to verify a solution than to find it. Despite  the  fact  that  ASICs  already  exist  for  both  of  them,  they remain the only asymmetric memory-hard PoW algorithms in use. 
 
-Autolykos v.2 is briefly described at [Autolykos:  The Ergo Platform PoW Scheme]
+Autolykos v.2 is briefly described at 
+
+- [Overview of Ergo PoW called Autolykos](https://www.ergoforum.org/t/overview-of-ergo-pow-called-autolykos/)
+- [(2019) Autolykos:  The Ergo Platform PoW Puzzle](https://ergoplatform.org/docs/ErgoPow.pdf)
 
 
 # v.2
