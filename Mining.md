@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2021-05-03T10:34:29.667Z
+date: 2021-05-03T10:39:26.207Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -36,6 +36,8 @@ For the [AMD miner](https://github.com/mhssamadani/Autolykos2_AMD_Miner), the co
 Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autolykos2_NV_Miner)
 
 
+- [How to set up and configure a full Ergo node on Windows (Youtube)](https://www.youtube.com/watch?v=fpEDJ1CM6ns)
+
 ## Resources
 
 - [Mining Pool Stats](https://miningpoolstats.stream/ergo)
@@ -50,10 +52,19 @@ Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autoly
 - [ErgoPlatform: Mining Ergo for Fun and Profit](https://ergoplatform.org/en/blog/2019_12_22_mining_for_fun/)
 - [ErgoForum: Q&A on mining (for pool operators and solo miners)](https://www.ergoforum.org/t/q-a-on-mining-for-pool-operators-and-solo-miners/587)
 
-**Pools**
+**WoolyPooly**
+- [How to start mining Ergo (ERG) on Windows with AMD RX 4GB cards!!! Step by Step (Youtube)](https://www.youtube.com/watch?v=47eBVIjWYqY)
+**HeroMiners**
 - [Hero Miners: How to Mine Ergo (ERG)? Complete Beginner’s Guide](https://herominers.medium.com/how-to-mine-ergo-erg-complete-beginners-guide-608a87e89ed6)
 - [HeroMiners : How to mine Erg](https://ergo.herominers.com/#how-to-mine-ergo-erg
+- [How to Mine Ergo? Step by Step (Youtube)](https://www.youtube.com/watch?v=4SnpCF67kyc)
+
+**Nanopool**
 - [Here’s a quick step-by-step guide for newbies on how to mine Ergo on Nanopool](https://help.nanopool.org/article/217-step-by-step-guide)
+- [Ergo Mining Setup Windows Smos Hive Amd Nvidia (Youtube)](https://www.youtube.com/watch?v=47eBVIjWYqY)
+
+
+
 
 ### Community Support
 There are active miner communities for Ergo on [Discord](https://discord.gg/Q86PNMwRsu) and [Telegram](https://t.me/ergo_mining)
