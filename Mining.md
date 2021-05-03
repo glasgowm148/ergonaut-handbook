@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2021-05-03T10:54:35.528Z
+date: 2021-05-03T10:56:19.601Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -23,6 +23,8 @@ Ergo has a strictly limited supply, an 8‐year emission schedule and a declinin
 # Requirements
 A 6GB GPU is the suggested minimum as Ergo heavily relies on memory usage while the core processor sits idle.
 
+Search your card here [Autolykos v2 hashrates](https://www.ergoforum.org/t/autolykos-v2-hashrates/580) to find the hashrate. 
+
 
 For the [AMD miner](https://github.com/mhssamadani/Autolykos2_AMD_Miner), the compatible Operating Systems are
 - RedHat Enterprise Linux 7.2 (64-bit version)
@@ -31,11 +33,8 @@ For the [AMD miner](https://github.com/mhssamadani/Autolykos2_AMD_Miner), the co
 
 Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autolykos2_NV_Miner)
 
-- [Autolykos v2 hashrates](https://www.ergoforum.org/t/autolykos-v2-hashrates/580)
+
 - Miners can fix value by minting [SigUSD](https://sigmausd.io/#/)
-
-
-
 
 # Resources
 
@@ -62,7 +61,6 @@ Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autoly
 - [HeroMiners: How to mine Erg](https://ergo.herominers.com/#how-to-mine-ergo-erg)
 - [How to Mine Ergo? Step by Step (Youtube)](https://www.youtube.com/watch?v=4SnpCF67kyc)
 
-
 **SRBminer**
 - [SRBMiner-MULTI - How to mine Ergo coin (autolykos2)](https://www.youtube.com/watch?v=thBPstQJVWo)
 
@@ -70,11 +68,5 @@ Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autoly
 - [Here’s a quick step-by-step guide for newbies on how to mine Ergo on Nanopool](https://help.nanopool.org/article/217-step-by-step-guide)
 - [Ergo Mining Setup Windows Smos Hive Amd Nvidia (Youtube)](https://www.youtube.com/watch?v=47eBVIjWYqY)
 
-
 > There are active miner communities for Ergo on [Discord](https://discord.gg/Q86PNMwRsu) and [Telegram](https://t.me/ergo_mining)
 {.is-info}
-
-
-
-
-
