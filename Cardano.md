@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-05-03T15:39:02.982Z
+date: 2021-05-03T16:42:59.441Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -38,11 +38,14 @@ The main objective of Ergo is to provide financial contracts efficiently and sec
 
 # Staking Pitfalls
 
+Those that are familiar with the Lindy effect, which is often linked to Bitcoin’s monetary evolution, will recognize this process. The Lindy effect states that a technology’s remaining life expectancy is proportional to its current age, meaning that the longer it exists, the more its trusted to continue to exist. This means it’ll take time for Cardano’s young system to be trusted — particularly in comparison to Bitcoin that already abides resiliently for over 10 years with 99.98% up-time and zero known immutability breaches. The rigorous academic basis of Cardano is arguably the best possible foundation to build on, but it still needs to prove it is resilient against attacks ‘in the wild’ and thus undergo the test of time to earn the trust of investors. To justify an increasing ADA price that is important in Cardano’s security proposition, it is essential that the system will actually be used. It is therefore no coincidence that this is exactly what IOHK, Emurgo and the Cardano Foundation are focusing on.
+
 Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is if it is doing collateralised DeFi, the more significant the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient protection for all more complex DApps implementations on top of the standard UTxO model rather than translating very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are entirely different.
 
 
 Proof of Stake (PoS) is a burgeoning Sybil resistance mechanism that aims to have a digital asset (“token”) serve as security collateral in crypto networks. However, PoS has so far eluded a comprehensive threat model that encompasses both Byzantine attacks from distributed systems and financial attacks that arise from the dual usage of the token as a means of payment and a Sybil resistance mechanism. In particular, the existence of derivatives markets makes malicious coordination among validators easier to execute than in Proof of Work systems. We demonstrate that it is also possible for on-chain lending smart contracts to cannibalise network security in PoS systems. When the yield provided by these contracts is more attractive than the inflation rate provided from staking, stakers will tend to remove their staked tokens and lend them out, thus reducing network security. 
 
+- [How Secure is Cardano?](https://medium.com/@undersearcher/how-secure-is-cardano-5f1e076be968)
 
 
 
