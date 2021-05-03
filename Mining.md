@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2021-05-03T10:39:26.207Z
+date: 2021-05-03T10:40:20.915Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -54,11 +54,15 @@ Ergo can also be mined with [Nvidia miner](https://github.com/mhssamadani/Autoly
 
 **WoolyPooly**
 - [How to start mining Ergo (ERG) on Windows with AMD RX 4GB cards!!! Step by Step (Youtube)](https://www.youtube.com/watch?v=47eBVIjWYqY)
+
 **HeroMiners**
 - [Hero Miners: How to Mine Ergo (ERG)? Complete Beginner’s Guide](https://herominers.medium.com/how-to-mine-ergo-erg-complete-beginners-guide-608a87e89ed6)
 - [HeroMiners : How to mine Erg](https://ergo.herominers.com/#how-to-mine-ergo-erg
 - [How to Mine Ergo? Step by Step (Youtube)](https://www.youtube.com/watch?v=4SnpCF67kyc)
 
+
+**SRBminer**
+- [SRBMiner-MULTI - How to mine Ergo coin (autolykos2)](https://www.youtube.com/watch?v=thBPstQJVWo)
 **Nanopool**
 - [Here’s a quick step-by-step guide for newbies on how to mine Ergo on Nanopool](https://help.nanopool.org/article/217-step-by-step-guide)
 - [Ergo Mining Setup Windows Smos Hive Amd Nvidia (Youtube)](https://www.youtube.com/watch?v=47eBVIjWYqY)
