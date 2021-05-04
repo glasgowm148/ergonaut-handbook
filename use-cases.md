@@ -2,7 +2,7 @@
 title: Use Cases
 description: 
 published: true
-date: 2021-03-05T21:35:37.401Z
+date: 2021-05-04T09:57:11.825Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T18:20:54.146Z
@@ -12,9 +12,11 @@ dateCreated: 2021-03-02T18:20:54.146Z
 {.is-info}
 
 
+Current dApps are listed on [sigmaverse.io](https://sigmaverse.io/)
+
+
 One of the most exciting things about blockchain is the possibility of making digital agreements without any trusted intermediaries. In the simplest use case, pioneered by Bitcoin, Alice can send a payment directly to Bob, wherever the two are located around the world, with no bank or any trusted third party needed. However, with modern blockchain functionality like Ergo, it is possible to make far more complex and sophisticated financial agreements than simple payments. Take the following example.
 
-Current dApps are listed on [sigmaverse.io](https://sigmaverse.io/)
 
 # **Gold-backed tokens**
 Alice uses ERGs to purchase gold-backed tokens from Bob. Bob stores the gold in a secure vault and uses the blockchain to issue one token for every Troy ounce of gold he has. Alice can then use these tokens freely in different contracts, transferring and trading them under whatever conditions she specifies in the smart contract code. When Alice wants to sell the tokens for physical gold, she can conduct another transaction with Bob, receiving ERG in return at market price.
