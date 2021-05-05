@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2021-04-11T10:35:03.098Z
+date: 2021-05-05T09:36:51.026Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -162,6 +162,7 @@ Please check out existing EIPs, such as [EIP-1](eip-0001.md), to understand the 
 - [Testnet explorer](https://testnet.ergoplatform.com/)
 - [Node API](https://git.io/fjqwb)
 - [Explorer API](https://git.io/fjqwN)
+- [API Docs](https://api.ergoplatform.com/api/v1/docs/)
 
 
 
