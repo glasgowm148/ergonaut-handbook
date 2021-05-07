@@ -2,7 +2,7 @@
 title: ErgoDEX
 description: 
 published: true
-date: 2021-04-25T12:23:49.952Z
+date: 2021-05-07T16:13:28.983Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-24T11:14:01.510Z
@@ -10,6 +10,8 @@ dateCreated: 2021-04-24T11:14:01.510Z
 
 > [EIP-0014: Decentalized Exchange Contracts](https://github.com/ergoplatform/eips/pull/27)
 {.is-info}
+
+[See the slide deck](https://ergonaut.space/ergodex.pdf)
 
 Ergo has built-in atomic exchange for its custom, first-class citizen tokens built into its core. ErgoDex is a *Uniswap-like* AMM-based Decentralised Exchange (DEX) which allows for direct peer-to-peer cryptocurrency transactions, reducing the need for centralised exchanges.
 
