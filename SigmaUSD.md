@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-05-10T09:05:46.902Z
+date: 2021-05-10T09:06:15.456Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -27,6 +27,9 @@ dateCreated: 2021-02-24T08:02:25.004Z
 - If you mint SigmaRSV, and the price goes up 10% — you get back 110 ERG when you cash out.
 - If you mint into the SigmaUSD, and the price goes up 10% — you still get $100 out, but because its went up 10%, you get 90ERG
 
+> This is the simplest example possible to explain how the logic of the contract works (without fees) and not what happens in real world scenario. The value you can redeem for your SigRSV floats up and down based on transaction fees and profits/losses SigUSD holders take when withdrawing.
+{.is-warning}
+
 
 **The 1% fee taken during minting goes back into the reserve**
 - This fee accumulates in the reserve.
@@ -34,8 +37,7 @@ dateCreated: 2021-02-24T08:02:25.004Z
 - When price dips, SigUSD holders who exit at a lower point than they entered, they must be rewarded extra erg to make their SigUSD up to $1
 - SigRSV profits depend on these accumulated transaction fees minus any withdrawn by SigUSD holders. 
 
-> This is the simplest example possible to explain how the logic of the contract works (without fees) and not what happens in real world scenario. The value you can redeem for your SigRSV floats up and down based on transaction fees and profits/losses SigUSD holders take when withdrawing.
-{.is-warning}
+
 
 > This provides individuals with the ability to choose to either go **long** on Erg by minting **SigmaRSV** or to choose **stability** by minting **SigmaUSD.**
 {.is-info}
