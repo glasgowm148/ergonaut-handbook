@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-05-10T09:06:15.456Z
+date: 2021-05-10T09:07:40.437Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -31,7 +31,7 @@ dateCreated: 2021-02-24T08:02:25.004Z
 {.is-warning}
 
 
-**The 1% fee taken during minting goes back into the reserve**
+**The 2% fee taken during minting goes back into the reserve**
 - This fee accumulates in the reserve.
 - SigmaRSV is an **option call on the reserve**. 
 - When price dips, SigUSD holders who exit at a lower point than they entered, they must be rewarded extra erg to make their SigUSD up to $1
