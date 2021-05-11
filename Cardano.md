@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-05-03T16:43:16.410Z
+date: 2021-05-11T17:53:59.355Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -43,7 +43,6 @@ Those that are familiar with the Lindy effect, which is often linked to Bitcoin�
 Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is if it is doing collateralised DeFi, the more significant the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient protection for all more complex DApps implementations on top of the standard UTxO model rather than translating very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are entirely different.
 
 
-Proof of Stake (PoS) is a burgeoning Sybil resistance mechanism that aims to have a digital asset (“token”) serve as security collateral in crypto networks. However, PoS has so far eluded a comprehensive threat model that encompasses both Byzantine attacks from distributed systems and financial attacks that arise from the dual usage of the token as a means of payment and a Sybil resistance mechanism. In particular, the existence of derivatives markets makes malicious coordination among validators easier to execute than in Proof of Work systems. We demonstrate that it is also possible for on-chain lending smart contracts to cannibalise network security in PoS systems. When the yield provided by these contracts is more attractive than the inflation rate provided from staking, stakers will tend to remove their staked tokens and lend them out, thus reducing network security. 
 
 - [How Secure is Cardano?](https://medium.com/@undersearcher/how-secure-is-cardano-5f1e076be968)
 
