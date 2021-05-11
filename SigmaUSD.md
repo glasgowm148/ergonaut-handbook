@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-05-10T09:07:40.437Z
+date: 2021-05-11T13:22:18.269Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -81,4 +81,3 @@ Unlike Ethereum-based crypto-backed stablecoins, such as DAI, Emurgo introduces 
 ## Infographics
 
 ![screenshot_2021-02-25_at_19.14.01.png](/screenshot_2021-02-25_at_19.14.01.png)
-![unknown.png](/unknown.png)
