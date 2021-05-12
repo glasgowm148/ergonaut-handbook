@@ -2,7 +2,7 @@
 title: Cardano
 description: 
 published: true
-date: 2021-05-11T17:53:59.355Z
+date: 2021-05-12T15:45:12.314Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -29,11 +29,13 @@ The main objective of Ergo is to provide financial contracts efficiently and sec
 1. Oracle pools — layered pools of oracles with deviation checking consensus opening a whole new world of applications.
 1. Local Exchange Trading System on top of Ergo.
 
-## Articles
+## Resources
     
 - [Ergo will complement Cardano](https://forum.cardano.org/t/ergo-will-complement-cardano/45412)
 - There is another article [here](https://veriumfellow.medium.com/what-will-ergo-bring-to-cardano-2f7ae911a9bd) with a more technical overview of what Ergo brings to ADA.
 - [hoskinson-cardano-working-on-stablecoin to rival makerdao developing defi products](https://thedailychain.com/hoskinson-cardano-working-on-stablecoin-to-rival-makerdao-developing-defi-products/)
+- [Special Announcement by Nico, Seba, and Robert | Cardano Live #18
+](https://youtu.be/5oKMOVNyWxs?t=1968)
 
 
 # Staking Pitfalls
