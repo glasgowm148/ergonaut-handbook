@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-05-11T13:22:18.269Z
+date: 2021-05-13T19:11:11.863Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -20,7 +20,8 @@ dateCreated: 2021-02-24T08:02:25.004Z
 
 # Overview
 
-
+![screenshot_2021-05-13_at_19.39.23.png](/screenshot_2021-05-13_at_19.39.23.png)
+![screenshot_2021-05-13_at_19.39.46.png](/screenshot_2021-05-13_at_19.39.46.png)
 **Assuming Erg is $1;**
 
 - You take 100 ERG worth $1 each and mint them into either StableCoins or ReserveCoins
