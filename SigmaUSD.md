@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-05-13T19:11:11.863Z
+date: 2021-05-15T23:24:10.353Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -17,6 +17,47 @@ dateCreated: 2021-02-24T08:02:25.004Z
 - [SigmaUSD vs the competition.](https://curiaregiscrypto.medium.com/sigmausd-vs-the-competition-e70b23fe37a3)
 - [SigmaUSD on Ergo - Privacy, Stability and Governance](https://curiaregiscrypto.medium.com/sigmausd-on-ergo-a36e0cdff743)
 - [Building Ergo: How the AgeUSD stablecoin works](https://ergoplatform.org/en/blog/2021-02-05-building-ergo-how-the-ageusd-stablecoin-works/)
+
+
+
+Introducing SigmaUSD.io the first UTxO-based stable coin - an instantiation of the AgeUSD protocol. The foundation on which a new era of digital finance will be built.
+
+Its economic model designed in partnership between IOHK, Ergo, and Emurgo maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.
+
+use-cases
+- Accepted in cryptocurrencycheckout 
+- Mix SigUSD or SigRSV in ErgoMixer, the first non-custodial, non-interactive miner in the cryptocurrency space.
+
+Stablecoin UI:
+https://sigmausd.io/#/
+
+Overview Video (with diagrams)
+https://www.youtube.com/watch?v=O3hPEp3tzoU
+
+Buying Guides:
+https://youtu.be/FR1NCJbzn7w
+https://www.youtube.com/watch?v=cJuKRfRrTG4
+
+Deep dives:
+https://m.youtube.com/watch?v=zG-rxMCDIa0&ab_channel=ErgoPlatform
+
+Documentation:
+https://github.com/Emurgo/age-usd
+
+This is v2, to read about v1 see these articles:
+https://ergoplatform.org/en/blog/2021_03_04-finding-right-balance/
+
+https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/
+
+Calculators:
+[dummy site](https://sigusd.abchris.xyz/)
+
+https://docs.google.com/spreadsheets/d/1_lX0FrkIpNHmpMNKWrhhJpC93Wt5wco8oKlf-Wef9fw/edit?usp=sharing
+
+Troubleshooting:
+Transactions can fail when the oracle refreshes during (and the price changes). In this event the funds will be returned to your connected wallet. 
+
+Use this link for a refund anytime if your funds become 'stuck' in a proxy address:  https://assm.sigmausd.io/return/your_address_set_in_ui/the_long_address_you_sent_to
 
 # Overview
 
