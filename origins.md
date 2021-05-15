@@ -2,7 +2,7 @@
 title: Origins
 description: 
 published: true
-date: 2021-04-28T12:21:42.708Z
+date: 2021-05-15T17:01:53.408Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:31:43.096Z
@@ -208,6 +208,37 @@ A Note On Token Economics:
 
 Ergo Platform had fair launch in the very beginning. It didn’t hold any ICO and there wasn’t any premined coins for the founders of the platform. Decentralization and fairness of a peer to peer monetary system was the priority in the first place. Foundation treasury is set to %4.37 of the total coins mined and it isn’t possible to change the core elements of token economics in a further stage.
 
+# Team
+
+Ergo operates in a decentralised fashion. There are 10-15 core developers and 30+ community developers.
+
+
+[Ergo Hall of Fame](https://ergoplatform.org/en/hall_of_fame/)
+
+Alexander Chepurnoy “kushti”
+
+Ergo core developer (2016 – present) https://ergoplatform.org/en/hall_of_fame/
+
+
+• Former Scorex Manager and at IOHK (2016-2017) https://iohk.io/en/team/alexander-chepurnoy
+https://iohk.io/en/research/library/authors/alexander-chepurnoy/
+
+• Former Waves lead developer (2016)
+https://bitcointalk.org/index.php?topic=1387944.msg14373167#msg14373167
+
+• Co-founder of smartcontract.com, now known as Chainlink (2014-2015)
+https://thedailychain.com/ergo-with-founder-alex-chepurnoy/
+
+• Nxt blockchain (#3 on CMC in June, 2014) core developer (2014-2015)
+https://thedailychain.com/ergo-with-founder-alex-chepurnoy/
+
+• Leading researcher & developer with over 200 citations on Google Scholar
+https://scholar.google.ru/citations?user=AG_OSPgAAAAJ&hl=en
+
+• Has taught “Cryptography and Blockchain Technology” course at Saint Petersburg National
+Research University (ITMO)
+
+https://drive.google.com/file/d/1fFcgGj437AfRYbemN8nxWHDWFjqPFhp1/view?usp=sharing
 
 # Ergonaut
 
