@@ -2,7 +2,7 @@
 title: Community
 description: 
 published: true
-date: 2021-05-15T17:07:47.540Z
+date: 2021-05-15T17:18:16.139Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-15T17:03:39.362Z
@@ -50,6 +50,7 @@ The Ergo Community is bigger than you realise (and growing quick). Come join us 
 - [France](https://t.me/ergofrance)
 - [Turkey](https://t.me/ergoplatform_tr)
 - [Brazil](https://t.me/ergobrazil)
+- [Portugues](https://t.me/ErgoPortuguese)
 
 
 # IRC
