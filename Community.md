@@ -2,7 +2,7 @@
 title: Community
 description: 
 published: true
-date: 2021-05-15T17:03:39.362Z
+date: 2021-05-15T17:06:34.370Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-15T17:03:39.362Z
@@ -10,7 +10,8 @@ dateCreated: 2021-05-15T17:03:39.362Z
 
 The Ergo Community is bigger than you realise (and growing quick). Come join us on any chats that interest you.
 
-- [https://ergoforum.org/](ergoforum.org)
+- [ergoforum.org](https://ergoforum.org)
+- [r/ergonauts](https://reddit.com/r/ergonauts)
 
 # Telegram 
 
