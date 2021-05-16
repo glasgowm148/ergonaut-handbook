@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-05-15T23:24:10.353Z
+date: 2021-05-16T15:06:21.997Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -60,7 +60,7 @@ Transactions can fail when the oracle refreshes during (and the price changes). 
 Use this link for a refund anytime if your funds become 'stuck' in a proxy address:  https://assm.sigmausd.io/return/your_address_set_in_ui/the_long_address_you_sent_to
 
 # Overview
-
+![photo_2021-05-16_16.05.53.jpeg](/photo_2021-05-16_16.05.53.jpeg)
 ![screenshot_2021-05-13_at_19.39.23.png](/screenshot_2021-05-13_at_19.39.23.png)
 ![screenshot_2021-05-13_at_19.39.46.png](/screenshot_2021-05-13_at_19.39.46.png)
 **Assuming Erg is $1;**
