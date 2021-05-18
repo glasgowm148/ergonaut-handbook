@@ -2,14 +2,13 @@
 title: Ergonaut
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2021-04-26T07:58:32.867Z
+date: 2021-05-18T21:28:54.454Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
 ---
 
-> *“It's one of the most revolutionary cryptocurrencies ever built. Got so many crazy ideas like  sigma protocols and pruning the blockchain and roller chains. All this crazy stuff. Even has a proof of no premine. So really a technological marvel in many respects, and it reflects about 8 years of knowledge that Alex has amassed as both a researcher and a developer. Super concise code and it blows my mind that the market cap is where it's at. It should be a top 10 coin or top 15 coin"*  — Charles Hoskinson
-{.is-info}
+
 
 ## Welcome to Smart Money!
 
@@ -21,6 +20,9 @@ Ergo is a unique Proof-of-Work (PoW) cryptocurrency and DeFi platform, building 
 
 - See the [Ergo Wiki](https://github.com/ergoplatform/ergo/wiki) on GitHub
 
+
+> *“It's one of the most revolutionary cryptocurrencies ever built. Got so many crazy ideas like  sigma protocols and pruning the blockchain and roller chains. All this crazy stuff. Even has a proof of no premine. So really a technological marvel in many respects, and it reflects about 8 years of knowledge that Alex has amassed as both a researcher and a developer. Super concise code and it blows my mind that the market cap is where it's at. It should be a top 10 coin or top 15 coin"*  — Charles Hoskinson
+{.is-info}
 
 # Overview
 
