@@ -2,7 +2,7 @@
 title: Community
 description: 
 published: true
-date: 2021-05-18T18:44:05.998Z
+date: 2021-05-18T18:44:59.608Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-15T17:03:39.362Z
@@ -40,7 +40,7 @@ The Ergo Community is bigger than you realise (and growing quick). Come join us 
 
 - [German](https://t.me/ergoplatform_german)
 - [Spanish](https://t.me/ergoplatform_ES)
-- [indonesia](https://t.me/Ergo_Indonesian)
+- [Indonesia](https://t.me/Ergo_Indonesian)
 - [Vietnam](https://t.me/ErgoPlatform_Vietnam)
 - [Bharat(India) and Bangladesh](https://t.me/ergoplatform_bangla_hindi)
 - [Chinese](https://t.me/ergoplatform_CH)
