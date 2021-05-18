@@ -2,7 +2,7 @@
 title: Community
 description: 
 published: true
-date: 2021-05-15T17:18:16.139Z
+date: 2021-05-18T18:44:05.998Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-15T17:03:39.362Z
@@ -38,19 +38,21 @@ The Ergo Community is bigger than you realise (and growing quick). Come join us 
 
 ## Regional Telegrams
 
-- [Ergo German](https://t.me/ergoplatform_german)
-- [Ergo Spanish](https://t.me/ergoplatform_ES)
-- [Ergo indonesia](https://t.me/Ergo_Indonesian)
-- [Ergo Vietnam](https://t.me/ErgoPlatform_Vietnam)
+- [German](https://t.me/ergoplatform_german)
+- [Spanish](https://t.me/ergoplatform_ES)
+- [indonesia](https://t.me/Ergo_Indonesian)
+- [Vietnam](https://t.me/ErgoPlatform_Vietnam)
 - [Bharat(India) and Bangladesh](https://t.me/ergoplatform_bangla_hindi)
-- [Chinese group](https://t.me/ergoplatform_CH)
-- [Russian group](https://t.me/ergoplatformru)
-- [Persian group](https://t.me/ergoplatform_IR)
+- [Chinese](https://t.me/ergoplatform_CH)
+- [Russian](https://t.me/ergoplatformru)
+- [Persian](https://t.me/ergoplatform_IR)
 - [Srilankans](https://t.me/ergoplatform_sl)
 - [France](https://t.me/ergofrance)
 - [Turkey](https://t.me/ergoplatform_tr)
 - [Brazil](https://t.me/ergobrazil)
 - [Portugues](https://t.me/ErgoPortuguese)
+- [Armenian](https://t.me/ergo_Armenian)
+- [Arabic](https://t.me/ergoplatform_arabic)
 
 
 # IRC
