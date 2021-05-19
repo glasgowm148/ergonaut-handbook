@@ -2,7 +2,7 @@
 title: SigmaUSD
 description: 
 published: true
-date: 2021-05-19T09:00:38.451Z
+date: 2021-05-19T09:02:20.443Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -114,7 +114,7 @@ This is v2, to read about v1 see these articles:
 
 ## Infographics
 ![photo_2021-05-16_16.05.53.jpeg](/photo_2021-05-16_16.05.53.jpeg)
-![screenshot_2021-05-13_at_19.39.23.png](/screenshot_2021-05-13_at_19.39.23.png)
+![photo_2021-05-19_10.01.10.jpeg](/photo_2021-05-19_10.01.10.jpeg)
 ![screenshot_2021-05-13_at_19.39.46.png](/screenshot_2021-05-13_at_19.39.46.png)
 
 ![screenshot_2021-02-25_at_19.14.01.png](/screenshot_2021-02-25_at_19.14.01.png)
