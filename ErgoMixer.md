@@ -2,7 +2,7 @@
 title: ErgoMixer
 description: 
 published: true
-date: 2021-05-15T21:28:07.794Z
+date: 2021-05-20T08:47:01.199Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:54.623Z
@@ -14,7 +14,9 @@ dateCreated: 2021-02-24T08:03:54.623Z
 
 There have been requests from the community to understand the mixer, why it is an important piece of tech, and why people would choose to use it. 
 
-It is my hope that I can cover these questions in a way that a novice to the crypto space can understand and comprehend in this [basic overview](https://ergoplatform.org/en/blog/2021-05-12-ergomixer/)
+- [ErgoMixer ELI5](https://ergoplatform.org/en/blog/2021-05-12-ergomixer/)
+- [Ergo: What are *'Mixers'* ?](https://ergoplatform.org/en/blog/2021-05-19-ergo-what-are-bitcoin-mixers/)
+
 # State of the Art
 
 ErgoMixer (aka ZeroJoin) combines Zerocoin and CoinJoin
