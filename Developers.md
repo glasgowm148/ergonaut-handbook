@@ -31,7 +31,7 @@ We are thinking about organizing a hackathon, likely in May. The topic would be 
 The following topics will likely be covered
 
 * Improvements to ErgoScript (not all the ErgoTree features are projected into it)
-* Improvements to Ergo AppKit (basic library for constructing transactions and building offchain logic on top of for Java and JVM languages) 
+* Improvements to [Ergo AppKit](https://github.com/ergoplatform/ergo-appkit) (basic library for constructing transactions and building offchain logic on top of for Java and JVM languages) 
 * Improvements to Ergo Node Interface and - [Ergo Headless dApp Framework](https://github.com/Emurgo/ergo-headless-dapp-framework) (basic library for constructing transactions and building offchain logic with Rust)
 * [Ergo Crowdfunding](https://github.com/robkorn/ergo-crowdfunding-cli) apps/UI 
 * Visual tool for constructing multi-signatures (could be a good first step for visual tools to construct more complex scripts)
@@ -113,18 +113,20 @@ The oracle core is the off-chain component that oracles who are part of an oracl
 
 ### Appkit
 
-
- - [Ergo Appkit (Polyglot library)](https://github.com/aslesarenko/ergo-appkit) - Appkit: A Library for Polyglot Development of Ergo Applications using [GraalVM](https://www.graalvm.org/)
+ - [Ergo Appkit (Polyglot library)](https://github.com/aslesarenko/ergo-appkit) - Appkit: A Library for Polyglot Development of Ergo Applications using either [GraalVM](https://www.graalvm.org/) or stock Java 1.7 and above. Read the [introduction](https://ergoplatform.org/en/blog/2019_12_03_top5/).
   - [Appkit Examples](https://github.com/aslesarenko/ergo-appkit-examples) - Examples of using Ergo Appkit for Polyglot Development of Ergo Applications
+  - [Ergo Android](https://github.com/aslesarenko/ergo-android) - Example Android application which demonstrates how Ergo Appkit can be used to develop Ergo applications running on Android.
+
+Appkit has idiomatic Java API and is written in Java/Scala. It is a thin wrapper around core components provided by ErgoScript interpreter and Ergo protocol implementations which are written in Scala. It is [published](https://mvnrepository.com/artifact/org.ergoplatform/ergo-appkit) on maven repository and cross compiled to both Java 7 and Java 8+ jars.
+
+The Appkit library is compatible with GraalVM - a novel next generation approach to implement software which is reusable across several programming languages and execution environments. For example if Node.js application is run on GraalVM, then it can use Appkit to interact with Ergo Blockchain.
 
 
-The Appkit library is based on GraalVM - a novel next generation approach to implement software which is reusable across several programming languages and execution environments.
+Using Appkit Ergo applications can be written in one of the languages supported by GraalVM (i.e. Java, JavaScript, C/C++, Python, Ruby, R) and using this library applications can communicate with Ergo nodes via unified API and programming model provided by Appkit. In addition Appkit based Ergo applications can be compiled into native code using native-image ahead of time compiler and then executed without Java VM with very fast startup time and lower runtime memory overhead compared to a Java VM. This is attractive option for high-performance low-latency microservices. 
 
-Appkit has idiomatic Java API and is written in Java/Scala. It is a thin wrapper around core components provided by ErgoScript interpreter and Ergo protocol implementations which are written in Scala.
+In addition Appkit is compatible with Android and can be used from Android applications. 
 
-Using Appkit Ergo applications can be written in one of the languages supported by GraalVM (i.e. Java, JavaScript, C/C++, Python, Ruby, R) and using this library applications can communicate with Ergo nodes via unified API and programming model provided by Appkit. In addition Appkit based Ergo applications can be compiled into native code using native-image ahead of time compiler and then executed without Java VM with very fast startup time and lower runtime memory overhead compared to a Java VM.
-
- - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/)
+ - [ErgoTool](https://github.com/aslesarenko/ergo-tool) - A Command Line Interface for Ergo based on Appkit and [GraalVM](https://www.graalvm.org/) native-image. Read the [introduction and overview](https://ergoplatform.org/en/blog/2019_12_31_ergo_tool/).
  
 
 # Misc
@@ -188,8 +190,10 @@ Please check out existing EIPs, such as [EIP-1](eip-0001.md), to understand the 
 - [White paper]( https://docs.ergoplatform.com/whitepaper.pdf)
 - [Yellow paper (in progress)]( https://docs.ergoplatform.com/YellowPaper.pdf)
 - [Short overview]( https://docs.ergoplatform.com/teaser.pdf)
+- [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md) 
 - [ErgoScript tutorial]( https://docs.ergoplatform.com/ErgoScript.pdf)
 - [ErgoScript advanced tutorial]( https://docs.ergoplatform.com/sigmastate_protocols.pdf)
+- [ErgoTree specification](https://ergoplatform.org/docs/ErgoTree.pdf)
 - [Autolykos PoW scheme specification]( https://docs.ergoplatform.com/ErgoPow.pdf)
 
 
