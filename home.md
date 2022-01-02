@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-01-02T12:48:56.948Z
+date: 2022-01-02T12:49:19.561Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -48,5 +48,5 @@ The Ergo ecosystem is under continuous development. Expect new ways to use it to
 - [Discord](https://discordapp.com/invite/gYrVrjS)
 - [Ergo Forum](https://www.ergoforum.org/)
 
-> ergonaut.space is a community driven space where anyone can contribute. Contact @glasgowm/unomie/sigmanaut\_ on telegram/Discord/reddit to have a new regional language section added.
+> ergonaut.space is a community driven space where anyone can contribute. Contact moderators in any of the chatrooms to have a new regional language section added.
 {.is-success}
