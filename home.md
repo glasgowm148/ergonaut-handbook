@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-01-02T12:23:06.460Z
+date: 2022-01-02T12:48:56.948Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -10,7 +10,7 @@ dateCreated: 2021-12-31T16:01:22.965Z
 
 
 # Welcome to ergonaut.space
-ergonaut.space is the community wiki of the Ergo blockchain, a guide translating how to use and the underlying technical details of the Ergo blockchain into easy to understand language for non-technical people. If you are a developer or advanced user of cryptocurrencies, the [Ergo Wiki](https://github.com/ergoplatform/ergo/wiki) on GitHub may be a more appropriate source of information.
+ergonaut.space is the community wiki of the Ergo blockchain, a guide translating how to use and the underlying technical details of the Ergo blockchain into easy to understand language for non-technical people. If you are a developer or advanced user of cryptocurrencies, [docs.ergoplatform](http://docs.ergoplatform.org/) on GitHub may be a more appropriate source of information.
 
 ## What is Ergo?
 Ergo is programmable money designed to be used by ordinary people. 
@@ -29,8 +29,12 @@ The Ergo ecosystem is under continuous development. Expect new ways to use it to
 
 ## Interested in Learning More?
 
+**Overviews**
 - [The Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versions](Ergo/manifesto))
+- [Why Ergo](https://cafebedouin.org/2021/12/09/why-ergo/)
 - [Overview of the Ergo Blockchain](Ergo/Overview)
+
+**Guides**
 - [How to Earn Interest](https://ergonaut.space/en/Guides/yield)
 - [How to Mine Ergo](https://ergonaut.space/en/Guides/Mining/Mining)
 - [What is SigmaUSD?](https://ergonaut.space/en/dApps/SigmaUSD/Overview)
