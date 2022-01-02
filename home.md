@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-01-02T12:22:14.265Z
+date: 2022-01-02T12:22:41.390Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -29,7 +29,7 @@ The Ergo ecosystem is under continuous development. Expect new ways to use it to
 
 ## Interested in Learning More?
 
-- [The Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versions](https://ergonaut.space/en/manifesto))
+- [The Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versions](Ergo/manifesto))
 - [Overview of the Ergo Blockchain](https://ergonaut.space/en/ergo/Overview)
 - [How to Earn Interest](https://ergonaut.space/en/Guides/yield)
 - [How to Mine Ergo](https://ergonaut.space/en/Guides/Mining/Mining)
