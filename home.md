@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-01-03T11:06:09.226Z
+date: 2022-01-03T11:07:06.671Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -13,7 +13,7 @@ dateCreated: 2021-12-31T16:01:22.965Z
 ergonaut.space is the community wiki of the Ergo blockchain, a guide translating how to use and the underlying technical details of the Ergo blockchain into easy to understand language for non-technical people. If you are a developer or advanced user of cryptocurrencies, [docs.ergoplatform](http://docs.ergoplatform.org/) on GitHub may be a more appropriate source of information.
 
 ## What is Ergo?
-Ergo is programmable money designed to be used by ordinary people. 
+Ergo is the next generation of blockchain and brings unstoppable smart money designed to be used by ordinary people. 
 
 ## What can I do with Ergo?
 The [Sigmaverse](https://sigmaverse.io/) provides a list of all the decentralized applications ([dApps](https://ergonaut.space/en/Glossary/dApps)) available on the Ergo blockchain. Common uses include:
