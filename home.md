@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-01-03T11:05:17.759Z
+date: 2022-01-03T11:06:09.226Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -22,9 +22,10 @@ The [Sigmaverse](https://sigmaverse.io/) provides a list of all the decentralize
 - Earning money by transferring your cryptocurrency into a liquidity pool, staking it in a dApp or joining a mining pool. (See [Yield](/en/Guides/yield))
 - Transfering your cryptocurrencies to a private wallet address
 - Buying digital art in an auction site
-- Creating a raffle for a charitable cause
+- Create or support a raffle for a charitable cause
 - Creating Ergo payment links for goods and services you provide
 - Tip ERG or native ERG tokens across socials. 
+- Secure profits using SigmaUSD. 
 
 The Ergo ecosystem is under continuous development. Expect new ways to use it to emerge it in the future.
 
