@@ -2,7 +2,7 @@
 title: Overview
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-01-03T11:08:29.636Z
+date: 2022-01-03T11:08:45.302Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -28,7 +28,7 @@ Ergo has prioritised useful features without compromising security with a resear
 
 
 
-> Research-led but real-world focused
+## Research-led but real-world focused
 
 Ergo Platform's native token, ERG, is used to pay all transaction fees for transfers and smart contract execution. Storage fees are also charged on dormant accounts, providing ongoing incentives for miners even after block rewards end. This new economic model ensures a sustainable network. ERG functions as the core token and will be used for different dApps collateral like stablecoin and many other applications. Off-the-peg use of ring and threshold signatures powers non-custodial and non-interactive dApps like ErgoMixer for both ERG and custom tokens.
 
