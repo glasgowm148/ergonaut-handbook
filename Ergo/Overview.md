@@ -2,7 +2,7 @@
 title: Overview
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-01-03T11:07:40.974Z
+date: 2022-01-03T11:08:29.636Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -27,7 +27,6 @@ Ergo has prioritised useful features without compromising security with a resear
 > *“It's one of the most revolutionary cryptocurrencies ever built. Got so many crazy ideas like sigma protocols and pruning the blockchain and roller chains. All this crazy stuff. Even has a proof of no premine. So really a technological marvel in many respects, and it reflects about 8 years of knowledge that Alex has amassed as both a researcher and a developer. Super concise code and it blows my mind that the market cap is where it's at. It should be a top 10 coin or top 15 coin"* — Charles Hoskinson
 
 
-# Overview
 
 > Research-led but real-world focused
 
