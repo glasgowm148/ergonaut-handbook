@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-01-08T12:57:32.845Z
+date: 2022-01-08T13:11:59.240Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -123,6 +123,10 @@ To fund development, promotion, events, to swap Ergo’s Ergo First Year Tokens 
 
 - [ergoplatform.org](https://ergoplatform.org/en/wallets/)
 
+## How can I stake my Erg?
+Ergo is a PoW (**Proof of Work**) coin not a PoS (**Proof of Stake**), which means that blocks are validated by miners, not by stakers, therefore you can't stake Erg.
+
+However, if you are willing to gain returns from your coins you should take a look at [this guide](https://ergonaut.space/en/Guides/yield)
 # Your Questions Answered
 
 Any other questions? Comment below so we can expand this page !
