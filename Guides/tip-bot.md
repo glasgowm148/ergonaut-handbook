@@ -2,7 +2,7 @@
 title: Tip Bot
 description: 
 published: true
-date: 2022-01-08T12:03:59.639Z
+date: 2022-01-08T12:11:39.421Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-08T12:03:43.226Z
@@ -22,6 +22,11 @@ Supported coins/tokens:
 - Erdoge
 - Ergold
 - Kushti
+- LunaDog
+- Have_A_Nice_Day
+- thisguyfucks
+- ErgTip
+- NETA
 
 You can restore the same seed in each instance, and use the same tip wallet across all platforms. 
 
