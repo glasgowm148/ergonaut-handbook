@@ -2,19 +2,24 @@
 title: Tip Bot
 description: 
 published: true
-date: 2022-01-08T12:11:39.421Z
+date: 2022-01-08T18:45:25.066Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-08T12:03:43.226Z
 ---
 
-Supported Platforms
+This page will describe setting up The ErgoTipperBot on each platform. This bot allows you to tip other members erg, or any of the supported native tokens. Simply set up your wallet, fund it - and start tipping! If you tip someone without a wallet they
+
+
+You can restore using the same seed phrase, and use the same tip wallet across all platforms. 
+
+**Supported Platforms**
 - Reddit
 - Discord
 - Telegram
 - Twitter
 
-Supported coins/tokens:
+**Supported coins/tokens:**
 - Erg
 - SigUSD
 - SigRSV
@@ -28,11 +33,11 @@ Supported coins/tokens:
 - ErgTip
 - NETA
 
-You can restore the same seed in each instance, and use the same tip wallet across all platforms. 
+> This is a bot that runs on a server managed by  (u/Luivatra). It is not unhackable (nothing is). Do not use this as a main wallet!
 
 ## Getting Started
 
-**First off. This is a bot that runs on a server managed by me (u/Luivatra). It is not unhackable (nothing is). Do not use this as a main wallet!**
+
 
 
 ### Reddit
@@ -74,5 +79,52 @@ Bot commands:
     - [!restore <password> <seed phrase>](https://www.reddit.com/message/compose/?to=ErgoTipperBot&subject=BotTalk&message=!restore%20%3Cpassword%3E%20%3Cseed%20phrase%3E): Restore an existing wallet to be used as your tip wallet (use this to use the same wallet across Discord & Reddit)
 
 
+### Telegram
+  
+# How to use the ErgoTipperBot-BETA
+
+**First off. This is a bot that runs on a server managed by me (@Luivatra). It is not unhackable (nothing is). Do not use this as a main wallet!**
+1. Send a DM to @ErgoTipperBot with the text: /start
+2. Once the wallet is created, send a dm with /address to show your tip address
+3. Copy your tip address and open your Yoroi wallet.
+4. Click the send tab and transfer some ERG's to the tip wallet address. (Any transaction requires at least 0.001 erg in fees, on top of that funds in utxo are stored in a box. Each box needs to have a small amount of erg in them. So on the tip bot a token tip will require 0.00115 erg)
+5. If you want to tip a token like Kushti for example, transfer the token to the same tip wallet address. 
+6. Once the transactions are sent (~ 2 minutes), send a DM to @ErgoTipperBot: /balance
+7. Your balance should look similar to this:
+
+| token  | amount |
+|--------|:-------|
+| Erg    | 0.1    |
+| Kushti | 100    |
+
+8. You are good to go! In a reply to a message you think deserves a tip:
+/t <amount> <token> <any remaining text will be stored in the transaction database so you can both view it later>
 
 
+Bot commands:
+
+- In comments:
+    - /t <amount> <token> <any remaining text will be stored in the transaction database so you can both view it later>: tip the person you reply to, make sure to tag @ErgoTipperBot
+- In DM with @ErgoTipperBot:
+    - /start: Initialize a tip wallet
+    - /changepw currentPassword newPassword: Change tip wallet pw
+    - /address: Show tip wallet address
+    - /seed password: Show tip wallet seed phrase
+    - /balance: Show tip wallet balance
+    - /restore password seedphrase: Restore an existing wallet to be used as your tip wallet (use this to use the same wallet across Discord, Reddit, Twitter & Telegram)
+
+
+Supported coins/tokens:
+
+- Erg
+- SigUSD
+- SigRSV
+- COMET
+- Erdoge
+- Ergold
+- Kushti
+- LunaDog
+- Have_A_Nice_Day
+- thisguyfucks
+- ErgTip
+- NETA
