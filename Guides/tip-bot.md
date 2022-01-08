@@ -2,13 +2,11 @@
 title: Tip Bot
 description: 
 published: true
-date: 2022-01-08T12:03:43.226Z
+date: 2022-01-08T12:03:59.639Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-08T12:03:43.226Z
 ---
-
-# Tip Bot
 
 Supported Platforms
 - Reddit
