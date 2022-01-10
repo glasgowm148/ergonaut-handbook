@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-01-10T11:44:02.561Z
+date: 2022-01-10T11:45:29.928Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -30,7 +30,13 @@ The [Sigmaverse](https://sigmaverse.io/) provides a list of all the decentralize
 
 The Ergo ecosystem is under continuous development. Expect new ways to use it to emerge it in the future.
 
+
+
 ## Interested in Learning More?
+
+> Check out [this page](https://linktr.ee/ergoplatform) for links to all the community chats, social spaces, dApp spaces, etc. 
+{.is-info}
+
 
 **Overviews**
 - [The Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versions](Ergo/manifesto))
