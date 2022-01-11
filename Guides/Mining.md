@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-01-11T12:24:51.550Z
+date: 2022-01-11T12:35:27.296Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -18,7 +18,9 @@ dateCreated: 2021-12-31T23:01:12.178Z
 
 ## The Coin: What is Ergo?
 
-Ergo has a strictly limited supply, an 8‐year emission schedule and a declining rate of emission over these 8 years. All tokens are mined through an original Proof‐of‐Work (“PoW”) algorithm called [Autolykos](https://ergonaut.space/en/Autolykos), which employs a [smoothed difficulty algorithm](https://docs.ergoplatform.com/ErgoPow.pdf)
+Ergo has a strictly limited supply, an 8‐year emission schedule and a declining rate of emission over these 8 years. All tokens are mined through an original Proof‐of‐Work (“PoW”) algorithm called Autolykos v2, designed to be ASIC resistant, which employs a [smoothed difficulty algorithm](https://ergoplatform.org/docs/ErgoPow.pdf)
+
+Miners have to perform memory-hard computations~(at least 2.5 GB memory is needed, but the current most efficient implementation utilizes around 4 GB of vRAM) that makes Ergo friendly for GPU mining.
 
 There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐mine. At the end of 8 years, the final Erg supply will be 97,739,925 Ergs. The Ergo block interval is 2 minutes and for the first 2 years, each block will release a total of 75 Ergs to be shared between the miners and the Treasury (Treasury discussed below). But starting at year 2, the rate of emission will fall by 3.0 Ergs and thereafter further decline every 3 months by an additional 3.0 Ergs, which will result in an end to emission 8 years after launch. 
 
