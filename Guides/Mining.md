@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-01-02T12:05:50.857Z
+date: 2022-01-11T12:24:51.550Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -77,7 +77,7 @@ While it is possible to mine Ergo with a 4gb GPU. A 6GB GPU is the suggested min
     -   Mining Rack
     -   Fans
 
-Search your card here [Autolykos v2 hashrates](https://www.ergoforum.org/t/autolykos-v2-hashrates/580) to find the hashrate.
+Search your card here [Autolykos v2 hashrates](https://docs.google.com/spreadsheets/d/1NsuoDB27EwCo_BlSjCP3GMLfTSJRPIWIBsL-wPTllUg) to find the hashrate.
 
 ## The Pools:
 
@@ -85,46 +85,43 @@ Search your card here [Autolykos v2 hashrates](https://www.ergoforum.org/t/autol
 - Artwork by: Autolykos Megistos
 ---
 
-### [2Miners](https://2miners.com/erg-mining-pool)
-- [How to start mining Ergo](https://erg.2miners.com/help)
+### [GetBlok.io Smart Pool](https://ergo.getblok.io)
+- [How to connect to GetBlok](https://www.getblok.io/how-to-connect/)
+- [GetBlok Telegram Chat](https://t.me/getblok)
+- [GetBlok Discord](https://discord.gg/h9uF3cNXdY)
 
-### [ErgoPoolMoscow](https://ergo.pool-moscow.ru/#/home)
-- [ErgoPoolMoscow Dashboard](https://ergo.pool-moscow.ru/#/dashboard)
+### [LeafPool](https://ergo.leafpool.com/)
+- [Getting started on LeafPool](https://ergo.leafpool.com/getting-started)
 
 ### [Enigma Pool](https://enigmapool.com/)
 - [Getting started on Enigma Pool](https://enigmapool.com/getstarted) 
 
-### [Fairhash](https://ergo.fairhash.org/)
-- [Getting started on Fairhash](https://ergo.fairhash.org/#getting_started)
+### [Miningcore](https://miningcore.pro/pool/ergo/)
+- [Miningcore FAQ](https://miningcore.pro/faq)
 
- ### [F2pool](https://www.f2pool.com/?_ga=2.253802568.1957310317.1634436769-1506845288.1634436769) 
+### [WoolyPooly](https://woolypooly.com/en/coin/erg)
+- [How to start mining Ergo (ERG) on Windows with AMD RX 4GB cards](https://www.youtube.com/watch?v=47eBVIjWYqY)
+- [WoolyPooly Discord](https://woolypooly.com/discord)
+- [WoolyPooly Telegram Chat](https://woolypooly.com/telegram)
+
+### [K1pool](https://k1pool.com/pool/erg)
+- [How to start mining on K1pool](https://k1pool.com/pool/erg/how-to-start)
+
+### [2Miners](https://2miners.com/erg-mining-pool)
+- [How to start mining Ergo](https://erg.2miners.com/help)
+
+
+ ### [F2pool](https://www.f2pool.com/?_ga=2.253802568.1957310317.1634436769-1506845288.1634436769)
 - [How to mine Ergo (ERG) on f2pool](https://f2pool.io/mining/guides/how-to-mine-ergo/)
 
 ### [FlyPool](https://ergo.flypool.org/)
 - [How to connect on FlyPool](https://ergo.flypool.org/start)
-
-### [GetBlok.io Smart Pool](https://ergo.getblok.io)
-- [How to connect to GetBlok](https://www.getblok.io/how-to-connect/)
-- [GetBlok Telegram Chat](https://t.me/getblok)
 
 ### [HeroMiners](https://ergo.herominers.com/)
 
 -   [Hero Miners: How to Mine Ergo (ERG)? Complete Beginner’s Guide](https://herominers.medium.com/how-to-mine-ergo-erg-complete-beginners-guide-608a87e89ed6)
 -   [HeroMiners: How to mine Erg](https://ergo.herominers.com/#how-to-mine-ergo-erg)
 -   [How to Mine Ergo? Step by Step (Youtube)](https://www.youtube.com/watch?v=4SnpCF67kyc)
-
-### [K1pool](https://k1pool.com/pool/erg)
-- [How to start mining on K1pool](https://k1pool.com/pool/erg/how-to-start)
-
-### [LeafPool](https://ergo.leafpool.com/)
-- [Getting started on LeafPool](https://ergo.leafpool.com/getting-started)
-
-### [Monero Ocean Stream](https://moneroocean.stream/)
-- [Configure Monero Ocean](https://moneroocean.stream/)
-
-### [WoolyPooly](https://woolypooly.com/en/coin/erg)
-
--   [How to start mining Ergo (ERG) on Windows with AMD RX 4GB cards!!! Step by Step (Youtube)](https://www.youtube.com/watch?v=47eBVIjWYqY)
 
 ---
 
