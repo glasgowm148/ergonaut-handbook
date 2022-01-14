@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T05:06:41.876Z
+date: 2022-01-14T05:10:10.864Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -10,19 +10,19 @@ dateCreated: 2021-12-30T10:43:30.389Z
 
 # Earning Yield
 
-Ergo is a **Proof of Work** blockchain. So, it is not possible to stake Ergo itself as you would in a **Proof of Stake** blockchain. However, it is possible to 'stake' native tokens on Ergo, either in combination with Ergo in liquidity pools, tokenisation of dApps, trading bots. lending platforms and other mechanisms. 
+Ergo is a **Proof of Work** blockchain. So, it is not possible to stake Ergo itself as you would in a **Proof of Stake** blockchain. However, it is possible to 'stake' native tokens on Ergo, either in combination with Ergo in liquidity pools, tokenisation of dApps, trading bots, lending platforms, and other mechanisms. 
 
 ## [Ergo Profit-Sharing DApp](https://github.com/mhssamadani/ErgoProfitSharingDapp)
 
-This service will provide a way for dapps to distribute gains among dapps' token holders.
+This service will provide a way for dapps to distribute gains among the dapps' token holders.
 
-The first implementation of this will tokenise Ergomixer. (Auction House and Raffle thereafter)
+The first implementation of this will tokenise ErgoMixer, Ergo Auction House, and Ergo Raffle.
 
 The ErgoMixer income (in ERG and other tokens) is currently received by its creator ('anon2020s'), since it has only one stakeholder at the moment. He has announced that he is willing to create and sell some tokens in the near future to obtain more stakeholders; let's call this token $MIX. Later, anyone with these $MIX tokens can stake them in the Profit Sharing contract and obtain the mixer's incomes proportional to their staked tokens.
 
 So, it will not be way a way to 'stake' ERG at first. However in the future it could be used in some creative services to provide ERG-staking.
 
-More details available on the [ergoforum](https://www.ergoforum.org/t/a-solution-for-staking/1057)
+More details available on the [ergoforum](https://www.ergoforum.org/t/a-solution-for-staking/1057).
 
 # Staking
 
