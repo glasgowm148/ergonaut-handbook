@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T04:48:30.778Z
+date: 2022-01-14T04:54:00.214Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -40,6 +40,8 @@ The purpocase of ErgoPad is to help new projects build financial capital through
 <br>
 
 ## [anetaBTC](https://www.anetabtc.io/)
+
+Decentralized, On-Chain Wrapped Bitcion on Ergo and Cardano.
 
 **Community**
 * [Discord](https://discord.gg/2wHJPetCx9)
@@ -91,6 +93,8 @@ Your redeemable amount changes as the pool gets used and a percentage of the swa
 - [Twitter](https://twitter.com/ErgoDex)
 - [Reddit](https://www.reddit.com/r/ergodex/)
 - [SigmaUSD Telegram](https://t.me/SigmaUSD)
+
+<br>
 
 
 ### Swop.fi
@@ -150,9 +154,16 @@ Rather than using the bots on KuCoin, you can use custom bots with a bit more co
 
 # Lending
 
-## ErgoLend
+## [ErgoLend](https://www.ergolend.org/)
 
-- [ergolend.org](https://www.ergolend.org/#)
+ErgoLend is a lending solution being built on the Ergo blockchain to reach those that most need DeFi.
+
+**Community**
+- [Telegram](https://t.me/ErgoLend)
+- [Twitter](https://twitter.com/ErgoLend)
+- [Reddit](https://www.reddit.com/r/ergolend/)
+
+<br>
 
 ## Liqwid
 
