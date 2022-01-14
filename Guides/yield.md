@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T05:10:10.864Z
+date: 2022-01-14T05:11:20.556Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -30,7 +30,7 @@ Several other projects plan to launch native tokens on Erg and plan to offer sta
 
 ## [ErgoPad](https://ergopadi.io/)
 
-The purpocase of ErgoPad is to help new projects build financial capital through token sales during IDO's, or Initial Decentralized Token Offerings. ErgoPad has deployed its own token through an IDO that gives investors governance powers as well as the ability to stake the asset. If investors reach a certain staking tier, they can enjoy early access to seed sales (often at a lower price than what will be charged at the IDO) for new projects.
+The purpose of ErgoPad is to help new projects build financial capital through token sales during IDO's, or Initial Decentralized Token Offerings. ErgoPad has deployed its own token through an IDO that gives investors governance powers as well as the ability to stake the asset. If investors reach a certain staking tier, they can enjoy early access to seed sales (often at a lower price than what will be charged at the IDO) for new projects.
 
 **Community**
 * [Discord](https://discord.gg/JdfVv7jp6b)
