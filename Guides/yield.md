@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T04:42:15.505Z
+date: 2022-01-14T04:48:30.778Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -12,9 +12,7 @@ dateCreated: 2021-12-30T10:43:30.389Z
 
 Ergo is a **Proof of Work** blockchain. So, it is not possible to stake Ergo itself as you would in a **Proof of Stake** blockchain. However, it is possible to 'stake' native tokens on Ergo, either in combination with Ergo in liquidity pools, tokenisation of dApps, trading bots. lending platforms and other mechanisms. 
 
-## ErgoProfitSharingDapp
-
-- [GitHub](https://github.com/mhssamadani/ErgoProfitSharingDapp)
+## [Ergo Profit-Sharing DApp](https://github.com/mhssamadani/ErgoProfitSharingDapp)
 
 This service will provide a way for dapps to distribute gains among dapps' token holders.
 
@@ -34,21 +32,28 @@ Several other projects plan to launch native tokens on Erg and plan to offer sta
 
 The purpocase of ErgoPad is to help new projects build financial capital through token sales during IDO's, or Initial Decentralized Token Offerings. ErgoPad has deployed its own token through an IDO that gives investors governance powers as well as the ability to stake the asset. If investors reach a certain staking tier, they can enjoy early access to seed sales (often at a lower price than what will be charged at the IDO) for new projects.
 
+**Community**
 * [Discord](https://discord.gg/JdfVv7jp6b)
 * [Twitter](https://twitter.com/ErgoPadOfficial)
 * [Reddit](https://www.reddit.com/r/ergopad/)
 
+<br>
+
 ## [anetaBTC](https://www.anetabtc.io/)
 
+**Community**
 * [Discord](https://discord.gg/2wHJPetCx9)
 * [Twitter](https://twitter.com/AnetaBTC)
 * [Reddit](https://www.reddit.com/r/anetaBTC/)
 
+<br>
+
 ## [ERGnomes.io](https://ergnomes.io)
 
+**Community**
+* [Discord](https://discord.com/invite/HeKnRp5n9z)
+* [Twitter](https://twitter.com/ERGnomes)
 
-- [anetaBTC](https://www.reddit.com/r/anetaBTC/)
-- [ERGnomes.io](https://ergnomes.io)
 
 # Automated Market Makers
 
@@ -68,7 +73,7 @@ So, why would anyone provide liquidity to an AMM in an asset they expected to go
 
 There's an [involved paper](https://research.paradigm.xyz/uniswaps-alchemy), but here's the central idea: digital assets like Erg don't just increase. They have a lot of volitality, ups and downs, and if you are in an AMM liquidity pool, the balancing of the AMM of the pool works as a kind of dollar cost averaging. It buys more of the asset that costs less when it is down and less of the asset that costs more when it is up.
 
-## ErgoDex
+## [ErgoDex](https://ergodex.io/)
 
 ![screenshot_2022-01-09_at_18.13.43.png](/screenshot_2022-01-09_at_18.13.43.png)
 There is currently one decentralized exchange on Ergo, Ergodex. There are several pools on ErgoDex with a visible estimated asset annual percentage yield (APY) that can be used for yield harvesting.
@@ -80,9 +85,13 @@ Your redeemable amount changes as the pool gets used and a percentage of the swa
 - SigUSD/ERG
 	- High IL risk, however a solid investment if you want to earn fee's off your nest-egg. SigUSD has has never came close to loosing it's peg. 
 
-**Community Chats**
+**Community**
+- [Discord](https://discord.gg/KBrwstYcBx)
+- [Telegram](https://t.me/ergodex_community)
+- [Twitter](https://twitter.com/ErgoDex)
+- [Reddit](https://www.reddit.com/r/ergodex/)
 - [SigmaUSD Telegram](https://t.me/SigmaUSD)
-- [ErgoDex Telegram](https://t.me/ergodex_community)
+
 
 ### Swop.fi
 
