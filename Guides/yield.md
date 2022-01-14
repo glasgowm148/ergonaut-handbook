@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-09T18:14:26.772Z
+date: 2022-01-14T04:27:56.144Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -30,9 +30,9 @@ More details available on the [ergoforum](https://www.ergoforum.org/t/a-solution
 
 Several other projects plan to launch native tokens on Erg and plan to offer staking.
 
-- [ergopad](https://ergopad.io/staking)
+- [ErgoPad](https://ergopad.io/staking)
 - [anetaBTC](https://www.reddit.com/r/anetaBTC/)
-- [ergnomes.io](https://ergnomes.io)
+- [ERGnomes.io](https://ergnomes.io)
 
 # AMMs
 
