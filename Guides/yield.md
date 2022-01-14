@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T04:27:56.144Z
+date: 2022-01-14T04:37:12.439Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -30,17 +30,23 @@ More details available on the [ergoforum](https://www.ergoforum.org/t/a-solution
 
 Several other projects plan to launch native tokens on Erg and plan to offer staking.
 
-- [ErgoPad](https://ergopad.io/staking)
+### [ErgoPad](https://ergopadi.io/)
+
+The purpocase of ErgoPad is to help new projects build financial capital through token sales during IDO's, or Initial Decentralized Token Offerings. ErgoPad has deployed its own token through an IDO that gives investors governance powers as well as the ability to stake the asset. If investors reach a certain staking tier, they can enjoy early access to seed sales (often at a lower price than what will be charged at the IDO) for new projects.
+
+
+
+
 - [anetaBTC](https://www.reddit.com/r/anetaBTC/)
 - [ERGnomes.io](https://ergnomes.io)
 
-# AMMs
+## AMMs
 
 An Automated Market Maker (AMM) uses mathematical models to set the price and match buyers and sellers rather than merely matching buy and sell orders, as in traditional order-books. AMM is best in markets with low liquidity. 
 
 One of the features of AMM is that liquidity providers add assets to the exchange for a fee, and the market benefits from an increase in liquidity, smaller latency, limited price slippage, and less market volatility when using this additional liquidity.
 
-## Impermanent Loss / Volitality Harvesting
+### Impermanent Loss / Volitality Harvesting
 
 Impermanent loss (IL) occurs when the mathematical formula of an AMM adjusts the asset ratio in a pool to ensure both assets remain at an even value. 
 
@@ -52,7 +58,7 @@ So, why would anyone provide liquidity to an AMM in an asset they expected to go
 
 There's an [involved paper](https://research.paradigm.xyz/uniswaps-alchemy), but here's the central idea: digital assets like Erg don't just increase. They have a lot of volitality, ups and downs, and if you are in an AMM liquidity pool, the balancing of the AMM of the pool works as a kind of dollar cost averaging. It buys more of the asset that costs less when it is down and less of the asset that costs more when it is up.
 
-## ErgoDex
+### ErgoDex
 
 ![screenshot_2022-01-09_at_18.13.43.png](/screenshot_2022-01-09_at_18.13.43.png)
 There is currently one decentralized exchange on Ergo, Ergodex. There are several pools on ErgoDex with a visible estimated asset annual percentage yield (APY) that can be used for yield harvesting.
