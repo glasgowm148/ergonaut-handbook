@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T05:22:32.467Z
+date: 2022-01-14T05:23:45.029Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -159,7 +159,7 @@ Requires ERG as a native ADA token.
 
 - [Liqwid.io Tweet](https://twitter.com/liqwidfinance/status/1412600854008537089)
 
-## Gate.io
+## [Gate.io](https://www.gate.io/)
 
 You can lend there for around 3.5%
 
@@ -167,7 +167,7 @@ You can lend there for around 3.5%
 # Trading
 
 
-## Gate.io
+## [Gate.io](https://www.gate.io/)
 
 Offers leveraged trading. 
 
