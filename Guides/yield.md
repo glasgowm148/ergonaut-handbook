@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T05:04:38.518Z
+date: 2022-01-14T05:06:41.876Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -51,6 +51,8 @@ Decentralized, On-Chain Wrapped Bitcion on Ergo and Cardano.
 <br>
 
 ## [ERGnomes.io](https://ergnomes.io)
+
+ERGnomes are highly creative, fun, and original NFTS on the Ergo platform.
 
 **Community**
 * [Discord](https://discord.com/invite/HeKnRp5n9z)
