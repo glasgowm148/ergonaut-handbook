@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T04:54:00.214Z
+date: 2022-01-14T05:01:58.530Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -63,17 +63,7 @@ An Automated Market Maker (AMM) uses mathematical models to set the price and ma
 
 One of the features of AMM is that liquidity providers add assets to the exchange for a fee, and the market benefits from an increase in liquidity, smaller latency, limited price slippage, and less market volatility when using this additional liquidity.
 
-## Impermanent Loss / Volitality Harvesting
 
-Impermanent loss (IL) occurs when the mathematical formula of an AMM adjusts the asset ratio in a pool to ensure both assets remain at an even value. 
-
-Example: You enter an AMM pool of Erg/SigUSD, when the prices of each of these assets is at $10 and $1. So, you put in 1 Erg for every $10 SigUSD into the pool. 
-
-Then, Erg's price goes to $20 a month later. Let's assume you earned $2 in fees. You'll then have 0.8 Erg and $16 SigUSD to have even amounts in the pool, or $32. The higher the price of Erg relative to SigUSD, the less Erg you have.
-
-So, why would anyone provide liquidity to an AMM in an asset they expected to go up and a stablecoin like SigUSD? The answer: volitality harvesting.
-
-There's an [involved paper](https://research.paradigm.xyz/uniswaps-alchemy), but here's the central idea: digital assets like Erg don't just increase. They have a lot of volitality, ups and downs, and if you are in an AMM liquidity pool, the balancing of the AMM of the pool works as a kind of dollar cost averaging. It buys more of the asset that costs less when it is down and less of the asset that costs more when it is up.
 
 ## [ErgoDex](https://ergodex.io/)
 
@@ -165,7 +155,7 @@ ErgoLend is a lending solution being built on the Ergo blockchain to reach those
 
 <br>
 
-## Liqwid
+## [Liqwid](https://liqwid.finance/)
 
 Requires ERG as a native ADA token. 
 
@@ -190,4 +180,19 @@ Offers leveraged trading.
 - [Chainanalysis](https://markets.chainalysis.com)
 - [The Pattern Site](http://thepatternsite.com/barrb.html)
 
+
+
+# Appendix
+
+## Impermanent Loss / Volitality Harvesting
+
+Impermanent loss (IL) occurs when the mathematical formula of an AMM adjusts the asset ratio in a pool to ensure both assets remain at an even value. 
+
+Example: You enter an AMM pool of Erg/SigUSD, when the prices of each of these assets is at $10 and $1. So, you put in 1 Erg for every $10 SigUSD into the pool. 
+
+Then, Erg's price goes to $20 a month later. Let's assume you earned $2 in fees. You'll then have 0.8 Erg and $16 SigUSD to have even amounts in the pool, or $32. The higher the price of Erg relative to SigUSD, the less Erg you have.
+
+So, why would anyone provide liquidity to an AMM in an asset they expected to go up and a stablecoin like SigUSD? The answer: volitality harvesting.
+
+There's an [involved paper](https://research.paradigm.xyz/uniswaps-alchemy), but here's the central idea: digital assets like Erg don't just increase. They have a lot of volitality, ups and downs, and if you are in an AMM liquidity pool, the balancing of the AMM of the pool works as a kind of dollar cost averaging. It buys more of the asset that costs less when it is down and less of the asset that costs more when it is up.
 
