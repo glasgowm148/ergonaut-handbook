@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T05:11:20.556Z
+date: 2022-01-14T05:13:30.352Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -138,9 +138,9 @@ Rather than using the bots on KuCoin, you can use custom bots with a bit more co
 
 # Index Funds
 
-## ergo-index
+## [Ergo Index](https://ergo-index.fund/)
 
-[ergo-index.fund](https://ergo-index.fund) is a non-custodial platform that enables users to pool their funds together to invest in a portfolio of tokens on the Ergo blockchain. (still in development / not operational. )
+Ergo Index is a non-custodial platform that enables users to pool their funds together to invest in a portfolio of tokens on the Ergo blockchain (still in development / not operational).
 
 
 - [GitHub](https://github.com/ergo-index)
