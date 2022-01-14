@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T05:01:58.530Z
+date: 2022-01-14T05:04:38.518Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -63,6 +63,8 @@ An Automated Market Maker (AMM) uses mathematical models to set the price and ma
 
 One of the features of AMM is that liquidity providers add assets to the exchange for a fee, and the market benefits from an increase in liquidity, smaller latency, limited price slippage, and less market volatility when using this additional liquidity.
 
+Please be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting).
+
 
 
 ## [ErgoDex](https://ergodex.io/)
@@ -97,7 +99,7 @@ While not without risk, several options are available to earn some returns on yo
 
 ### CoinEx
 
-There is an AMM Pool available on CoinEx. Please be aware of impermanent loss. 
+There is an AMM Pool available on CoinEx.
 
 
 
