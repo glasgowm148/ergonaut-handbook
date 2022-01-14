@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T05:14:54.288Z
+date: 2022-01-14T05:22:32.467Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -11,6 +11,8 @@ dateCreated: 2021-12-30T10:43:30.389Z
 # Earning Yield
 
 Ergo is a **Proof of Work** blockchain. So, it is not possible to stake Ergo itself as you would in a **Proof of Stake** blockchain. However, it is possible to 'stake' native tokens on Ergo, either in combination with Ergo in liquidity pools, tokenisation of dApps, trading bots, lending platforms, and other mechanisms. 
+
+
 
 ## [Ergo Profit-Sharing DApp](https://github.com/mhssamadani/ErgoProfitSharingDapp)
 
@@ -67,7 +69,7 @@ One of the features of AMM is that liquidity providers add assets to the exchang
 
 Please be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting).
 
-
+<br>
 
 ## [ErgoDex](https://ergodex.io/)
 
@@ -104,31 +106,23 @@ While not without risk, several options are available to earn some returns on yo
 There is an AMM Pool available on CoinEx.
 
 
-
 # Trade Bots 
-
 
 
 ## KuCoin
 
-KuCoin offers perhaps the most simple ways to earn yield on your Erg with it's infinity grid bot. It has the following bots available.
+KuCoin offers perhaps the most simple ways to earn yield on your Erg with the following bots available:
+
+- **Spot Grid** trades with a gird, selling high and buying low. The problem is that if ERG goes way above your range, you will have sold all your ERG and be left holding USDT (see: [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting)).
+- **Infinity Grid** works like the spot gird but has no set range and your bids with the price.
+- **Futures Grid** is still unfortunately unavailable for ERG.
+- **DCA** reduces the risk of purchasing high by investing at consistent intervals.
 
 
-- Infinity Grid
-- Spot Grid
-- Futures Grid
-- DCA Bot
-
-The **Spot grid** bot trades with a grid, selling high and buying low. The problem is that if ERG goes way above your range, you will have sold all your ERG and be left holding USDT. (Impermanent loss)
-
-The **Infinity Grid** bot works like the spot grid, but has no set range, and your bids with the price. 
-
-The **Futures Grid** bot is still unfortunately unavailable for ERG. 
-
-The **DCA bot** reduces the risk of purchasing high by investing at consistent intervals.
-
+**Community**
 - [ERG: Technical Analysis & Botting Telegram](https://t.me/ERGTechnicalAnalysis)
 
+<br>
 
 ## Others
 Rather than using the bots on KuCoin, you can use custom bots with a bit more control over your trading strategy. 
@@ -173,7 +167,7 @@ You can lend there for around 3.5%
 # Trading
 
 
-### Gate.io
+## Gate.io
 
 Offers leveraged trading. 
 
