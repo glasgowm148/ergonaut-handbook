@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T05:23:45.029Z
+date: 2022-01-14T05:32:28.853Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -52,7 +52,7 @@ Decentralized, On-Chain Wrapped Bitcion on Ergo and Cardano.
 
 <br>
 
-## [ERGnomes.io](https://ergnomes.io)
+## [ERGnomes](https://ergnomes.io)
 
 ERGnomes are highly creative, fun, and original NFTS on the Ergo platform.
 
@@ -113,7 +113,7 @@ There is an AMM Pool available on CoinEx.
 
 KuCoin offers perhaps the most simple ways to earn yield on your Erg with the following bots available:
 
-- **Spot Grid** trades with a gird, selling high and buying low. The problem is that if ERG goes way above your range, you will have sold all your ERG and be left holding USDT (see: [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting)).
+- **Spot Grid** trades with a grid, selling high and buying low. The problem is that if ERG goes way above your range, you will have sold all your ERG and be left holding USDT (see: [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting)).
 - **Infinity Grid** works like the spot gird but has no set range and your bids with the price.
 - **Futures Grid** is still unfortunately unavailable for ERG.
 - **DCA** reduces the risk of purchasing high by investing at consistent intervals.
