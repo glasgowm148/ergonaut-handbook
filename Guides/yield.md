@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-14T05:13:30.352Z
+date: 2022-01-14T05:14:54.288Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
