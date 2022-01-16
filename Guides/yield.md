@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-01-16T13:25:39.676Z
+date: 2022-01-16T13:25:59.342Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -21,6 +21,8 @@ In future, it will be possible to 'stake' native tokens on Ergo in some form usi
 This service will provide a way for dapps to distribute gains among the dapps' token holders.
 
 The first implementation of this will tokenise ErgoMixer, then subsequently Ergo Auction House, and Ergo Raffle.
+
+
 
 The ErgoMixer income (in ERG and other tokens) is currently received by its creator ('anon2020s'), since it has only one stakeholder at the moment. He has announced that he is willing to create and sell some tokens in the near future to obtain more stakeholders; let's call this token $MIX. Later, anyone with these $MIX tokens can stake them in the Profit Sharing contract and obtain the mixer's incomes proportional to their staked tokens.
 
