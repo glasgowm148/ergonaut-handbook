@@ -2,24 +2,15 @@
 title: Contributing
 description: 
 published: true
-date: 2022-01-17T10:25:17.549Z
+date: 2022-01-17T10:27:55.444Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-15T13:21:44.908Z
 ---
 
 # Contributing
+> *Cryptocurrency should provide tools to enrich ordinary people. Small businesses that are struggling to make ends meet, not big depersonalized financial capital. This is what inspired me. This is my dream.* - The Ergo Manifesto
 
-
-There are ways for everyone to get involved regardless of technical ability. 
-
-> Cryptocurrency should provide tools to enrich ordinary people. Small businesses that are struggling to make ends meet, not big depersonalized financial capital. This is what inspired me. This is my dream.
->
-> The tools should allow people to make contracts (digital, self-enforcing, reasonable smart contracts) regardless of the differences in jurisdictions, traditions, followed business practices, etc.
->
-> I hope Ergo will be helpful here. Thousands of small cooperatives and individual entrepreneurs are much more critical to healthy and sustainable wealth growth around the globe compared to a couple of corporations hiding profits in offshore heavens. Let’s consider the use and integration with communities, cooperative federations, nonprofit foundations, and philanthropic trusts. 
->
->  **Let’s try to create grassroots finance.**
 
 Below are some general areas to get involved in straight away. To take a more hands-on approach please apply for the [Sigmanauts Training Programme](https://q9fwzopidh8.typeform.com/to/RdWAB3MS?typeform-source=ergonaut.space)
 
@@ -33,6 +24,7 @@ Below are some general areas to get involved in straight away. To take a more ha
 	- [Lessons for sigmausd from the DJED paper](https://www.ergoforum.org/t/lessons-for-sigmausd-from-the-djed-paper/2345)
 3. Create an account [on ergonaut.space](https://ergonaut.space/register) and help update and maintain the text.
 4. Join the [community discussion spaces](https://github.com/glasgowm148/awesome-ergo/blob/master/pages/community.md)
+5. Create a regional chapter and grow Ergo's reach locally.
 
 ## Marketing
 
