@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2022-01-08T16:37:40.426Z
+date: 2022-01-17T10:25:17.549Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-15T13:21:44.908Z
@@ -38,7 +38,7 @@ Below are some general areas to get involved in straight away. To take a more ha
 
 1. Creating marketing materials or activities. Post these to Telegram, Discord, or Reddit and you can be tipped (real erg - or erdoge if you're lucky) for your efforts. 
 2. Join the the [@ErgoSocials](https://t.me/ErgoSocials) or the [#marketing](https://discord.gg/TBFXMzha7X) channel on Discord and collaborate. 
-3. Read (or add to) the community built [Guerrilla Marketing handbook](https://ergonaut.space/en/guerrilla-marketing)
+3. Read (or add to) the community built [Guerrilla Marketing handbook](https://ergonaut.space/en/Guides/Guerrilla-Marketing)
 4. Collaborate on the - [Shared Figma Graphic Space](https://www.figma.com/file/pd92vgB3xNFThaacIKodYs/Guide-ID?node-id=1%3A756)
 
 
