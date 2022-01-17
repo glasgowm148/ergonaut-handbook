@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-01-10T11:45:29.928Z
+date: 2022-01-17T12:30:23.277Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -45,7 +45,7 @@ The Ergo ecosystem is under continuous development. Expect new ways to use it to
 
 **Guides**
 - [How to Earn Interest](https://ergonaut.space/en/Guides/yield)
-- [How to Mine Ergo](https://ergonaut.space/en/Guides/Mining/Mining)
+- [How to Mine Ergo](https://ergonaut.space/en/Guides/Mining)
 - [What is SigmaUSD?](https://ergonaut.space/en/dApps/SigmaUSD/Overview)
 - [Glossary](https://ergonaut.space/en/Glossary)
 - [How to Contribute to The Ergonaut Handbook](https://ergonaut.space/en/Guides/Ergonaut-Handbook/Editor's-Guide)
