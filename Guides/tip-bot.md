@@ -2,7 +2,7 @@
 title: Tip Bot
 description: 
 published: true
-date: 2022-01-08T18:45:25.066Z
+date: 2022-01-19T08:24:06.915Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-08T12:03:43.226Z
@@ -35,12 +35,12 @@ You can restore using the same seed phrase, and use the same tip wallet across a
 
 > This is a bot that runs on a server managed by  (u/Luivatra). It is not unhackable (nothing is). Do not use this as a main wallet!
 
-## Getting Started
+# Getting Started
 
 
 
 
-### Reddit
+## Reddit
 
 1. Send a [private message](https://www.reddit.com/message/compose/?to=ErgoTipperBot&subject=BotTalk&message=!start) (**not chat!**) to u/ErgoTipperBot with the text: !start
 
