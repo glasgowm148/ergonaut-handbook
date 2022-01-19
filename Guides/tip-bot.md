@@ -2,7 +2,7 @@
 title: Tip Bot
 description: 
 published: true
-date: 2022-01-19T08:34:58.400Z
+date: 2022-01-19T10:04:38.210Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-08T12:03:43.226Z
@@ -11,7 +11,7 @@ dateCreated: 2022-01-08T12:03:43.226Z
 This page will describe setting up The ErgoTipperBot on each platform. This bot allows you to tip other members erg, or any of the supported native tokens. Simply set up your wallet, fund it - and start tipping! If you tip someone without a wallet one will automatically be generated for them. 
 
 
-You can restore using the same seed phrase, and use the same tip wallet across all platforms. Note that the password you need to retrieve your seed phrase is the one given to you by the tipbot in it's first message. 
+You can restore using the same seed phrase, and use the same tip wallet across all platforms.  
 
 **Supported Platforms**
 - Reddit
@@ -66,7 +66,7 @@ To have your token added to the bot please start a poll in one of the community 
 !tip <amount> <token> <any remaining text will be stored in the transaction database so you can both view it later>
 
 
-Bot commands:
+**Commands**
 
 - In comments:
     - !tiphelp: Show this message
@@ -82,37 +82,19 @@ Bot commands:
 
 ## Telegram
   
-# How to use the ErgoTipperBot-BETA
-
-**First off. This is a bot that runs on a server managed by me (@Luivatra). It is not unhackable (nothing is). Do not use this as a main wallet!**
-1. Send a DM to @ErgoTipperBot with the text: /start
-2. Once the wallet is created, send a dm with /address to show your tip address
-3. Copy your tip address and open your Yoroi wallet.
-4. Click the send tab and transfer some ERG's to the tip wallet address. (Any transaction requires at least 0.001 erg in fees, on top of that funds in utxo are stored in a box. Each box needs to have a small amount of erg in them. So on the tip bot a token tip will require 0.00115 erg)
-5. If you want to tip a token like Kushti for example, transfer the token to the same tip wallet address. 
-6. Once the transactions are sent (~ 2 minutes), send a DM to @ErgoTipperBot: /balance
-7. Your balance should look similar to this:
-
-| token  | amount |
-|--------|:-------|
-| Erg    | 0.1    |
-| Kushti | 100    |
-
-8. You are good to go! In a reply to a message you think deserves a tip:
-/t <amount> <token> <any remaining text will be stored in the transaction database so you can both view it later>
 
 
-Bot commands:
+**Commands**
 
 - In comments:
-    - /t <amount> <token> <any remaining text will be stored in the transaction database so you can both view it later>: tip the person you reply to, make sure to tag @ErgoTipperBot
+    - `/t <amount> <token> <any remaining text will be stored in the transaction database so you can both view it later>`: tip the person you reply to, make sure to tag @ErgoTipperBot
 - In DM with @ErgoTipperBot:
-    - /start: Initialize a tip wallet
-    - /changepw currentPassword newPassword: Change tip wallet pw
-    - /address: Show tip wallet address
-    - /seed password: Show tip wallet seed phrase
-    - /balance: Show tip wallet balance
-    - /restore password seedphrase: Restore an existing wallet to be used as your tip wallet (use this to use the same wallet across Discord, Reddit, Twitter & Telegram)
+    - `/start`: Initialize a tip wallet
+    - `/changepw currentPassword newPassword`: Change tip wallet pw
+    - `/address`: Show tip wallet address
+    - `/seed password`: Show tip wallet seed phrase (Note that the password you need to retrieve your seed phrase is the one given to you by the tipbot in it's first message.)
+    - `/balance`: Show tip wallet balance
+    - `/restore password seedphrase`: Restore an existing wallet to be used as your tip wallet (use this to use the same wallet across Discord, Reddit, Twitter & Telegram)
 
 
 
