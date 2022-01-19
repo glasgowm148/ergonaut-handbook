@@ -2,7 +2,7 @@
 title: Tip Bot
 description: 
 published: true
-date: 2022-01-19T08:34:49.352Z
+date: 2022-01-19T08:34:58.400Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-08T12:03:43.226Z
@@ -80,7 +80,7 @@ Bot commands:
     - [!restore <password> <seed phrase>](https://www.reddit.com/message/compose/?to=ErgoTipperBot&subject=BotTalk&message=!restore%20%3Cpassword%3E%20%3Cseed%20phrase%3E): Restore an existing wallet to be used as your tip wallet (use this to use the same wallet across Discord & Reddit)
 
 
-### Telegram
+## Telegram
   
 # How to use the ErgoTipperBot-BETA
 
