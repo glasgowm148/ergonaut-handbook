@@ -2,16 +2,16 @@
 title: Tip Bot
 description: 
 published: true
-date: 2022-01-19T08:24:06.915Z
+date: 2022-01-19T08:34:49.352Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-08T12:03:43.226Z
 ---
 
-This page will describe setting up The ErgoTipperBot on each platform. This bot allows you to tip other members erg, or any of the supported native tokens. Simply set up your wallet, fund it - and start tipping! If you tip someone without a wallet they
+This page will describe setting up The ErgoTipperBot on each platform. This bot allows you to tip other members erg, or any of the supported native tokens. Simply set up your wallet, fund it - and start tipping! If you tip someone without a wallet one will automatically be generated for them. 
 
 
-You can restore using the same seed phrase, and use the same tip wallet across all platforms. 
+You can restore using the same seed phrase, and use the same tip wallet across all platforms. Note that the password you need to retrieve your seed phrase is the one given to you by the tipbot in it's first message. 
 
 **Supported Platforms**
 - Reddit
@@ -20,6 +20,7 @@ You can restore using the same seed phrase, and use the same tip wallet across a
 - Twitter
 
 **Supported coins/tokens:**
+
 - Erg
 - SigUSD
 - SigRSV
@@ -33,11 +34,11 @@ You can restore using the same seed phrase, and use the same tip wallet across a
 - ErgTip
 - NETA
 
-> This is a bot that runs on a server managed by  (u/Luivatra). It is not unhackable (nothing is). Do not use this as a main wallet!
+This is a bot that runs on a server managed by u/Luivatra. It is not unhackable (nothing is). Do not use this as a main wallet!
+
+To have your token added to the bot please start a poll in one of the community spaces
 
 # Getting Started
-
-
 
 
 ## Reddit
@@ -114,17 +115,4 @@ Bot commands:
     - /restore password seedphrase: Restore an existing wallet to be used as your tip wallet (use this to use the same wallet across Discord, Reddit, Twitter & Telegram)
 
 
-Supported coins/tokens:
 
-- Erg
-- SigUSD
-- SigRSV
-- COMET
-- Erdoge
-- Ergold
-- Kushti
-- LunaDog
-- Have_A_Nice_Day
-- thisguyfucks
-- ErgTip
-- NETA
