@@ -2,7 +2,7 @@
 title: Yield
 description: Consigue yield con tus ERG
 published: true
-date: 2022-01-22T02:18:17.038Z
+date: 2022-01-22T02:35:07.751Z
 tags: yield, staking
 editor: markdown
 dateCreated: 2022-01-22T02:17:01.506Z
@@ -19,51 +19,38 @@ Varios proyectos planean lanzar tokens nativos en Erg y planean ofrecer staking.
 
 ## [ErgoPad](https://ergopad.io/)
 
-El propósito de ErgoPad es ayudar a los nuevos proyectos a generar capital financiero a través de la venta de tokens durante las IDO u Ofertas iniciales descentralizadas de tokens. ErgoPad ha implementado su propio token a través de un IDO que brinda a los inversores poderes de gobierno, así como la capacidad de apostar el activo. Si los inversionistas alcanzan un determinado nivel de participación, pueden disfrutar de un acceso temprano a las ventas de semillas (a menudo a un precio más bajo que el que se cobrará en el IDO) para nuevos proyectos.
+El propósito de ErgoPad es ayudar a los nuevos proyectos a generar capital a través de la venta de tokens durante las IDO u "ofertas iniciales descentralizadas" de tokens. ErgoPad ha implementado su propio token a través de un IDO que brinda a los inversores poderes de gobierno, así como la capacidad de stakear el token. Si los inversionistas alcanzan un determinado nivel de participación, pueden disfrutar de un acceso temprano a las ventas de semillas (a menudo a un precio más bajo que el que se cobrará en el IDO) para nuevos proyectos.
 
-**Community**
+**Comunidad**
 * [Discord](https://discord.gg/JdfVv7jp6b)
 * [Twitter](https://twitter.com/ErgoPadOfficial)
 * [Reddit](https://www.reddit.com/r/ergopad/)
 
 <br>
 
-## [anetaBTC](https://www.anetabtc.io/)
+# Creadores de mercado automatizados
 
-Decentralized, On-Chain Wrapped Bitcion on Ergo and Cardano.
+Un Market Maker Automatizado (AMM) utiliza modelos matemáticos para establecer el precio y emparejar compradores y vendedores en lugar de simplemente emparejar órdenes de compra y venta, como en los libros de pedidos tradicionales. AMM es mejor en mercados con baja liquidez.
 
-**Community**
-* [Discord](https://discord.gg/2wHJPetCx9)
-* [Twitter](https://twitter.com/AnetaBTC)
-* [Reddit](https://www.reddit.com/r/anetaBTC/)
+Una de las características de AMM es que los proveedores de liquidez agregan activos al intercambio por una tarifa, y el mercado se beneficia de un aumento en la liquidez, menor latencia, deslizamiento de precios limitado y menor volatilidad del mercado al usar esta liquidez adicional.
 
-
-
-
-
-# Automated Market Makers
-
-An Automated Market Maker (AMM) uses mathematical models to set the price and match buyers and sellers rather than merely matching buy and sell orders, as in traditional order-books. AMM is best in markets with low liquidity. 
-
-One of the features of AMM is that liquidity providers add assets to the exchange for a fee, and the market benefits from an increase in liquidity, smaller latency, limited price slippage, and less market volatility when using this additional liquidity.
-
-Please be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting).
+Pero debes estar al tanto del [impermanent loss](https://ergonaut.space/es/Guides/yield#impermanent-loss).
 
 <br>
 
 ## [ErgoDex](https://ergodex.io/)
 
 ![screenshot_2022-01-09_at_18.13.43.png](/screenshot_2022-01-09_at_18.13.43.png)
-There is currently one decentralized exchange on Ergo, Ergodex. There are several pools on ErgoDex with a visible estimated asset annual percentage yield (APY) that can be used for yield harvesting.
+Actualmente hay un intercambio descentralizado en Ergo, Ergodex. Hay varios grupos en ErgoDex con un porcentaje de rendimiento anual (APY) de activos estimado visible que se puede utilizar para la recolección de rendimiento.
 
-Your redeemable amount changes as the pool gets used and a percentage of the swaps are earned by the pool. You get a percent of the pool fee proportional to your stake.
+Su monto canjeable cambia a medida que se usa el fondo común y el fondo gana un porcentaje de los intercambios. Obtienes un porcentaje de la tarifa del fondo proporcional a tu stake.
 
-- SigRSV/ERG pair
-	-	Minimises impermanent loss (both coins move in the same direction price-wise)
+- SigRSV/ERG par
+	-	Minimiza la pérdida impermanente (ambas monedas se mueven en la misma dirección en cuanto al precio)
 - SigUSD/ERG
-	- High IL risk, however a solid investment if you want to earn fee's off your nest-egg. SigUSD has has never came close to loosing it's peg. 
+	- Alto riesgo de impermanent-loss, sin embargo, una inversión sólida si desea obtener tarifas de sus ahorros. SigUSD nunca ha estado cerca de perder su paridad.
 
-**Community**
+**Comunidad**
 - [Discord](https://discord.gg/KBrwstYcBx)
 - [Telegram](https://t.me/ergodex_community)
 - [Twitter](https://twitter.com/ErgoDex)
@@ -75,102 +62,62 @@ Your redeemable amount changes as the pool gets used and a percentage of the swa
 
 ### Swop.fi
 
-- AMM Pool
+- Pool de AMM
 
-## Centralised Exchanges
-While not without risk, several options are available to earn some returns on your ERG. 
-
+## Exchanges centralizados
+Aunque no sin riesgo, hay varias opciones disponibles para obtener algunos rendimientos en su ERG.
 
 ### CoinEx
 
-There is an AMM Pool available on CoinEx.
-
+Hay un grupo AMM disponible en CoinEx.
 
 # Trade Bots 
 
-
 ## KuCoin
 
-KuCoin offers perhaps the most simple ways to earn yield on your Erg with the following bots available:
+KuCoin ofrece quizás las formas más simples de obtener rendimiento en su Erg con los siguientes bots disponibles:
+- **Spot Grid** comercia con una cuadrícula que establece límites, vendiendo alto y comprando bajo. El problema es que si ERG va muy por encima de su rango, habrá vendido todo su ERG y se quedará con USDT. (vea: [impermanent loss](https://ergonaut.space/es/Guides/yield#impermanent-loss)).
+- **Infinity Grid** funciona como el spot gridd pero no tiene un rango fijo
+- **Futures Grid** lamentablemente todavía no está disponible para ERG.
+- **DCA** reduce el riesgo de comprar caro invirtiendo a intervalos constantes.
 
-- **Spot Grid** trades with a grid, selling high and buying low. The problem is that if ERG goes way above your range, you will have sold all your ERG and be left holding USDT (see: [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting)).
-- **Infinity Grid** works like the spot gird but has no set range and your bids with the price.
-- **Futures Grid** is still unfortunately unavailable for ERG.
-- **DCA** reduces the risk of purchasing high by investing at consistent intervals.
 
-
-**Community**
+**Comunidad**
 - [ERG: Technical Analysis & Botting Telegram](https://t.me/ERGTechnicalAnalysis)
 
 <br>
 
-## Others
-Rather than using the bots on KuCoin, you can use custom bots with a bit more control over your trading strategy. 
-
+## Otros
+En lugar de usar los bots en KuCoin, puede usar bots personalizados con un poco más de control sobre su estrategia comercial.
 - 3commas
 - shrimpy.io
 
-# Index Funds
+# Fondos index
 
 ## [Ergo Index](https://ergo-index.fund/)
 
-Ergo Index is a non-custodial platform that enables users to pool their funds together to invest in a portfolio of tokens on the Ergo blockchain (still in development / not operational).
+Ergo Index es una plataforma sin custodia que permite a los usuarios juntar sus fondos para invertir en una cartera de tokens en la cadena de bloques Ergo (todavía en desarrollo/no operativa).
 
 
 - [GitHub](https://github.com/ergo-index)
 
 
-# Lending
-
-## [ErgoLend](https://www.ergolend.org/)
-
-ErgoLend is a lending solution being built on the Ergo blockchain to reach those that most need DeFi.
-
-**Community**
-- [Telegram](https://t.me/ErgoLend)
-- [Twitter](https://twitter.com/ErgoLend)
-- [Reddit](https://www.reddit.com/r/ergolend/)
-
-<br>
-
-## [Liqwid](https://liqwid.finance/)
-
-Requires ERG as a native ADA token. 
-
-- [Liqwid.io Tweet](https://twitter.com/liqwidfinance/status/1412600854008537089)
-
 ## [Gate.io](https://www.gate.io/)
 
-You can lend there for around 3.5%
+Puedes prestar allí por alrededor del 3,5%
 
 
-# Trading
+# Anexo
 
+## Impermanent Loss
 
-## [Gate.io](https://www.gate.io/)
+La pérdida impermanente (IL) ocurre cuando la fórmula matemática de un AMM ajusta la relación de activos en un grupo para garantizar que ambos activos permanezcan en un valor uniforme.
 
-Offers leveraged trading. 
+Ejemplo: ingresa un grupo AMM de Erg/SigUSD, cuando los precios de cada uno de estos activos están en $10 y $1. Entonces, pones 1 Erg por cada $ 10 SigUSD en el pool.
 
-## Technical Analysis
-- [ERG: Technical Analysis & Botting Telegram](https://t.me/ERGTechnicalAnalysis)
-- [Alternative to TradingView](https://www.livecoinwatch.com/price/Ergo-ERG)
-- [Bitcoin Stats](https://www.lopp.net/bitcoin-information/statistics-metrics.html)
-- [Chainanalysis](https://markets.chainalysis.com)
-- [The Pattern Site](http://thepatternsite.com/barrb.html)
+Entonces, el precio de Erg sube a $20 un mes después. Supongamos que ganó $ 2 en tarifas. Entonces tendrá 0.8 Erg y $16 SigUSD para tener cantidades iguales en el grupo, o $32. Cuanto mayor sea el precio de Erg en relación con SigUSD, menos Erg tendrá.
 
+Entonces, ¿por qué alguien proporcionaría liquidez a un AMM en un activo que esperaba aumentar y una moneda estable como SigUSD? La respuesta: recolección de volatilidades.
 
-
-# Appendix
-
-## Impermanent Loss / Volitality Harvesting
-
-Impermanent loss (IL) occurs when the mathematical formula of an AMM adjusts the asset ratio in a pool to ensure both assets remain at an even value. 
-
-Example: You enter an AMM pool of Erg/SigUSD, when the prices of each of these assets is at $10 and $1. So, you put in 1 Erg for every $10 SigUSD into the pool. 
-
-Then, Erg's price goes to $20 a month later. Let's assume you earned $2 in fees. You'll then have 0.8 Erg and $16 SigUSD to have even amounts in the pool, or $32. The higher the price of Erg relative to SigUSD, the less Erg you have.
-
-So, why would anyone provide liquidity to an AMM in an asset they expected to go up and a stablecoin like SigUSD? The answer: volitality harvesting.
-
-There's an [involved paper](https://research.paradigm.xyz/uniswaps-alchemy), but here's the central idea: digital assets like Erg don't just increase. They have a lot of volitality, ups and downs, and if you are in an AMM liquidity pool, the balancing of the AMM of the pool works as a kind of dollar cost averaging. It buys more of the asset that costs less when it is down and less of the asset that costs more when it is up.
+Los activos digitales como Erg no solo aumentan. Tienen mucha volatilidad, altibajos, y si está en un grupo de liquidez AMM, el equilibrio del AMM del grupo funciona como una especie de DCA en dólares. Compra más del activo que cuesta menos cuando está abajo y menos del activo que cuesta más cuando está arriba.
 
