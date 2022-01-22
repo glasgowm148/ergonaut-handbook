@@ -2,7 +2,7 @@
 title: Yield
 description: Consigue yield con tus ERG
 published: true
-date: 2022-01-22T02:17:01.506Z
+date: 2022-01-22T02:18:17.038Z
 tags: yield, staking
 editor: markdown
 dateCreated: 2022-01-22T02:17:01.506Z
@@ -15,11 +15,11 @@ Ergo es una cadena de bloques **Prueba de trabajo**, es decir, PoW. Por lo tanto
 
 # Staking
 
-Varios otros proyectos planean lanzar tokens nativos en Erg y planean ofrecer participación.
+Varios proyectos planean lanzar tokens nativos en Erg y planean ofrecer staking.
 
-## [ErgoPad](https://ergopadi.io/)
+## [ErgoPad](https://ergopad.io/)
 
-The purpose of ErgoPad is to help new projects build financial capital through token sales during IDO's, or Initial Decentralized Token Offerings. ErgoPad has deployed its own token through an IDO that gives investors governance powers as well as the ability to stake the asset. If investors reach a certain staking tier, they can enjoy early access to seed sales (often at a lower price than what will be charged at the IDO) for new projects.
+El propósito de ErgoPad es ayudar a los nuevos proyectos a generar capital financiero a través de la venta de tokens durante las IDO u Ofertas iniciales descentralizadas de tokens. ErgoPad ha implementado su propio token a través de un IDO que brinda a los inversores poderes de gobierno, así como la capacidad de apostar el activo. Si los inversionistas alcanzan un determinado nivel de participación, pueden disfrutar de un acceso temprano a las ventas de semillas (a menudo a un precio más bajo que el que se cobrará en el IDO) para nuevos proyectos.
 
 **Community**
 * [Discord](https://discord.gg/JdfVv7jp6b)
