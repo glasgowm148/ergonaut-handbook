@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-01-17T12:30:23.277Z
+date: 2022-01-27T16:57:26.800Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -49,6 +49,10 @@ The Ergo ecosystem is under continuous development. Expect new ways to use it to
 - [What is SigmaUSD?](https://ergonaut.space/en/dApps/SigmaUSD/Overview)
 - [Glossary](https://ergonaut.space/en/Glossary)
 - [How to Contribute to The Ergonaut Handbook](https://ergonaut.space/en/Guides/Ergonaut-Handbook/Editor's-Guide)
+
+**Graphics**
+- [Dropbox - Images, Videos, GIFS](https://www.dropbox.com/sh/jionpgnj89eod2f/AAC5S1vnOwO3gm2vRYOmDBQ-a?dl=0)
+- [Figma Design Arena](https://www.figma.com/file/pd92vgB3xNFThaacIKodYs/ERGO?node-id=538%3A987)
 
 ## Join the Conversation
 
