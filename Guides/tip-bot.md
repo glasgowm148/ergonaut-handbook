@@ -2,7 +2,7 @@
 title: Tip Bot
 description: 
 published: true
-date: 2022-01-19T14:16:19.240Z
+date: 2022-01-28T11:35:13.482Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-08T12:03:43.226Z
@@ -15,7 +15,7 @@ You can restore using the same seed phrase, and use the same tip wallet across a
 
 **Supported Platforms**
 - [Reddit](https://www.reddit.com/message/compose/?to=ErgoTipperBot&subject=BotTalk&message=!start) 
-- [Discord] (ErgoTipperBot#)
+- Discord (Ergo Tipper Bot[BETA]#0902)
 - [Telegram](https://t.me/ergotipperbot)
 - [Twitter](https://twitter.com/ErgoTipperBot)
 
