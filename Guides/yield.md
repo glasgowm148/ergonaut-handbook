@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-02-14T16:51:22.177Z
+date: 2022-02-15T16:01:24.117Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -43,11 +43,11 @@ The purpose of ErgoPad is to help new projects build financial capital through t
 * [Twitter](https://twitter.com/ErgoPadOfficial)
 * [Reddit](https://www.reddit.com/r/ergopad/)
 
-<br>
+
 
 ## [anetaBTC](https://www.anetabtc.io/)
 
-Decentralized, On-Chain Wrapped Bitcion on Ergo and Cardano.
+Decentralized, On-Chain Wrapped Bitcoin on Ergo and Cardano.
 
 **Community**
 * [Discord](https://discord.gg/2wHJPetCx9)
