@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-01-18T13:40:10.065Z
+date: 2022-03-04T07:23:54.448Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -18,7 +18,7 @@ dateCreated: 2021-12-31T23:01:12.178Z
 
 ## The Coin: What is Ergo?
 
-Ergo has a strictly limited supply, an 8‐year emission schedule and a declining rate of emission over these 8 years. All tokens are mined through an original Proof‐of‐Work (“PoW”) algorithm called Autolykos v2, designed to be ASIC resistant, which employs a [smoothed difficulty algorithm](https://ergoplatform.org/docs/ErgoPow.pdf)
+Ergo has a strictly limited supply, an 8‐year emission schedule and a declining rate of emission over these 8 years. All tokens are mined through an original Proof‐of‐Work (“PoW”) algorithm called Autolykos v2, designed to be ASIC resistant, which employs a [smoothed difficulty algorithm](https://ergoplatform.org/docs/ErgoPow.pdf).
 
 Miners have to perform memory-hard computations~(at least 2.5 GB memory is needed, but the current most efficient implementation utilizes around 4 GB of vRAM) that makes Ergo friendly for GPU mining.
 
@@ -138,9 +138,9 @@ Check pool stats to see ranking of pools. See note regarding 51% attack below
 -   [What about 51% attacks](https://www.reddit.com/r/ergonauts/comments/mgpnb7/51_attack_possibilities/) ?
 
 ## The Miners: (Mining Software)
-There are multiple miners that can be used to mine Ergo (Autolykos2).  Below you will find a list of mining software that can be used to mine ERG.  There are various opinions as to which mining software is best and some are clear winners.  Best advice is to try them all if you can and see what works best for your rig set up specifically.   What works for one may or may not work for another
+There are multiple miners that can be used to mine Ergo (Autolykos2).  Below you will find a list of mining software that can be used to mine ERG.  There are various opinions as to which mining software is best and some are clear winners.  Best advice is to try them all if you can and see what works best for your rig set up specifically.   What works for one may or may not work for another.
 
-In addition to dedicated mining software, there are also Mining OS or operating systems such as Hive which is one of the more popular ones.  This allows you to control your rig through dedicated software that will assist with connecting to pools, OC settings, and miners or mining software. These would be considered an all in one package where as using a specific miner may require other resources or plug ins.
+In addition to dedicated mining software, there are also Mining OS or operating systems such as HiveOS which is one of the more popular ones.  This allows you to control your rig through dedicated software that will assist with connecting to pools, OC settings, and miners or mining software. These would be considered an all in one package where as using a specific miner may require other resources or plug ins.
 
 ![capture.jpg](/capture.jpg)
   [Image From r/Erg_Miners](https://www.reddit.com/r/erg_miners/comments/njmlfq/list_of_currently_used_miners_for_ergo_with/)
