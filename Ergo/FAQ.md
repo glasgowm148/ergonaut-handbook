@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-01-08T13:11:59.240Z
+date: 2022-03-04T07:00:04.921Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -53,7 +53,7 @@ You will need a dedicated GPU (AMD/Intel), see [Mining](/Mining)
 ## dApps
 
 - ErgoMixer
-- ErogAuctions
+- ErgoAuctions
 - ErgoUtils
 
 ## SigmaUSD
