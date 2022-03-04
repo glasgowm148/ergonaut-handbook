@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-03-04T07:00:04.921Z
+date: 2022-03-04T07:02:03.116Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -68,7 +68,7 @@ AMM + Order-Book Liquidity
 
 
 ## Oracle Pools
-There's a solid comparison of Oracle Pools on Ergo vs Chainlink givenon the [ergoforum](https://www.ergoforum.org/t/oracle-pools-a-new-oracle-model/263) (by Robert Kornacki, Head of Research @ Emurgo)
+There's a solid comparison of Oracle Pools on Ergo vs Chainlink given on the [ergoforum](https://www.ergoforum.org/t/oracle-pools-a-new-oracle-model/263) (by Robert Kornacki, Head of Research @ Emurgo)
 
 
 - See our detailed article on [Oracle-Pools](/Oracle-Pools) for more
