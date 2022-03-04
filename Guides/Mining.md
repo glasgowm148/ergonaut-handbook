@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-03-04T07:23:54.448Z
+date: 2022-03-04T07:30:54.058Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -140,7 +140,7 @@ Check pool stats to see ranking of pools. See note regarding 51% attack below
 ## The Miners: (Mining Software)
 There are multiple miners that can be used to mine Ergo (Autolykos2).  Below you will find a list of mining software that can be used to mine ERG.  There are various opinions as to which mining software is best and some are clear winners.  Best advice is to try them all if you can and see what works best for your rig set up specifically.   What works for one may or may not work for another.
 
-In addition to dedicated mining software, there are also Mining OS or operating systems such as HiveOS which is one of the more popular ones.  This allows you to control your rig through dedicated software that will assist with connecting to pools, OC settings, and miners or mining software. These would be considered an all in one package where as using a specific miner may require other resources or plug ins.
+In addition to dedicated mining software, there are also Mining OS or operating systems such as HiveOS, which is one of the more popular options.  This allows you to control your rig through dedicated software that will assist with connecting to pools, OC settings, and miners or mining software. These would be considered an all in one package where as using a specific miner may require other resources or plug ins.
 
 ![capture.jpg](/capture.jpg)
   [Image From r/Erg_Miners](https://www.reddit.com/r/erg_miners/comments/njmlfq/list_of_currently_used_miners_for_ergo_with/)
@@ -168,7 +168,7 @@ In addition to dedicated mining software, there are also Mining OS or operating 
 
 ## Source Code Miners
 
-For the [AMD miner](https://github.com/mhssamadani/Autolykos2_AMD_Miner), the compatible Operating Systems are
+For the [AMD miner](https://github.com/mhssamadani/Autolykos2_AMD_Miner), the compatible Operating Systems are:
 
 -   RedHat Enterprise Linux 7.2 (64-bit version)
 -   RedHat Enterprise Linux 6.8 (64-bit version)
@@ -188,7 +188,7 @@ Miners can fix value by minting [SigUSD](https://sigmausd.io/#/)
 - [Autolykos2_NV_Miner](https://https://github.com/mhssamadani/Autolykos2_NV_Miner)
 - [Autolykos2_AMD_Miner](https://github.com/mhssamadani/Autolykos2_AMD_Miner)
 
-In order to used them, you may or may not need to use: Stratum Server and Stratum Proxy. These two projects are here:
+In order to operate them, you may or may not need to use Stratum Server and Stratum Proxy. These two projects are here:
 
 - [ErgoStratumServer](https://github.com/mhssamadani/ErgoStratumServer)
 - [ErgoStratumProxy](https://github.com/mhssamadani/ErgoStratumProxy)
@@ -211,7 +211,7 @@ Currently the [#host-a-pool](https://discord.gg/kxbrHVwnm5) on Discord is the be
 
 1. Setup a Node
 2. Setup ErgoStratumServer
-3. Point [ergo-nomp](https://github.com/btclinux/ergo-nomp) to (1) and (2).
+3. Point [ergo-nomp](https://github.com/btclinux/ergo-nomp) to (1) and (2)
 
 
 ## Resources
