@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-03-04T07:02:03.116Z
+date: 2022-03-04T07:09:32.932Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -23,7 +23,7 @@ Although PoS is a very secure protocol, some smart contracts may require the con
 
 Robert K, discusses this [here (14:45)](https://youtu.be/2sbTMrQwWOw)
 
-Autolykos v1 originally had non-outsourcability built-in, however, it became apparent that with smart contracts it's basically impossible to prevent pools, so they turned it off so that not only larger players were able to take advantage of the loophole. Ergo is now focusing on memory hardness in an attempt to keep mining as fair as possible, which should help prevent ASICs mining at least. There are also some improvements for pooling, e.g. Stratum 2 protocol
+Autolykos v1 originally had non-outsourcability built-in, however, it became apparent that with smart contracts it's basically impossible to prevent pools, so they turned it off so that not only larger players were able to take advantage of the loophole. Ergo is now focusing on memory hardness in an attempt to keep mining as fair as possible, which should help prevent ASICs mining at least. There are also some improvements for pooling, e.g. Stratum 2 protocol. 
 
 “Bypassing Non-Outsourceable Proof-of-Work Schemes Using Collateralized Smart Contracts” https://ia.cr/2020/044 was presented by Alex Chepurnoy at WTSC workshop associated with Financial Cryptography and Data Security 2020 in Malaysia
 
@@ -68,7 +68,7 @@ AMM + Order-Book Liquidity
 
 
 ## Oracle Pools
-There's a solid comparison of Oracle Pools on Ergo vs Chainlink given on the [ergoforum](https://www.ergoforum.org/t/oracle-pools-a-new-oracle-model/263) (by Robert Kornacki, Head of Research @ Emurgo)
+There's a solid comparison of Oracle Pools on Ergo vs Chainlink given on the [ergoforum](https://www.ergoforum.org/t/oracle-pools-a-new-oracle-model/263) (by Robert Kornacki, Head of Research @ Emurgo).
 
 
 - See our detailed article on [Oracle-Pools](/Oracle-Pools) for more
@@ -100,7 +100,7 @@ The Ergo Foundation is a community-driven entity focused on:
 1. Supporting truly decentralized infrastructure, and;
 1. Supporting privacy as a basic human right.
 
-The Treasury’s allocation of Ergs is equivalent to 10% of the total block reward over the first 2 years and leaves miners with a block reward of 67.5 Ergs per block. After 2 years, the Treasury will continue to receive the part of the block reward that exceeds 67.5 Erg, however, this will be 0 after year 2.5 when the block reward becomes 66 Ergs per block
+The Treasury’s allocation of Ergs is equivalent to 10% of the total block reward over the first 2 years and leaves miners with a block reward of 67.5 Ergs per block. After 2 years, the Treasury will continue to receive the part of the block reward that exceeds 67.5 Erg, however, this will be 0 after year 2.5 when the block reward becomes 66 Ergs per block.
 
 More information on [ergoplatform.org](https://ergoplatform.org/en/foundation/) and [Emission Schedule](https://ergoplatform.org/en/blog/2019_05_20-curve/)
 
@@ -126,7 +126,7 @@ To fund development, promotion, events, to swap Ergo’s Ergo First Year Tokens 
 ## How can I stake my Erg?
 Ergo is a PoW (**Proof of Work**) coin not a PoS (**Proof of Stake**), which means that blocks are validated by miners, not by stakers, therefore you can't stake Erg.
 
-However, if you are willing to gain returns from your coins you should take a look at [this guide](https://ergonaut.space/en/Guides/yield)
+However, if you are willing to gain returns from your coins you should take a look at [this guide](https://ergonaut.space/en/Guides/yield).
 # Your Questions Answered
 
 Any other questions? Comment below so we can expand this page !
