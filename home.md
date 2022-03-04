@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-01-29T15:23:21.719Z
+date: 2022-03-04T06:55:25.136Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -24,8 +24,8 @@ The [Sigmaverse](https://sigmaverse.io/) provides a list of all the decentralize
 - Buying digital art in an auction site
 - Create or support a raffle for a charitable cause
 - Creating Ergo payment links for goods and services you provide
-- Tip ERG or native ERG tokens across socials. 
-- Secure profits using SigmaUSD. 
+- Tip ERG or native ERG tokens across socials
+- Secure profits using SigmaUSD
 - Check out some on-chain metrics on [ergo.watch](https://ergo.watch/metrics)
 
 The Ergo ecosystem is under continuous development. Expect new ways to use it to emerge it in the future.
