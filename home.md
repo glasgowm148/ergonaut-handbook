@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-03-04T06:55:25.136Z
+date: 2022-03-04T06:56:53.238Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -19,7 +19,7 @@ Ergo is the next generation of blockchain and brings unstoppable smart money des
 The [Sigmaverse](https://sigmaverse.io/) provides a list of all the decentralized applications ([dApps](https://ergonaut.space/en/Glossary/dApps)) available on the Ergo blockchain. Common uses include:
 
 - Exchanging one cryptocurrency for another on a decentralized exchange (DEX)
-- Earning money by transferring your cryptocurrency into a liquidity pool, staking it in a dApp or joining a mining pool. (See [Yield](/en/Guides/yield))
+- Earning money by transferring your cryptocurrency into a liquidity pool, staking it in a dApp or joining a mining pool (See [Yield](/en/Guides/yield))
 - Transfering your cryptocurrencies to a private wallet address
 - Buying digital art in an auction site
 - Create or support a raffle for a charitable cause
