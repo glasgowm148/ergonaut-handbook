@@ -2,7 +2,7 @@
 title: Roadmap
 description: 
 published: true
-date: 2022-03-04T07:14:05.324Z
+date: 2022-03-04T07:17:46.627Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:11:23.408Z
@@ -51,10 +51,10 @@ We also have 2 scala engineers starting a training period.
 
  * Research on different **scalability** proposals for Bitcoin, Cardano, Ethereum, such as sidechains (which are also nice for testing new features), commit-chains, rollups, isomorphic state channels, FairSwap etc. For some solutions for Bitcoin new opcodes are needed (so a little chance to see things in the real-world), while Ergo allows for such contructions with no forks it seems. Ergo is going to be not just a chain, but a king of chains (which will improve the crypto-economic security of the protocol as miners will get additional rewards from sidechains). 
  * On **performance** of the network, the reference protocol client (Ergo node) is getting different performance improvements in the P2P layer.
- * bootstrapping via UTXO set snapshot and NiPoPoWs are in progress. Allowing clients to have much quicker bootstrapping without compromising security
- * The **5.0 soft-fork** is going to be proposed to miners soon, the main change is about switching to just-in-time-costing in ErgoTree evaluation which will provide a  5-6x boost in scripts processing (on real blockchain data)
+ * Bootstrapping via UTXO set snapshot and NiPoPoWs are in progress. Allowing clients to have much quicker bootstrapping without compromising security.
+ * The **5.0 soft-fork** is going to be proposed to miners soon, the main change is about switching to just-in-time-costing in ErgoTree evaluation which will provide a  5-6x boost in scripts processing (on real blockchain data).
  * It's now time to consider the long-term crypto-economic security of the protocol, discussions already started [here](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778/7)
- * for application development, more frameworks and ready apps are needed, there are some results to be announced already 
+ * For application development, more frameworks and ready apps are needed, there are some results to be announced already.
 
 
 
