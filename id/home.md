@@ -2,13 +2,15 @@
 title: Home
 description: 
 published: true
-date: 2022-03-15T17:48:53.491Z
+date: 2022-03-15T17:50:44.302Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-15T17:44:41.940Z
 ---
 
 ## Selamat datang di Ergo. Uang kontrak - untuk rakyat!
+
+Bergabunglah dengan Komunitas Indonesia kami di [Telegram](https://t.me/Ergo_Indonesian) atau Discord
 
 
 Harap tukarkan SigRSV jika Anda untung dan pertimbangkan untuk mencetak SigUSD. Lihat: reddit.com/r/ergonauts/comments/ncx3c1/securing_profits/
