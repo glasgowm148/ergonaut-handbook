@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-03-15T17:44:41.940Z
+date: 2022-03-15T17:48:53.491Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-15T17:44:41.940Z
@@ -28,4 +28,34 @@ Ergo adalah cryptocurrency Proof-of-Work (PoW) yang unik dan platform DeFi, yang
 ## Periksa pin berikutnya untuk Peta Jalan kami
 
 Tujuan utama Ergo adalah untuk memberikan kontrak keuangan secara efisien dan aman sehingga orang dapat menggunakannya dengan cara yang terdesentralisasi dan tanpa perlu kepercayaan sebelumnya. PoW yang sepenuhnya kompatibel dengan Cardano dapat memberikan kontribusi yang signifikan kepada semua pengembang di ekosistem eUTxO.
+
+
+## Pembaruan
+
+### [Pembaruan pengembang mingguan terbaru kami!](https://youtu.be/hjvxT_nKVsI)
+
+ Manajer Bisnis Ergo Joe Armeanio berbicara kepada kami melalui berita pengembang terbaru, dari tim inti serta orang-orang yang secara mandiri membangun proyek mereka sendiri di Ergo.
+
+ Episode ini membahas secara mendalam dan menjelaskan:
+
+ Koin Dexy Stable
+ Jembatan Rosen
+ Peningkatan Oracle
+ + lebih!
+ 
+ ### Sejak awal Bitcoin, teknologi blockchain telah mengalami kemajuan besar selama abad kedua puluh satu.  
+ 
+ Peningkatan keamanan, akses, dan berbagai protokol telah memungkinkan blockchain berkembang untuk bersaing dengan permintaan yang terus meningkat.  Jelajahi blog terbaru kami untuk memahami evolusi industri blockchain dan mengapa Ergo diposisikan dengan baik untuk menjadi platform terkemuka.
+
+ https://bit.ly/3Kd9a6H
+ 
+ ### [ErgoHack III](https://bit.ly/3HvUY7f)
+
+ErgoHack III sukses besar dan juri kami kesulitan untuk memilih hanya tiga pemenang!  Lihat hasil dan pembagian hadiah di postingan blog terbaru kami.
+
+Selamat untuk semua peserta!
+
+
+ 
+  
 
