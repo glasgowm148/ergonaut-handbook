@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-03-17T08:29:56.168Z
+date: 2022-03-17T08:30:26.325Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
