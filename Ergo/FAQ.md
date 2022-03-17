@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-03-17T08:12:33.376Z
+date: 2022-03-17T08:15:39.933Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -58,7 +58,7 @@ You will need a dedicated GPU (AMD/Intel), see [Mining](https://ergonaut.space/e
 
 ## SigmaUSD
 
-Algorithmic Stablecoin, backed by a reserve which in it's most simplest form is betting long and short bets against each other. See [SigmaUSD](/SigmaUSD) for more.
+Algorithmic Stablecoin, backed by a reserve which in it's most simplest form is betting long and short bets against each other. See [SigmaUSD](https://ergonaut.space/en/Dapps/SigmaUSD/Overview) for more.
 
 ## ErgoDex
 
