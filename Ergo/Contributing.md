@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2022-03-17T09:08:12.650Z
+date: 2022-03-17T09:09:56.256Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-15T13:21:44.908Z
@@ -39,7 +39,7 @@ Below are some general areas to get involved in straight away. To take a more ha
 
 [docs.ergoplatform.org](http://docs.ergoplatform.org/) is your best starting point for dApp development, keep a note of your progress and claim some of the bounties available for [Tutorials and Guides for developers](https://github.com/ergoplatform/grow-ergo/issues/15). 
 
-Alternatively you can tackle any of the bounties available on Ergo repositories: submit a grant request to the [Good Whale Fund](https://github.com/ergoplatform/grow-ergo/issues/13), [DarkFund0](https://github.com/ergoplatform/grow-ergo/issues/1) - or directly to the [Ergo Foundation](mailto:team@ergoplatform.org)
+Alternatively you can tackle any of the bounties available on Ergo repositories: submit a grant request to the [Good Whale Fund](https://github.com/ergoplatform/grow-ergo/issues/13), [DarkFund0](https://github.com/ergoplatform/grow-ergo/issues/1) - or directly to the [Ergo Foundation](mailto:team@ergoplatform.org). 
 
 
 
