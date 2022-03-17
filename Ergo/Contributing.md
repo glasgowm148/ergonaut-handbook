@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2022-03-17T09:14:12.054Z
+date: 2022-03-17T09:16:55.971Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-15T13:21:44.908Z
@@ -22,7 +22,7 @@ Below are some general areas to get involved in straight away. To take a more ha
 	-	[Ergo Emission: details, retargeting via a soft-fork](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778/21)
 	- [Dexy USD - Simplest Stablecoin Design](https://www.ergoforum.org/t/dexy-usd-simplest-stablecoin-design/1430)
 	- [Lessons for sigmausd from the DJED paper](https://www.ergoforum.org/t/lessons-for-sigmausd-from-the-djed-paper/2345)
-3. Create an account here, on [ergonaut.space](https://ergonaut.space/register) and help us update and maintain the text.
+3. Create an account here, on [ergonaut . space](https://ergonaut.space/register) and help us update and maintain The Ergonaut Handbook content. 
 4. Join the [community discussion spaces](https://github.com/glasgowm148/awesome-ergo/blob/master/pages/community.md)
 5. Create a regional chapter and grow Ergo's reach locally.
 6. Spread Ergo [graphics](https://photos.app.goo.gl/HUMnfRjyFDyHSPhHA) on social
