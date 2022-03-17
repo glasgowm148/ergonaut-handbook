@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-03-17T08:34:03.463Z
+date: 2022-03-17T09:24:28.182Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -70,6 +70,8 @@ While it is possible to mine Ergo with a 4gb GPU. A 6GB GPU is the suggested min
 -   [Graphics Card (GPU)](https://ergonaut.space/en/Guides/Mining/Graphics_Cards)
 
 -   [Motherboard (MOBO)](https://ergonaut.space/en/Guides/Mining/Motherboards)
+
+-   [Motherboards](/en/Guides/Mining/Motherboards)
 
 -   Power Supply (PSU)
 -   Processor (CPU)
