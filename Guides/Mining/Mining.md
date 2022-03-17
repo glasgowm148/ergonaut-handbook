@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2022-03-17T07:16:09.831Z
+date: 2022-03-17T07:16:55.517Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
