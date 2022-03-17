@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-03-17T08:09:07.521Z
+date: 2022-03-17T08:12:33.376Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -64,7 +64,7 @@ Algorithmic Stablecoin, backed by a reserve which in it's most simplest form is 
 
 AMM + Order-Book Liquidity
 
-[ErgoDex](/ergodex)
+[ErgoDex](https://ergonaut.space/en/dApps/ergodex)
 
 
 ## Oracle Pools
