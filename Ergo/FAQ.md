@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-03-17T07:03:19.085Z
+date: 2022-03-17T08:07:10.696Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -41,7 +41,7 @@ Ethereum classic is perhaps a bad example, as it shares the same mining algorith
 
 ## Can I mine Erg?
 
-You will need a dedicated GPU (AMD/Intel), see [Mining](/Mining)
+You will need a dedicated GPU (AMD/Intel), see [Mining](Guides/Mining)
 
 
 # Use-Cases 
