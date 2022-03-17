@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2022-03-17T07:15:03.417Z
+date: 2022-03-17T07:16:09.831Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -65,7 +65,7 @@ While it is possible to mine Ergo with a 4gb GPU. A 6GB GPU is the suggested min
 
 ### Components required to build a mining rig:
 
--   [Graphics Card (GPU)]>(https://ergonaut.space/en/Guides/Mining/Graphics_Cards)
+-   [Graphics Card (GPU)](https://ergonaut.space/en/Guides/Mining/Graphics_Cards)
 -   [Motherboard (MOBO)](https://ergonaut.space/en/Motherboards)
 -   Power Supply (PSU)
 -   Processor (CPU)
