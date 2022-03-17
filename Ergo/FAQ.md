@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-03-04T07:09:32.932Z
+date: 2022-03-17T06:54:58.393Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -48,7 +48,7 @@ You will need a dedicated GPU (AMD/Intel), see [Mining](/Mining)
 
 [Sigmaverse.io](https://sigmaverse.io)
 
-[use-cases](/use-cases)
+[Use-cases](https://ergonaut.space/e/en/Ergo/Use-Cases)
 
 ## dApps
 
