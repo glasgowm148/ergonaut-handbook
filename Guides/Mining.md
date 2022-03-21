@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-03-17T09:27:07.798Z
+date: 2022-03-21T13:16:15.699Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -186,7 +186,10 @@ Miners can fix value by minting [SigUSD](https://sigmausd.io/#/)
 
 # Solo Mining
 
-[Can I solo mine?](https://docs.google.com/forms/d/e/1FAIpQLScBFv3mxpu5Erv55zvfFuIo2NnaWht3cc70xZoRo-3c58Cv0A/viewform)
+You can solo mine on any of the pools that offer a solo port.  Otherwise you will need to build a node and stratum server (pool) can also try [ergoNomp](https://github.com/btclinux/ergo-nomp)
+
+Please check [this form](https://docs.google.com/forms/d/e/1FAIpQLScBFv3mxpu5Erv55zvfFuIo2NnaWht3cc70xZoRo-3c58Cv0A/viewform) to see if solo mining is worthwhile.
+
 
 - [Autolykos2_NV_Miner](https://https://github.com/mhssamadani/Autolykos2_NV_Miner)
 - [Autolykos2_AMD_Miner](https://github.com/mhssamadani/Autolykos2_AMD_Miner)
