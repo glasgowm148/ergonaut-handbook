@@ -2,7 +2,7 @@
 title: Tax
 description: 
 published: true
-date: 2022-03-24T14:38:12.122Z
+date: 2022-03-24T18:59:43.859Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-24T14:38:12.122Z
@@ -59,6 +59,10 @@ Once reported they become usable in the tax year they arose. If you can't deduct
 
 > **Crypto capital losses cannot be set against crypto income profits.** You can end up with a large income tax liability and a large capital loss and cannot offset the losses and have no money to pay the tax with 
 {.is-danger}
+
+If you receive 1000 tokens and their spot price at that time is £1, your pre-tax income excluding any other factor would be £1000. What isn't clear, and I cannot offer much advice on this, is whether you are self employed or an employee of this project, as it will fundamentally differ how you pay tax otherwise. 
+
+The tokens once you have them unconditionally are then at the whim of its own value; if it goes up there is a capital gain, if it goes down there is a capital loss, which is crystallised when you sell your tokens
 
 
 **Example: Receiving volatile non-cash assets as income**
