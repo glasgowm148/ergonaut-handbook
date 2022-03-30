@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-03-21T13:16:15.699Z
+date: 2022-03-30T13:02:58.834Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -12,7 +12,7 @@ dateCreated: 2021-12-31T23:01:12.178Z
 
 ![5e8765a7-6344-4a81-b283-87c695056ef6.jpeg](/5e8765a7-6344-4a81-b283-87c695056ef6.jpeg =x350)
 
-> There are active miner communities for Ergo on [Discord](https://discord.gg/Q86PNMwRsu) and [Telegram](https://t.me/ergo_mining)
+> There are active miner communities for Ergo on [Discord](https://discord.gg/Q86PNMwRsu) and [Telegram](https://t.me/ergo_mining). For direct support there's #mining-support on Discord - Enable the mining role in #get-roles
 {.is-info}
 
 
