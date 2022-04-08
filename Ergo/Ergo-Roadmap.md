@@ -2,7 +2,7 @@
 title: Roadmap
 description: 
 published: true
-date: 2022-03-04T07:17:46.627Z
+date: 2022-04-08T15:50:05.723Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:11:23.408Z
@@ -10,7 +10,7 @@ dateCreated: 2021-02-25T08:11:23.408Z
 
 # Roadmap
 
-![roadmap_24nov.png](/roadmap_24nov.png)
+New Roadmap available soon.
 
 References are available below.
 
