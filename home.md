@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-03-04T06:56:53.238Z
+date: 2022-04-08T15:52:58.418Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -14,6 +14,8 @@ ergonaut.space is the community wiki of the Ergo blockchain which showcases the 
 
 ## What is Ergo?
 Ergo is the next generation of blockchain and brings unstoppable smart money designed to be used by ordinary people. 
+
+- [What is Ergo (May, 2022)](https://www.youtube.com/watch?v=LyyD-clUvyI&t=941s)
 
 ## What can I do with Ergo?
 The [Sigmaverse](https://sigmaverse.io/) provides a list of all the decentralized applications ([dApps](https://ergonaut.space/en/Glossary/dApps)) available on the Ergo blockchain. Common uses include:
