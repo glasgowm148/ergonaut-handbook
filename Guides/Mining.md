@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-03-30T13:02:58.834Z
+date: 2022-04-11T17:48:33.200Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -15,6 +15,8 @@ dateCreated: 2021-12-31T23:01:12.178Z
 > There are active miner communities for Ergo on [Discord](https://discord.gg/Q86PNMwRsu) and [Telegram](https://t.me/ergo_mining). For direct support there's #mining-support on Discord - Enable the mining role in #get-roles
 {.is-info}
 
+- [Mining Ergo on HiveOS](https://ergoplatform.org/en/blog/2022-03-22-mining-ergo-on-hiveos/)
+- [Mining Ergo on Windows](https://ergoplatform.org/en/blog/2022-03-17-mining-ergo-on-windows/)
 
 ## The Coin: What is Ergo?
 
