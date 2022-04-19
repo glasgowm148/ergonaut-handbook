@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: 
 published: true
-date: 2022-04-19T09:49:05.185Z
+date: 2022-04-19T16:53:22.478Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -15,7 +15,8 @@ Introducing the [Sigmanaut Training Program](https://twitter.com/ergoplatformorg
 
 Sigmanauts gain exclusive access to the team, bringing ideas to the wider community and representing them while helping to shape Ergo going forward whether it be in any of your contributions in writing, campaigning, or shaping of the sigmanauts structure or Ergo itself. 
 
-The Sigmannaut  Program is structured in the following format:
+__The Sigmannaut  Program is structured in the following format__:
+________
 ### Growth
 
 #### **Help bring new people into the community**.
@@ -53,3 +54,7 @@ If you can offer your time, skills and/or experience for #Ergo, apply to the Sig
 
 
 [Sigmanaut Registration Form](https://q9fwzopidh8.typeform.com/to/RdWAB3MS?typeform-source=www.reddit.com)
+
+Successful applicants will be awarded this official Sigmanaut NFT by [@ERGnomes](https://t.co/n0Cpbjel67)!
+
+![sigmanautnft.jpg](/sigmanautnft.jpg)
