@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-04-11T17:48:33.200Z
+date: 2022-04-19T08:11:24.989Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -47,7 +47,7 @@ A wallet will be required for you to collect your mining rewards. Digital wallet
 
 ### Wallet Types:
 
-[Third Party Wallets](https://ergoplatform.org/en/wallets/)
+[Third Party Wallets](https://docs.ergoplatform.com/dev/wallet/)
 
 [Ergo Node Wallet](https://github.com/ergoplatform/ergo/wiki/Set-up-a-full-node)
 
