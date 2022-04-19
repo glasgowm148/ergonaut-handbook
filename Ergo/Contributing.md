@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2022-03-17T09:21:13.068Z
+date: 2022-04-19T17:05:24.172Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-15T13:21:44.908Z
@@ -33,7 +33,7 @@ Below are some general areas to get involved in straight away. To take a more ha
 2. Join the the [@ErgoSocials](https://t.me/ErgoSocials) or the [#marketing](https://discord.gg/TBFXMzha7X) channel on Discord and collaborate. 
 3. Read (or add to) the community built [Guerrilla Marketing handbook](https://ergonaut.space/en/Guides/Guerrilla-Marketing)
 4. Collaborate on the - [Shared Figma Graphic Space](https://www.figma.com/file/pd92vgB3xNFThaacIKodYs/Guide-ID?node-id=1%3A756)
-
+5. See the [dropbox](https://www.dropbox.com/sh/jionpgnj89eod2f/AAC5S1vnOwO3gm2vRYOmDBQ-a?dl=0) for community-graphics. 
 
 ## Development
 
