@@ -2,61 +2,75 @@
 title: Home
 description: 
 published: true
-date: 2022-03-15T17:50:44.302Z
+date: 2022-04-23T15:09:34.795Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-15T17:44:41.940Z
 ---
 
-## Selamat datang di Ergo. Uang kontrak - untuk rakyat!
+> Bergabunglah dengan Komunitas Indonesia kami di [Telegram](https://t.me/Ergo_Indonesian) atau Discord
+{.is-info}
 
-Bergabunglah dengan Komunitas Indonesia kami di [Telegram](https://t.me/Ergo_Indonesian) atau Discord
+# Selamat datang di ergonaut.space
+ergonaut.space adalah wiki komunitas dari blockchain Ergo yang menampilkan kemungkinan dan detail Ergo untuk orang-orang non-teknis. Jika Anda adalah pengembang atau pengguna lanjutan cryptocurrency, [docs.ergoplatform](http://docs.ergoplatform.org/) di GitHub mungkin merupakan sumber informasi yang lebih tepat.
 
+## Apa itu Ergo?
 
-Harap tukarkan SigRSV jika Anda untung dan pertimbangkan untuk mencetak SigUSD. Lihat: reddit.com/r/ergonauts/comments/ncx3c1/securing_profits/
+Ergo adalah platform kontrak pintar generasi berikutnya yang memastikan kebebasan ekonomi bagi orang-orang biasa melalui alat keuangan yang terdesentralisasi, pribadi, dan aman.
 
-Silakan lihat FAQ lengkap ini untuk mendapatkan jawaban atas setiap keinginan Anda.
-reddit.com/r/ergonauts/comments/mye6xh/faq/
+**Ringkasan**
 
-Untuk yang lainnya, ada ergonaut.space/
-
-Ergo membangun fitur kriptografi canggih dan fungsionalitas DeFi yang sangat baru di atas fondasi yang kokoh yang diletakkan oleh satu dekade teori dan pengembangan blockchain. Ini melengkapi prinsip-prinsip yang telah dicoba dan diuji dengan penelitian akademis peer-review terbaru ke dalam kriptografi, model konsensus, dan mata uang digital.
-
-Ergo adalah cryptocurrency Proof-of-Work (PoW) yang unik dan platform DeFi, yang dibangun di atas prinsip-prinsip pertama Bitcoin. Dengan model pengembangan yang digerakkan oleh penelitian tetapi praktis, Ergo telah memprioritaskan fitur yang berguna tanpa mengorbankan keamanan. Kontrak pintar platform ini dibangun di atas model UTXO yang diperpanjang (eUTXO) dengan konsep input data yang unik, menawarkan pendekatan yang sangat berbeda untuk menyediakan kriptografi yang kuat, fleksibel, dan pembuatan skrip yang mudah dan aman pada Protokol Sigma yang berpusat pada privasi (non-interactive zero-knowledge) bukti). Sewa penyimpanan untuk survivabilitas jangka panjang, klien ringan yang sangat efisien, dan teknologi NiPoPoW untuk interoperabilitas.
-
-[Baca Bearwhale Saga!](ergoplatform.org/en/blog/2021-05-13-bearwhale-saga/)
-[Baca Manifesto](ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/)
-
-## Periksa pin berikutnya untuk Peta Jalan kami
-
-Tujuan utama Ergo adalah untuk memberikan kontrak keuangan secara efisien dan aman sehingga orang dapat menggunakannya dengan cara yang terdesentralisasi dan tanpa perlu kepercayaan sebelumnya. PoW yang sepenuhnya kompatibel dengan Cardano dapat memberikan kontribusi yang signifikan kepada semua pengembang di ekosistem eUTxO.
+- [Manifesto Ergo](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versi](Ergo/manifesto))
+- [Mengapa Ergo](https://cafebedouin.org/2021/12/09/why-ergo/)
+- [Ikhtisar Ergo Blockchain](Ergo/Ringkasan)
+- [Apa itu Ergo (Mei, 2022)](https://www.youtube.com/watch?v=LyyD-clUvyI&t=941s)
 
 
-## Pembaruan
+## Apa yang bisa saya lakukan dengan Ergo?
+[Sigmaverse](https://sigmaverse.io/) menyediakan daftar semua aplikasi terdesentralisasi ([dApps](https://ergonaut.space/en/Glossary/dApps)) yang tersedia di blockchain Ergo. Penggunaan umum meliputi:
 
-### [Pembaruan pengembang mingguan terbaru kami!](https://youtu.be/hjvxT_nKVsI)
+- Bertukar satu mata uang kripto dengan mata uang lainnya di bursa terdesentralisasi (DEX)
+- Hasilkan uang dengan mentransfer mata uang kripto Anda ke dalam kumpulan likuiditas, mempertaruhkannya di dApp atau bergabung dengan kumpulan penambangan (Lihat [Hasil](/en/Panduan/hasil))
+- Mentransfer cryptocurrency Anda ke alamat dompet pribadi
+- Membeli seni digital di situs lelang
+- Buat atau dukung undian untuk tujuan amal
+- Membuat tautan pembayaran Ergo untuk barang dan jasa yang Anda sediakan
+- Tip ERG atau token ERG asli di seluruh sosial
+- Amankan keuntungan menggunakan SigmaUSD
+- Lihat beberapa metrik on-chain di [ergo.watch](https://ergo.watch/metrics)
 
- Manajer Bisnis Ergo Joe Armeanio berbicara kepada kami melalui berita pengembang terbaru, dari tim inti serta orang-orang yang secara mandiri membangun proyek mereka sendiri di Ergo.
+Ekosistem Ergo sedang dalam pengembangan berkelanjutan. Harapkan cara baru untuk menggunakannya untuk memunculkannya di masa depan.
 
- Episode ini membahas secara mendalam dan menjelaskan:
 
- Koin Dexy Stable
- Jembatan Rosen
- Peningkatan Oracle
- + lebih!
+
+## Tertarik untuk Belajar Lebih Banyak?
+
+> Lihat [halaman ini](https://linktr.ee/ergoplatform) untuk tautan ke semua obrolan komunitas, ruang sosial, ruang dApp, dll.
+{.is-info}
+
+
+
+**Panduan**
+- [Cara Mendapatkan Bunga](https://ergonaut.space/en/Guides/yield)
+- [Cara Menambang Ergo](https://ergonaut.space/en/Guides/Mining)
+- [Apa itu SigmaUSD?](https://ergonaut.space/en/dApps/SigmaUSD/Overview)
+- [Glosarium](https://ergonaut.space/en/Glossary)
+- [Cara Berkontribusi pada Buku Pegangan Ergonaut](https://ergonaut.space/en/Guides/Ergonaut-Handbook/Editor's-Guide)
+
+**Grafik**
+- [Dropbox - Gambar, Video, GIF](https://www.dropbox.com/sh/jionpgnj89eod2f/AAC5S1vnOwO3gm2vRYOmDBQ-a?dl=0)
+- [Arena Desain Figma](https://www.figma.com/file/pd92vgB3xNFThaacIKodYs/ERGO?node-id=538%3A987)
+
+## Bergabung dalam percakapan
+
+- [Reddit](https://www.reddit.com/r/ergonauts)
+- [Telegram](https://t.me/ergoplatform)
+- [Perselisihan](https://discordapp.com/invite/gYrVrjS)
+- [Forum Ergo](https://www.ergoforum.org/)
+
+> ergonaut.space adalah ruang berbasis komunitas di mana setiap orang dapat berkontribusi. Hubungi moderator di salah satu ruang obrolan untuk menambahkan bagian bahasa regional baru.
+{.is-sukses}
  
- ### Sejak awal Bitcoin, teknologi blockchain telah mengalami kemajuan besar selama abad kedua puluh satu.  
- 
- Peningkatan keamanan, akses, dan berbagai protokol telah memungkinkan blockchain berkembang untuk bersaing dengan permintaan yang terus meningkat.  Jelajahi blog terbaru kami untuk memahami evolusi industri blockchain dan mengapa Ergo diposisikan dengan baik untuk menjadi platform terkemuka.
-
- https://bit.ly/3Kd9a6H
- 
- ### [ErgoHack III](https://bit.ly/3HvUY7f)
-
-ErgoHack III sukses besar dan juri kami kesulitan untuk memilih hanya tiga pemenang!  Lihat hasil dan pembagian hadiah di postingan blog terbaru kami.
-
-Selamat untuk semua peserta!
-
 
  
   
