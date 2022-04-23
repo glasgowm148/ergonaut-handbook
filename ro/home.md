@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-04-23T15:32:20.890Z
+date: 2022-04-23T15:32:33.738Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-28T15:10:27.421Z
@@ -19,7 +19,6 @@ Ergo este o platformă de contract inteligent de ultimă generație care asigur�
 
 - [Manifestul Ergo](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versiuni](Ergo/manifest))
 - [De ce Ergo](https://cafebedouin.org/2021/12/09/why-ergo/)
-- [Prezentare generală asupra Ergo Blockchain](Ergo/Prezentare generală)
 - [Ce este Ergo (mai 2022)](https://www.youtube.com/watch?v=LyyD-clUvyI&t=941s)
 
 
