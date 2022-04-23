@@ -2,7 +2,7 @@
 title: Developers
 description: 
 published: true
-date: 2022-01-02T12:04:57.535Z
+date: 2022-04-23T10:14:03.096Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:19:45.758Z
@@ -213,7 +213,7 @@ Read more on the blog - [Ergo Bootstrap, Streamlining Ergo dApp Infrastructure W
 
 Ergo Improvement Proposals (EIPs) specify and/or describe standards for the Ergo Platform, including core protocol specifications, client APIs, dApp/contract standards, and other such things.
 
-Please check out existing EIPs, such as [EIP-1](eip-0001.md), to understand the general expectation of how EIPs are supposed to be formatted.
+Please check out [existing EIPs](https://github.com/ergoplatform/eips), such as [EIP-1](eip-0001.md), to understand the general expectation of how EIPs are supposed to be formatted.
 
 | Number | Title |
 | ---  | ---  |
