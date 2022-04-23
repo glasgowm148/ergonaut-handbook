@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-04-23T15:09:34.795Z
+date: 2022-04-23T15:09:56.107Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-15T17:44:41.940Z
@@ -20,7 +20,7 @@ Ergo adalah platform kontrak pintar generasi berikutnya yang memastikan kebebasa
 
 **Ringkasan**
 
-- [Manifesto Ergo](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versi](Ergo/manifesto))
+- [Manifesto Ergo](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) 
 - [Mengapa Ergo](https://cafebedouin.org/2021/12/09/why-ergo/)
 - [Ikhtisar Ergo Blockchain](Ergo/Ringkasan)
 - [Apa itu Ergo (Mei, 2022)](https://www.youtube.com/watch?v=LyyD-clUvyI&t=941s)
