@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-04-24T18:05:02.629Z
+date: 2022-04-24T18:05:25.847Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-10T12:10:11.259Z
@@ -19,7 +19,6 @@ Ergo è una piattaforma di smart contract di nuova generazione che garantisce li
 
 - [Il Manifesto Ergo](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versioni](Ergo/manifesto))
 - [Perché Ergo](https://cafebedouin.org/2021/12/09/perché-ergo/)
-- [Panoramica della Blockchain Ergo](Ergo/Panoramica)
 - [Cos'è Ergo (maggio 2022)](https://www.youtube.com/watch?v=LyyD-clUvyI&t=941s)
 
 
