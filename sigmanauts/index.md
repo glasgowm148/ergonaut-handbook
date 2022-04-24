@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: 
 published: true
-date: 2022-04-24T23:40:45.498Z
+date: 2022-04-24T23:44:41.108Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -58,7 +58,8 @@ If you can offer your time, skills and/or experience for #Ergo, apply to the Sig
 
 > Please join the [Ergo Discord](https://discord.com/invite/nr4JRnhAyV) as that is where the Sigmanaut Training Program will take place.
 {.is-info}
-#### **Perks** 
+
+# Perks 
 
 
 Successful applicants will be awarded:
@@ -70,7 +71,7 @@ Successful applicants will be awarded:
 
 ![sigmanautnft.jpg](/sigmanautnft.jpg)
 
-#### **Responsibilities**
+# Responsibilities
 
 > The Ergo community consists of people from all over the world and all walks of life who have come together to grow and safeguard the future of Ergo. All participants in the community are expected to act lawfully, honestly, ethically, and in the project's best interest. 
 
