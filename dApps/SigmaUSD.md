@@ -2,7 +2,7 @@
 title: dApps/SigmaUSD
 description: 
 published: true
-date: 2022-05-16T15:08:42.314Z
+date: 2022-05-16T15:10:37.534Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -45,17 +45,10 @@ dateCreated: 2021-02-24T08:02:25.004Z
 
 # Overview
 
-> This is the simplest example possible to explain how the logic of the contract works (without fees) and not what happens in real world scenario. The value you can redeem for your SigRSV floats up and down based on transaction fees and profits/losses SigUSD holders take when withdrawing.
-{.is-warning}
 
 ![sfpsbv4.png](/sfpsbv4.png)
 
 
-## Advantages over MakerDAO
-> **No liquidations!**
-{.is-success}
-
-Unlike Ethereum-based crypto-backed stablecoins, such as DAI, Emurgo introduces a Staticoin protocol-inspired design that does not rely on CDPs (Collateralized Debt Positions). The reason for this is the vulnerability of CDP-based protocols in terms of high volatility and blockchain congestion. As Emurgo states, "Black Thursday," when MakerDAO CDPs were triggered for liquidation due to volatility and then sold for $0 due to blockchain congestion that prevented others from bidding, demonstrated that a new design is needed. For SigmaUSD, this scenario is not possible.
 
 
 
@@ -82,8 +75,6 @@ Unlike Ethereum-based crypto-backed stablecoins, such as DAI, Emurgo introduces 
 
 ## Articles
 
-
-
 - [AgeUSD Protocol: SigRSV and SigUSD](https://ergoplatform.org/en/blog/2021-07-30-ergos-ageusd-protocol-sigrsv-and-sigusd/)
 - [Bearwhale Saga](https://ergoplatform.org/en/blog/2021-05-13-bearwhale-saga/)
 - [SigmaUSD vs the competition.](https://curiaregiscrypto.medium.com/sigmausd-vs-the-competition-e70b23fe37a3)
@@ -97,13 +88,40 @@ Unlike Ethereum-based crypto-backed stablecoins, such as DAI, Emurgo introduces 
 - [PSA: sigRSV is not a simple long position](https://www.reddit.com/r/ergonauts/comments/prxpag/psa_sigrsv_is_not_a_simple_long_position/)
 
 
-
-
 ## Documentation
 
 - The design was inspired by [StatiCoin](http://staticoin.com/whitepaper.pdf)
 - [Documentation](https://github.com/Emurgo/age-usd)
 - You can read the official [Emurgo announcement blog post here](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
+
+## Other Stablecoins
+
+- [SigmaUSD vs the competition](https://curiaregiscrypto.medium.com/sigmausd-vs-the-competition-e70b23fe37a3
+)
+
+
+
+## Advantages over MakerDAO
+> **No liquidations!**
+{.is-success}
+
+Unlike Ethereum-based crypto-backed stablecoins, such as DAI, Emurgo introduces a Staticoin protocol-inspired design that does not rely on CDPs (Collateralized Debt Positions). The reason for this is the vulnerability of CDP-based protocols in terms of high volatility and blockchain congestion. As Emurgo states, "Black Thursday," when MakerDAO CDPs were triggered for liquidation due to volatility and then sold for $0 due to blockchain congestion that prevented others from bidding, demonstrated that a new design is needed. For SigmaUSD, this scenario is not possible.
+
+## Advantages over UST
+
+SigUSD is over-collateralised, every sigusd is backed by 3$ currently. Everyone can see that there is money in the bank. This stops a bank run at its inception. The breaking point of the peg is explicit and open for anyone to see. With UST, you have no idea, which gives you an incentive to get out first.
+
+
+- Luna supply depends on terra usage, Ergo does not. Burning luna when trend is up, pumps its price. However, when trend is down, luna price will dump harder, because more luna is printed. 
+
+- collateral ratio for sigusd is higher. This means that the capital efficiency (less collateral tied for each stablecoin) is better for terra. That is why luna/terra can offer better yield. 
+
+However, this means that luna/terra needs an additional mechanism to ensure stability. When collateral (luna) value drops, someone needs to step in to stabilize it. Those people are incentivized with promises of larger profits in the future. This assumes that there will always be people who believe that the protocol survives the crash. No one knows at which price point of luna the trust disappears. This creates a seed for a bank run. Everyone wants to take their  stablecoin out faster than others, if there is any doubt.
+
+In contrast, sigusd shows explicitly, when the peg is going to be lost. No one needs to guess how long the protocol can last.
+
+credit to `ile` on Telegram who's been warning of this bank-run since Lunar's inception.
+
 
 
 # SigmaUSD v1
@@ -119,6 +137,8 @@ This is v2, to read about v1 see these articles:
 
 
 # Infographics
+
+
 ## Reserve Ratio
 ![photo_2021-05-26_01.56.49.jpeg](/photo_2021-05-26_01.56.49.jpeg)
 
