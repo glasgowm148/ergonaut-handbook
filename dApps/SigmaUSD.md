@@ -1,8 +1,8 @@
 ---
-title: SigmaUSD
+title: dApps/SigmaUSD
 description: 
 published: true
-date: 2021-05-19T09:04:59.703Z
+date: 2022-05-16T15:04:35.815Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -13,28 +13,31 @@ dateCreated: 2021-02-24T08:02:25.004Z
 >Its economic model designed in partnership between IOHK, Ergo, and Emurgo maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. **Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.**
 {.is-success}
 
+![sigmausd_overview.png](/sigmausd_overview.png)
 
-Introducing SigmaUSD.io the first UTxO-based stable coin - an instantiation of the AgeUSD protocol. The foundation on which a new era of digital finance will be built.
-
-Its economic model designed in partnership between IOHK, Ergo, and Emurgo maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.
-
-**See these other articles for more information**
+**See these links for more information**
 - [FAQ](/SigmaUSD/FAQ)
 - [Detailed Overview](/SigmaUSD/Overview)
+- [Noob tries to explain SigmaUSD/RSV (an attempt at an ELI5)](https://www.reddit.com/r/ergonauts/comments/nhjc1f/noob_tries_to_explain_sigmausdrsv_an_attempt_at/)
+- [PSA: sigRSV is not a simple long position](https://www.reddit.com/r/ergonauts/comments/prxpag/psa_sigrsv_is_not_a_simple_long_position/)
+- [Youtube playlist](https://www.youtube.com/playlist?list=PL8-KVrs6vXLSu_rLQV5-Pu8389_PLd06q)
+- [ergo.watch](https://ergo.watch/sigmausd)
+
+> Note  Transactions can fail when the oracle refreshes during (and the price changes). In this event the funds will be returned to your connected wallet.  Use this link for a refund anytime if your funds become 'stuck' in a proxy address:  `https://assm.sigmausd.io/return/your_address_set_in_ui/the_long_address_you_sent_to`
+{.is-info}
 
 
-Transactions can fail when the oracle refreshes during (and the price changes). In this event the funds will be returned to your connected wallet. 
 
-Use this link for a refund anytime if your funds become 'stuck' in a proxy address:  `https://assm.sigmausd.io/return/your_address_set_in_ui/the_long_address_you_sent_to`
-
-
-# Uses
-- Accepted in cryptocurrencycheckout 
+# Use-cases
+- Accepted in [Cryptocurrency Checkout](https://cryptocurrencycheckout.com/coin/sigmausd) 
 - Mix SigUSD or SigRSV in [ErgoMixer](/ErgoMixer) the first non-custodial, non-interactive miner in the cryptocurrency space.
+- Secure profits without interacting with exchanges.
+- Short ERG
+- Tips on Discord/Telegram/Reddit/etc
+- SigUSD AuctionHouse
 
 
-## Future
-- Telegram tips on Telegram 
+**Future**
 - SigUSD on ErgoFund 
 - SigUSD/USDx pairs on CEXs and DEXs
 
@@ -44,24 +47,7 @@ Use this link for a refund anytime if your funds become 'stuck' in a proxy addre
 > This is the simplest example possible to explain how the logic of the contract works (without fees) and not what happens in real world scenario. The value you can redeem for your SigRSV floats up and down based on transaction fees and profits/losses SigUSD holders take when withdrawing.
 {.is-warning}
 
-
-**Assuming Erg is $1;**
-
-- You take 100 ERG worth $1 each and mint them into either StableCoins or ReserveCoins
-- If you mint SigmaRSV, and the price goes up 10% — you get back 110 ERG when you cash out.
-- If you mint into the SigmaUSD, and the price goes up 10% — you still get $100 out, but because its went up 10%, you get 90ERG
-
-
-**The 2% fee taken during minting goes back into the reserve**
-- This fee accumulates in the reserve.
-- SigmaRSV is an **option call on the reserve**. 
-- When price dips, SigUSD holders who exit at a lower point than they entered, they must be rewarded extra erg to make their SigUSD up to $1
-- SigRSV profits depend on these accumulated transaction fees minus any withdrawn by SigUSD holders. 
-
-This provides individuals with the ability to choose to either go **long** on Erg by minting **SigmaRSV** or to choose **stability** by minting **SigmaUSD.**
-
-
-
+![sfpsbv4.png](/sfpsbv4.png)
 
 
 ## Advantages over MakerDAO
@@ -92,7 +78,7 @@ Unlike Ethereum-based crypto-backed stablecoins, such as DAI, Emurgo introduces 
 
 # Articles
 
--  inspired by [StatiCoin](http://staticoin.com/whitepaper.pdf)
+- The design was inspired by [StatiCoin](http://staticoin.com/whitepaper.pdf)
 - [Documentation](https://github.com/Emurgo/age-usd)
 - [SigmaUSD vs the competition.](https://curiaregiscrypto.medium.com/sigmausd-vs-the-competition-e70b23fe37a3)
 - [SigmaUSD on Ergo - Privacy, Stability and Governance](https://curiaregiscrypto.medium.com/sigmausd-on-ergo-a36e0cdff743)
@@ -112,9 +98,14 @@ This is v2, to read about v1 see these articles:
 
 
 
-## Infographics
+# Infographics
+## Reserve Ratio
+![photo_2021-05-26_01.56.49.jpeg](/photo_2021-05-26_01.56.49.jpeg)
+
+## Value
 ![](/photo_2021-05-19_10.01.10.jpeg =600x600)
-![photo_2021-05-16_16.05.53.jpeg](/photo_2021-05-16_16.05.53.jpeg)
-![screenshot_2021-05-13_at_19.39.46.png](/screenshot_2021-05-13_at_19.39.46.png)
+
+## Technical
 
 ![screenshot_2021-02-25_at_19.14.01.png](/screenshot_2021-02-25_at_19.14.01.png)
+
