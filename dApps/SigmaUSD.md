@@ -2,7 +2,7 @@
 title: dApps/SigmaUSD
 description: 
 published: true
-date: 2022-05-16T15:14:02.323Z
+date: 2022-05-16T15:15:02.958Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -13,19 +13,17 @@ dateCreated: 2021-02-24T08:02:25.004Z
 >Its economic model designed in partnership between IOHK, Ergo, and Emurgo maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. **Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.**
 {.is-success}
 
-![sigmausd_overview.png](/sigmausd_overview.png)
-
 
 
 # Overview
 
 
-![sfpsbv4.png](/sfpsbv4.png)
+
 
 # Resources
 
-- [FAQ](/FAQ)
-- [Detailed Overview](/Overview)
+- [FAQ](dApps/SigmaUSD/FAQ)
+- [Detailed Overview](dApps/SigmaUSD/Overview)
 - [Erg/USD Explorer](https://explorer.ergoplatform.com/en/oracle-pool-state/ergusd) 
 - [ergo.watch](https://ergo.watch/sigmausd)
 - [Bank Wallet](https://explorer.ergoplatform.com/en/addresses)
@@ -135,6 +133,16 @@ This is v2, to read about v1 see these articles:
 
 
 # Infographics
+
+## Dynamics
+
+![sigmausd_overview.png](/sigmausd_overview.png)
+
+## Value
+
+
+![sfpsbv4.png](/sfpsbv4.png)
+
 
 
 ## Reserve Ratio
