@@ -2,7 +2,7 @@
 title: dApps/SigmaUSD
 description: 
 published: true
-date: 2022-05-16T15:13:31.678Z
+date: 2022-05-16T15:14:02.323Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -24,8 +24,8 @@ dateCreated: 2021-02-24T08:02:25.004Z
 
 # Resources
 
-- [FAQ](/SigmaUSD/FAQ)
-- [Detailed Overview](/SigmaUSD/Overview)
+- [FAQ](/FAQ)
+- [Detailed Overview](/Overview)
 - [Erg/USD Explorer](https://explorer.ergoplatform.com/en/oracle-pool-state/ergusd) 
 - [ergo.watch](https://ergo.watch/sigmausd)
 - [Bank Wallet](https://explorer.ergoplatform.com/en/addresses)
