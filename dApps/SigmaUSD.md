@@ -2,7 +2,7 @@
 title: dApps/SigmaUSD
 description: 
 published: true
-date: 2022-05-16T15:04:35.815Z
+date: 2022-05-16T15:07:46.127Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -20,11 +20,13 @@ dateCreated: 2021-02-24T08:02:25.004Z
 - [Detailed Overview](/SigmaUSD/Overview)
 - [Noob tries to explain SigmaUSD/RSV (an attempt at an ELI5)](https://www.reddit.com/r/ergonauts/comments/nhjc1f/noob_tries_to_explain_sigmausdrsv_an_attempt_at/)
 - [PSA: sigRSV is not a simple long position](https://www.reddit.com/r/ergonauts/comments/prxpag/psa_sigrsv_is_not_a_simple_long_position/)
-- [Youtube playlist](https://www.youtube.com/playlist?list=PL8-KVrs6vXLSu_rLQV5-Pu8389_PLd06q)
 - [ergo.watch](https://ergo.watch/sigmausd)
+
 
 > Note  Transactions can fail when the oracle refreshes during (and the price changes). In this event the funds will be returned to your connected wallet.  Use this link for a refund anytime if your funds become 'stuck' in a proxy address:  `https://assm.sigmausd.io/return/your_address_set_in_ui/the_long_address_you_sent_to`
 {.is-info}
+
+
 
 
 
@@ -62,29 +64,41 @@ Unlike Ethereum-based crypto-backed stablecoins, such as DAI, Emurgo introduces 
 - [Erg/USD Explorer](https://explorer.ergoplatform.com/en/oracle-pool-state/ergusd) 
 
 
+## Videos
 
-##  Videos
 - [Ergo Summit 2021 - The IOHK Perspective - Designing the AgeUSD StableCoin](https://youtu.be/zG-rxMCDIa0?t=9247)
 - [Overview Video (with diagrams)](https://www.youtube.com/watch?v=O3hPEp3tzoU)
+- [Youtube playlist](https://www.youtube.com/playlist?list=PL8-KVrs6vXLSu_rLQV5-Pu8389_PLd06q)
 
 
-### Buying Guides:
+## Buying Guides
+
 - https://youtu.be/FR1NCJbzn7w
 - https://www.youtube.com/watch?v=cJuKRfRrTG4
 
-## Calculators:
+## Calculators
+
 - [sigusd.abchris.xyz](https://sigusd.abchris.xyz/)
 - [Spreadhseet](https://docs.google.com/spreadsheets/d/1_lX0FrkIpNHmpMNKWrhhJpC93Wt5wco8oKlf-Wef9fw/edit?usp=sharing)
 
-# Articles
+## Articles
 
-- The design was inspired by [StatiCoin](http://staticoin.com/whitepaper.pdf)
-- [Documentation](https://github.com/Emurgo/age-usd)
+
+- [Risk and reward mechanism](https://veriumfellow.medium.com/introduction-to-ergos-sigmausd-stablecoin-risk-and-reward-mechanism-18690b52d672)
+- [AgeUSD Protocol: SigRSV and SigUSD](https://ergoplatform.org/en/blog/2021-07-30-ergos-ageusd-protocol-sigrsv-and-sigusd/)
+- [Bearwhale Saga](https://ergoplatform.org/en/blog/2021-05-13-bearwhale-saga/)
 - [SigmaUSD vs the competition.](https://curiaregiscrypto.medium.com/sigmausd-vs-the-competition-e70b23fe37a3)
 - [SigmaUSD on Ergo - Privacy, Stability and Governance](https://curiaregiscrypto.medium.com/sigmausd-on-ergo-a36e0cdff743)
 - [Building Ergo: How the AgeUSD stablecoin works](https://ergoplatform.org/en/blog/2021-02-05-building-ergo-how-the-ageusd-stablecoin-works/)
+
+
+
+## Documentation
+
+- The design was inspired by [StatiCoin](http://staticoin.com/whitepaper.pdf)
+- [Documentation](https://github.com/Emurgo/age-usd)
 - You can read the official [Emurgo announcement blog post here](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
-- https://thedailychain.com/hoskinson-cardano-working-on-stablecoin-to-rival-makerdao-developing-defi-products/
+
 
 # SigmaUSD v1
 
