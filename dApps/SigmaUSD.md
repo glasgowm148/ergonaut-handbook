@@ -2,7 +2,7 @@
 title: dApps/SigmaUSD
 description: 
 published: true
-date: 2022-05-16T15:18:58.919Z
+date: 2022-05-16T15:19:20.464Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -59,7 +59,7 @@ Or any of the following resources.
 - [Bank Wallet](https://explorer.ergoplatform.com/en/addresses)
 
 
-**Calculators* 
+**Calculators**
 
 - [sigusd.abchris.xyz](https://sigusd.abchris.xyz/)
 - [Spreadhseet](https://docs.google.com/spreadsheets/d/1_lX0FrkIpNHmpMNKWrhhJpC93Wt5wco8oKlf-Wef9fw/edit?usp=sharing)
