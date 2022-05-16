@@ -2,7 +2,7 @@
 title: dApps/SigmaUSD
 description: 
 published: true
-date: 2022-05-16T15:16:20.749Z
+date: 2022-05-16T15:18:58.919Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -17,36 +17,14 @@ dateCreated: 2021-02-24T08:02:25.004Z
 
 # Overview
 
-
-
-
-# Resources
+You can check the following pages for more detailed information:
 
 - [FAQ](/dApps/SigmaUSD/FAQ)
 - [Detailed Overview](/dApps/SigmaUSD/Overview)
-- [Erg/USD Explorer](https://explorer.ergoplatform.com/en/oracle-pool-state/ergusd) 
-- [ergo.watch](https://ergo.watch/sigmausd)
-- [Bank Wallet](https://explorer.ergoplatform.com/en/addresses)
 
+Or any of the following resources. 
 
-## Videos
-
-- [Ergo Summit 2021 - The IOHK Perspective - Designing the AgeUSD StableCoin](https://youtu.be/zG-rxMCDIa0?t=9247)
-- [Overview Video (with diagrams)](https://www.youtube.com/watch?v=O3hPEp3tzoU)
-- [Youtube playlist](https://www.youtube.com/playlist?list=PL8-KVrs6vXLSu_rLQV5-Pu8389_PLd06q)
-
-
-## Buying Guides
-
-- https://youtu.be/FR1NCJbzn7w
-- https://www.youtube.com/watch?v=cJuKRfRrTG4
-
-## Calculators
-
-- [sigusd.abchris.xyz](https://sigusd.abchris.xyz/)
-- [Spreadhseet](https://docs.google.com/spreadsheets/d/1_lX0FrkIpNHmpMNKWrhhJpC93Wt5wco8oKlf-Wef9fw/edit?usp=sharing)
-
-## Articles
+**Articles**
 
 - [AgeUSD Protocol: SigRSV and SigUSD](https://ergoplatform.org/en/blog/2021-07-30-ergos-ageusd-protocol-sigrsv-and-sigusd/)
 - [Bearwhale Saga](https://ergoplatform.org/en/blog/2021-05-13-bearwhale-saga/)
@@ -61,15 +39,51 @@ dateCreated: 2021-02-24T08:02:25.004Z
 - [PSA: sigRSV is not a simple long position](https://www.reddit.com/r/ergonauts/comments/prxpag/psa_sigrsv_is_not_a_simple_long_position/)
 
 
-## Documentation
+**Videos**
+
+- [Ergo Summit 2021 - The IOHK Perspective - Designing the AgeUSD StableCoin](https://youtu.be/zG-rxMCDIa0?t=9247)
+- [Overview Video (with diagrams)](https://www.youtube.com/watch?v=O3hPEp3tzoU)
+- [Youtube playlist](https://www.youtube.com/playlist?list=PL8-KVrs6vXLSu_rLQV5-Pu8389_PLd06q)
+- [Buying Guide](https://youtu.be/FR1NCJbzn7w)
+- [Buying Guide2](https://www.youtube.com/watch?v=cJuKRfRrTG4)
+
+
+
+## Resources
+
+
+**Explore**
+
+- [Erg/USD Explorer](https://explorer.ergoplatform.com/en/oracle-pool-state/ergusd) 
+- [ergo.watch](https://ergo.watch/sigmausd)
+- [Bank Wallet](https://explorer.ergoplatform.com/en/addresses)
+
+
+**Calculators* 
+
+- [sigusd.abchris.xyz](https://sigusd.abchris.xyz/)
+- [Spreadhseet](https://docs.google.com/spreadsheets/d/1_lX0FrkIpNHmpMNKWrhhJpC93Wt5wco8oKlf-Wef9fw/edit?usp=sharing)
+
+**Documentation**
 
 - The design was inspired by [StatiCoin](http://staticoin.com/whitepaper.pdf)
 - [Documentation](https://github.com/Emurgo/age-usd)
 - You can read the official [Emurgo announcement blog post here](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
 
+**SigmaUSD v1**
+
+This is v2, to read about v1 see these articles:
+
+- [Finding The Right Balance](https://ergoplatform.org/en/blog/2021_03_04-finding-right-balance/)
+- [Community Discussion on Reddit](https://www.reddit.com/r/ergonauts/comments/lx7an4/sigmausd_dao_bank_is_a_complex_beast_highlevel/gpr96fq/?context=3)
+- [SigmaUSD (v1) Release](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
+
+
+
+
 ## Troubleshooting
 
-### My funds are stuck
+**My funds are stuck**
 
 Use this link for a refund anytime if your funds are stuck in a proxy address: 
 ```
@@ -118,15 +132,6 @@ In contrast, sigusd shows explicitly, when the peg is going to be lost. No one n
 
 credit to `ile` on Telegram who's been warning of this bank-run since Lunar's inception.
 
-
-
-# SigmaUSD v1
-
-This is v2, to read about v1 see these articles:
-
-- [Finding The Right Balance](https://ergoplatform.org/en/blog/2021_03_04-finding-right-balance/)
-- [Community Discussion on Reddit](https://www.reddit.com/r/ergonauts/comments/lx7an4/sigmausd_dao_bank_is_a_complex_beast_highlevel/gpr96fq/?context=3)
-- [SigmaUSD (v1) Release](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
 
 
 
