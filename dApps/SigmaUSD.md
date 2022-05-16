@@ -2,7 +2,7 @@
 title: dApps/SigmaUSD
 description: 
 published: true
-date: 2022-05-16T15:15:02.958Z
+date: 2022-05-16T15:15:58.299Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -138,18 +138,13 @@ This is v2, to read about v1 see these articles:
 
 ![sigmausd_overview.png](/sigmausd_overview.png)
 
-## Value
-
-
-![sfpsbv4.png](/sfpsbv4.png)
-
-
-
 ## Reserve Ratio
-![photo_2021-05-26_01.56.49.jpeg](/photo_2021-05-26_01.56.49.jpeg)
 
-## Value
+
 ![](/photo_2021-05-19_10.01.10.jpeg =600x600)
+
+![photo_2021-05-26_01.56.49.jpeg](/photo_2021-05-26_01.56.49.jpeg =600x600)
+
 
 ## Technical
 
