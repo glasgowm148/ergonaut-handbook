@@ -2,7 +2,7 @@
 title: dApps/SigmaUSD
 description: 
 published: true
-date: 2022-05-16T15:13:22.072Z
+date: 2022-05-16T15:13:31.678Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -71,7 +71,7 @@ dateCreated: 2021-02-24T08:02:25.004Z
 
 ## Troubleshooting
 
-## My funds are stuck
+### My funds are stuck
 
 Use this link for a refund anytime if your funds are stuck in a proxy address: 
 ```
