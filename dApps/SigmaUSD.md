@@ -2,7 +2,7 @@
 title: dApps/SigmaUSD
 description: 
 published: true
-date: 2022-05-16T15:10:37.534Z
+date: 2022-05-16T15:13:22.072Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -15,32 +15,6 @@ dateCreated: 2021-02-24T08:02:25.004Z
 
 ![sigmausd_overview.png](/sigmausd_overview.png)
 
-**See these links for more information**
-- [FAQ](/SigmaUSD/FAQ)
-- [Detailed Overview](/SigmaUSD/Overview)
-
-- [ergo.watch](https://ergo.watch/sigmausd)
-
-
-> Note  Transactions can fail when the oracle refreshes during (and the price changes). In this event the funds will be returned to your connected wallet.  Use this link for a refund anytime if your funds become 'stuck' in a proxy address:  `https://assm.sigmausd.io/return/your_address_set_in_ui/the_long_address_you_sent_to`
-{.is-info}
-
-
-
-
-
-# Use-cases
-- Accepted in [Cryptocurrency Checkout](https://cryptocurrencycheckout.com/coin/sigmausd) 
-- Mix SigUSD or SigRSV in [ErgoMixer](/ErgoMixer) the first non-custodial, non-interactive miner in the cryptocurrency space.
-- Secure profits without interacting with exchanges.
-- Short ERG
-- Tips on Discord/Telegram/Reddit/etc
-- SigUSD AuctionHouse
-
-
-**Future**
-- SigUSD on ErgoFund 
-- SigUSD/USDx pairs on CEXs and DEXs
 
 
 # Overview
@@ -48,12 +22,13 @@ dateCreated: 2021-02-24T08:02:25.004Z
 
 ![sfpsbv4.png](/sfpsbv4.png)
 
-
-
-
-
 # Resources
+
+- [FAQ](/SigmaUSD/FAQ)
+- [Detailed Overview](/SigmaUSD/Overview)
 - [Erg/USD Explorer](https://explorer.ergoplatform.com/en/oracle-pool-state/ergusd) 
+- [ergo.watch](https://ergo.watch/sigmausd)
+- [Bank Wallet](https://explorer.ergoplatform.com/en/addresses)
 
 
 ## Videos
@@ -94,11 +69,34 @@ dateCreated: 2021-02-24T08:02:25.004Z
 - [Documentation](https://github.com/Emurgo/age-usd)
 - You can read the official [Emurgo announcement blog post here](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
 
+## Troubleshooting
+
+## My funds are stuck
+
+Use this link for a refund anytime if your funds are stuck in a proxy address: 
+```
+https://assm.sigmausd.io/return/your_address_set_in_ui/the_long_address_you_sent_to
+````
+
+
 ## Other Stablecoins
 
 - [SigmaUSD vs the competition](https://curiaregiscrypto.medium.com/sigmausd-vs-the-competition-e70b23fe37a3
 )
 
+**Use-cases**
+- Accepted in [Cryptocurrency Checkout](https://cryptocurrencycheckout.com/coin/sigmausd) 
+- Mix SigUSD or SigRSV in [ErgoMixer](/ErgoMixer) the first non-custodial, non-interactive miner in the cryptocurrency space.
+- Secure profits without interacting with exchanges.
+- Short ERG
+- Tips on Discord/Telegram/Reddit/etc
+- SigUSD AuctionHouse
+- Deposit liquidity in ErgoMixer and redeem a percentage of the trading fees. 
+
+
+**Future**
+- SigUSD on ErgoFund 
+- SigUSD/USDx pairs on CEXs and DEXs
 
 
 ## Advantages over MakerDAO
