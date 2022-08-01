@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community verzamelde bronnen en informatie voor de Ergo-blockchain
 published: true
-date: 2022-08-01T07:26:36.790Z
+date: 2022-08-01T07:35:47.081Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T06:51:06.386Z
@@ -25,20 +25,20 @@ Ergo is een zogeheten "smart contracts platform" van de volgende generatie dat e
 
 
 ## Wat kan ik doen met Ergo?
-[Sigmaverse](https://sigmaverse.io/) biedt een lijst van alle gedecentraliseerde applicaties ([dApps](https://ergonaut.space/en/Glossary/dApps)) die op de Ergo blockchain zijn. Veelvoorkomende toepassingen zijn onder meer:
+[Sigmaverse](https://sigmaverse.io/) biedt een lijst van alle gedecentraliseerde applicaties ([dApps](https://ergonaut.space/en/Glossary/dApps)) die er op de Ergo blockchain zijn. Veelvoorkomende toepassingen zijn onder meer:
 
-- Exchanging one cryptocurrency for another on a decentralized exchange (DEX)
-- Earning money by transferring your cryptocurrency into a liquidity pool, staking it in a dApp or joining a mining pool (See [Yield](/en/Guides/yield))
-- Transfering your cryptocurrencies to a private wallet address
-- Buying digital art in an auction site
-- Create or support a raffle for a charitable cause
-- Creating Ergo payment links for goods and services you provide
-- Tip ERG or native ERG tokens across socials
-- Secure profits using SigmaUSD
-- Check out some on-chain metrics on [ergo.watch](https://ergo.watch/metrics)
-- Check out the expanding ecosystem on [sigmaverse.io](https://sigmaverse.io)
+- De ene cryptocurrency inwisselen voor een andere op een gedecentraliseerde beurs (DEX)
+- Geld verdienen door je crypto over te zetten naar een liquiditeitspool, deze uit te zetten in een dApp of lid te worden van een miningpool (zie [Yield](/en/Guides/yield))
+- Je crypto overzetten naar een private wallet
+- Digitale kunst kopen op een veilingsite
+- Creëer of steunen van een loterij voor een goed doel
+- Ergo-betalingslinks maken voor goederen en diensten die je levert
+- Tip over ERG of native ERG-tokens op social media
+- Je winst veilig stellen met SigmaUSD
+- Bekijk on-chain-statistieken op [ergo.watch](https://ergo.watch/metrics)
+- Bekijk het groeiende ecosysteem op [sigmaverse.io](https://sigmaverse.io)
 
-The Ergo ecosystem is under continuous development. Expect new ways to use it to emerge it in the future.
+Het Ergo-ecosysteem is continu in ontwikkeling. Je kunt daarom nieuwe manieren verwachten om het in de toekomst te gebruiken.
 
 
 
