@@ -2,7 +2,7 @@
 title: Het Ergo Manifest
 description: Het manifest van Ergo. Beschikbaar in verschillende talen.
 published: false
-date: 2022-08-01T11:04:34.541Z
+date: 2022-08-01T11:06:06.591Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T07:48:34.018Z
@@ -223,10 +223,9 @@ Deze langetermijnvisie mag nooit uitsterven om Ergo te laten overleven. Ergo wer
 Te vaak offeren mensen groei op lange termijn op voor een snel centje op korte termijn. Goede tijden zullen komen, en moeilijke tijden zullen komen. Wil Ergo stand houden, dan moeten we principieel zijn en waarde creëren op solide fundamenten.
 
 
-# Wer ist Kushti?
+# Wie is Kushti?
+Alexander Chepurnoy (ook bekend als Kushti) is de core-developer van Ergo Platform en hij is sinds 2011 actief in de ontwikkeling van blockchain en slimme contracten. Hij was een core-developer voor NXT, startte in 2014 smartcontract.com (nu Chainlink) met Sergey Nazarov, en is een IOHK-onderzoeker met meer dan 20 wetenschappelijke artikelen. Toen hij aan Nxt werkte, startte hij het 'uiterst eenvoudige blockchain-framework' Scorex, dat later werd omgezet in een modulair blockchain-framework. Dit project kreeg de aandacht van Charles Hoskinson, mede-oprichter van Cardano en Ethereum, rond medio herfst 2015. Daarna trad hij rond januari 2016 toe tot IOHK.
 
-Alexander Chepurnoy (alias Kushti) ist der Hauptentwickler der Ergo-Plattform und seit 2011 in der Blockchain-Entwicklung und bei Smart Contracts aktiv. Er war einer der Kernentwickler von NXT, gründete 2014 zusammen mit Sergey Nazarov smartcontract.com (jetzt Chainlink) und ist ein IOHK-Forscher mit über 20 akademischen Veröffentlichungen. Als er an Nxt arbeitete, begann er mit dem äußerst simplen Blockchain-Framework Scorex, das später in ein modulares Blockchain-Framework umgewandelt wurde. Dieses Projekt fand die Aufmerksamkeit von Charles Hoskinson, dem Mitbegründer von Cardano und Ethereum, etwa Mitte Herbst 2015. Dann kam Kusthi im Januar 2016 zu IOHK.
 
-# Eine Anmerkung zur Token-Wirtschaft:
-
-Ergo Platform hatte von Anfang an einen fairen Start. Es gab keinen ICO und keine vorgeminten Coins für die Gründer der Plattform. Die Dezentralisierung und Fairness eines Peer-to-Peer-Geldsystems stand an erster Stelle. Die Treasury der Foundation ist auf 4,37 % der insgesamt geminten Coins festgelegt und es ist nicht möglich, die Kernelemente der Token-Wirtschaft in einer zukünftigen Phase zu ändern.
+# Een opmerking over tokenomie:
+Ergo Platform had in het begin een eerlijke lancering. Het had geen ICO en er waren vooraf geen munten gemined voor de oprichters van het platform. Decentralisatie en eerlijkheid van een peer-to-peer financieel systeem waren in de eerste plaats de prioriteit. De schatkist van de Ergo foundation is ingesteld op 4,37% van de totale munten die worden gemined, en het is niet mogelijk om de kernelementen van de tokenomie verder te veranderen.
