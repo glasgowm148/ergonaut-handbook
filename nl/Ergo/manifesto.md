@@ -2,7 +2,7 @@
 title: Het Ergo Manifest
 description: Het manifest van Ergo. Beschikbaar in verschillende talen.
 published: false
-date: 2022-08-01T10:29:42.374Z
+date: 2022-08-01T10:37:55.936Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T07:48:34.018Z
@@ -59,47 +59,47 @@ Mensen zouden de valuta kunnen kiezen die ze willen gebruiken en bepalen met wie
 Er ontstond een hele industrie rond het idee van P2P-handel. Open, grenzeloze en veilige kanalen zouden mogelijk mechanismen kunnen zijn om het economische speelveld te egaliseren en instrumenten te bieden om welvaart voor de gemiddelde bewoner van onze aarde te creëren.
 
 
-# Gegenwärtige Markt-Mentalität
+# Huidige mindset van de markt
+De mentaliteit van cryptomarkten veranderde aanzienlijk na de ICO-waanzin van 2017. Het lijkt erop dat de cryptomarkten als geheel bail-outs, geld drukken en stimuleringsmaatregelen zijn gaan verwelkomen.
 
-Die Mentalität der Kryptomärkte hat sich nach dem ICO-Wahn von 2017 stark verändert. Es hat den Anschein, als würde der gesamte Markt nur noch Rettungspakete, Gelddruckerei und Förderprogramme feiern.
+Ja, er zijn enorme prijsstijgingen geweest in fiatgeld(Euro, Dollar etc.) en veel op hype gebaseerde marketing. Toch lijkt het erop dat de oorspronkelijke bedoeling van de cypherpunks steeds minder wordt.
 
-Ja, es gab massive Kursanstiege im Fiatgeld und viel hype-basiertes Marketing, aber die ursprüngliche Intention der Cypherpunks wird zunehmend verwässert.
+Dit is iets waar wat aan gedaan moet worden. Als cryptocurrency moet worden geïmplementeerd als een effectief hulpmiddel voor de gemiddelde mens, hebben we tooling en adoptie nodig. Op dit moment lijkt de marktmentaliteit als volgt: hoe lokken we nieuwe gebruikers met hype-marketing, pompen we de prijs omhoog en dumpen we onze eigen munten op de markt die deze nieuwe leden van gemeenschappen op kopen voor onze eigen winst.
 
-Das muss in Angriff genommen werden. Wenn Kryptowährung als effektives Werkzeug für den Durchschnittsmenschen implementiert werden soll, brauchen wir Werkzeuge und Akzeptanz. Im Augenblick erscheint die Markt-Mentalität wie folgt: Wie können wir neue User mit Hype-Marketing anlocken, die Preise hochtreiben und dann diese neuen Community-Mitglieder ausbeuten.
+De huidige staat van de markt is een beetje triest. We moeten terug naar de wortels van de crypto-revolutie, gedecentraliseerde tools die privé en veilig zijn en die de acceptatie en adoptie van deze systemen in de echte wereld stimuleren. Het ideaal is om tools te creëren die mensen helpen waarde te creëren.
+ 
 
-Der derzeitige Marktzustand ist ein wenig traurig. Wir müssen zurück zu den Wurzeln der Krypto-Revolution, zurück zu dezentralisierten, privaten, und sicheren Werkzeugen, die die Akzeptanz dieser Systeme in der realen Welt fördern. Das Ideal ist es, diese Werkzeuge zu entwickeln, die den Menschen helfen, etwas von Wert zu erschaffen. 
+# Waarom is dit belangrijk?
+De wereldeconomie is niet verbeterd sinds de oorspronkelijke bail-outs. Ik begrijp dat het centrale verhaal rond privacy en veiligheid altijd emotionele uitersten speelt; de realiteit is echter dat het altijd de gewone mensen zijn die ervoor opdraaien wanneer economieën instorten.
 
-# Warum ist das wichtig?
+Denk er maar eens over na.
 
-Die Weltwirtschaft hat sich seit den ursprünglichen Rettungsmaßnahmen nicht gebessert. Mir ist klar, dass die Narrativen rund um Privatsphäre und Sicherheit immer mit emotionsgeladenen Extremen herumspielen, doch in der Realität müssen es immer die einfachen Menschen ausbaden, wenn Wirtschaftssysteme zusammenbrechen.
+Bedrijven hebben toegang tot buitenlandse markten en buitenlandse kredieten. Ze hebben veel instrumenten om economische moeilijkheden aan te passen en te omzeilen.
 
-*Denke kurz darüber nach...* 
+Wat criminele ondernemingen betreft, die profiteren over het algemeen van economische tegenspoed, en moeilijke tijden leiden tot zelfmedicatie. Grotere criminele syndicaten zijn in wezen import-/exportbedrijven. Ze hebben ook toegang tot vreemde valuta, voeren vaak valutawissels op de zwarte markt uit en gebruiken deze internationale toegang voor winst.
 
-Großkonzerne haben Zugang zu ausländischen Märkten und ausländischen Krediten. Sie haben viele Möglichkeiten, sich an wirtschaftliche Gegebenheiten anzupassen und diese zu umgehen.
+Terroristische organisaties profiteren in tijden van economische tegenspoed. Niets motiveert een persoon tot geweld zoals gerechtvaardigde woede door zich gevangen en hopeloos te voelen. Terroristische organisaties gedijen goed in gebieden met chaos, en ze voeden zich met onrust; het is hun grootste wervingstool.
 
-Was kriminelle Geschäfte betrifft, so profitieren diese generell von wirtschaftlicher Not. Harte Zeiten verleiten zur Selbsthilfe. Größere kriminelle Organisationen betreiben im Wesentlichen ein Import/Export-Geschäft. Sie haben ebenfalls Zugriff auf ausländische Währungen, betreiben Schwarzmarkt-Währungsbörsen und nutzen diesen internationalen Zugang für ihren Profit weiter aus. 
+De rijken in onze wereld hebben vaak hun geld internationaal verspreid . Hun geld is relatief makkelijk te verplaatsen en kunnen moeilijkheden omzeilen door middel van markttoegang, regelgevende middelen zoals belastingparadijzen, mazen in de wet en arbitrage door de verschillen in jurisdictie.
 
-Auch terroristische Organisationen profitieren in solchen Zeiten der wirtschaftlichen Not. Nichts motiviert einen Menschen so sehr zu Gewalt wie eine selbstgerechte Wut aus dem Gefühl heraus, in der Falle zu sitzen und ohne Hoffnung zu sein. Terroristische Organisationen gedeihen in Regionen des Chaos. Sie ernähren sich vom Chaos - es ist ihr größtes Rekrutierungsinstrument.
+Er zijn meerdere voorbeelden van economieën die in ernstige nood verkeren, een die recent in het nieuws was is Turkije. De Turkse centrale banken hebben onlangs cryptocurrencies als betaalmiddel verboden en de toegang tot een potentieel hulpmiddel dat de gemiddelde burger ten goede zou komen, afgesloten.
 
-Die Reichsten in unserer Welt haben oft international verteilte Vermögensbestände. Sie sind vergleichsweise zahlungskräftig und umgehen wirtschaftliche Schwierigkeiten in der Regel durch privilegierten Marktzugang sowie regulatorische Mittel wie Steueroasen, rechtliche Schlupflöcher und Ausnutzung unterschiedlicher Rechtsräume.
+De wisselkoers van de lira ten opzichte van de dollar in 2010 was 1,14 en de huidige wisselkoers is 8,50. Dat is een koopkrachtdaling van ruim 86%.
 
-Es gibt zahlreiche Beispiele für Wirtschaftssysteme, die sich in einer schweren Notlage befinden. Eines dieser Beispiele ist die Türkei. Die türkischen Zentralbanken haben kürzlich Kryptowährungen als Zahlungsmittel verboten. Sie beschnitten den Zugang zu einem potenziellen Werkzeug, das den Durchschnittsbürger*innen zugutekommen würde. 
+Stel je voor dat je een Turk bent; misschien heb je een leven lang tijd en arbeid ingeruild om te verdienen en te sparen. In iets meer dan een decennium is meer dan 86% van je geldwaarde verdwenen.
 
-Der Wechselkurs der Lira zum Dollar betrug 1,14 in 2010. Der aktuelle Wechselkurs beträgt 8,50. Das entspricht einer Abnahme der Kaufkraft um 86,5882%.
+Het trieste is dat blockchain gewoon toegankelijk was in Turkije; de bank maakte echter misbruik van hun machtspositie.
 
-Stell dir vor, in der Türkei zu leben. Vielleicht hast Du ein Leben lang Zeit und Arbeit investiert, um zu verdienen und zu sparen. Innerhalb von etwas mehr als einem Jahrzehnt sind über 86 % Deines Geldes wertlos geworden. 
+Het is daarom van cruciaal belang om systemen zo onafhankelijk en vrij mogelijk te maken. Het potentieel voor kwaadwillende elimineren en de mensen beschermen. Dit was een technisch falen en zou moeten dienen als een waarschuwing voor de gevaren van gecentraliseerde blockchains.
 
-Tragisch ist, dass Blockchains in der Türkei zugänglich waren, aber die Aufsichtsbehörden ihre Position gegenüber der Bevölkerung missbrauchte. 
+Laat dit niet dienen als een voorbeeld van waarom blockchain verschrikkelijk is. Eerder waarom gewone mensen echt gedecentraliseerde tools nodig hebben die ze kunnen vertrouwen.
 
-Es ist von entscheidender Bedeutung, dass die Systeme einseitig/interaktionslos nutzbar sind (non-interactive) und ohne zentrale Aufsicht funktionieren (non-custodial). Dadurch wird das Risiko für schlechte Akteure eliminiert und die Menschen werden geschützt. Dies war ein Versagen der Technologie und sollte als Warnung vor den Gefahren einer zentralisierten Blockchain dienen.
+Zoals in de meeste rechtsgebieden op aarde, heeft de gemiddelde burger van elk land in wezen geen macht over het financiële beleid. De gemiddelde burger mist de middelen die bedrijven, criminele organisaties, terroristische organisaties en de rijken hebben om zichzelf te beschermen en te profiteren van financiële moeilijkheden. Financiële omstandigheden werden gecreëerd door dezelfde machten die nu hun rijkdom gegijzeld houden.
 
-Dies soll kein Beispiel für die Nachteile von Blockchains sein, sondern ein Argument für die Notwendigkeit dezentralisierter Werkzeuge, denen die Bevölkerung tatsächlich vertrauen kann. 
+In werkelijkheid krijgen mensen aan de top altijd het reddingsvlot als de boot zinkt, terwijl die aan de onderkant met het schip naar beneden gaan. Dit is niet uniek voor Turkije. Dit is momenteel een wereldwijd fenomeen. Het is duidelijk als je kijkt naar de veranderingen in de verdeling van rijkdom. Het wordt echter zo verdraaid om er acceptabel uit te laten zien. Het zijn niet de rijken die reddingsvlotten hebben, en de gewone mensen verdrinken.
 
-Nun hat der:die Durchschnittsbürger:in eines Landes wie in den meisten Rechtssystemen im Wesentlichen keinerlei Macht über die Geldpolitik. Ihm:Ihr fehlen alle oben genannten Werkzeuge, die Großkonzerne, kriminelle Gruppen, terroristische Organisationen und die Superreichen haben, um sich zu schützen und von finanziellen Notlagen zu profitieren. Diese finanziellen Umstände wurden von denselben Mächten geschaffen, die jetzt ihren Reichtum als Geisel halten. 
+Het is een K-vormig herstel.
 
-Die Leute an der Spitze bekommen immer die Rettungsboote, wenn ein Schiff sinkt - die Leute am Boden gehen mit ihm unter. Das ist nicht nur in der Türkei so. Das ist derzeit ein globales Phänomen. Es wird deutlich, wenn man sich die Entwicklung der Vermögensverteilung ansieht. Es wurde jedoch schöngeredet, um es verträglicher erscheinen zu lassen. Aber es bleibt dabei: es sind die Reichen in den Rettungsbooten und das gemeine Volk ertrinkt 
-
-Das ist eine K-förmige wirtschaftliche Erholung.
 
 # Geld als Waffe
 
