@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community verzamelde bronnen en informatie voor de Ergo-blockchain
 published: true
-date: 2022-08-01T07:35:47.081Z
+date: 2022-08-01T07:36:55.812Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T06:51:06.386Z
@@ -16,7 +16,7 @@ Ergonaut.space is de community-wiki van de Ergo-blockchain die de mogelijkheden 
 
 Ergo is een zogeheten "smart contracts platform" van de volgende generatie dat economische vrijheid voor gewone mensen waarborgt door middel van gedecentraliseerde, private en veilige financiële middelen.
 
-**Overviews**
+**Overzichten**
 
 - [The Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versions](Ergo/manifesto))
 - [Why Ergo](https://cafebedouin.org/2021/12/09/why-ergo/)
