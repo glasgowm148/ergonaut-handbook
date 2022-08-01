@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community verzamelde bronnen en informatie voor de Ergo-blockchain
 published: true
-date: 2022-08-01T07:36:55.812Z
+date: 2022-08-01T07:37:55.448Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T06:51:06.386Z
@@ -31,7 +31,7 @@ Ergo is een zogeheten "smart contracts platform" van de volgende generatie dat e
 - Geld verdienen door je crypto over te zetten naar een liquiditeitspool, deze uit te zetten in een dApp of lid te worden van een miningpool (zie [Yield](/en/Guides/yield))
 - Je crypto overzetten naar een private wallet
 - Digitale kunst kopen op een veilingsite
-- Creëer of steunen van een loterij voor een goed doel
+- Creëeren of steunen van een loterij voor een goed doel
 - Ergo-betalingslinks maken voor goederen en diensten die je levert
 - Tip over ERG of native ERG-tokens op social media
 - Je winst veilig stellen met SigmaUSD
