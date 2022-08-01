@@ -2,7 +2,7 @@
 title: Het Ergo Manifest
 description: Het manifest van Ergo. Beschikbaar in verschillende talen.
 published: false
-date: 2022-08-01T10:37:55.936Z
+date: 2022-08-01T10:43:02.268Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T07:48:34.018Z
@@ -101,21 +101,25 @@ In werkelijkheid krijgen mensen aan de top altijd het reddingsvlot als de boot z
 Het is een K-vormig herstel.
 
 
-# Geld als Waffe
+# De wapenisering van geld
+Gecentraliseerd programmeerbaar digitaal geld, ook wel CBDC’s genoemd, klinkt als een efficiënte technische upgrade van de bestaande financiële infrastructuur. In sommige gebieden kan dit het geval zijn. Het lijkt er echter op dat de basisconstructies van geld zich in de beginfase bevinden van een tijdperk dat geld verder zal inzetten als wapen tegen de gemiddelde mens. Huidige op fiatgeld gebaseerde financiële systemen vallen gewone burgers aan door aanhoudende groeiende inflatie te creëren.
 
-Zentralisiertes, programmierbares, digitales Geld klingt nach einem effizienten Upgrade der bestehenden monetären Infrastruktur. In einigen Regionen mag dies auch der Fall sein. Es sieht jedoch so aus, als befänden sich die grundlegenden Strukturen des Geldwesens gerade erst am Beginn einer neuen Zeitrechnung, die das Geld noch weiter gegen die Durchschnittsbürger:innen als Waffe einsetzen wird. Die derzeitigen Fiatgeld-Systeme greifen die Bürger:innen an, indem sie einen anhaltenden inflationären Preisdruck erzeugen. Dies ist die Konsequenz des Gelddrucks der Zentralbanken, der geldpolitischen Maßnahmen und des Fehlmanagements der Finanzhaushalte durch die Regierungen.
+Dit is het directe gevolg van het geld drukken door de centrale bank, financiële bemoeienis en wanbeleid van de begrotingen door centrale overheden.
 
-Die daraus resultierende Finanzpolitik hat den durchschnittlichen Weltbürger:innen in große Not gebracht, indem sie die Lebenshaltungskosten immer weiter in die Höhe getrieben hat. Die Hyper-Monetarisierung hat fast jede Vermögensart in ein finanzielles Instrument verwandelt, das zur Generierung von Reichtum genutzt wird. Dies hat die globale Vermögensungleichheit vorangetrieben und eine Inflation der globalen Schulden auf ein Niveau gebracht, das es in der bisherigen Menschheitsgeschichte noch nie gab.
+Het resulterende financiële beleid heeft onder de gemiddelde wereldburger grote armoede veroorzaakt door de kosten van levensonderhoud voortdurend op te drijven. Hyper Monetization heeft bijna elke beleggings klasse getransformeerd in een financieel instrument dat wordt gebruikt als middel om rijkdom te genereren. Dit heeft de welvaartsongelijkheid wereldwijd vergroot en de inflatie van de wereldwijde schuld tot een niveau gebracht dat in de geschreven geschiedenis nog nooit is voorgekomen.
 
-Vielen wurde weisgemacht, dass höhere Zahlen einen größeren Wohlstand widerspiegeln. In Wirklichkeit nimmt die Kaufkraft der Währung ab. Dein Haus hat sich nicht im Wert verdoppelt, Dein Geld kauft nur noch halb so viel Haus. Die Lohnentwicklung hat den Inflationsdruck, der weltweit auf die Mittel- und Unterschicht ausgeübt wird, noch nicht ausgleichen können. Das Ergebnis ist ein weiterer Anstieg der persönlichen Verschuldung und des finanziellen Stresses für den:die Durchschnittsverbraucher:in.
+De waarheid is dat veel consumenten ertoe gebracht zijn te geloven dat grotere aantallen automatisch gelijk staan aan grotere rijkdom. De realiteit is dat valuta in koopkracht afneemt. Uw huis is niet verdubbeld in waarde; uw valuta koopt half zoveel huis. De loonstijging moet de mondiale inflatoire druk op de midden- en lagere klassen nog evenaren. Het resultaat is een verdere toename van persoonlijke schulden en financiële stress voor de gemiddelde consument.
 
-Wenn die Zentralbanken mit dem Wechsel zum digitalen Zentralbankgeld (CBDC) beginnen, könnten sie am Ende die historischen Grundsätze der Währung selbst neu definieren. Ich befürchte, dass Geld damit zu einer Waffe wird und sich in ein Werkzeug bzw. eine Waffe der Gesellschaftskontrolle verwandelt.
+Naarmate centrale banken een verschuiving naar CBDC’s beginnen door te voeren, zouden ze uiteindelijk de historische principes van de valuta zelf kunnen herdefiniëren. Ik vrees dat geld als wapen zal worden gebruikt en zal worden omgezet in een instrument van sociale controle.
 
-**Es gibt 3 konkrete Punkte, auf die man meiner Meinung nach achten und die man ablehnen muss, um die Einführung von Geld als solch eine Waffe zu verhindern.**
+**Ik geloof dat er op drie specifieke punten moet worden gelet en deze moeten worden verworpen om de invoering van gewapeniseerd geld te voorkomen.**
 
-1. **Der erste Punkt** ist die Möglichkeit eines Verfallsdatums bei programmierbarem Geld und die Fähigkeit von zentralisierten Mächten, CBDC gewaltsam zu vernichten. Das ist Diebstahl in höchstem Ausmaß. Vielleicht werden wir einige geschönte Begriffe hören, wie z.B. "Digital Asset Forfeiture", aber dieses Maß an zentraler Macht wird das Machtgleichgewicht zwischen Bürger:innen und den Regierungen für immer verändern.
-1. **Der zweite Punkt** ist die Möglichkeit von zentralisierten Mächten, Kredite oder Zahlungsfähigkeit mit dem sozialen Status von Bürger:innen innerhalb einer Gemeinschaft zu verbinden. Einfach ausgedrückt ist dies die Umwandlung des Geldes zu einer Waffe gegen abweichende Meinungen. Die Möglichkeit des Widerspruchs ist in einer freien Gesellschaft für Bürger:innen das einzige legale Mittel zur Herbeiführung von Veränderungen. Ohne die Möglichkeit, Widerspruch einzulegen, ist eine Gesellschaft nicht frei. Die Verbindung von zentralisiertem Zugang, Belohnungsmechanismen oder Konformität mit digitaler Geldwährung ist eine Umwandlung des Geldes zu einer Waffe gegen Gedanken und die Meinungsfreiheit. 
-1. **Der dritte Punkt** ist die Möglichkeit des digitalen Geldes, Kredite in bestimmten Bereichen des Marktes zu zensieren oder einzuschränken. Dies stellt die Souveränität des Geldes selbst in Frage. Der kollektive Gesellschaftsvertrag besagt im Allgemeinen, dass dein Geld dir gehört. Es ist dein Eigentum, dein Vermögen. Den Zugang der Verbraucher:innen zu ihrem eigenen Vermögen einzuschränken oder zu zu verhinden, ist eine Macht, die wir alle fürchten und der wir widerstehen müssen. Obwohl die Legalisierung den Zugang zu bestimmten Märkten, Produkten und Dienstleistungen verhindert hat, ist das Bargeld souverän geblieben. Dieser Grundpfeiler der Freiheit muss respektiert werden. Dies könnte sonst möglicherweise das Konzept des freien Marktes zerstören. 
+1. De eerste is de mogelijkheid van programmeerbaar geld om een vervaldatum te hebben en of de mogelijkheid van centrale machten om CBDC’s te vernietigen wanneer ze dat willen. Dit is diefstal in de hoogste graad. Misschien zullen we enkele opgeschoonde termen horen, zoals verbeurdverklaring van digitale valuta; dit niveau van gecentraliseerde macht zal echter voor altijd het machtsevenwicht tussen burgers en de staat veranderen.
+
+2. De tweede is het vermogen van gecentraliseerde macht om krediet- of betalingsbevoegdheid te koppelen aan de sociale status van een burger binnen een gemeenschap. Simpel gezegd, dit is geld bewapenen tegen afwijkende meningen. Het vermogen van een burger om van mening te verschillen, is over het algemeen het enige wettelijke middel dat ze hebben om verandering teweeg te brengen in een vrije samenleving. Is de vrijheid om van mening te verschillen weg, dan is de samenleving niet vrij. Het verbinden van gecentraliseerde toegang, beloningsmechanismen of conformiteit met digitale geldvaluta is geld wapenen tegen gedachten en vrijheid van meningsuiting.
+
+3. Het derde aspect van digitaal geld om in de gaten te houden, is de mogelijkheid om krediet in bepaalde marktgebieden te censureren of te beperken. Dit daagt de soevereiniteit van het geld zelf uit. Het collectieve sociale contract is over het algemeen geweest dat jou geld van jou is. Het is je eigendom, jou bezit. Het beperken van de toegang van consumenten tot het uitgeven van hun geld is een macht die we allemaal moeten vrezen en weerstaan. Hoewel wetgeving de toegang tot specifieke markten, producten en diensten heeft verhinderd, is contant geld soeverein gebleven. Deze pijler van vrijheid moet worden gerespecteerd. Dit zou anders mogelijk het concept van een vrije markt kunnen kapot maken.
+
 
 # Datenschutz & Privatsphäre
 
