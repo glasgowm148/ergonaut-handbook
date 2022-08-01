@@ -2,7 +2,7 @@
 title: Het Ergo Manifest
 description: Het manifest van Ergo. Beschikbaar in verschillende talen.
 published: false
-date: 2022-08-01T10:49:59.029Z
+date: 2022-08-01T10:58:01.483Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T07:48:34.018Z
@@ -160,7 +160,7 @@ Keer op keer storten economieën in, en degene met financiële instrumenten kann
 
 Nu zal de concurrentie misschien de centrale machten van streek maken, en dat was zeker in het geval van Turkije. Deze instrumenten moeten privé, veerkrachtig, censuurbestendig, veilig, open en gratis zijn.
 
-Misschien leef je in een ontwikkelde samenleving en vind je het prima; de centrale banken pompen liquiditeit in onze economie. Centrale banken scheppen genoeg water overboord om het schip niet te laten zinken. Ik hoop dat je gelijk hebt, maar ik vrees dat je fout zit.
+Misschien leef je in een ontwikkelde samenleving en vind je het prima; de centrale banken pompen geld in onze economie. Centrale banken scheppen genoeg water overboord om het schip niet te laten zinken. Ik hoop dat je gelijk hebt, maar ik vrees dat je fout zit.
 
 De hulpmiddelen die we aan het bouwen zijn, kunnen je misschien vandaag niet baten, maar ze kunnen de reddingsboot van morgen zijn. Dat is de bedoeling en het doel van mijn levenswerk in cryptocurrency.
 
@@ -171,33 +171,33 @@ Vaak lijden degenen aan de onderkant eronder, gescheiden van degenen aan de top 
 Het doel van Ergonomisch geld is om geld en slimme contracten voor alle mensen te creëren. De mensen aan de onderkant hebben de grootste behoefte aan de hulpmiddelen die we aan het bouwen zijn.
 
 
-# Ergo Grundprinzipien
+# Ergo-basisprincipes
+In deze sectie definiëren we de belangrijkste principes die moeten worden gevolgd om ergonomisch geld te creëren.
+ 
 
-In diesem Abschnitt werden die wichtigsten Grundsätze definiert, die bei der Schaffung von ergonomischem Geld beachtet werden sollten. 
+Dit kan worden aangeduid als **"Ergo's sociaal contract."**
 
-Dies könnte man als "**Ergos Gesellschaftsvertrag**" bzw. "**Ergo's Social Contract**" bezeichnen.*
-
-> Im Falle eines absichtlichen Verstoßes gegen einen dieser Grundsätze sollte das resultierende Protokoll nicht Ergo genannt werden. 
+> In het geval van het opzettelijke schending van een van deze principes, zou het resulterende protocol geen Ergo genoemd moeten worden. 
 {.is-warning}
 
 
-## 1) Dezentralisierung zuerst
+## 1) Decentralisatie eerst
+Ergo moet zo gedecentraliseerd mogelijk zijn. Er altijd naar streven om te verspreiden en te groeien. De sociale leiders, softwareontwikkelaars, hardware fabrikanten, miners en fondsen van elke partij moeten centrale faalpunten vermijden. Alle actoren waarvan de afwezigheid de werking van het systeem verstoort, moeten een noodplan hebben in geval van een ontregeling. Decentralisatie komt voort uit onderwijs en adoptie. De tools die we bouwen hebben documentatie nodig; de gemeenschap moet actief deelnemen en groeien. Leer anderen de tools te gebruiken en aan te passen. Het internet is een krachtige aanjager van decentralisatie en kan een krachtig hulpmiddel zijn om les te geven. Decentralisatie komt voort uit het onderwijs, zowel aan de ontwikkel- als aan de gebruikerskant.
 
-Ergo sollte so dezentralisiert wie möglich sein. Es sollte immer danach streben, sich zu verbreiten und zu wachsen. Die gesellschaftlichen Verantwortlichen einer Partei, die Softwareentwickler:innen, die Hardwarehersteller:innen, die Miner:innen und die Geldgeber:innen müssen zentralisierte Schwachstellen vermeiden. Alle Akteure, deren Abwesenheit die Funktion des Systems stören würde, müssen Notfallpläne für den Fall einer Störung haben. Dezentralisierung entsteht durch Bildung und Akzeptanz. Die von uns entwickelten Werkzeuge müssen dokumentiert werden, und die Gemeinschaft muss sich aktiv beteiligen und wachsen. Bringe anderen bei, die Werkzeuge zu nutzen und zu übernehmen. Das Internet ist ein starker Motor der Dezentralisierung. Es kann ein mächtiges Werkzeug zum Lehren sein. Dezentralisierung entsteht durch Bildung, sowohl auf der Seite der Entwickler:innen als auch auf der Seite der Nutzer:innen. 
+Kwaadaardig gedrag dat de veiligheid van het netwerk kan aantasten, moet worden vermeden. Als er kwaadaardige partijen zich tijdens Ergo's leven voordoen, moet de gemeenschap manieren overwegen om hun impact te verminderen. Er zullen altijd mensen zijn die hun macht willen misbruiken en dingen verstoren. Wat is het antwoord? Onderwijs. Gebruikers leren om zichzelf te beschermen, kwaadwillenden te identificeren, ze te vermijden en samen te werken om hun invloed te minimaliseren. Ik zou alle leden van de gemeenschap willen aanmoedigen om voortdurend te proberen te leren, tooling toe te passen, te helpen en op de een of andere manier les te geven. Een sterke gemeenschap wordt geboren door een sterke samenwerking.
 
-Böswilliges Verhalten, das die Sicherheit des Netzwerks beeinträchtigen könnte, sollte vermieden werden. Sollte eine solche Partei während der Lebensdauer von Ergo auftauchen, sollte die Gemeinschaft nach Möglichkeiten suchen, ihren Einfluss zu verringern. Es wird immer diejenigen geben, die versuchen, das Netzwerk zu stören, auszunutzen und ihre Macht zu missbrauchen. Was ist die Antwort darauf? Bildung. Die Nutzer:innen müssen lernen, sich selbst zu schützen, böswillige Akteure zu erkennen, sie zu meiden und zusammenzuarbeiten, um ihre Macht zu minimieren. Ich möchte alle Mitglieder der Gemeinschaft ermutigen, ständig zu lernen, Werkzeuge zu übernehmen, zu helfen und auf die eine oder andere Weise zu lehren. Eine starke Gemeinschaft entsteht durch starke Zusammenarbeit. 
 
-## 2) Offen, genehmigungsfrei und sicher
+## 2) Toegankelijk en veilig, zonder toestemming
+Ergo-protocol beperkt geen enkele gebruikscategorie. Dit is nodig om veerkrachtig te blijven. We kunnen pleiten voor samenwerking, handel en menselijke waarden; we dwingen ze echter niet af, wat een centrale bevoegdheid zou vereisen. Het staat developers vrij om elke gewenste logica te implementeren, waarbij ze de volledige verantwoordelijkheid nemen voor de ethiek en wettigheid van hun toepassing.
 
-Das Ergo-Protokoll schränkt keine Nutzungskategorien ein oder begrenzt sie. Dies ist notwendig, um widerstandsfähig zu bleiben. Wir können zwar für Zusammenarbeit, Handel und menschliche Werte eintreten, aber wir setzen sie nicht durch. Das würde eine zentralisierte Macht erfordern. Den Entwickler:innen steht es frei, jede beliebige Logik zu implementieren, wobei sie die volle Verantwortung für die Ethik und Rechtmäßigkeit ihrer Anwendung übernehmen. 
+Alle code voor het kernprotocol moet volledig open en transparant blijven. Elke lijn moet volledig controleerbaar en transparant zijn, manipulatie voorkomen en gedecentraliseerde veerkracht opbouwen. Ergo zet zich volledig in om open source te zijn om vertrouwd te blijven, en dat vertrouwen moet volledig verifieerbaar blijven.
 
-Der gesamte Code für das Core-Protokoll muss völlig offen und transparent bleiben. Jede Zeile, alles sollte vollständig überprüfbar und transparent sein. Dies verhindert Manipulationen und sorgt für dezentrale Ausfallsicherheit. Ergo hat sich verpflichtet, Open Source zu sein, um vertrauenswürdig zu bleiben, und dieses Vertrauen muss vollständig überprüfbar bleiben. 
+Iedereen kan zonder toestemming lid worden van het netwerk en deelnemen aan het protocol. In tegenstelling tot het traditionele financiële systeem mogen er geen bail-out’s, zwarte lijsten of andere vormen van discriminatie mogelijk zijn op het kernniveau van het Ergo-protocol, en het voordeel van insiders moet worden geminimaliseerd.
 
-Jeder und jede kann dem Netz beitreten und sich ohne Genehmigung am Protokoll beteiligen. Anders als im traditionellen Finanzsystem sollten auf der Core-Ebene des Ergo-Protokolls keine Bailouts, schwarze Listen oder andere Formen der Diskriminierung möglich sein. Insider-Vorteile sollen minimiert werden. 
+Ergo zet zich in om privacy waarborgende middelen te ondersteunen voor degenen die ze willen gebruiken. Dit moet een vrijwillige keuze blijven als een gebruiker binnen zijn bevoegdheid mechanismen wil gebruiken om de openbare beschikbaarheid van zijn gegevens te verbergen. Ze moeten de volledige verantwoordelijkheid nemen voor de ethiek en wettigheid van deze acties.
 
-Ergo ist bestrebt, Datenschutzinstrumente für diejenigen zu unterstützen, die sie nutzen möchten. Dies muss eine freiwillige Entscheidung bleiben. Wenn ein:e Nutzer:in Mechanismen nutzen möchte, um die öffentliche Einsehbarkeit seiner:ihrer Daten zu stören, so liegt dies voll und ganz in seinem:ihrem Machtbereich. Er:Sie muss die volle Verantwortung für die Ethik und Rechtmäßigkeit dieser Handlungen übernehmen. 
-
-Ergo ist den besten Sicherheitspraktiken verpflichtet. Dies ist eine kontinuierliche Verpflichtung zur Verhinderung von Netzwerkangriffen, zur Wahrung der Privatsphäre und zum Schutz der Werte auf der Blockchain. 
+Ergo zet zich in voor de beste werkwijzen op het gebied van beveiliging. Dit is een voortdurende inzet om netwerkaanvallen te voorkomen, privacy te behouden en on-chain waarde te beschermen.
+ 
 
 ## 3) Geschaffen für normale Menschen
 
