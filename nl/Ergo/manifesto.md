@@ -2,7 +2,7 @@
 title: Het Ergo Manifest
 description: Het manifest van Ergo. Beschikbaar in verschillende talen.
 published: false
-date: 2022-08-01T10:43:02.268Z
+date: 2022-08-01T10:49:59.029Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T07:48:34.018Z
@@ -121,56 +121,55 @@ Naarmate centrale banken een verschuiving naar CBDC’s beginnen door te voeren,
 3. Het derde aspect van digitaal geld om in de gaten te houden, is de mogelijkheid om krediet in bepaalde marktgebieden te censureren of te beperken. Dit daagt de soevereiniteit van het geld zelf uit. Het collectieve sociale contract is over het algemeen geweest dat jou geld van jou is. Het is je eigendom, jou bezit. Het beperken van de toegang van consumenten tot het uitgeven van hun geld is een macht die we allemaal moeten vrezen en weerstaan. Hoewel wetgeving de toegang tot specifieke markten, producten en diensten heeft verhinderd, is contant geld soeverein gebleven. Deze pijler van vrijheid moet worden gerespecteerd. Dit zou anders mogelijk het concept van een vrije markt kunnen kapot maken.
 
 
-# Datenschutz & Privatsphäre
+# Privacy
+Privacy moet een optie blijven om het individu te beschermen, en het hoeft niet afgedwongen te worden; laat mensen hun eigen keuzes maken.
 
-Privatheit muss eine Option bleiben, um den:die Einzelne:n zu schützen. Sie muss nicht erzwungen werden, die Menschen sollen ihre eigenen Entscheidungen treffen.
+Privacy is de mogelijkheid om barrières en grenzen aan te geven om een ​​ruimte voor het individu te creëren. Het is aan een ieder welke grenzen ze willen stellen.
 
-Unter Privatsphäre versteht man die Fähigkeit, Barrieren und Grenzen zu errichten, um einen Raum durch und für den:die Einzelne:n zu schaffen. Es ist allen selbst überlassen, welche Barrieren und Grenzen sie errichten möchten.
+Beschaving bestaat onder een voortdurende spanning tussen wat het beste is voor de samenleving en wat het beste is voor het individu. De enige echte entiteiten in een gemeenschap zijn individuen, en alle collectieven, verenigingen en regeringen komen voort uit individuele participatie en interactie.
 
-Die Zivilisation steht in einem ständigen Spannungsverhältnis zwischen dem, was das Beste für die Gesellschaft ist, und dem, was das Beste für den:die Einzelne:n ist. Die einzigen wirklichen Akteure in einer Gemeinschaft sind Individuen. Alle Kollektive, Vereinigungen und Regierungen sind das Ergebnis der Beteiligung und Interaktion des Einzelnen. 
+Privacy beschermt het individu tegen de samenleving.
 
-Die Privatsphäre schützt den:die Einzelne:n vor der Gesellschaft.
+Privacy schept ruimte voor persoonlijke autonomie. Persoonlijke autonomie is de basis van individuele rechten.
 
-Die Privatsphäre schafft Raum für die persönliche Autonomie. Die persönliche Autonomie ist die Grundlage der individuellen Rechte.  
+Financiële en persoonlijke privacy is een cruciaal onderdeel van het leven in een vrije samenleving. Persoonlijke informatie kan worden gebruikt als een krachtig instrument voor controle en manipulatie wanneer het in verkeerde handen is, en privacy stelt individuen in staat om zonder dwang beslissingen te nemen.
 
-Die Privatsphäre, sowohl die finanzielle als auch die persönliche, ist ein wichtiger Bestandteil des Lebens in einer freien Gesellschaft. Wenn sie in die falschen Hände geraten, können persönliche Informationen als mächtiges Instrument der Kontrolle und Manipulation eingesetzt werden. Die Privatsphäre ermöglicht es dem:der Einzelnen, Entscheidungen frei von Zwang zu treffen.
+Individuen in vrije samenlevingen moeten een grens hebben, een privé-realiteit, vrij van overheidsbemoeienis, toezicht en controle. De huidige technologische trends in onze wereld dringen aanzienlijk de persoonlijke ruimte binnen.
 
-Der:Die Einzelne muss in freien Gesellschaften eine Grenze haben, eine private Realität, die frei von staatlicher Einflussnahme, Überwachung und Kontrolle ist. Die aktuellen technologischen Trends in unserer Welt greifen in erheblichem Maße in den persönlichen Raum ein. 
+Individuen moeten zelf kunnen bepalen wie toegang heeft tot informatie over hun persoonlijke en financiële leven.
 
-Der:Die Einzelne sollte die Kontrolle darüber haben, wer Zugang zu Informationen über sein:ihr persönliches und finanzielles Leben hat. 
+Privacy is een kwestie van vertrouwen, en het gebrek aan privacy getuigt van een gebrek aan vertrouwen. Een gebrek aan vertrouwen kan niet de basis zijn van een gezonde samenleving. Gezonde samenlevingen zijn gebaseerd op samenwerking, en vrijwillige samenwerking is op zichzelf een oefening in vertrouwen.
 
-Privatsphäre ist eine Frage des Vertrauens. Das Fehlen von Privatsphäre ist ein Zeichen für mangelndes Vertrauen. Ein Mangel an Vertrauen kann nicht die Grundlage einer gesunden Gesellschaft sein. Gesunde Gesellschaften beruhen auf Zusammenarbeit. Freiwillige Zusammenarbeit ist an und für sich eine Übung in Vertrauen. 
+Privacyrecht betekent dat groepen jou gegevens niet zonder jou medeweten/toestemming kunnen gebruiken en deze informatie in hun voordeel kunnen gebruiken.
 
-Datenschutzrechte bedeuten, dass Unternehmen deine Daten nicht ohne dein Wissen bzw. deine Zustimmung abgreifen und diese Informationen zu ihrem Vorteil nutzen können. 
+Financiële privacy is vooral van vitaal belang omdat het het verschil kan zijn tussen overleven en systematische onderdrukking van een oppositiegroep in een land met een autoritaire regering. Bij gebrek aan privacy hebben individuen in de samenleving geen middelen om te overleven wanneer ze worden bedreigd door onderdrukkende regimes.
 
-Die finanzielle Privatsphäre ist besonders wichtig, weil sie den Unterschied zwischen dem Überleben und der systematischen Unterdrückung einer oppositionellen Gruppe in einem Land mit einer autoritären Regierung ausmachen kann. Ohne Privatsphäre hat der:die Einzelne in der Gesellschaft keine Möglichkeit zu überleben, wenn er:sie von einem repressiven Regime bedroht wird. 
+Hoe vaak in de menselijke geschiedenis hebben religieuze, politieke of stam conflicten ertoe geleid dat de ene groep aan de macht de rijkdom van een andere, minder machtige groep met geweld heeft overgenomen? Hoe vaak wordt het in beslag nemen van financiële middelen gebruikt als autoritaire controle?
 
-Wie oft in der Geschichte der Menschheit haben religiöse, politische oder Stammeskonflikte dazu geführt, dass eine Gruppe an der Macht sich gewaltsam den Reichtum einer anderen, weniger mächtigen Gruppe angeeignet hat? Wie oft wird die Beschlagnahme von Finanzvermögen als Mittel der autoritären Kontrolle eingesetzt?
+Juist om deze reden hebben veel bedrijven, dissidenten en mensenrechtenorganisaties rekeningen buiten de landen waar ze actief zijn.
 
-Viele Unternehmen, Dissidenten und Menschenrechtsgruppen unterhalten aus genau diesem Grund Konten außerhalb der Länder, in denen sie aktiv sind. 
+Financiële privacy kan mensen in staat stellen hun spaargeld te beschermen wanneer een regering probeert welvaart van haar burgers in beslag te nemen, hetzij om politieke, etnische, religieuze of "slechts" economische redenen. Financiële privacy is cruciaal voor vrijheid, en veel regeringen hebben zich bereid getoond om persoonlijke financiële informatie te misbruiken.
 
-Die finanzielle Privatsphäre kann es den Menschen ermöglichen, ihre Ersparnisse zu schützen, wenn eine Regierung versucht, das Vermögen ihrer Bürger:innen zu beschlagnahmen, sei es aus politischen, ethnischen, religiösen oder "lediglich" wirtschaftlichen Gründen. Die finanzielle Privatsphäre ist von großer und dauerhafter Bedeutung für die Freiheit, und viele Regierungen haben bewiesen, dass sie bereit sind, private Finanzinformationen zu missbrauchen.
 
-# Ergo.nomisches Geld
+# Ergo.nomisch geld
+Het doel van de Ergo-blockchain is om Ergonomisch Geld te creëren.
 
-> Das Ziel der Ergo-Blockchain ist die Schaffung von **Ergonomic Money** (ergonomisches Geld).
-{.is-success}
+Ergonomie is de wetenschappelijke discipline die zich bezig houdt met het begrijpen van de interacties tussen mensen en andere elementen van een systeem en het beroep dat theorie, principes, gegevens en methoden toepast om het menselijk welzijn en de algehele systeemprestaties te optimaliseren.
 
-Die Ergonomie ist die wissenschaftliche Disziplin, die sich mit dem Verständnis der Wechselwirkungen zwischen Menschen und anderen Elementen eines Systems befasst und die Theorie, Grundsätze, Daten und Methoden auf die Gestaltung anwendet, um das menschliche Wohlbefinden und die Gesamtleistung des Systems zu optimieren.
+Keer op keer storten economieën in, en degene met financiële instrumenten kannibaliseren de welvaart en waarde van gewone mensen. Dit is niet ergonomisch; het is roofzuchtig en monopolistisch, en we hebben betere instrumenten nodig.
 
-Es kommt immer wieder vor, dass Volkswirtschaften implodieren, weil diejenigen, die über finanzielle Mittel verfügen, den Wohlstand und den Wert der einfachen Leute ausschlachten. Das ist nicht ergonomisch; es ist räuberisch und monopolistisch. Wir brauchen bessere Instrumente. 
+Nu zal de concurrentie misschien de centrale machten van streek maken, en dat was zeker in het geval van Turkije. Deze instrumenten moeten privé, veerkrachtig, censuurbestendig, veilig, open en gratis zijn.
 
-Vielleicht wird der Wettbewerb die Zentralmächte aus dem Gleichgewicht bringen. Im Fall der Türkei war das auf jeden Fall der Fall. Deshalb müssen diese Instrumente privat, widerstandsfähig, zensurresistent, sicher, offen und frei sein. 
+Misschien leef je in een ontwikkelde samenleving en vind je het prima; de centrale banken pompen liquiditeit in onze economie. Centrale banken scheppen genoeg water overboord om het schip niet te laten zinken. Ik hoop dat je gelijk hebt, maar ik vrees dat je fout zit.
 
-Vielleicht lebst du in einer modernen Gesellschaft und denkst, es sei alles in Ordnung, weil die Zentralbanken Liquidität in unsere Wirtschaft pumpen. Die Zentralbanken lassen genug Wasser ab, damit das Schiff nicht untergeht. Ich hoffe, du hast Recht, aber ich fürchte, du liegst falsch. 
+De hulpmiddelen die we aan het bouwen zijn, kunnen je misschien vandaag niet baten, maar ze kunnen de reddingsboot van morgen zijn. Dat is de bedoeling en het doel van mijn levenswerk in cryptocurrency.
 
-Nur weil die Werkzeuge, die wir bauen, dir heute vielleicht keinen Nutzen bringen, darfst du nicht vergessen, dass sie das Rettungsboot von morgen sein können. Das ist die Absicht, der Zweck meines Lebenswerks in der Kryptowährung. 
+Iedereen die durft te zeggen dat een cryptocurrency slechts een hulpmiddel is voor criminelen en terroristen, moet onderzoeken hoe deze organisaties worden gefinancierd en beschermd en waar ze hun toeleveringsketens vandaan trekken voordat ze dergelijke beschuldigingen maken. Onwetendheid is venijnig.
 
-Jeder, der es wagt zu behaupten, dass Kryptowährungen nur ein Werkzeug für Kriminelle und Terroristen sind, sollte sich informieren, wie diese Organisationen finanziert und geschützt werden und woher sie ihre Lieferungen beziehen, bevor er solche Anschuldigungen erhebt. Unwissenheit ist giftig. 
+Vaak lijden degenen aan de onderkant eronder, gescheiden van degenen aan de top die het lijden veroorzaken. Deze cirkel van economisch misbruik moet worden doorbroken.
 
-Allzu oft sind es die Menschen am unteren Ende der Gesellschaft, die unter der Trennung von denjenigen an der Spitze leiden, die das Leid verursachen. Dieser Kreislauf des wirtschaftlichen Missbrauchs muss durchbrochen werden. 
+Het doel van Ergonomisch geld is om geld en slimme contracten voor alle mensen te creëren. De mensen aan de onderkant hebben de grootste behoefte aan de hulpmiddelen die we aan het bouwen zijn.
 
-Das Ziel von Ergonomic Money ist es, Geld und Smart Contracts für alle Menschen zu schaffen. Diejenigen, die ganz unten stehen, haben den größten Bedarf an der Art von Instrumenten, die wir aufbauen.
 
 # Ergo Grundprinzipien
 
