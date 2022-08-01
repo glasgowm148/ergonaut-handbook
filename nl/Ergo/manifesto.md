@@ -2,7 +2,7 @@
 title: Het Ergo Manifest
 description: Het manifest van Ergo. Beschikbaar in verschillende talen.
 published: true
-date: 2022-08-01T07:54:53.306Z
+date: 2022-08-01T07:55:35.504Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T07:48:34.018Z
@@ -11,7 +11,7 @@ dateCreated: 2022-08-01T07:48:34.018Z
 
 # Het Ergo Manifest
 
-N beschikbaar in 11 talen !
+Nu beschikbaar in 11 talen !
 
 - [English](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/)
 - [German](https://ergonaut.space/de/ergo-manifest)
