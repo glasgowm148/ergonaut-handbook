@@ -1,8 +1,8 @@
 ---
-title: Welkom bij ergonaut.space
-description: ergonaut.space is de community-wiki van de Ergo-blockchain die de mogelijkheden en details van Ergo voor niet-technische mensen laat zien.
+title: ergonaut.space
+description: Community verzamelde bronnen en informatie voor de Ergo-blockchain
 published: true
-date: 2022-08-01T07:16:36.203Z
+date: 2022-08-01T07:21:11.365Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T06:51:06.386Z
