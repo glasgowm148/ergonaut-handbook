@@ -2,7 +2,7 @@
 title: Het Ergo Manifest
 description: Het manifest van Ergo. Beschikbaar in verschillende talen.
 published: false
-date: 2022-08-01T10:58:01.483Z
+date: 2022-08-01T11:01:05.988Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T07:48:34.018Z
@@ -199,11 +199,11 @@ Ergo zet zich in om privacy waarborgende middelen te ondersteunen voor degenen d
 Ergo zet zich in voor de beste werkwijzen op het gebied van beveiliging. Dit is een voortdurende inzet om netwerkaanvallen te voorkomen, privacy te behouden en on-chain waarde te beschermen.
  
 
-## 3) Geschaffen für normale Menschen
+## 3) Gemaakt voor gewone mensen
+Ergo streeft ernaar een hulpmiddel te zijn voor gewone mensen. Ergo is een platform voor gewone mensen en hun belangen mogen niet geschaad worden ten gunste van grote partijen. Dit betekent met name dat centralisatie van het minen moet worden voorkomen. Gewone mensen moeten kunnen deelnemen aan het protocol door een full-node te kunnen draaien en blokken te kunnen minen. Na Autolykos V1 zal Ergo werken aan een hash-rate verdeling onder mining pools.
 
-Ergo hat sich verpflichtet, ein Werkzeug für normale Menschen zu sein. Ergo ist eine Plattform für normale Menschen, deren Interessen nicht zu Gunsten großer Parteien verletzt werden dürfen. Das bedeutet insbesondere, dass die Zentralisierung des Mining verhindert werden soll. Normale Menschen sollten in der Lage sein, am Protokoll teilzunehmen, indem sie einen vollständigen Node betreiben und Blöcke minen. Nach Autolykos V1 wird Ergo daran arbeiten, eine Hash-Raten-Verteilung von Pools zu ermöglichen. 
-
-Ergo setzt sich für den Aufbau eines Systems ein, das Werkzeuge anbietet, die normalen Menschen helfen sollen. Der Peer-to-Peer-Austausch ist ständig durch den Machtaustausch zwischen Gleichgestellten und der Zentralmacht bedroht. Ergo hat es sich zum Ziel gesetzt, die Entwicklung von Werkzeugen und die Bildung der Gemeinschaft zu fördern, um den normalen Menschen zu unterstützen. 
+Ergo zet zich in voor het bouwen van een ecosysteem dat hulpmiddelen biedt die zijn ontworpen om gewone mensen te helpen. Peer-to-peer-uitwisseling wordt voortdurend bedreigd door peer-to-central macht uitwisseling, en Ergo wil middelen en gemeenschappelijke educatie aanmoedigen om gewone mensen in hun kracht te zetten.
+ 
 
 ## 4) Plattform für vertragliches Geld
 
