@@ -2,57 +2,62 @@
 title: Het Ergo Manifest
 description: Het manifest van Ergo. Beschikbaar in verschillende talen.
 published: false
-date: 2022-08-01T09:52:54.069Z
+date: 2022-08-01T10:29:42.374Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T07:48:34.018Z
 ---
 
-# Das Ergo Manifest
+# Het Ergo Manifest
 
-*Verfasst von Kushti - mit Unterstützung des Ergo-Teams*
+*Geschreven door Kushti - met ondersteuning van het Ergo-team*
 
-Das Ergo Manifest hat das Ziel, über die Potentiale der Blockchain-Technologie aufzuklären und eine Vision davon zu bieten, was sie bewirken kann. Wir hoffen, die gesellschaftliche Entwicklung durch eine Form der horizontalen Zusammenarbeit mittels arbeitsteiliger Produktivität, Handel und Austausch sowie Solidarität und gegenseitiger Hilfe zu fördern.
+Het Ergo-manifest hoopt een kijk te bieden op wat blockchain-technologie kan bereiken. We hopen de samenleving op te bouwen door middel van horizontale samenwerking, door middel van productie onder de verdeling van arbeid, handel en uitwisseling, solidariteit en wederzijdse hulp.
 
-Wir sind überzeugt, dass dies unter Aufrechterhaltung grundlegender Prinzipien, die dem Wohlergehen Aller dienen, erreicht werden kann. Diese grundlegenden Prinzipien, die für die Menschenrechte und Werte von zentraler Bedeutung sind, müssen beibehalten werden, solange sich unsere technischen Möglichkeiten immer weiter entwickeln. Die Instrumente, die wir entwickeln, müssen die Menschen bereichern, anstatt sie in Überwachungs- und Kontrollsysteme zu zwingen. 
+Wij geloven dat dit haalbaar is met behoud van basisprincipes die het welzijn van alle mensen ten goede komen. Kernprincipes die centraal staan in mensenrechten en waarden moeten we waarborgen naarmate onze technologische capaciteiten evolueren. Deze hulpmiddelen moeten de menselijke waarde verrijken in plaats van mensen te onderwerpen aan bewakings- en controlesystemen.
+ 
 
 
-> Deutsche Übersetzung des [englischen Originaltextes](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/).
+> Nederlandse vertaling van de [originele Engelse tekst](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/).
 {.is-info}
 
-# Einleitung
+# Inleiding
 
-In vielen Blockchain-News wird zurzeit berichtet, dass Bank X oder Unternehmen Y den Einsatz von "Blockchains" plant, um "Kosten zu reduzieren".
+Veel blockchain-gerelateerd nieuws zegt tegenwoordig dat een bank X of een bedrijf Y een "blockchain" zal gebruiken om "kosten te verlagen".
 
-"Blockchain" ist also eigentlich nur ein neues Modewort, dass von Großbankern als ein weiteres Instrument betrachtet wird, mit dem sie noch effizienter Gewinne erzielen können und gleichzeitig durch Stellenabbau Kosten einsparen.
+Grote banksters beschouwen dit gewoon weer als nog een buzzwoord, als een ander hulpmiddel om overal efficiënter waarde uit te halen en banen te schrappen.
 
-Was ich allerdings selbst während der ersten Blockchain-Jahren in Community-Foren erlebt habe, ist Folgendes:
+Wat ik in de beginjaren rond gebruikers van online forums zag, is dit:
 
-**Kryptowährung sollte Werkzeuge bieten, um gewöhnliche Menschen zu bereichern. Ihre Kleinunternehmen, mit denen sie gerade so über die Runden kommen und nicht das unpersönliche Großkapital. Das ist es, was mich inspiriert hat. Das ist mein Traum.**
+**Cryptocurrency moet hulpmiddelen bieden om gewone mensen te verrijken. Kleine bedrijven die moeite hebben om de eindjes aan elkaar te knopen, niet het grote gedepersonaliseerde financiële kapitaal. Dit is wat mij inspireerde. Dit is mijn droom.**
 
-Entsprechend dieser Community-Vision sollten diese Werkzeuge es Menschen ermöglichen, wirtschaftlich agieren zu können - unabhängig von Unternehmensgröße, vom Standort, von durch Big Player festgelegte Zinssätze und so weiter.
 
-Diese Werkzeuge sollten es Menschen ermöglichen, Verträge in Form von digitalen, selbstdurchsetzenden, zweckmäßigen Smart Contracts schließen zu können - unabhängig von Unterschieden in Rechtssystemen, Traditionen, gelebten Geschäftspraktiken und so weiter.
+In de ogen van de oorspronkelijke brede visie van deze gemeenschap, zouden de tools van een cryptocurrency mensen in staat moeten stellen om economische activiteiten uit te voeren, ongeacht de bedrijfsgrootte, geografische locatie of rentetarieven die door grote spelers zijn vastgesteld.
 
-Ich hoffe, dass Ergo hier nützlich sein wird. Tausende von kleinen Kooperationen und selbstständige Unternehmer:innen sind für ein gesundes und nachhaltiges Wohlstandswachstum weltweit wichtiger als ein paar Großkonzerne, die ihre Gewinne in Steueroasen verstecken.
+De tools moeten mensen in staat stellen contracten te sluiten (digitaal, zelf-uitvoerende, redelijke slimme contracten) ongeacht de verschillen in wetgeving, tradities, gevolgde zakelijke praktijken, enz. Ik hoop dat Ergo hier behulpzaam zal zijn.
 
-Ein Beispiel dafür wäre die Nutzung und Einbettung in Gemeinden, Genossenschaftsverbänden, gemeinnützigen Stiftungen und philanthropischen Trusts. 
+Duizenden kleine bedrijven en individuele ondernemers zijn veel belangrijker voor een gezonde en duurzame welstandsgroei over de hele wereld in vergelijking tot een aantal bedrijven die winst verbergen in offshore-paradijzen.
 
-> Also lasst uns versuchen, ein basisorientiertes Finanzsystem zu schaffen. Es können zwar auch viele andere Dinge entwickelt werden, aber ich denke, mein ursprüngliches Ziel sollte nicht in Vergessenheit geraten: **mein Traum sind Smart Contracts, die zur Wertschöpfung beitragen und die kleinen Leute schützen.**
+Laten het gebruik en de integratie overwegen met gemeenschappen, coöperatieve federaties, non-profit en filantropische stichtingen.
+
+
+> **Laten we proberen om grassroots finance te creëren.** Ja, er kunnen nog veel meer dingen worden gebouwd, maar dit doel mag niet worden vergeten. Slimme contracten die helpen waarde te creëren en de gewone mens beschermen.
 {.is-success}
 
 
-# Die Anfänge von Bitcoin
+# De oorsprong van Bitcoin
+Het eerste Bitcoin-blok (bekend als het Genesis-blok) bevatte een bericht met de tekst: "The Times 03/Jan/2009 Chancellor on the brink of second bailout for banks."
 
-Der erste Bitcoin-Block (auch Genesis-Block genannt) enthielt die folgende Nachricht: "*The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.*" (deutsch: "*Finanzminister kurz vor zweitem Rettungspaket für Banken*").
+De bedenker(s) van Bitcoin en uitvinder(s) van de eerste werkende blockchain koos ervoor om zijn identiteit te verbergen onder een pseudoniem waar we allemaal aan gewend zijn geraakt, Satoshi Nakamoto.
 
-Der Schöpfer von Bitcoin und somit Erfinder der allerersten funktionierenden Blockchain entschied sich, seine Identität durch ein uns allen geläufiges Pseudonym zu verbergen: Satoshi Nakamoto. Satoshi fügte die oben erwähnte Nachricht aus einem Zeitungsartikel der Times ein, der genau an dem Tag veröffentlicht wurde, an dem der Genesis-Block gemined wurde. 
+Dit blok markeerde zowel het begin van Bitcoin als het begin van een tijdperk van technologische en financiële innovatie. Simpel gezegd, dit was de katalysator voor een complete revolutie.
 
-Dieser Block markierte nicht nur die Geburt von Bitcoin, sondern auch den Beginn einer Ära technologischer und finanzieller Innovationen. Kurz gesagt, war dies der Auslöser für eine umfassende Revolution.
+Decentralisatie is politiek en geeft aanleiding tot het idee dat technologie gemonopoliseerde machten zou kunnen vervangen. Er zouden systemen kunnen worden opgezet om wereldwijd waarde over te dragen zonder tussenpersonen of toezicht.
 
-Dezentralisierung hat einen politischen Hintergrund. Sie führte zur Idee, dass monopolisierte Mächte durch Technologien ersetzt werden könnten. Es könnten weltweit Systeme geschaffen werden, um Werte ohne Zwischenhändler oder Kontrollinstanzen zu übermitteln und auszutauschen. Alle Menschen könnten ihre gewünschte Währung wählen und selbst bestimmen, wer, wie und wann sie untereinander handeln können. 
+Mensen zouden de valuta kunnen kiezen die ze willen gebruiken en bepalen met wie, hoe en wanneer ze waarde met elkaar kunnen uitwisselen.
 
-Um die Idee des P2P-Handels hat sich eine ganze Industrie gebildet. Offene, grenzenlose und sichere Netzwerke, die sich als Mechanismen erweisen könnten, um das wirtschaftliche Kräfteverhältnis auszugleichen und Werkzeuge für den Wohlstand des durchschnittlichen Menschens bereitzustellen. 
+Er ontstond een hele industrie rond het idee van P2P-handel. Open, grenzeloze en veilige kanalen zouden mogelijk mechanismen kunnen zijn om het economische speelveld te egaliseren en instrumenten te bieden om welvaart voor de gemiddelde bewoner van onze aarde te creëren.
+
 
 # Gegenwärtige Markt-Mentalität
 
