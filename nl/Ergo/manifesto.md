@@ -2,7 +2,7 @@
 title: Het Ergo Manifest
 description: Het manifest van Ergo. Beschikbaar in verschillende talen.
 published: false
-date: 2022-08-01T11:01:05.988Z
+date: 2022-08-01T11:01:32.260Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T07:48:34.018Z
@@ -205,9 +205,9 @@ Ergo streeft ernaar een hulpmiddel te zijn voor gewone mensen. Ergo is een platf
 Ergo zet zich in voor het bouwen van een ecosysteem dat hulpmiddelen biedt die zijn ontworpen om gewone mensen te helpen. Peer-to-peer-uitwisseling wordt voortdurend bedreigd door peer-to-central macht uitwisseling, en Ergo wil middelen en gemeenschappelijke educatie aanmoedigen om gewone mensen in hun kracht te zetten.
  
 
-## 4) Plattform für vertragliches Geld
+## 4) Een platform voor contractueel geld
+Ergo is de basislaag voor applicaties die erop zijn gebouwd. Het is geschikt voor verschillende toepassingen, maar het belangrijkste doel is het bieden van een efficiënte, veilige en gemakkelijke manier om financiële contracten te implementeren. Ergo zet zich in om een ​​solide basisnetwerk op te bouwen dat voortdurend wordt bijgewerkt en geïnnoveerd. Het doel met contractueel geld is om een ​​systeem te creëren dat niet wordt overspoeld door hoge gebruikerskosten en vergoedingen. Om geld Ergonomisch te laten zijn, moet het kostenconcurrerend blijven. Ergo zal helpen met kaders en tooling voor mensen om te bouwen en te implementeren om het gebruik en nut van contractueel geld te maximaliseren.
 
-Plattform für vertragliches Geld. Ergo ist die Basisschicht für Anwendungen, die darauf aufgebaut werden. Es eignet sich für verschiedene Anwendungen, aber sein Hauptaugenmerk liegt auf der Bereitstellung einer effizienten, sicheren und einfachen Möglichkeit, Finanzverträge zu implementieren. Ergo ist bestrebt, ein Netzwerk auf soliden Grundlagen aufzubauen, das ständig aktualisiert und innoviert wird. Das Ziel von vertraglichem Geld ist es, ein System zu schaffen, das nicht durch hohe Nutzerkosten und Gebühren überfordert wird. Damit das Geld ergonomisch eingesetzt werden kann, muss es kostenmäßig wettbewerbsfähig bleiben. Ergo wird Menschen mit Frameworks und Werkzeugen helfen, Smart Contracts zu bauen und zu implementieren, um die Verwendung und den Nutzen von vertraglichen Geldern zu maximieren.
 
 ## 5) Langzeit-Fokus
 
