@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community verzamelde bronnen en informatie voor de Ergo-blockchain
 published: true
-date: 2022-08-01T07:21:11.365Z
+date: 2022-08-01T07:26:36.790Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T06:51:06.386Z
@@ -24,8 +24,8 @@ Ergo is een zogeheten "smart contracts platform" van de volgende generatie dat e
 - [What is Ergo (May, 2022)](https://www.youtube.com/watch?v=LyyD-clUvyI&t=941s)
 
 
-## What can I do with Ergo?
-The [Sigmaverse](https://sigmaverse.io/) provides a list of all the decentralized applications ([dApps](https://ergonaut.space/en/Glossary/dApps)) available on the Ergo blockchain. Common uses include:
+## Wat kan ik doen met Ergo?
+[Sigmaverse](https://sigmaverse.io/) biedt een lijst van alle gedecentraliseerde applicaties ([dApps](https://ergonaut.space/en/Glossary/dApps)) die op de Ergo blockchain zijn. Veelvoorkomende toepassingen zijn onder meer:
 
 - Exchanging one cryptocurrency for another on a decentralized exchange (DEX)
 - Earning money by transferring your cryptocurrency into a liquidity pool, staking it in a dApp or joining a mining pool (See [Yield](/en/Guides/yield))
