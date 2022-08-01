@@ -2,7 +2,7 @@
 title: Het Ergo Manifest
 description: Het manifest van Ergo. Beschikbaar in verschillende talen.
 published: false
-date: 2022-08-01T11:01:32.260Z
+date: 2022-08-01T11:04:34.541Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T07:48:34.018Z
@@ -209,19 +209,19 @@ Ergo zet zich in voor het bouwen van een ecosysteem dat hulpmiddelen biedt die z
 Ergo is de basislaag voor applicaties die erop zijn gebouwd. Het is geschikt voor verschillende toepassingen, maar het belangrijkste doel is het bieden van een efficiënte, veilige en gemakkelijke manier om financiële contracten te implementeren. Ergo zet zich in om een ​​solide basisnetwerk op te bouwen dat voortdurend wordt bijgewerkt en geïnnoveerd. Het doel met contractueel geld is om een ​​systeem te creëren dat niet wordt overspoeld door hoge gebruikerskosten en vergoedingen. Om geld Ergonomisch te laten zijn, moet het kostenconcurrerend blijven. Ergo zal helpen met kaders en tooling voor mensen om te bouwen en te implementeren om het gebruik en nut van contractueel geld te maximaliseren.
 
 
-## 5) Langzeit-Fokus
+## 5) Langetermijnvisie
+Alle aspecten van Ergo’s ontwikkeling moeten gericht zijn op een langetermijnperspectief. Ergo werd gelanceerd in crypto-winter; het doel en de intentie van Ergo’s core developers moeten de kortetermijnmarkt omstandigheden overstijgen. Er zullen altijd mensen zijn die voor snelle winst komen en mensen die voor het principe komen.
 
-Alle Aspekte der Ergo-Entwicklung sollten auf eine langfristige Perspektive ausgerichtet sein. Ergo wurde im Krypto-Winter gestartet, der Zweck und die Absicht der Ergo-Kernentwickler müssen kurzfristige Marktbedingungen übersteigen. Es wird immer diejenigen geben, die für den kurzfristigen Wertzuwachs kommen und diejenigen, die für das Prinzip kommen. 
+Slimme contracten voor de mensen is een open-source concept om een ​​systeem te bieden dat de gemiddelde persoon in hun kracht kan zetten. Het doel is om veerkrachtig, aanpasbaar en veilig te blijven mettertijd.
 
-Smart Contracts für das Volk ist ein Open-Source-Konzept, mit dem ein System geschaffen werden soll, das die durchschnittliche Person ermächtigt. Das Ziel ist es, robust, anpassungsfähig und sicher über die Jahre zu bleiben.  
+Omdat Ergo is ontworpen als een platform, kunnen applicaties die bovenop Ergo zijn gebouwd, ook op de lange termijn overleven. Deze veerkracht en overlevingsvermogen op lange termijn kunnen Ergo ook in staat stellen een goede opslag van waarde te zijn en een mechanisme om de gewone mens te helpen.
 
-Da Ergo als Plattform konzipiert ist, sollten Anwendungen, die auf Ergo aufbauen, auch langfristig überleben können. Diese Widerstandsfähigkeit und langfristige Überlebensfähigkeit kann Ergo auch zu einer guten Wertanlage und einem Mechanismus zur Unterstützung der Menschen machen.
+We moeten altijd verder kijken dan onze neus lang is en aan de toekomst denken. Welke dingen kunnen we toevoegen? Hoe kunnen we verbeteren? Wat zijn de risico's? Hoe kunnen we ons voorbereiden op wat komen gaat?
 
-Wir sollten immer über den Tellerrand hinausschauen und in die Zukunft denken. Welche Instrumente können wir hinzufügen? Wie können wir uns verbessern? Was sind die Risiken? Wie können wir uns auf das vorbereiten, was als nächstes kommt? 
+Deze langetermijnvisie mag nooit uitsterven om Ergo te laten overleven. Ergo werd geboren in de crypto winter toen velen de toekomst van gedistribueerde systemen en hun vermogen om waarde te creëren al begonnen af te wijzen; desalniettemin hebben we volgehouden en zijn we doorgegaan met bouwen en ontwikkelen.
 
-Diese langfristige Vision darf niemals sterben, damit Ergo überleben kann. Ergo wurde im Krypto-Winter geboren. Viele hatten damit begonnen, die Zukunft verteilter Systeme und ihre Fähigkeit, Werte zu schaffen, zu verwerfen, dennoch hielten wir durch und bauten weiter.
+Te vaak offeren mensen groei op lange termijn op voor een snel centje op korte termijn. Goede tijden zullen komen, en moeilijke tijden zullen komen. Wil Ergo stand houden, dan moeten we principieel zijn en waarde creëren op solide fundamenten.
 
-Allzu oft opfern die Menschen langfristiges Wachstum für kurzfristige Begeisterung. Gute Zeiten werden kommen, und harte Zeiten werden kommen. Wenn Ergo Bestand haben soll, müssen wir prinzipienfest sein und Werte auf einem soliden Fundament schaffen. 
 
 # Wer ist Kushti?
 
