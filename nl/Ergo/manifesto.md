@@ -1,8 +1,8 @@
 ---
 title: Het Ergo Manifest
 description: Het manifest van Ergo. Beschikbaar in verschillende talen.
-published: false
-date: 2022-08-01T11:06:06.591Z
+published: true
+date: 2022-08-01T11:06:37.381Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T07:48:34.018Z
