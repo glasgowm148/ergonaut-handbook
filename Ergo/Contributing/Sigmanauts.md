@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-08-08T02:14:15.641Z
+date: 2022-08-08T06:32:16.268Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
