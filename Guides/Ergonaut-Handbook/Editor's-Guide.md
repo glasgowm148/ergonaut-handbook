@@ -1,8 +1,8 @@
 ---
 title: Editor's Guide
-description: Guide to ergonaut success
+description: Guide to Ergonaut success
 published: true
-date: 2022-08-08T06:55:58.007Z
+date: 2022-08-08T06:57:02.865Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-31T17:21:01.967Z
