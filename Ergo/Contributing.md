@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2022-08-11T20:32:08.378Z
+date: 2022-08-11T20:33:55.964Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-15T13:21:44.908Z
@@ -12,7 +12,7 @@ dateCreated: 2021-11-15T13:21:44.908Z
 > *Cryptocurrency should provide tools to enrich ordinary people. Small businesses that are struggling to make ends meet, not big depersonalized financial capital. This is what inspired me. This is my dream.* - The Ergo Manifesto
 
 
-Below are some general areas to get involved in straight away. To take a more hands-on approach please visit the [Sigmanauts](/en/Ergo/Contributing/Sigmanauts) wiki page. There you can read over a brief summary of, and even apply to, Ergo's **Sigmanaut Training Program** and help shape the future of Ergo.
+Below are some general areas to get involved in straight away. To take a more hands-on approach please visit the [Sigmanauts](/en/Ergo/Contributing/Sigmanauts) wiki page. There you can read over a brief summary of (and even learn how to apply to!) Ergo's **Sigmanaut Training Program**.
 ## Marketing
 
 1. Creating marketing materials or activities. Post these to Telegram, Discord, or Reddit and you can be tipped (real erg - or erdoge if you're lucky) for your efforts. 
