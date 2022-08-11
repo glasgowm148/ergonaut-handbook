@@ -2,7 +2,7 @@
 title: The Complete Ergo Mining Handbook V2.0 
 description: Some 3rd party pages link to this non-existent URL path
 published: true
-date: 2022-08-11T20:02:32.669Z
+date: 2022-08-11T20:05:25.457Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
@@ -13,7 +13,7 @@ dateCreated: 2022-08-11T20:02:32.669Z
 I created this page because some 3rd party sites incorrectly link to this URL path. 
 
 
-Anyone interested can find the *actual* "Complete Ergo Mining Handbook V2.0" [located here](/en/Mining).
+Anyone interested can find the *actual* "Complete Ergo Mining Handbook V2.0" page [located here](/en/Guides/Mining/).
 
 
 
