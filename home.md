@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-05-06T14:41:41.760Z
+date: 2022-08-11T20:41:52.381Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -10,7 +10,7 @@ dateCreated: 2021-12-31T16:01:22.965Z
 
 
 # Welcome to ergonaut.space
-ergonaut.space is the community wiki of the Ergo blockchain which showcases the possibilities and details of Ergo for non-technical people. If you are a developer or advanced user of cryptocurrencies, [docs.ergoplatform](http://docs.ergoplatform.org/) on GitHub may be a more appropriate source of information.
+ergonaut.space is the community wiki of the Ergo blockchain which showcases the possibilities and details of Ergo for non-technical people. If you are a developer or advanced user of cryptocurrencies, [docs.ergoplatform](http://docs.ergoplatform.org/) on GitHub may be a more appropriate source of information.You may also be interested in exploring the *official*  [Ergo wiki](https://github.com/ergoplatform/ergo/wiki) on github. 
 
 ## What is Ergo?
 
