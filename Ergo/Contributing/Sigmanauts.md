@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-08-12T18:16:39.163Z
+date: 2022-08-12T18:17:58.118Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -82,7 +82,7 @@ Successful applicants will be awarded:
 ------------
 # Responsibilities
 
-The Ergo community consists of people from all over the world and all walks of life who have come together to grow and safeguard the future of Ergo. All participants in the community are expected to act lawfully, honestly, ethically, and in the project's best interest. 
+The Ergo community consists of people from all over the world and all walks of life who have come together to grow and safeguard the future of Ergo. **All participants in the community are expected to act lawfully, honestly, ethically, and in the project's best interest.**
 
 Sigmanauts who 1) violate the Ergo Community Code of Conduct, or 2) become generally inactive can be permanantly or temporarily stripped of their role by Officers and fellow Sigmanauts.
 
