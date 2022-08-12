@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-08-12T07:23:23.048Z
+date: 2022-08-12T18:08:13.039Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -17,7 +17,7 @@ dateCreated: 2022-01-21T16:19:45.872Z
 ## Program Overview
 
 
-Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are activily helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, or shaping of the sigmanauts structure (and even Ergo itself). 
+Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are activily helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, or by helping to shape the structure of the Sigmanaut program.  
 
 The following text is directly borrowed from the [**The Sigmanauts Programme**](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) blog post (Dec. 2021)-
 ## Program Goals and Intent
@@ -52,7 +52,7 @@ ___________
 >Are you a skilled graphic designer, videographer or writer? Do you have social media expertise? If so, there is always a need for creative people with these specialized skill sets. As the Ergo ecosystem grows, there will be a continued need for video tutorials, technical blogs, how-to guides, infographics, etc.
 __________________
 # Applicantion Process 
-## SigCan and Sigmanaut Roles 
+## SigCAN and Sigmanaut Roles 
 If this sounds like something you are interested in, there is a formal application process for becoming a Sigmanaut. Once accepted into the Sigmanauts Program, you will be assigned the role of SigCAN (Sigmanaut Candidate), where you will have the opportunity to showcase your skills and talents within a team. 
 
 Over time, your role can evolve to become a Sigmanaut, and that comes with a **great deal of responsibility**. Community members will look to you as a trusted source of information. You will also be responsible for representing the Ergo ecosystem in a manner that upholds the professional standards of the ecosystem and the Ergo Foundation.
