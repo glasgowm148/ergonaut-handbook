@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-08-12T06:48:11.356Z
+date: 2022-08-12T07:23:23.048Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -22,7 +22,7 @@ Sigmanauts gain exclusive access to the team, representing and bringing ideas to
 The following text is directly borrowed from the [**The Sigmanauts Programme**](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) blog post (Dec. 2021)-
 ## Program Goals and Intent
 
-The Sigmanauts Programme is ==designed to help people participate in, and take ownership of, Ergo==. What can you bring to Ergo? What are your strengths and how can they be applied to the collective efforts of the community? If you are interested in becoming a contributing member of the Sigmanauts Program, there are ==three categories for you to consider==.
+The Sigmanauts Programme is designed to help people participate in, and take ownership of, Ergo. What can you bring to Ergo? What are your strengths and how can they be applied to the collective efforts of the community? If you are interested in becoming a contributing member of the Sigmanauts Program, there are three categories for you to consider.
 ### Sigmannauts are tasked with improving Ergo in THREE main areas:
 
 ### 1. GROWTH 📈
@@ -53,9 +53,9 @@ ___________
 __________________
 # Applicantion Process 
 ## SigCan and Sigmanaut Roles 
-If this sounds like something you are interested in, ==there is a formal application process== for becoming a Sigmanaut. Once accepted into the Sigmanauts Program, you will be ==assigned the role of SigCAN (Sigmanaut Candidate)==, where you will have the opportunity to showcase your skills and talents within a team. 
+If this sounds like something you are interested in, there is a formal application process for becoming a Sigmanaut. Once accepted into the Sigmanauts Program, you will be assigned the role of SigCAN (Sigmanaut Candidate), where you will have the opportunity to showcase your skills and talents within a team. 
 
-Over time, your role can evolve to become a Sigmanaut, and that comes with a **great deal of responsibility**. Community members will look to you as a trusted source of information. You will also be responsible for ==representing the Ergo ecosystem in a manner that upholds the professional standards of the ecosystem and the Ergo Foundation==.
+Over time, your role can evolve to become a Sigmanaut, and that comes with a **great deal of responsibility**. Community members will look to you as a trusted source of information. You will also be responsible for representing the Ergo ecosystem in a manner that upholds the professional standards of the ecosystem and the Ergo Foundation.
 
 ________________________
 # Want to Apply?
@@ -84,7 +84,7 @@ Successful applicants will be awarded:
 
 > The Ergo community consists of people from all over the world and all walks of life who have come together to grow and safeguard the future of Ergo. All participants in the community are expected to act lawfully, honestly, ethically, and in the project's best interest. 
 
-Sigmanauts who 1) violate the Ergo Community Code of Conduct, or 2) become generally inactive ==can be permanantly or temporarily stripped of their role by Officers and fellow Sigmanauts==.
+Sigmanauts who 1) violate the Ergo Community Code of Conduct, or 2) become generally inactive can be permanantly or temporarily stripped of their role by Officers and fellow Sigmanauts.
 
 NOTE: Exact program details (i.e., minimum expected voting/ activity requirements) still being defined. Help us decide the final program structure by applying to the Sigmanaut Training Program, *today*! 
 
