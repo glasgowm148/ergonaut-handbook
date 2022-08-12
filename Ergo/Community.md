@@ -2,7 +2,7 @@
 title: Community Events (Ergo Summit, ERGOHACK, ErgoVersary etc.)
 description: Media/YouTube links 
 published: true
-date: 2022-08-12T00:16:05.734Z
+date: 2022-08-12T00:17:27.571Z
 tags: community, events, hackathon, youtube, media
 editor: markdown
 dateCreated: 2022-08-12T00:05:27.427Z
@@ -13,3 +13,4 @@ dateCreated: 2022-08-12T00:05:27.427Z
 
 - Ergo Summit 2022 | Decentralized Finance- [YouTube playlist](https://www.youtube.com/playlist?list=PL8-KVrs6vXLSfo4V2V64BFvqIKR65xUEl)
 
+[Hackathon](/en/Ergo/Hackathon)
