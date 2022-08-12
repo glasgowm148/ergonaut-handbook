@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-08-12T18:13:30.681Z
+date: 2022-08-12T18:15:00.281Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -87,6 +87,6 @@ Successful applicants will be awarded:
 Sigmanauts who 1) violate the Ergo Community Code of Conduct, or 2) become generally inactive can be permanantly or temporarily stripped of their role by Officers and fellow Sigmanauts.
 
 > NOTE: Exact program details (i.e., minimum expected voting/ activity requirements) still being defined. Help us decide the final program structure by applying to the Sigmanaut Training Program, *today*!
-
 {.is-info}
+
 _____________________________
