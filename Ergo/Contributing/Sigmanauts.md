@@ -2,53 +2,61 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-08-08T06:53:02.763Z
+date: 2022-08-12T06:02:48.971Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
 ---
 
-# Sigmanaut Program
+# Sigmanaut Training Program
+## The Ergo Community Ambassador Program
 
-Introducing the [**Sigmanaut Training Program**](https://twitter.com/ergoplatformorg/status/1471226580160684032?s=20&t=acrTQ2jyD6r5SO_VN4U8WA),
+##### **First check out the official [ Sigmanmaut Program Twitter announcement ](https://twitter.com/ergoplatformorg/status/1471226580160684032?s=20&t=acrTQ2jyD6r5SO_VN4U8WA) below**-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are you interested in helping promote <a href="https://twitter.com/hashtag/Ergo?src=hash&amp;ref_src=twsrc%5Etfw">#Ergo</a>? Then you need to check out the <a href="https://twitter.com/hashtag/Sigmanaut?src=hash&amp;ref_src=twsrc%5Etfw">#Sigmanaut</a> Training Program! Learn how to help <a href="https://twitter.com/hashtag/educate?src=hash&amp;ref_src=twsrc%5Etfw">#educate</a> the community and promote awareness of the Ergo <a href="https://twitter.com/hashtag/blockchain?src=hash&amp;ref_src=twsrc%5Etfw">#blockchain</a>.<br><br>Signup Form👉 <a href="https://t.co/LIZAFHRLJc">https://t.co/LIZAFHRLJc</a><a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> <a href="https://twitter.com/hashtag/crypto?src=hash&amp;ref_src=twsrc%5Etfw">#crypto</a> <a href="https://twitter.com/hashtag/Ergonauts?src=hash&amp;ref_src=twsrc%5Etfw">#Ergonauts</a> <a href="https://twitter.com/search?q=%24ERG&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ERG</a></p>&mdash; Ergo (@ergoplatformorg) <a href="https://twitter.com/ergoplatformorg/status/1471226580160684032?ref_src=twsrc%5Etfw">December 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+==================
+
+## Program Overview
+
 
 Sigmanauts gain exclusive access to the team, bringing ideas to the wider community and representing them while helping to shape Ergo going forward whether it be in any of your contributions in writing, campaigning, or shaping of the sigmanauts structure or Ergo itself. 
-___
 
-__Sigmannauts are tasked with improving Ergo in these THREE main areas:__
+The following text is directly borrowed from the [**The Sigmanauts Programme**](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) blog post (Dec. 2021)-
+## Program Goals and Intent
 
-### GROWTH 📈
+The Sigmanauts Programme is designed to help people participate in, and take ownership of, Ergo. What can you bring to Ergo? What are your strengths and how can they be applied to the collective efforts of the community? If you are interested in becoming a contributing member of the Sigmanauts Program, there are three categories for you to consider.
+_________________________________________________________
+#### Sigmannauts are tasked with improving Ergo in THREE main areas:
 
+### 1. GROWTH 📈
 #### **Help bring new people into the community**.
-
-- Marketing
-- DevOps
-- Designers
-
-> Bringing in new perspectives and building bridges with other communities can help strengthen and diversify the community and benefit the Ergo ecosystem.
-
-
-### COMMUNITY 🌍 
+>- Marketing
+>- DevOps 
+>- Designers
+>
+> What skills do you have to assist in growing the community and attracting people of diverse backgrounds and skill sets? Maybe you have marketing expertise and would like to contribute to the promotion of Ergo. Or maybe you have connections to other projects and/or communities that would be interested in what Ergo offers.
+___________
+### 2. COMMUNITY 🌍 
 
 #### **Be the backbone of the community.**
 - Ambassadors
 - Moderators
 - Translators
-
-> Present the best face of Ergo and help create a great environment. This can be anything from building on Ergo, regional ambassadors, moderators of our social channels and translating Ergo.
-
-### CREATIVE 🎨
-
+>
+> There will always be new people coming to the Ergo ecosystem. Who can answer any questions they may have? Who can be a trusted source of information? The ecosystem will always need informed and trustworthy people to develop and maintain a healthy and safe community. As the ecosystem continues to grow, there will also be a continued need for people who can be representatives to new demographics. This category is for those who are interested in being ambassadors, moderators, and/or translators.
+-----
+### 3. CREATIVE 🎨
 #### **Get paid for your high quality Ergo content.**
+- **Editorial**
+- **Artists** 
+- **Social Media Promoters**
+>
+>
+>Are you a skilled graphic designer, videographer or writer? Do you have social media expertise? If so, there is always a need for creative people with these specialized skill sets. As the Ergo ecosystem grows, there will be a continued need for video tutorials, technical blogs, how-to guides, infographics, etc.
+__________________
+# Basic Program Structure 
+>If this sounds like something you are interested in, there is a formal application process for becoming a Sigmanaut. Once accepted into the Sigmanauts Program, you will be assigned the role of SigCAN (Sigmanaut Candidate), where you will have the opportunity to showcase your skills and talents within a team. Over time, your role can evolve to become a Sigmanaut, and that comes with a great deal of responsibility. Community members will look to you as a trusted source of information. You will also be responsible for representing the Ergo ecosystem in a manner that upholds the professional standards of the ecosystem and the Ergo Foundation.
 
-- Editorial
-- Artists 
-- Social Media Promoters
-
-> Share what you know, make graphic art or create videos or tutorials that the community can use.
-> Documentation, writing/editing articles and infographics that explain how to use Ergo and its ecosystem.
-___
-
+________________________
 # Want to contibute?
 
 If you can offer your time, skills and/or experience for #Ergo, apply to the Sigmanaut Program below!
@@ -76,3 +84,7 @@ Successful applicants will be awarded:
 > The Ergo community consists of people from all over the world and all walks of life who have come together to grow and safeguard the future of Ergo. All participants in the community are expected to act lawfully, honestly, ethically, and in the project's best interest. 
 
 Sigmanauts who 1) violate the Ergo Community Code of Conduct, or 2) become generally inactive can be permanantly or temporarily stripped of their role by Officers and fellow Sigmanauts.
+
+NOTE: Exact program details (i.e., minimum expected voting/ activity requirements) still being defined. Help us decide the final program structure by becoming a Sigmanaut! 
+
+_____________________________
