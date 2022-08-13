@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-08-13T09:23:12.801Z
+date: 2022-08-13T09:35:56.622Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -74,9 +74,9 @@ If you can offer your time, skills and/or experience for #Ergo, apply to the Sig
 Successful applicants will be awarded:
 
 1. Special access to Ergo team &  certain Discord groups
-2. The <button class="button is-primary is-outlined">
+2. The special <button class="button is-success is-outlined">
 
-  Sigmanaut
+Sigmanaut
 
 </button> title/badge across socials
 1. Ability to request payment(s) for their contributions.
