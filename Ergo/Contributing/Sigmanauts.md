@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-08-13T09:52:00.329Z
+date: 2022-08-13T09:53:55.854Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -76,7 +76,7 @@ Successful applicants will be awarded:
 
 - Special access to Ergo team & certain Discord groups 
 
-- The <button class="button is-success is-outlined">Sigmanaut</button> title/badge to use across socials
+- The `Sigmanaut` title/badge to use across socials
 
 - Ability to request payment(s) for their contributions.
 
@@ -94,7 +94,7 @@ Successful applicants will be awarded:
 
 
 
-------------
+
 # Responsibilities
 
 The Ergo community consists of people from all over the world and all walks of life who have come together to grow and safeguard the future of Ergo. **All participants in the community are expected to act lawfully, honestly, ethically, and in the project's best interest.**
