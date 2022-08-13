@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-08-13T10:05:56.560Z
+date: 2022-08-13T10:11:53.358Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -17,7 +17,7 @@ dateCreated: 2022-01-21T16:19:45.872Z
 ## Program Overview
 
 
-Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are activily helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, or by helping to shape the structure of the Sigmanaut program.  
+Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are activily helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, or by helping to shape the structure of the Sigmanaut program itself.  
 
 Majority of the following text is borrowed from the [**The Sigmanauts Programme**](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) blog post (Dec. 2021)-
 ## Program Goals and Intent
