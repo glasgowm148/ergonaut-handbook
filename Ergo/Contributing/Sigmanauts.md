@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-08-13T09:57:24.344Z
+date: 2022-08-13T09:59:27.388Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -74,14 +74,13 @@ If you can offer your time, skills and/or experience for #Ergo, apply to the Sig
 Successful applicants will be awarded:
 
 
-- Special access to Ergo team & certain Discord groups 
+- [x] Special access to Ergo team & certain Discord groups 
 
 - [x] The `Sigmanaut` title/badge to use across socials
 
-- Ability to request payment(s) for their contributions.
+- [x] Ability to request payment(s) for their contributions.
 
-- This official Sigmanaut NFT by [@ERGnomes](https://t.co/n0Cpbjel67) 
-
+- [x] This official Sigmanaut NFT by [@ERGnomes](https://t.co/n0Cpbjel67) 
 
 
 ![sigmanautnft.jpg](/sigmanautnft.jpg)
