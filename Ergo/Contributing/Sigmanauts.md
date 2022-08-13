@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-08-13T10:14:49.818Z
+date: 2022-08-13T10:17:27.646Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -27,24 +27,24 @@ The Sigmanauts Programme is designed to help people participate in, and take own
 ### Sigmannauts are tasked with improving Ergo in THREE main areas:
 
 #### 1. GROWTH 📈
-#### **Help bring new people into the community**.
+##### **Help bring new people into the community**.
 - Marketing
 - DevOps 
 - Designers
 >
 > What skills do you have to assist in growing the community and attracting people of diverse backgrounds and skill sets? Maybe you have marketing expertise and would like to contribute to the promotion of Ergo. Or maybe you have connections to other projects and/or communities that would be interested in what Ergo offers.
 ___________
-### 2. COMMUNITY 🌍 
+#### 2. COMMUNITY 🌍 
 
-#### **Be the backbone of the community.**
+##### **Be the backbone of the community.**
 - Ambassadors
 - Moderators
 - Translators
 >
 > There will always be new people coming to the Ergo ecosystem. Who can answer any questions they may have? Who can be a trusted source of information? The ecosystem will always need informed and trustworthy people to develop and maintain a healthy and safe community. As the ecosystem continues to grow, there will also be a continued need for people who can be representatives to new demographics. This category is for those who are interested in being ambassadors, moderators, and/or translators.
 -----
-### 3. CREATIVE 🎨
-#### **Get paid for your high quality Ergo content.**
+#### 3. CREATIVE 🎨
+##### **Get paid for your high quality Ergo content.**
 - **Editorial**
 - **Artists** 
 - **Social Media Promoters**
