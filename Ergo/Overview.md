@@ -2,7 +2,7 @@
 title: Overview
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-08-14T08:24:54.527Z
+date: 2022-08-14T08:28:41.513Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -68,11 +68,10 @@ Like many other features in Ergo, the network's economic model is based on Bitco
 <div class="panel panel-info">
 
   **UPDATE: EMISSIONS retargeted with EIP-27**{: .panel-heading}
-<div class="panel-body">
 
-EIP-27 showcases the chains ability to grow amend itself in a decentralized way. Ergo is designed for long-term survivability. Similar to EIP-27,all future protocol changes are expected to occur painlessly, via soft and velvet forks.  Check the comprehensive [Ergos Reemission Vote EIP27: A Path to Sustained Growth?](https://ergoplatform.org/en/blog/Ergos-Reemission-Vote-EIP27-A-Path-to-Sustained-Growth/) for detailed updates to original emission schedule, crossed-out above.
-</div>
-</div>
+
+> Check out the comprehensive [Ergos Reemission Vote EIP27: A Path to Sustained Growth?](https://ergoplatform.org/en/blog/Ergos-Reemission-Vote-EIP27-A-Path-to-Sustained-Growth/) for detailed updates to original emission schedule (crossed-out above). EIP-27 showcases the chains ability to grow amend itself in a decentralized way. Ergo is designed for long-term survivability. Similar to EIP-27,all future protocol changes are *expected* to occur painlessly, via soft and velvet forks.  
+{.is-info}
 
 At this point, in addition to transaction fees, miners will also benefit from storage rent fees charged on boxes (UTXOs) that have not moved their coins for four years or more. There are at least two advantages to this approach. Firstly, it gives miners an additional source of revenues once block rewards end. Since the network's security depends on the hash rate and miner participation, this is a significant incentive to provide. Secondly, it has the effect of recycling lost coins (and dust) back into the Ergo economy. Research suggests that up to 4 million BTC have been permanently removed from circulation due to lost private keys. Ergo's storage fees will slowly reclaim these for productive purposes, while users who want to hold coins for the long term can avoid being charged simply by moving their funds.
 
