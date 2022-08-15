@@ -2,7 +2,7 @@
 title: ergonaut.space
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-08-11T20:41:52.381Z
+date: 2022-08-15T05:19:33.861Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T16:01:22.965Z
@@ -18,7 +18,7 @@ Ergo is a next-generation smart contract platform that ensures economic freedom 
 
 **Overviews**
 
-- [The Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versions](Ergo/manifesto))
+- [The Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versions](Ergo/manifesto)) | *essential* reading for all Ergonauts 
 - [Why Ergo](https://cafebedouin.org/2021/12/09/why-ergo/)
 - [Overview of the Ergo Blockchain](Ergo/Overview)
 - [What is Ergo (May, 2022)](https://www.youtube.com/watch?v=LyyD-clUvyI&t=941s)
