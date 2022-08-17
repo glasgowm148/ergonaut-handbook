@@ -2,7 +2,7 @@
 title: Manifest Ergo
 description: 
 published: true
-date: 2022-08-17T16:57:21.753Z
+date: 2022-08-17T16:59:54.874Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-17T16:57:21.753Z
@@ -11,7 +11,7 @@ dateCreated: 2022-08-17T16:57:21.753Z
 # Manifest Ergo
 **Manifest Ergo ma na celu edukację oraz oferuje wizję tego, co technologia Blockchain jest w stanie osiągnąć. Mamy nadzieję, że uda nam się zbudować społeczność dzięki formie współpracy poziomej poprzez produktywność opartą o podział pracy, handel i wymianę, a także solidarność i wzajemną pomoc.**
 
-**Wierzymy, że jest to możliwe do osiągnięcia przy zachowaniu podstawowych zasad, które sprzyjają dobru wszystkich ludzi. Zasady te, które były kluczowe dla praw I wartości człowieka muszą pozostać nienaruszone w miarę rozwoju naszych możliwości technologicznych. Budowane narzędzia muszą zwiększać wartość człowieka, a nie podporządkowywać go systemom nadzoru oraz kontroli.**
+**Wierzymy, że jest to możliwe do osiągnięcia przy zachowaniu podstawowych zasad, które sprzyjają dobru wszystkich ludzi. Zasady te, które były kluczowe dla praw i wartości człowieka muszą pozostać nienaruszone w miarę rozwoju naszych możliwości technologicznych. Budowane narzędzia muszą zwiększać wartość człowieka, a nie podporządkowywać go systemom nadzoru oraz kontroli.**
 
 Ogromna ilość wiadomości powiązanych z siecią Blockchain w dzisiejszych czasach donosi, że bank X lub korporacja Y użyje technologii "Blockchain", aby "zredukować koszty".
 
