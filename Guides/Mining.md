@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-08-18T08:04:11.651Z
+date: 2022-08-18T08:27:33.753Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -72,7 +72,10 @@ A wallet will be required for you to collect your mining rewards. Digital wallet
 
 You will need computer hardware to mine Ergo also refered to as a mining rig. Ergo mining is ASIC resistant and requires a GPU (Graphics Card) for mining. A mining rig can be as simple as a single GPU gaming computer, up to a multi GPU mining rig.
 
-While it is possible to mine Ergo with a 4gb GPU. A 6GB GPU is the suggested minimum as Ergo heavily relies on memory usage while the core processor sits idle. *Note: this last statement is seemingly outdated. As mentioned earlier in Handbook, 3gb is enough VRAM to mine Erg. And a card's core processor does NOT sit idle when mining Ergo.
+While it is possible to mine Ergo with a 4gb GPU. A 6GB GPU is the suggested minimum as Ergo heavily relies on memory usage while the core processor sits idle. 
+
+> Note: this last statement is seemingly pre Ergo "hardening upgrade" (Ergo's only hardfork). As mentioned earlier in Handbook, 3gb is enough VRAM to mine Erg but that will soon change with Ergo's scheduled "DAG" increase [(DAG is a misnomer according to kushti here it's actually a table)](https://www.ergoforum.org/t/test-vectors-for-increased-n-values/2887) .
+{.is-info} 
 
 ### Components required to build a mining rig:
 
