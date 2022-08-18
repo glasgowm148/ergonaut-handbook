@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-08-18T07:30:22.976Z
+date: 2022-08-18T08:04:11.651Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -43,11 +43,12 @@ For more information about Ergo follow the links below:
 -   [Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/)
 -   [Ergo Whitepapers](https://ergoplatform.org/en/documents/)
 
-## The Wallet:
-### Yoroi isn't recommended for Ergo anymore
+## Bookmark This "official" Ergo Wallet 🔗  
+### **https://ergoplatform.org/en/get-erg/#Wallets**
+#### Yoroi is no longer a recommended Ergo wallet. If you check the official Ergo wallet link URL above, you will see some great "team" and "other" wallets, but no mention of Yoroi.  
 
 - Yoroi went **from 1st to worst** Ergo  wallet?
-Restore Yoroi balance on better alternatives using "Restore Wallet" need correct mnemonic seed phrase of course.
+Restore Yoroi balance on better alternatives using Import or Restore Wallet options, you will need correct mnemonic seed phrase of course.
 
 A wallet will be required for you to collect your mining rewards. Digital wallets can help keep your digital currency safe, private and in your control. We highly recommend the use of wallets for storing Ergo assets (technically, they store the keys to your Ergo addresses). But keep in mind, your wallet is unlike your bank account, so take extra precautions with your passwords and be sure to perform regular backups to protect your money.
 
