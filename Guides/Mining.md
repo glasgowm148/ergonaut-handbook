@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-08-18T05:46:07.759Z
+date: 2022-08-18T06:06:35.390Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -30,7 +30,7 @@ There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐
 {.is-warning} 
 
 
-There will be no additional inflation and the Erg monetary base will remain fixed. The [emission schedule chart](https://ergoplatform.org/en/blog/2019_05_20-curve/) illustrates this which can also be found on [ergo.watch](https://ergo.watch/emission).
+- Check out the updated emissions curve, including EIP-27 re-emission contract with [ergo.watch/emission](https://ergo.watch/emission).
 
 - The [explorer](https://explorer.ergoplatform.com) can give you various information & stats on mining and the network. 
 - The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here.
