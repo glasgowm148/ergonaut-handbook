@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-08-18T07:26:01.779Z
+date: 2022-08-18T07:30:22.976Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -44,7 +44,7 @@ For more information about Ergo follow the links below:
 -   [Ergo Whitepapers](https://ergoplatform.org/en/documents/)
 
 ## The Wallet:
-### Yoroi 
+### Yoroi isn't recommended for Ergo anymore
 
 - Yoroi went **from 1st to worst** Ergo  wallet?
 Restore Yoroi balance on better alternatives using "Restore Wallet" need correct mnemonic seed phrase of course.
