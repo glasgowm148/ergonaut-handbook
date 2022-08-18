@@ -2,19 +2,31 @@
 title: The Complete Ergo Mining Handbook V2.0 
 description: Some 3rd party pages link to this non-existent URL path
 published: true
-date: 2022-08-18T21:08:38.603Z
+date: 2022-08-18T21:12:02.781Z
 tags: 
 editor: code
 dateCreated: 2022-08-11T20:02:32.669Z
 -->
 
-<button onclick="myFunction()">Load new document</button>
 
-<script>
-function myFunction() {
-  location.assign("https://ergonaut.space/en/Guides/Mining");
-}
-</script>
+<!doctype html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <title>Your Document Title</title>
+    <script type="text/javascript">
+        function delayer(delay) {
+            onLoad = setTimeout('window.location.href = "https://ergonaut.space/en/Guides/Mining"', delay);
+        }
+    </script>
+</head>
+
+<body>
+    <script>
+        delayer(5000)
+    </script>
+    <div>You will be redirected in 5 seconds!</div>
 </body>
+
 </html>
