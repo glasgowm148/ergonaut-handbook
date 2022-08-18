@@ -1,8 +1,8 @@
 ---
 title: The Complete Ergo Mining Handbook v2.0
-description: Some 3rd party pages link to this non-existent URL path
+description: Some 3rd party pages link to this alternate URL path
 published: true
-date: 2022-08-18T21:57:07.760Z
+date: 2022-08-18T21:58:18.868Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
