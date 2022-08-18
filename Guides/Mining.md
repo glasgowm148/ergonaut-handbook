@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-08-18T06:06:35.390Z
+date: 2022-08-18T06:51:00.662Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -20,9 +20,9 @@ dateCreated: 2021-12-31T23:01:12.178Z
 
 ## The Coin: What is Ergo?
 
-Ergo has a strictly limited supply, an 8‐year emission schedule and a declining rate of emission over these 8 years. All tokens are mined through an original Proof‐of‐Work (“PoW”) algorithm called Autolykos v2, designed to be ASIC resistant, which employs a [smoothed difficulty algorithm](https://ergoplatform.org/docs/ErgoPow.pdf).
+Ergo has a strictly limited supply, Ergo's original 8 year emission schedule was extended by miners with EIP-27 (live since block #777,217) while maintaining original max supply. All $ERG tokens are mined through an original Proof‐of‐Work (“PoW”) algorithm called Autolykos v2, designed to be ASIC resistant, which employs a [smoothed difficulty algorithm](https://ergoplatform.org/docs/ErgoPow.pdf).
 
-Miners have to perform memory-hard computations~(at least 2.5 GB memory is needed, but the current most efficient implementation utilizes around 4 GB of vRAM) that makes Ergo friendly for GPU mining.
+Miners have to perform memory-hard computations~(at least 2.5 GB memory is currently needed but the  most efficient implementation utilizes around 4 GB of vRAM- *currently*) that makes Ergo friendly for GPU mining. A part of Ergo's ASIC resistance comes from Autolykos V2 increasing table size feature, this slowly increases the minimum memory requirements to GPU mine Ergo over time. 
 
 There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐mine. At the end of 8 years, the final Erg supply will be 97,739,925 Ergs. The Ergo block interval is 2 minutes and for the first 2 years, each block will release a total of 75 Ergs to be shared between the miners and the Treasury (Treasury discussed below). But starting at year 2, the rate of emission will fall by 3.0 Ergs and thereafter further decline every 3 months by an additional 3.0 Ergs, ~~which will result in an end to emission 8 years after launch.~~
 
