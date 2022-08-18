@@ -2,13 +2,13 @@
 title: The Complete Ergo Mining Handbook v2.0
 description: Some 3rd party pages link to this non-existent URL path
 published: true
-date: 2022-08-18T21:56:55.626Z
+date: 2022-08-18T21:57:07.760Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
 ---
 
-```plaintext
+
 # **The Complete Ergo Mining Handbook v2.0**
 
 ![5e8765a7-6344-4a81-b283-87c695056ef6.jpeg](/5e8765a7-6344-4a81-b283-87c695056ef6.jpeg =x350)
