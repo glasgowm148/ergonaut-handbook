@@ -2,7 +2,7 @@
 title: The Complete Ergo Mining Handbook v2.0
 description: Some 3rd party pages link to this alternate URL path
 published: true
-date: 2022-08-18T21:58:18.868Z
+date: 2022-08-24T19:50:49.014Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
@@ -116,6 +116,9 @@ Search your card here [Autolykos v2 hashrates](https://docs.google.com/spreadshe
 
 ### [Miningcore](https://miningcore.pro/pool/ergo/)
 - [Miningcore FAQ](https://miningcore.pro/faq)
+
+### [Whalesburg](https://miningcore.pro/pool/ergo/)
+- [Whalesburg Dashboard - Ergo](https://whalesburg.com/pool/ergo1)
 
 ### [WoolyPooly](https://woolypooly.com/en/coin/erg)
 - [How to start mining Ergo (ERG) on Windows with AMD RX 4GB cards](https://www.youtube.com/watch?v=47eBVIjWYqY)
