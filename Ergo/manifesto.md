@@ -2,7 +2,7 @@
 title: The Ergo Manifesto
 description: 
 published: true
-date: 2022-08-24T13:36:44.325Z
+date: 2022-08-24T13:36:55.095Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-11T10:54:18.363Z
@@ -28,4 +28,4 @@ Now available in 14 languages !
 - [Traditional Chinese](https://ergonaut.space/zh/Ergo%E5%AE%A3%E8%A8%80)
 - [Hungarian](https://ergonaut.space/hu/Manifesto)
 
-Please translate the Ergo Manifesto into your local language! Bounties are available!
+Please translate the Ergo Manifesto into your local language! [Bounties are available!](https://github.com/ergoplatform/grow-ergo/issues/6)
