@@ -2,7 +2,7 @@
 title: Editor's Guide
 description: Guide to Ergonaut success
 published: true
-date: 2022-08-08T06:57:02.865Z
+date: 2022-08-26T07:29:00.266Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-31T17:21:01.967Z
@@ -14,8 +14,10 @@ ergonaut.space is a community-driven site set up to help consolidate the vast we
 
 The site is written in Markdown, which is trivial to pick up (you might've already used it before without realising), but there is a fully fleshed visual editor which makes it even simpler. 
 
-[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/) and this web-based [live preview tool](https://markdownlivepreview.com/) may come in handy when creating and editing content for The Ergonaut Handbook.
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/) and this web-based [live preview tool](https://markdownlivepreview.com/) may come in handy when creating and editing offline content for The Ergonaut Handbook. 
 
+Like mentioned above, there is a visual editor which side-steps 
+the need to format wiki content in Markdown if you prefer.  
 
 # Regional versions
 
