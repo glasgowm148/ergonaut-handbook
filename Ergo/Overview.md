@@ -2,7 +2,7 @@
 title: Overview
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-08-14T08:28:41.513Z
+date: 2022-08-26T07:23:34.273Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -36,7 +36,7 @@ Custom tokens are first-class citizen tokens in Ergo; there is also atomic excha
 
 Ergo is designed from scratch, including its POW algorithm, Autolykos v2, memory-hard, GPU friendly, and based on fairness. Ergo team believes that network should adapt to changing environment without the intervention of trusted parties, so it has an on-chain miner voting protocol that allows gradual changes in a large number of parameters, including maximum block size, storage fee factor, and more, for more fundamental changes Ergo is trying to follow a soft-fork ability approach if an overwhelming majority of the network accepts a new feature, it is then activated, however, old nodes which do not upgrade will continue to operate normally and skip over this feature validation.
 
-Ergo is designed to be a self-amendable protocol that allows to absorb new ideas and improve itself in a decentralized manner.
+Ergo is designed to be a self-amendable protocol that allows it to absorb new ideas and improve itself in a decentralized manner.
 
 
 ## Powerful but safe
