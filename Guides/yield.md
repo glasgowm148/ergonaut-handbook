@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-08-30T10:59:33.669Z
+date: 2022-08-30T11:00:56.539Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -93,11 +93,10 @@ Your redeemable amount changes as the pool gets used and a percentage of the swa
 
 
 
-### Spectrum (formally ErgoDex)
 
-~~[r/ErgoDex](https://www.reddit.com/r/SpectrumLabs/) & [ErgoDex Docs](https://docs.ergodex.io/) | official subreddit / Dex protocol overview and detailed usage guides~~
 
- 
+
+
 
 > **ErgoDex has rebranded to Spectrum Labs!**
 
