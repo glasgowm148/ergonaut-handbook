@@ -2,13 +2,13 @@
 title: Spectrum (ex-ErgoDEX)
 description: 
 published: true
-date: 2022-08-30T22:08:07.137Z
+date: 2022-08-30T22:08:42.366Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-24T11:14:01.510Z
 ---
 
-## SpectrumLabs (formally ErgoDex)
+## SpectrumLabs 
 ![spectrumecosystem-from-medium-article.jpeg](/spectrumecosystem-from-medium-article.jpeg)
 
 > ErgoDex is now [Spectrum](https://spectrum.fi/)!
