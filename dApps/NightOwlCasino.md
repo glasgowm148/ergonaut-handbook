@@ -1,8 +1,8 @@
 ---
 title: Night Owl Casino
-description: Ergo's first decentralized casino
+description: Ergo's First Decentralized Casino
 published: true
-date: 2022-08-30T22:05:41.384Z
+date: 2022-08-30T22:13:00.521Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
