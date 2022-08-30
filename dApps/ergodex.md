@@ -2,7 +2,7 @@
 title: ErgoDEX
 description: 
 published: true
-date: 2022-08-30T21:15:16.016Z
+date: 2022-08-30T21:18:12.977Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-24T11:14:01.510Z
@@ -11,7 +11,8 @@ dateCreated: 2021-04-24T11:14:01.510Z
 
 ![spectrumecosystem-from-medium-article.jpeg](/spectrumecosystem-from-medium-article.jpeg)
 
-> ErgoDex is now [SpectrumLabs](https://spectrum.fi/)! All the info below was written prior to the Spectrum.DEX rebrand. Complete SpectrumLabs page coming soon...
+> ErgoDex is now [Spectrum](https://spectrum.fi/)!
+All the info below was written prior to the Spectrum rebrand. Complete SpectrumLabs page coming soon...
 {.is-info}
 _____________
 ![timeline_project_1920x1080_logo_update_06_28_21.png](/timeline_project_1920x1080_logo_update_06_28_21.png)
