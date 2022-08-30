@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-08-30T11:04:56.246Z
+date: 2022-08-30T11:07:15.062Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -75,7 +75,7 @@ Please be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#imp
 ## [Spectrum.fi (formally ErgoDex)](https://ergodex.io/)
 
 ![screenshot_2022-01-09_at_18.13.43.png](/screenshot_2022-01-09_at_18.13.43.png)
-There is currently one decentralized exchange on Ergo, Spectrum (ex-Ergodex). There are several pools on Spectrum with a visible estimated asset annual percentage yield (APY) that can be used for yield harvesting.
+There is currently one decentralized exchange on Ergo, Spectrum. There are several pools on Spectrum with a visible estimated asset annual percentage yield (APY) that can be used for yield harvesting.
 
 Your redeemable amount changes as the pool gets used and a percentage of the swaps are earned by the pool. You get a percent of the pool fee proportional to your stake.
 
