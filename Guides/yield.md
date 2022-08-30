@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-08-30T11:07:15.062Z
+date: 2022-08-30T22:12:23.418Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -55,7 +55,7 @@ Decentralized, On-Chain Wrapped Bitcoin on Ergo and Cardano.
 * [Reddit](https://www.reddit.com/r/anetaBTC/)
 
 
-## NightOwl
+## [NightOwl](/en/dApps/NightOwlCasino)
 
 Soon staking with a *stable token* will be available, no risk of impermanent loss or token price drops. just good old fashioned passive returns on a stable asset by acting as a house in Night Owl Casino.
 
