@@ -1,8 +1,8 @@
 ---
-title: ErgoDEX
+title: Spectrum (ex-ErgoDEX)
 description: 
 published: true
-date: 2022-08-30T21:21:36.642Z
+date: 2022-08-30T22:08:07.137Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-24T11:14:01.510Z
