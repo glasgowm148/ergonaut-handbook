@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-08-30T09:53:24.996Z
+date: 2022-08-30T10:59:33.669Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -91,6 +91,25 @@ Your redeemable amount changes as the pool gets used and a percentage of the swa
 - [Reddit](https://www.reddit.com/r/ergodex/)
 - [SigmaUSD Telegram](https://t.me/SigmaUSD)
 
+
+
+### Spectrum (formally ErgoDex)
+
+~~[r/ErgoDex](https://www.reddit.com/r/SpectrumLabs/) & [ErgoDex Docs](https://docs.ergodex.io/) | official subreddit / Dex protocol overview and detailed usage guides~~
+
+ 
+
+> **ErgoDex has rebranded to Spectrum Labs!**
+
+> "Over time we realized that the ambitions of our team went beyond just a DEX, so we decided to transform our project into something more. We called it Spectrum."
+
+- [Medium article](https://spectrumlabs.medium.com/now-we-are-spectrum-eaf17a2b65e) | reasons for Ergodex-->Spectrum Labs rebrand  
+
+- [r/SpectrumLabs](https://www.reddit.com/r/SpectrumLabs/) | new subreddit
+
+- [spectrum.fi](https://spectrum.fi/)  | new landing-page URL for project/ DEX
+
+- [Spectrum Docs](https://docs.spectrum.fi/) | detailed overview and usage guides
 <br>
 
 
