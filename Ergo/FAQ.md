@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-08-31T00:22:00.149Z
+date: 2022-08-31T03:57:12.932Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -23,7 +23,9 @@ Although PoS is a very secure protocol, some smart contracts may require the con
 
 Robert K, discusses this [here (14:45)](https://youtu.be/2sbTMrQwWOw)
 
-Autolykos v1 originally had non-outsourcability built-in, however, it became apparent that with smart contracts it's basically impossible to prevent pools, so they turned it off so that not only larger players were able to take advantage of the loophole. Ergo is now focusing on memory hardness in an attempt to keep mining as fair as possible, which should help prevent ASICs mining at least. There are also some improvements for pooling, e.g. Stratum 2 protocol. 
+Autolykos v1 originally had non-outsourcability built-in to prevent mining pools on Ergo. However, it became apparent that with smart contracts it's basically impossible to prevent pools, so they  (the miners) turned it off so that not only larger players were able to take advantage of the loophole. Ergo is now focusing on memory hardness in an attempt to keep mining as fair as possible, which should help prevent ASICs mining at least. There are also some improvements for pooling, e.g. Stratum 2 protocol. 
+
+Mining pools have certain benefits that are just now being exposed by Ergo, like more equitable token distribution for dApps/ projects. This is now available to miners on GETBLOK.io, using the world's first *working* SmartPools/subpooling system. 
 
 “Bypassing Non-Outsourceable Proof-of-Work Schemes Using Collateralized Smart Contracts” https://ia.cr/2020/044 was presented by Alex Chepurnoy at WTSC workshop associated with Financial Cryptography and Data Security 2020 in Malaysia
 
