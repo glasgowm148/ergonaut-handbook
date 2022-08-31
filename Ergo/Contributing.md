@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2022-08-27T07:44:36.787Z
+date: 2022-08-31T03:28:06.545Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-15T13:21:44.908Z
@@ -36,7 +36,7 @@ If you're not sure what to do, or just want to be more involved in the community
 	-	[LETS Discussion summary](https://www.ergoforum.org/t/lets-discussion-summary/3492)
 	- [A Proposal for a public good stablecoin](https://www.ergoforum.org/t/a-proposal-for-a-public-good-stablecoin/3432)
 	- [Lessons for sigmausd from the DJED paper](https://www.ergoforum.org/t/lessons-for-sigmausd-from-the-djed-paper/2345)
-3. Create an account here on the Ergonaut community wiki, by [registering](/register) and helping us update and maintain The Ergonaut Handbook. If that link doesn't work on mobile, please view desktop version of site or visit- https://ergonaut.space/register 
+3. Create an account here on the Ergonaut community wiki, by [registering](/register) and helping us update and maintain The Ergonaut Handbook. If that link doesn't work on mobile, please view desktop version of site or visit- https://ergonaut.space/register. 
 
 4. Join the [community discussion spaces](https://github.com/glasgowm148/awesome-ergo/blob/master/pages/community.md)
 5. Create a regional chapter and grow Ergo's reach locally.
