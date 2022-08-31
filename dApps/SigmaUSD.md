@@ -2,7 +2,7 @@
 title: dApps/SigmaUSD
 description: 
 published: true
-date: 2022-08-31T13:42:47.272Z
+date: 2022-08-31T13:45:28.069Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
@@ -24,7 +24,7 @@ SimgaRSV acts as a reserve and it's mechanism is more complex. Please see [this 
 - [Tokenjay.app](https://tokenjay.app/)
 - [SigmaUSD.io](https://www.sigmausd.io)
 
-## Additional Information
+# Additional Information
 
 You can check the following pages for more detailed information:
 
