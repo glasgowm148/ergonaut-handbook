@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-08-30T22:12:23.418Z
+date: 2022-08-31T13:43:41.388Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -183,17 +183,7 @@ Requires ERG as a native ADA token.
 
 You can lend there for around 3.5%
 
-
 # Trading
-
-## [SigmaUSD.io](https://www.sigmausd.io)
-
-SigmaUSD can be used as a long/short against the price of erg. 
-
-SigmaUSDs mechanism is relatively simple and acts like USD. If the price goes down -50c you break even on the fee both waves - any further and you will recieve more erg in return. 
-
-SimgaRSV acts as a reserve and it's mechanism is more complex. Please see [this article](https://ergonaut.space/en/dApps/SigmaUSD) for more information. 
-
 
 ## [Gate.io](https://www.gate.io/)
 
@@ -205,8 +195,6 @@ Offers leveraged trading.
 - [Bitcoin Stats](https://www.lopp.net/bitcoin-information/statistics-metrics.html)
 - [Chainanalysis](https://markets.chainalysis.com)
 - [The Pattern Site](http://thepatternsite.com/barrb.html)
-
-
 
 # Appendix
 
