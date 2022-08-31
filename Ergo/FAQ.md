@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-08-31T03:57:12.932Z
+date: 2022-08-31T04:06:33.590Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -14,7 +14,7 @@ Ergo is based on the Autolykos Proof-of-Work protocol.
 
 Proof-of-Work has tried and tested methods, and provides several benefits over PoS. You can see Charles Hoskinson discussing some of those benefits in a [recent AMA (timestamped)](https://youtu.be/Y27Q3wL_Hko?t=207)
 
-Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is, if it is doing collateralized DeFi, the larger the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient security for all more complex DApps implementations on top of the common UTxO model rather than trying to translate very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are completely different.
+Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is, if it is doing collateralized DeFi, the larger the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient security for all more complex DApps implementations on top of the common UTxO model.  The PoW+UTXO model was chosen, rather than trying to translate very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are completely different.
 
 - See our post on [Cardano](https://ergonaut.space/en/Ergo/Ergo-And-Cardano) for more information
 - [Ergo: Why Proof of Work?](https://curiaregiscrypto.medium.com/ergo-why-proof-of-work-47c9b25fae70)
