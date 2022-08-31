@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2022-08-31T03:29:41.641Z
+date: 2022-08-31T03:33:07.250Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-15T13:21:44.908Z
@@ -22,8 +22,8 @@ Below are some general areas to get involved in straight away. To take a more ha
 
 1. Creating marketing materials or activities. Post these to Telegram, Discord, or Reddit and you can be tipped (real erg - or erdoge if you're lucky) for your efforts. 
 2. Join the the [@ErgoSocials](https://t.me/ErgoSocials) or the [#marketing](https://discord.gg/TBFXMzha7X) channel on Discord and collaborate. 
-3. Read (or add to) the community built [Guerrilla Marketing handbook](https://ergonaut.space/en/Guides/Guerrilla-Marketing)
-4. Collaborate on the - [Shared Figma Graphic Space](https://www.figma.com/file/pd92vgB3xNFThaacIKodYs/Guide-ID?node-id=1%3A756)
+3. Read (or add to) the community built [Guerrilla Marketing handbook](https://ergonaut.space/en/Guides/Guerrilla-Marketing).
+4. Collaborate on the - [Shared Figma Graphic Space](https://www.figma.com/file/pd92vgB3xNFThaacIKodYs/Guide-ID?node-id=1%3A756).
 5. See the [dropbox](https://www.dropbox.com/sh/jionpgnj89eod2f/AAC5S1vnOwO3gm2vRYOmDBQ-a?dl=0) for community-graphics. 
 
 ## Chat!
@@ -32,7 +32,7 @@ If you're not sure what to do, or just want to be more involved in the community
 
 
 1. [Create issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) on GitHub code repositories. These can be suggestions, text-fixes, or any improvements you can think of. This acts as a *todo list* for developers, allowing them to track the changes wanted by the community. 
-2. Participate in community discussions on the forums
+2. Participate in community discussions on the forums:
 	-	[LETS Discussion summary](https://www.ergoforum.org/t/lets-discussion-summary/3492)
 	- [A Proposal for a public good stablecoin](https://www.ergoforum.org/t/a-proposal-for-a-public-good-stablecoin/3432)
 	- [Lessons for sigmausd from the DJED paper](https://www.ergoforum.org/t/lessons-for-sigmausd-from-the-djed-paper/2345)
@@ -40,9 +40,9 @@ If you're not sure what to do, or just want to be more involved in the community
 
 https://ergonaut.space/register
 
-4. Join the [community discussion spaces](https://github.com/glasgowm148/awesome-ergo/blob/master/pages/community.md)
+4. Join the [community discussion spaces](https://github.com/glasgowm148/awesome-ergo/blob/master/pages/community.md).
 5. Create a regional chapter and grow Ergo's reach locally.
-6. Spread Ergo [graphics](https://photos.app.goo.gl/HUMnfRjyFDyHSPhHA) on social
+6. Spread Ergo [graphics](https://photos.app.goo.gl/HUMnfRjyFDyHSPhHA) on socials. 
 
 
 
