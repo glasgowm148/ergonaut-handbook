@@ -2,20 +2,29 @@
 title: dApps/SigmaUSD
 description: 
 published: true
-date: 2022-05-16T15:19:20.464Z
+date: 2022-08-31T13:42:47.272Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
 ---
 
-> Introducing [SigmaUSD.io](https://sigmausd.io/#/) the first UTxO-based stable coin - an instantiation of the [AgeUSD protocol](https://github.com/Emurgo/age-usd). The foundation on which a new era of digital finance will be built.
->
->Its economic model designed in partnership between IOHK, Ergo, and Emurgo maintains the conservative settings for collateral reserves and avoids the need for liquidations. Along with that, it supports a fully decentralised stablecoin emission setup. **Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.**
+> [SigmaUSD.io](https://sigmausd.io/#/) is the first UTxO-based stable coin - an implementation of the [AgeUSD protocol](https://github.com/Emurgo/age-usd). Its economic model is designed to maintain conservative settings for collateral reserves and avoids the need for liquidations. It supports a fully decentralised stablecoin emission setup. **Thus, SigmaUSD will offer the world a stable, simple, and decentralised stablecoin.**
 {.is-success}
 
-
-
 # Overview
+
+SigmaUSD can be used as a long/short against the price of erg. 
+
+SigmaUSDs mechanism is relatively simple and acts like USD. If the price goes down -50c you break even on the fee both waves - any further and you will recieve more erg in return. 
+
+SimgaRSV acts as a reserve and it's mechanism is more complex. Please see [this article](https://ergonaut.space/en/dApps/SigmaUSD) for more information. 
+
+## Purchasing SigUSD/SigRSV
+
+- [Tokenjay.app](https://tokenjay.app/)
+- [SigmaUSD.io](https://www.sigmausd.io)
+
+## Additional Information
 
 You can check the following pages for more detailed information:
 
