@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-03-17T08:25:52.134Z
+date: 2022-08-31T00:22:00.149Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -60,11 +60,11 @@ You will need a dedicated GPU (AMD/Intel), see [Mining](https://ergonaut.space/e
 
 Algorithmic Stablecoin, backed by a reserve which in it's most simplest form is betting long and short bets against each other. See [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD/Overview) for more.
 
-## ErgoDex
+## SpectrumLabs (formally ErgoDex)
 
-AMM + Order-Book Liquidity
+[Spectrum](/en/dApps/ergodex) allows trading and earning via AMM pools today, with future plans to add Order-Book Liquidity and other functionalities .
 
-[ErgoDex](https://ergonaut.space/en/dApps/ergodex)
+**A non-custodial, decentralised exchange that allows a quick, effortless and secure transfer of liquidity between the Ergo and Cardano networks.**
 
 
 ## Oracle Pools
