@@ -2,7 +2,7 @@
 title: Storage Rent
 description: 
 published: true
-date: 2022-09-01T21:31:02.769Z
+date: 2022-09-01T21:32:44.213Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T19:06:27.106Z
@@ -60,7 +60,7 @@ Fees will be deducted slowly, over time – the unmoved UTXOs will not simply be
 
 In this way, Ergo seeks to ensure a balance between maintaining digital scarcity, on the one hand, and giving miners long-term incentives to secure the blockchain, on the other – long past the point where new coins have ceased to be released.
 
-Share post:
+**Welcome to Smart Money**
 
 [Facebook](http://www.facebook.com/sharer.php?u=https%3a%2f%2fergoplatform.org%2fen%2fblog%2f2020_02_12_welcome_to_smart_money%2f)
 
