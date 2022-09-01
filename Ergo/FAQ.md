@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-01T09:06:37.697Z
+date: 2022-09-01T09:10:05.572Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -31,7 +31,7 @@ Mining pools have certain benefits that are just now being exposed by Ergo, like
 
 It's also discussed here on 'Unblocked with Robert Kornacki' [(14:45)](https://www.youtube.com/watch?v=2sbTMrQwWOw&feature=youtu.be)
 
-## What about 51% attacks
+## What about 51% attacks?
 
 Mining pools offer a buffer against such network attacks as the hash rate is distributed across thousands of individual miners.
 
@@ -43,7 +43,7 @@ Ethereum classic is perhaps a bad example, as it shares the same mining algorith
 
 ## Can I mine Erg?
 
-You will need a dedicated GPU (AMD/Intel), see [Mining](https://ergonaut.space/en/Guides/Mining)
+Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://ergonaut.space/en/Guides/Mining) for more details.
 
 
 # Use-Cases 
