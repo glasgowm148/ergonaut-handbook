@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-01T09:06:07.237Z
+date: 2022-09-01T09:06:37.697Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -10,7 +10,7 @@ dateCreated: 2021-02-24T09:09:29.612Z
 
 ## Why Proof-of-Work ?
 
-Ergo is based on the Autolykos Proof-of-Work protocol. 
+Ergo is based on the [Autolykos](/en/Glossary/Autolykos) Proof-of-Work protocol. 
 
 Proof-of-Work has tried and tested methods, and provides several benefits over PoS. You can see Charles Hoskinson discussing some of those benefits in a [recent AMA (timestamped)](https://youtu.be/Y27Q3wL_Hko?t=207)
 
