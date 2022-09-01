@@ -2,13 +2,13 @@
 title: FAQ
 description: 
 published: true
-date: 2022-08-31T04:06:33.590Z
+date: 2022-09-01T09:06:07.237Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
 ---
 
-# Why Proof-of-Work ?
+## Why Proof-of-Work ?
 
 Ergo is based on the Autolykos Proof-of-Work protocol. 
 
