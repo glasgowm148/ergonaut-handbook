@@ -2,7 +2,7 @@
 title: Storage Rent
 description: 
 published: true
-date: 2022-09-01T19:57:48.690Z
+date: 2022-09-01T20:00:29.845Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T19:06:27.106Z
@@ -24,7 +24,7 @@ Mining rewards are a key feature in maintaining the security of proof-of-work bl
 
 Digital scarcity is an important feature of Ergo. Like Bitcoin, ERG are designed to be a finite resource and long-term store of value. We do not agree with the principle of infinite inflation.
 
-And yet, this has to be balanced against the needs to pay miners to secure the blockchain and process transactions. Without adequate compensation for miners, there is no viable blockchain at all. Ergo approaches this by slowly recycling lost coins, in a feature we call ‘Storage rent’.
+And yet, this has to be balanced against the needs to pay miners to secure the blockchain and process transactions. Without adequate compensation for miners, there is no viable blockchain at all. Ergo approaches this by slowly recycling lost coins, in a feature we call ‘Storage Rent’.
 
 Studies suggest that as many as [4 million BTC may have been lost forever](https://bitcoinist.com/estimated-4-million-bitcoin-lost-forever-by-users-forgetfulness/). These are coins that were mined in the early days of Bitcoin and stored on hard drives that were subsequently thrown away or destroyed because the owners forgot about them or thought they were worthless, as well as coins in addresses for which the private keys have been lost. (And, of course, there’s Satoshi’s estimated holdings of 1 million BTC, which may never move.)
 
