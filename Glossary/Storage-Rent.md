@@ -2,7 +2,7 @@
 title: Storage Rent
 description: 
 published: true
-date: 2022-09-01T20:40:15.687Z
+date: 2022-09-01T21:04:00.041Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T19:06:27.106Z
@@ -11,6 +11,8 @@ dateCreated: 2021-03-02T19:06:27.106Z
 # Storage Rent
 
 **We’ve designed Ergo with long-term economic sustainability in mind, and storage rent is one of the ways we’re ensuring miners stay profitable well into the future. One community member, Robert, describes this function as ‘on-chain garbage collection’ that reduces the problem of blockchain bloat – and even makes it profitable.**
+-----
+**Bitcoin without the Block Reward**
 
 The 2020 block reward reduction will probably be the most important halving Bitcoin ever experiences. This is the point where the narrative of programmatic scarcity and digital gold will truly be proven, in the context of the sharpest economic downturn in living memory. In previous halvings, Bitcoin has still been in its infancy, a niche experiment. Future halvings will confirm the principle. But this one is the watershed.
 
@@ -34,17 +36,18 @@ Where coins have genuinely been permanently taken out of circulation in this way
 
 Ergo’s halving schedule is faster than Bitcoin’s. Block rewards start at 75 ERG, and decrease steadily after the first two years. ~~There is no ‘long tail’ of emission, and after eight years block rewards will fall to zero.~~ The number of ERG in existence will never be more than 97,739,925.
 
-> NOTE: EIP-27 is extending Ergo's original 8 year emission schedule via soft-fork. After passing (with over 90% of miners voting in favor), the proposal was activated on mainnet on block 777,217 (June 21, 2022). Anyone interested can review the final proposal on the [EIP-27 GitHub page](https://github.com/ergoplatform/eips/blob/master/eip-0027.md), join the previous community discussion at
-
- [Ergo Emission: details, retargeting via a soft-fork](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778/21), and read this [blog post](https://ergoplatform.org/en/blog/A-New-Era-for-Ergo-EIP-27-Begins-Today/) for a detailed summary of the updated emissions schedule. 
-{.is-danger}
+> NOTE: EIP-27 is extending Ergo's original 8 year emission schedule via soft-fork. After passing (with over 90% of miners voting in favor), the proposal to "retarget" emissions was activated on mainnet with block 777,217 (June 21, 2022). 
+</br>
+Anyone interested can review the final proposal on the [EIP-27 GitHub page](https://github.com/ergoplatform/eips/blob/master/eip-0027.md), join the previous community discussion on
+[Ergo Emission: details, retargeting via a soft-fork](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778/21), and read this [blog post](https://ergoplatform.org/en/blog/A-New-Era-for-Ergo-EIP-27-Begins-Today/) for further details about the updated emissions schedule. 
+{.is-warning}
 
 
 **Storage fees**
 
 From that point, however, miners will need further incentives to secure the network. Miners have ongoing costs in terms of bandwidth and storage, and in cases where coins are simply left for years, there is typically no charge for reflecting the value of securing them. The tx fee that is paid up-front in Bitcoin is the only charge ever made for storing those coins.
 
-In Ergo, in addition to transaction fees, miners will also be able to collect storage rent fees on UTXOs that have not been moved for four years or more.
+In Ergo, in addition to transaction fees, miners will also be able to collect Storage Rent fees on UTXOs that have not been moved for four years or more.
 
 Fees will be deducted slowly, over time – the unmoved UTXOs will not simply be appropriated by miners. Anyone who wants to avoid this simply needs to move their balances once every four years, which is not an onerous requirement for helping incentivise miners and avoiding the deflationary consequences of lost coins. You can read more about how fees will be levied in [this paper](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final18.pdf).
 
