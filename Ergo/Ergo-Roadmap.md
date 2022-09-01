@@ -2,7 +2,7 @@
 title: Roadmap
 description: 
 published: true
-date: 2022-08-28T06:53:49.492Z
+date: 2022-09-01T09:27:18.226Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:11:23.408Z
@@ -17,7 +17,7 @@ References are available below.
 > For an up-to-date project roadmap please see official site: https://ergoplatform.org/en/ecosystem/#Roadmap
 {.is-info}
 
-**Below was last updated in 2021 and the Ergo ecosystem how grown a lot since  then.** 
+**Below was last updated in 2021 and the Ergo ecosystem how grown a lot since  then. Until this page is updated fully, please use the *up-to-date* project Roadmap found in the link above.** 
 ## Ergo Foundation Updates
 
 Successful Ergo Foundation votes in the past month
