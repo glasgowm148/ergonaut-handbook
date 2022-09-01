@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-01T08:48:36.795Z
+date: 2022-09-01T08:57:48.441Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -21,10 +21,11 @@ Sigmanauts gain exclusive access to the team, representing and bringing ideas to
 
 -------
 NOTE: Majority of the following text is borrowed from **"The Sigmanauts Programme"** [blog post](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) (Dec. 2021)
-##  Program Goals
+##  How Sigmanauts Contribute 
 
 The Sigmanauts Programme is designed to help people participate in, and take ownership of, Ergo. What can you bring to Ergo? What are your strengths and how can they be applied to the collective efforts of the community? If you are interested in becoming a contributing member of the Sigmanauts Program, there are three categories for you to consider.
-### Sigmannauts are tasked with improving Ergo in THREE main areas:
+
+ **Sigmannauts are tasked with improving Ergo in THREE main areas:**
 
 #### 1. GROWTH 📈 **Help bring new people into the community**.
 - Marketing
@@ -58,7 +59,7 @@ Over time, your role can evolve to become a Sigmanaut, and that comes with a **g
 
 ________________________
 
-## Perks 
+## Program Perks 
 
 
 Successful applicants will be awarded:
@@ -66,11 +67,11 @@ Successful applicants will be awarded:
 
 - [x] Special access to Ergo team & certain Discord groups 
 
-- [x] The `Sigmanaut` title/badge to use across socials
+- [x] The unique `Sigmanaut` title/badge to use across socials
 
 - [x] Ability to request payment(s) for their contributions.
 
-- [x] This official Sigmanaut NFT by [@ERGnomes](https://t.co/n0Cpbjel67) 
+- [x] This official Sigmanaut NFT ⬇️ by [@ERGnomes](https://t.co/n0Cpbjel67) 
 
 
 ![sigmanautnft.jpg](/sigmanautnft.jpg)
