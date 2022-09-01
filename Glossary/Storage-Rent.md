@@ -2,16 +2,17 @@
 title: Storage Rent
 description: 
 published: true
-date: 2022-09-01T21:12:14.599Z
+date: 2022-09-01T21:22:06.792Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T19:06:27.106Z
 ---
 
 # Storage Rent
+**tl;dr: Storage Rent is a fee for long term storage on the Ergo blockchain. You will be charged ~0.14 ERG and a transaction fee for any box (UTXO) of yours that remains dormant (unspent) for 4 years to pay for the costs of storing your digital information. You can avoid this fee by periodically "consolodating your boxes".**  
+____________
+We’ve designed Ergo with long-term economic sustainability in mind, and storage rent is one of the ways we’re ensuring miners stay profitable well into the future. One community member, Robert, describes this function as ‘on-chain garbage collection’ that reduces the problem of blockchain bloat – and even makes it profitable.
 
-**We’ve designed Ergo with long-term economic sustainability in mind, and storage rent is one of the ways we’re ensuring miners stay profitable well into the future. One community member, Robert, describes this function as ‘on-chain garbage collection’ that reduces the problem of blockchain bloat – and even makes it profitable.**
------
 **Bitcoin without the Block Reward**
 
 The 2020 block reward reduction will probably be the most important halving Bitcoin ever experiences. This is the point where the narrative of programmatic scarcity and digital gold will truly be proven, in the context of the sharpest economic downturn in living memory. In previous halvings, Bitcoin has still been in its infancy, a niche experiment. Future halvings will confirm the principle. But this one is the watershed.
