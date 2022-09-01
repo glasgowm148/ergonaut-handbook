@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-01T08:57:48.441Z
+date: 2022-09-01T08:58:46.578Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -21,7 +21,7 @@ Sigmanauts gain exclusive access to the team, representing and bringing ideas to
 
 -------
 NOTE: Majority of the following text is borrowed from **"The Sigmanauts Programme"** [blog post](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) (Dec. 2021)
-##  How Sigmanauts Contribute 
+##  Ways to Contribute 
 
 The Sigmanauts Programme is designed to help people participate in, and take ownership of, Ergo. What can you bring to Ergo? What are your strengths and how can they be applied to the collective efforts of the community? If you are interested in becoming a contributing member of the Sigmanauts Program, there are three categories for you to consider.
 
