@@ -2,26 +2,26 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-01T08:58:46.578Z
+date: 2022-09-01T09:02:45.432Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
 ---
 
-## Sigmanaut Training Program
-### The Ergo Community Ambassador Program
+# Sigmanaut Training Program
+## The Ergo Community Ambassador Program
 
  **First, please check out the official Sigmanauts [Twitter announcement](https://twitter.com/ergoplatformorg/status/1471226580160684032?s=20&t=acrTQ2jyD6r5SO_VN4U8WA) below**:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are you interested in helping promote <a href="https://twitter.com/hashtag/Ergo?src=hash&amp;ref_src=twsrc%5Etfw">#Ergo</a>? Then you need to check out the <a href="https://twitter.com/hashtag/Sigmanaut?src=hash&amp;ref_src=twsrc%5Etfw">#Sigmanaut</a> Training Program! Learn how to help <a href="https://twitter.com/hashtag/educate?src=hash&amp;ref_src=twsrc%5Etfw">#educate</a> the community and promote awareness of the Ergo <a href="https://twitter.com/hashtag/blockchain?src=hash&amp;ref_src=twsrc%5Etfw">#blockchain</a>.<br><br>Signup Form👉 <a href="https://t.co/LIZAFHRLJc">https://t.co/LIZAFHRLJc</a><a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> <a href="https://twitter.com/hashtag/crypto?src=hash&amp;ref_src=twsrc%5Etfw">#crypto</a> <a href="https://twitter.com/hashtag/Ergonauts?src=hash&amp;ref_src=twsrc%5Etfw">#Ergonauts</a> <a href="https://twitter.com/search?q=%24ERG&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ERG</a></p>&mdash; Ergo (@ergoplatformorg) <a href="https://twitter.com/ergoplatformorg/status/1471226580160684032?ref_src=twsrc%5Etfw">December 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Program Overview
+### Program Overview
 
 
 Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are activily helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, or by helping to shape the structure of the Sigmanaut program itself. 
 
 -------
 NOTE: Majority of the following text is borrowed from **"The Sigmanauts Programme"** [blog post](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) (Dec. 2021)
-##  Ways to Contribute 
+###  Ways to Contribute 
 
 The Sigmanauts Programme is designed to help people participate in, and take ownership of, Ergo. What can you bring to Ergo? What are your strengths and how can they be applied to the collective efforts of the community? If you are interested in becoming a contributing member of the Sigmanauts Program, there are three categories for you to consider.
 
@@ -49,7 +49,7 @@ ___________
 >
 >Are you a skilled graphic designer, videographer or writer? Do you have social media expertise? If so, there is always a need for creative people with these specialized skill sets. As the Ergo ecosystem grows, there will be a continued need for video tutorials, technical blogs, how-to guides, infographics, etc.
 __________________
-## Applicantion Process
+### Applicantion Process
 
 **SigCAN & Sigmanaut Roles** 
 
@@ -59,7 +59,7 @@ Over time, your role can evolve to become a Sigmanaut, and that comes with a **g
 
 ________________________
 
-## Program Perks 
+### Perks 
 
 
 Successful applicants will be awarded:
@@ -85,7 +85,7 @@ Successful applicants will be awarded:
 
 
 
-## Responsibilities
+### Responsibilities
 
 The Ergo community consists of people from all over the world and all walks of life who have come together to grow and safeguard the future of Ergo. **All participants in the community are expected to act lawfully, honestly, ethically, and in the project's best interest.**
 
@@ -95,7 +95,7 @@ Sigmanauts who 1) violate the [Ergo Community Code of Conduct](/en/Ergo/Contribu
 {.is-info}
 
 _________________
-## Want to Apply?
+### Want to Apply?
 
 If you can offer your time, skills and/or experience for #Ergo, please apply to the Sigmanaut Program below!
 
