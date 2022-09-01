@@ -2,7 +2,7 @@
 title: Storage Rent
 description: 
 published: true
-date: 2022-09-01T20:00:29.845Z
+date: 2022-09-01T20:40:15.687Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T19:06:27.106Z
@@ -29,10 +29,15 @@ And yet, this has to be balanced against the needs to pay miners to secure the b
 Studies suggest that as many as [4 million BTC may have been lost forever](https://bitcoinist.com/estimated-4-million-bitcoin-lost-forever-by-users-forgetfulness/). These are coins that were mined in the early days of Bitcoin and stored on hard drives that were subsequently thrown away or destroyed because the owners forgot about them or thought they were worthless, as well as coins in addresses for which the private keys have been lost. (And, of course, there’s Satoshi’s estimated holdings of 1 million BTC, which may never move.)
 
 Where coins have genuinely been permanently taken out of circulation in this way, it makes sense to have a mechanism to recover them and put them back into the blockchain economy. That way, we can preserve digital scarcity without unnecessarily accelerating it. In other words, by attempting to stick to the intended algorithmic supply for any given point in time.
+ 
 
-Ergo’s halving schedule is faster than Bitcoin’s. Block rewards start at 75 ERG, and decrease steadily after the first two years. There is no ‘long tail’ of emission, and after eight years block rewards will fall to zero. After that, total supply will be fixed. The number of ERG in existence will never be more than 97,739,925.[^1]  
 
-[^1]: -	EIP 27 is extending Ergo's original 8 year emission schedule via soft-fork. This EIP passed with over 90% miner support and was activated on mainnet at block 777,217 (June 21, 2022) . Anyone interested can review the final proposal on the [EIP-27 GitHub page](https://github.com/ergoplatform/eips/blob/master/eip-0027.md), join the previous community discussion at [Ergo Emission: details, retargeting via a soft-fork](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778/21), and read this [blog post](https://ergoplatform.org/en/blog/A-New-Era-for-Ergo-EIP-27-Begins-Today/) for detailed summary of EIP-27.
+Ergo’s halving schedule is faster than Bitcoin’s. Block rewards start at 75 ERG, and decrease steadily after the first two years. ~~There is no ‘long tail’ of emission, and after eight years block rewards will fall to zero.~~ The number of ERG in existence will never be more than 97,739,925.
+
+> NOTE: EIP-27 is extending Ergo's original 8 year emission schedule via soft-fork. After passing (with over 90% of miners voting in favor), the proposal was activated on mainnet on block 777,217 (June 21, 2022). Anyone interested can review the final proposal on the [EIP-27 GitHub page](https://github.com/ergoplatform/eips/blob/master/eip-0027.md), join the previous community discussion at
+
+ [Ergo Emission: details, retargeting via a soft-fork](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778/21), and read this [blog post](https://ergoplatform.org/en/blog/A-New-Era-for-Ergo-EIP-27-Begins-Today/) for a detailed summary of the updated emissions schedule. 
+{.is-danger}
 
 
 **Storage fees**
