@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-02T04:00:05.392Z
+date: 2022-09-02T04:06:09.525Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -25,13 +25,14 @@ Night Owl was part of Ergohack III and has lots of news to come in the near futu
 ## Related Links
 Check out the litepaper on the project:
 
-https://medium.com/@NightOwlCasino/litepaper-7c360b2cff7
+- https://medium.com/@NightOwlCasino/litepaper-7c360b2cff7
 
 Join the communities and follow on twitter!
 
-Linktree: https://linktr.ee/NightOwlCasino
-----
-**Some Night Owl teaser pics to enjoy:**
+-  Linktree: https://linktr.ee/NightOwlCasino
+</br>
+## Night Owl sneak-peek
+**Night Owl teaser pics should give a glimpse of what's to come:**
 
 Homepage preview 1
 ![1stnightowlhomepage-preview.jpg](/ergodapps/1stnightowlhomepage-preview.jpg)
