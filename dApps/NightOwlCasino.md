@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-02T04:09:26.705Z
+date: 2022-09-02T04:21:16.913Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -43,6 +43,6 @@ Homepage preview 2
 Roulette preview 
 ![nightowl-roulettepreview.png](/ergodapps/nightowl-roulettepreview.png)
 Roulette Information Page (featuring Foeniculum piece)
-![screenshot_20220901-224116.png](/ergodapps/screenshot_20220901-224116.png)
+![europeanrouletteinfographic_(rotated).jpg](/europeanrouletteinfographic_(rotated).jpg)
 </br>
 **Like what you see? Please, stay tuned for more project updates!**
