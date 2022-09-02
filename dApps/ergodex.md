@@ -1,9 +1,9 @@
 ---
-title: Spectrum (formally ErgoDEX)
-description: 
+title: Spectrum (formerly ErgoDEX)
+description: Spectrum is a native cross-chain DeFi ecosystem
 published: true
-date: 2022-08-30T22:09:21.403Z
-tags: 
+date: 2022-09-02T03:22:09.184Z
+tags: yield, dapps, dex, swap, amm, cardano
 editor: markdown
 dateCreated: 2021-04-24T11:14:01.510Z
 ---
