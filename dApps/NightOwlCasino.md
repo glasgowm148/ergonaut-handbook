@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T11:23:54.523Z
+date: 2022-09-03T11:26:56.965Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -20,7 +20,7 @@ dateCreated: 2022-08-30T21:48:11.631Z
 ## Overview 
 
 
-###### **Night Owl** 
+ **Night Owl** 
 
 - The world's first fully decentralized casino 🏛️ 
 
@@ -106,15 +106,18 @@ Play Spooky hunt beta [game](https://spookyhunt.netlify.app/)
 
 - If you are interested in listing your game on Night Owl, please feel free to reach out through any of the associated community channels.
 
-###### https://linktr.ee/NightOwlCasino
+https://linktr.ee/NightOwlCasino
 
 
 Check out the litepaper on the project:
 
-- https://medium.com/@NightOwlCasino/litepaper-7c360b2cff7
+https://medium.com/@NightOwlCasino/litepaper-7c360b2cff7
 
 Join the communities and follow on twitter!
-@NightOwlCasino
+
+https://twitter.com/NightOwlCasino
+
+
 </br>
 ## Night Owl Casino 👀 sneek-peek 👀
 **Night Owl teaser pics to enjoy:**
