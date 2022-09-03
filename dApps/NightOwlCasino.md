@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T11:05:16.247Z
+date: 2022-09-03T11:09:50.363Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -72,14 +72,18 @@ Ultimately, this shared liquidity will lead to quicker ramp-up periods for third
 
 -----
 
-> The Night Owl team is happy to be introducing [**Spooky Hunt**](https://www.reddit.com/r/ergonauts/comments/wmn0um/spooky_hunt_game_how_will_work/) as the first third-party game to be added to Night Owl Casino!! 
+>  The Night Owl team is happy to be introducing [**Spooky Hunt**](https://www.reddit.com/r/ergonauts/comments/wmn0um/spooky_hunt_game_how_will_work/) as the first third-party game to be added to Night Owl Casino!! 
+{.is-success}
+
 
 
 
 
  - Spooky Hunt (in beta)  is a Pacman style, Pay-to-Play NFT game, in which players try to collect points while running away from the "Priests" that chase them.
  
-- There will be two modes in Spooky Hunt game, first the **Leaderboard mode** where players will pay to play , and later **PvP mode (player vs player)** where players will place a bet with another players or teams.  
+- There will be two modes in Spooky Hunt game, 
+1st. **Leaderboard mode** where players will pay to play 
+2nd. **PvP mode (player vs player)** where players will place a bet with another players or teams.  
 
  
 - Spooky Ergo NFT holders will recieve additional bonuses, like being able to play the game at a 25% discounted rate in Leaderboard node.
@@ -109,7 +113,7 @@ Join the communities and follow on twitter!
 -  Linktree: https://linktr.ee/NightOwlCasino
 </br>
 ## Night Owl Casino 👀 sneek-peek 👀
-**Night Owl teaser pics should give a idea of what's to come:**
+**Night Owl teaser pics to enjoy:**
 
 Homepage preview 1
 ![1stnightowlhomepage-preview.jpg](/ergodapps/1stnightowlhomepage-preview.jpg)
