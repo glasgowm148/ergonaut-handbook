@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-09-03T12:58:10.434Z
+date: 2022-09-03T13:00:40.979Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -29,9 +29,8 @@ Miners have to perform memory-hard computations~(at least 2.5 GB memory is curre
 There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐mine. At the end of 8 years, the final Erg supply will be 97,739,925 Ergs. The Ergo block interval is 2 minutes and for the first 2 years, each block will release a total of 75 Ergs to be shared between the miners and the Treasury (Treasury discussed below). But starting at year 2, the rate of emission will fall by 3.0 Ergs and thereafter further decline every 3 months by an additional 3.0 Ergs, ~~which will result in an end to emission 8 years after launch.~~
 
 > See [Ergo Emission: details, retargeting via a soft-fork](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778) and [EIP-27 github](https://github.com/ergoplatform/eips/blob/master/eip-0027.md) for kushti's soft-fork proposal in final implemented form.
-</br>
-
-Original 8 year emission schedule has been extended after supermajority of miners vote in favor of soft fork. Total supply of 97,739,925 Ergs is strictly preserved.   
+>
+> Original 8 year emission schedule has been extended after supermajority of miners vote in favor of soft fork. Total supply of 97,739,925 Ergs is strictly preserved.   
 {.is-warning} 
 
 
