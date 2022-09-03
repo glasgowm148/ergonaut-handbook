@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T11:36:33.487Z
+date: 2022-09-03T12:37:31.935Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -65,8 +65,8 @@ Developers can earn fees on Night Owl in a couple different ways:
 - **Traditional** | collect from liquidity provider earnings, when the "house" wins
 
 - **Pay to Play** | take a set percent from every Pot
-**
-Third-party games can share liquidity**
+
+**Third-party games can share liquidity**
 
 By using the OWL stable-token for their game currency, third-party developers can utilize already existing liquidity funds when launching their own games.**
 
