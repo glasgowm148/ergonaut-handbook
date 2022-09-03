@@ -2,21 +2,21 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T10:20:30.982Z
+date: 2022-09-03T10:50:33.169Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
 ---
 
-# Night Owl Casino (
+# Night Owl Casino *coming soon!*
 
 
-Night Owl is the world's first fully decentralized casino 🏛️ Stablecoin-pegged bets 💵 Profit-sharing ⚖️ Full transparency 🔬 Open-source 👀
 
-{.is-success}
+`Night Owl is the world's first fully decentralized casino 🏛️ Stablecoin-pegged bets 💵 Profit-sharing ⚖️ Full transparency 🔬 Open-source 👀`
+
 
 ![banner-nightowl-logo-.jpg](/ergodapps/banner-nightowl-logo-.jpg)
-## dApp Overview 
+## Overview 
 Night Owl (in-progress) is the first decentralized casino on Ergo.
 - USD-pegged bets
 - liquidity pool for profit sharing
@@ -25,14 +25,23 @@ Night Owl (in-progress) is the first decentralized casino on Ergo.
 
 Not only will you be able make (or lose) money on Night Owl by gambling (like with a traditional casino), you can also gain passive returns on a non-volatile asset, the OWL stable-token, by providing liquidity/being the house.
 
-**This option to be the house, no ICO or private token sales, plus fully-verifiable transparency, is why we like to call Night Owl-** 
+**The unique option to be the house, no ICO or private token sales, plus fully-verifiable transparency, is why we like to call Night Owl-** 
 
 ###### "The World's Fairest Casino"
+
 
 Night Owl was part of Ergohack III and has lots of news to come in the near future.
 
 
+## [The Pioneers — Night Owl’s First Four Games](https://medium.com/@NightOwlCasino/the-pioneers-night-owls-first-four-games-31dc6406a5f8)
 
+· Roulette
+
+· Blackjack
+
+· CoinFlip
+
+· Lottery
 
 
 --------
@@ -52,22 +61,21 @@ Developers can earn fees on Night Owl in a couple different ways:
 
 **Pay to Play** | take a set percent from every Pot
 
-###### Third-party games on Night Owl can share liquidity
+###### Third-party games can share liquidity
 
 By using the OWL stable-token for their game currency, third-party developers can utilize already existing liquidity funds when launching their own games.**
 
 Ultimately, this shared liquidity will lead to quicker ramp-up periods for third-party games on Night Owl. This is mutually beneficial players, liquidity providers, and game devs in the end.
 
-
-</br>
+-----
 
 > The Night Owl team is happy to introduce the first third-party game is already in the process of being added to Night Owl Casino!! 
 {.is-success}
 
 
-> Introducing **Spooky Hunt**
+> Introducing [**Spooky Hunt**](https://www.reddit.com/r/ergonauts/comments/wmn0um/spooky_hunt_game_how_will_work/) 
 
- - Spooky Hunt (in beta)  is a Pacman style, Pay-to-Play NFT game, in which players try to collect points while running away from Priests that chase them.
+ - Spooky Hunt (in beta)  is a Pacman style, Pay-to-Play NFT game, in which players try to collect points while running away from the "Priests" that chase them.
  
 - There will be two modes in Spooky Hunt game, first the **Leaderboard mode** where players will pay to play , and later **PvP mode (player vs player)** where players will place a bet with another players or teams.  
 
