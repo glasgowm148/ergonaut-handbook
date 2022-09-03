@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T11:16:50.454Z
+date: 2022-09-03T11:20:55.416Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -12,37 +12,25 @@ dateCreated: 2022-08-30T21:48:11.631Z
 
 
 
-The world's first fully decentralized casino 🏛️ 
 
-Stablecoin-pegged bets 💵
 
-Profit-sharing ⚖️ 
-
-Full transparency 🔬 
-
-Open-source 👀
 
 
 ![banner-nightowl-logo-.jpg](/ergodapps/banner-nightowl-logo-.jpg)
 ## Overview 
-Night Owl (in-progress) is the first decentralized casino on Ergo.
-- USD-pegged bets
-- liquidity pool for profit sharing
-- full transparency on odds 
-- fully open-source
 
 
-**Night Owl**
+###### **Night Owl** 
 
-The world's first fully decentralized casino 🏛️ 
+- The world's first fully decentralized casino 🏛️ 
 
-Stablecoin-pegged bets 💵
+- Stablecoin-pegged bets 💵
 
-Profit-sharing ⚖️ 
+- Profit-sharing ⚖️ 
 
-Full transparency 🔬 
+- Full transparency 🔬 
 
-Open-source 👀
+- Open-source 👀
 
 -----
 Not only will you be able make (or lose) money on Night Owl by gambling (like with a traditional casino), you can also gain passive returns on a non-volatile asset, the OWL stable-token, by providing liquidity/being the house.
