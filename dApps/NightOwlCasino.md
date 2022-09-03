@@ -2,13 +2,13 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T12:48:05.813Z
+date: 2022-09-03T12:53:19.853Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
 ---
 
-# Night Owl Casino *coming soon!*
+# **Night Owl Casino** (*coming soon!*)
 
 
 
@@ -39,8 +39,7 @@ The unique option to be the house, no ICO or private token sales, plus fully-ver
 Night Owl was part of Ergohack III and has lots of news to come in the near future.
 
 
-## [The Pioneers — Night Owl’s First Four Games](https://medium.com/@NightOwlCasino/the-pioneers-night-owls-first-four-games-31dc6406a5f8)
-
+## [The Pioneers — Night Owl’s First Four Games]
 · Roulette
 
 · Blackjack
@@ -49,6 +48,7 @@ Night Owl was part of Ergohack III and has lots of news to come in the near futu
 
 · Lottery
 
+Please see [Pioneers article](https://medium.com/@NightOwlCasino/the-pioneers-night-owls-first-four-games-31dc6406a5f8) for details on these 4 games. 
 
 --------
 ## The Long-eared Owl Program 
