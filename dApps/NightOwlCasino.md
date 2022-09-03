@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T09:59:58.830Z
+date: 2022-09-03T10:17:35.203Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -26,17 +26,21 @@ Not only will you be able make (or lose) money on Night Owl by gambling (like wi
 ###### "The World's Fairest Casino"
 
 Night Owl was part of Ergohack III and has lots of news to come in the near future.
-Night Owl
+
+---------------
+Night Owl 
 
 @NightOwlCasino
 
-Night Owl is the world's first fully decentralized casino 🏛️ Stablecoin-pegged bets 💵 Profit-sharing ⚖️ Full transparency 🔬 Open-source 👀
+> Night Owl is the world's first fully decentralized casino 🏛️ Stablecoin-pegged bets 💵 Profit-sharing ⚖️ Full transparency 🔬 Open-source 👀
+{.is-success}
 
+--------
 ## The Long-eared Owl Program 
 
 ### Third-Party Games on Night Owl
 
-The Night Owl team actively supports third-party developers to build and list their games on the Night Owl platform. 
+The Night Owl team actively provides support for third-party developers to build and list their games on the Night Owl platform. 
 
 **The Long-eared Owl Program** 
 
@@ -54,20 +58,25 @@ By using the OWL stable-token for their game currency, third-party developers ca
 
 Ultimately, this shared liquidity will lead to quicker ramp-up periods for third-party games on Night Owl. This is mutually beneficial players, liquidity providers, and game devs in the end.
 
-EDITOR'S NOTE: 
 
 </br>
 
-The Night Owl team is happy to introduce the first third-party game is already in the process of being added to Night Owl Casino!! 
+> The Night Owl team is happy to introduce the first third-party game is already in the process of being added to Night Owl Casino!! 
+{.is-success}
+
 
 > Introducing **Spooky Hunt**
 
- - Spooky Hunt  is a Pacman-esque, Pay-to-Play game, in which players try to collect points while running away from the scary monsters that chase them.
+ - Spooky Hunt (in beta)  is a Pacman style, Pay-to-Play NFT game, in which players try to collect points while running away from Priests that chase them.
+ 
+- There will be two modes in Spooky Hunt game, first the **Leaderboard mode** where players will pay to play , and later **PvP mode (player vs player)** where players will place a bet with another players or teams.  
 
- - The Top 3 players on Spooky Hunt's weekly leaderboard will win their share of that week's OWL prize pot.
+ 
+- Spooky Ergo NFT holders will recieve additional bonuseslike being able to play the game at a 25% discounted rate in Leaderboard node.
 
-  - Spooky Ergo NFT holders will recieve additional bonuses like being able to play the game at a discounted rate or recieve X number of free turns.
+Buy your spooky [NFT's](https://www.skyharbor.io/collection/spookyergo)  
 
+Play Spooky hunt beta [game](https://spookyhunt.netlify.app/)
 </br>
 
 ##### Future of 3rd Party Games on Night Owl 
