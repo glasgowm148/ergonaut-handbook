@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T09:58:31.219Z
+date: 2022-09-03T09:59:58.830Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -23,9 +23,63 @@ Not only will you be able make (or lose) money on Night Owl by gambling (like wi
 
 **This option to be the house, no ICO or private token sales, plus fully-verifiable transparency, is why we like to call Night Owl-** 
 
-######"The World's Fairest Casino"
+###### "The World's Fairest Casino"
 
 Night Owl was part of Ergohack III and has lots of news to come in the near future.
+Night Owl
+
+@NightOwlCasino
+
+Night Owl is the world's first fully decentralized casino 🏛️ Stablecoin-pegged bets 💵 Profit-sharing ⚖️ Full transparency 🔬 Open-source 👀
+
+## The Long-eared Owl Program 
+
+### Third-Party Games on Night Owl
+
+The Night Owl team actively supports third-party developers to build and list their games on the Night Owl platform. 
+
+**The Long-eared Owl Program** 
+
+Night Owl's affiliate program, **The Long-eared Owl Program**, will help streamline the integration process for third-party games.
+
+Developers can earn fees on Night Owl in a couple different ways: 
+
+**Traditional** | collect from liquidity provider earnings, when the "house" wins
+
+**Pay to Play** | take a set percent from every Pot
+
+###### Third-party games on Night Owl can share liquidity
+
+By using the OWL stable-token for their game currency, third-party developers can utilize already existing liquidity funds when launching their own games.**
+
+Ultimately, this shared liquidity will lead to quicker ramp-up periods for third-party games on Night Owl. This is mutually beneficial players, liquidity providers, and game devs in the end.
+
+EDITOR'S NOTE: 
+
+</br>
+
+The Night Owl team is happy to introduce the first third-party game is already in the process of being added to Night Owl Casino!! 
+
+> Introducing **Spooky Hunt**
+
+ - Spooky Hunt  is a Pacman-esque, Pay-to-Play game, in which players try to collect points while running away from the scary monsters that chase them.
+
+ - The Top 3 players on Spooky Hunt's weekly leaderboard will win their share of that week's OWL prize pot.
+
+  - Spooky Ergo NFT holders will recieve additional bonuses like being able to play the game at a discounted rate or recieve X number of free turns.
+
+</br>
+
+##### Future of 3rd Party Games on Night Owl 
+
+- **A future goal would be to have profiles for third-parties where they can have a library of their games on display and ready to play.**
+
+- Third-party development is the future of Night Owl, and the team continues to work towards making this platform with this in mind. 
+
+- If you are interested in listing your game on Night Owl, please feel free to reach out through any of the associated community channels.
+
+
+
 ## Related Links
 Check out the litepaper on the project:
 
