@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T12:37:31.935Z
+date: 2022-09-03T12:48:05.813Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -74,21 +74,22 @@ Ultimately, this shared liquidity will lead to quicker ramp-up periods for third
 
 -----
 
->  The Night Owl team is happy to be introducing [**Spooky Hunt**](https://www.reddit.com/r/ergonauts/comments/wmn0um/spooky_hunt_game_how_will_work/) as the first third-party game to be added to Night Owl Casino!! 
+>  The Night Owl team is happy to introduce [**Spooky Hunt**](https://www.reddit.com/r/ergonauts/comments/wmn0um/spooky_hunt_game_how_will_work/) as the first third-party game to be added to Night Owl Casino!! 
 {.is-success}
 
 
 
 
 
- - Spooky Hunt (in beta)  is a Pacman style, Pay-to-Play NFT game, in which players try to collect points while running away from the "Priests" that chase them.
+### Spooky Hunt (in beta)  
+A Pacman style, Pay-to-Play NFT game, in which players try to collect points while running away from the "Priests" that chase them.
  
 - There will be two modes in Spooky Hunt game, 
-1st. **Leaderboard mode** where players will pay to play 
-2nd. **PvP mode (player vs player)** where players will place a bet with another players or teams.  
+- **Leaderboard mode** where players will pay to play- will be 1st mode released
+- **PvP mode (player vs player)** where players will place a bet with other players  or teams- the game mode that will be introduced second 
 
  
-- Spooky Ergo NFT holders will recieve additional bonuses, like being able to play the game at a 25% discounted rate in Leaderboard node.
+- Spooky Ergo NFT holders will recieve additional bonuses, like being able to play the game at a 25% discounted rate in Leaderboard mode.
 
 Buy your spooky [NFT's](https://www.skyharbor.io/collection/spookyergo)  
 
