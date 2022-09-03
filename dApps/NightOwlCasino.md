@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T11:31:03.702Z
+date: 2022-09-03T11:33:20.997Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -18,7 +18,7 @@ dateCreated: 2022-08-30T21:48:11.631Z
 
 ![banner-nightowl-logo-.jpg](/ergodapps/banner-nightowl-logo-.jpg)
 ## Overview 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You DON&#39;T have to waste your time going to the casino anymore.<br><br>Gambling just got decentralized and powered by <a href="https://twitter.com/hashtag/Ergo?src=hash&amp;ref_src=twsrc%5Etfw">#Ergo</a><br><br>Here is what you DON&#39;T know about Ergo&#39;s online casino : <a href="https://twitter.com/hashtag/Ergo?src=hash&amp;ref_src=twsrc%5Etfw">#Ergo</a> <a href="https://twitter.com/hashtag/erg?src=hash&amp;ref_src=twsrc%5Etfw">#erg</a> <a href="https://twitter.com/search?q=%24Erg&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$Erg</a> <a href="https://twitter.com/hashtag/ergonuts?src=hash&amp;ref_src=twsrc%5Etfw">#ergonuts</a></p>&mdash; Cyril - DeFi 🧪 (@cyrilXBT) <a href="https://twitter.com/cyrilXBT/status/1565478920832647174?ref_src=twsrc%5Etfw">September 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
  **Night Owl** 
 
