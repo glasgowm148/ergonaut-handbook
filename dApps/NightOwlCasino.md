@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T11:29:16.459Z
+date: 2022-09-03T11:31:03.702Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -59,15 +59,14 @@ Night Owl was part of Ergohack III and has lots of news to come in the near futu
 
 The Night Owl team actively provides support for third-party developers to build and list their games on the Night Owl platform. 
 
-**The Long-eared Owl Program** 
 
 Night Owl's affiliate program, **The Long-eared Owl Program**, will help streamline the integration process for third-party games.
 
 Developers can earn fees on Night Owl in a couple different ways: 
 
-**Traditional** | collect from liquidity provider earnings, when the "house" wins
+- **Traditional** | collect from liquidity provider earnings, when the "house" wins
 
-**Pay to Play** | take a set percent from every Pot
+- **Pay to Play** | take a set percent from every Pot
 
 ###### Third-party games can share liquidity
 
