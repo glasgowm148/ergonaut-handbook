@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T10:57:38.981Z
+date: 2022-09-03T11:04:31.687Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -30,9 +30,7 @@ Night Owl (in-progress) is the first decentralized casino on Ergo.
 
 Not only will you be able make (or lose) money on Night Owl by gambling (like with a traditional casino), you can also gain passive returns on a non-volatile asset, the OWL stable-token, by providing liquidity/being the house.
 
-**The unique option to be the house, no ICO or private token sales, plus fully-verifiable transparency, is why we like to call Night Owl-** 
-
-###### "The World's Fairest Casino"
+The unique option to be the house, no ICO or private token sales, plus fully-verifiable transparency, is why we like to call Night Owl- **"The World's Fairest Casino"**
 
 
 Night Owl was part of Ergohack III and has lots of news to come in the near future.
@@ -74,18 +72,17 @@ Ultimately, this shared liquidity will lead to quicker ramp-up periods for third
 
 -----
 
-> The Night Owl team is happy to introduce the first third-party game is already in the process of being added to Night Owl Casino!! 
-{.is-success}
+> The Night Owl team is happy to be introducing [**Spooky Hunt**](https://www.reddit.com/r/ergonauts/comments/wmn0um/spooky_hunt_game_how_will_work/) as the first third-party game to be added to Night Owl Casino!! 
 
 
-> Introducing [**Spooky Hunt**](https://www.reddit.com/r/ergonauts/comments/wmn0um/spooky_hunt_game_how_will_work/) 
+
 
  - Spooky Hunt (in beta)  is a Pacman style, Pay-to-Play NFT game, in which players try to collect points while running away from the "Priests" that chase them.
  
 - There will be two modes in Spooky Hunt game, first the **Leaderboard mode** where players will pay to play , and later **PvP mode (player vs player)** where players will place a bet with another players or teams.  
 
  
-- Spooky Ergo NFT holders will recieve additional bonuseslike being able to play the game at a 25% discounted rate in Leaderboard node.
+- Spooky Ergo NFT holders will recieve additional bonuses, like being able to play the game at a 25% discounted rate in Leaderboard node.
 
 Buy your spooky [NFT's](https://www.skyharbor.io/collection/spookyergo)  
 
