@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T09:56:12.479Z
+date: 2022-09-03T09:57:18.255Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -21,7 +21,7 @@ Night Owl (in-progress) is the first decentralized casino on Ergo.
 
 Not only will you be able make (or lose) money on Night Owl by gambling (like with a traditional casino), you can also gain passive returns on a non-volatile asset, the OWL stable-token, by providing liquidity/being the house.
 
-**This option to be the house, no ICO or private token sales, plus fully-verifiable transparency, is why we are  to call Night Owl-** 
+**This option to be the house, no ICO or private token sales, plus fully-verifiable transparency, is why we like to call Night Owl-** 
 
 ######"The World's Fairest Casino"
 
