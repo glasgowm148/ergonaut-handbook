@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-03T11:12:33.094Z
+date: 2022-09-03T11:16:50.454Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -12,6 +12,15 @@ dateCreated: 2022-08-30T21:48:11.631Z
 
 
 
+The world's first fully decentralized casino 🏛️ 
+
+Stablecoin-pegged bets 💵
+
+Profit-sharing ⚖️ 
+
+Full transparency 🔬 
+
+Open-source 👀
 
 
 ![banner-nightowl-logo-.jpg](/ergodapps/banner-nightowl-logo-.jpg)
