@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-09-06T07:01:36.039Z
+date: 2022-09-06T07:02:50.231Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -57,7 +57,7 @@ Decentralized, On-Chain Wrapped Bitcoin on Ergo and Cardano.
 
 ## [NightOwl](/en/dApps/NightOwlCasino)
 
-Soon staking with a *stable token* will be available, no risk of impermanent loss or token price drops. just good old fashioned passive returns on a stable asset by acting as a house in Night Owl Casino.
+Soon staking with a *stable token* will be available, no risk of impermanent loss or token price drops. Just good old fashioned passive returns, on a stable asset, by acting as the house in Night Owl Casino.
 
 **Community**
 * [linktr.ee](https://linktr.ee/NightOwlCasino)
@@ -72,7 +72,7 @@ Please be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#imp
 
 <br>
 
-## [Spectrum.fi (formally ErgoDex)](https://ergodex.io/)
+## [Spectrum.fi (formerly ErgoDex)](https://ergodex.io/)
 
 ![screenshot_2022-01-09_at_18.13.43.png](/screenshot_2022-01-09_at_18.13.43.png)
 There is currently one decentralized exchange on Ergo, Spectrum. There are several pools on Spectrum with a visible estimated asset annual percentage yield (APY) that can be used for yield harvesting.
