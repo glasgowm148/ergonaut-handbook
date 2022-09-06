@@ -2,7 +2,7 @@
 title: The Complete Ergo Mining Handbook v2.0
 description: Some 3rd party pages link to this alternate URL path
 published: true
-date: 2022-09-06T05:33:18.957Z
+date: 2022-09-06T14:12:44.051Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
@@ -27,9 +27,12 @@ Miners have to perform memory-hard computations~(at least 2.5 GB memory is curre
 
 There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐mine. Ergo has a strictly limited supply of 97,739,925 Ergs. The target Ergo block interval is 2 minutes and for the first 2 years, each block will release a total of 75 Ergs to be shared between the miners and the Treasury (Treasury discussed below). But starting at year 2, the rate of emission will fall by 3.0 Ergs and thereafter further decline every 3 months by an additional 3.0 Ergs, ~~which will result in an end to emission 8 years after launch.~~
 
-> See [Ergo Emission: details, retargeting via a soft-fork](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778) and [EIP-27 github](https://github.com/ergoplatform/eips/blob/master/eip-0027.md) for kushti's soft-fork proposal in final implemented form. Original 8 year emission schedule has been extended after supermajority of miners vote in favor of soft fork. Total supply of 97,739,925 Ergs is strictly preserved.   
-{.is-warning} 
-
+> Original 8 year emission schedule has been extended after supermajority (>90%) of miners voted in favor of soft fork. Total supply of 97,739,925 Ergs is strictly preserved.  
+>
+>Check out 1.[**Ergos Reemission Vote EIP27: A Path to Sustained Growth?**](https://ergoplatform.org/en/blog/Ergos-Reemission-Vote-EIP27-A-Path-to-Sustained-Growth/)  2.[**Ergo Emission: details, retargeting via a soft-fork**](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778) and 3. [**EIP-27 github**](https://github.com/ergoplatform/eips/blob/master/eip-0027.md)for details. 
+>
+>EIP-27 showcases the chains ability to amend itself/evolve, in a decentralized fashion. Similar to EIP-27,all *future* protocol changes are expected to occur painlessly, via soft and velvet forks.  
+{.is-info}
 
 - Check out the updated emissions curve, including EIP-27 re-emission contract with [ergo.watch/emission](https://ergo.watch/emission).
 
