@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-09-03T13:03:10.938Z
+date: 2022-09-06T15:36:24.430Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -26,13 +26,14 @@ All $ERG tokens are mined through an original Proof‐of‐Work (“PoW”) algo
 
 Miners have to perform memory-hard computations~(at least 2.5 GB memory is currently needed but the  most efficient implementation utilizes around 4 GB of vRAM- *currently*) that makes Ergo friendly for GPU mining. A part of Ergo's ASIC resistance comes from Autolykos V2 increasing table size feature, this slowly increases the minimum memory requirements to GPU mine Ergo over time. 
 
-There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐mine. At the end of 8 years, the final Erg supply will be 97,739,925 Ergs. The Ergo block interval is 2 minutes and for the first 2 years, each block will release a total of 75 Ergs to be shared between the miners and the Treasury (Treasury discussed below). But starting at year 2, the rate of emission will fall by 3.0 Ergs and thereafter further decline every 3 months by an additional 3.0 Ergs, ~~which will result in an end to emission 8 years after launch.~~
+There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐mine.~~At the end of 8 years~~, the final Erg supply will be 97,739,925 Ergs. The Ergo target block interval is 2 minutes and for the first 2 years, each block will release a total of 75 Ergs to be shared between the miners and the Treasury (Treasury discussed below). But starting at year 2, the rate of emission will fall by 3.0 Ergs and thereafter further decline every 3 months by an additional 3.0 Ergs, ~~which will result in an end to emission 8 years after launch.~~
 
-> See [Ergo Emission: details, retargeting via a soft-fork](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778) and [EIP-27 github](https://github.com/ergoplatform/eips/blob/master/eip-0027.md) for kushti's soft-fork proposal in final implemented form.
+> Original 8 year emission schedule has been extended after supermajority (>90%) of miners voted in favor of soft fork. Total supply of 97,739,925 Ergs is strictly preserved.  
 >
-> Original 8 year emission schedule has been extended after supermajority of miners vote in favor of soft fork. Total supply of 97,739,925 Ergs is strictly preserved.   
-{.is-warning} 
-
+>Check out 1.[**Ergos Reemission Vote EIP27: A Path to Sustained Growth?**](https://ergoplatform.org/en/blog/Ergos-Reemission-Vote-EIP27-A-Path-to-Sustained-Growth/)  2.[**Ergo Emission: details, retargeting via a soft-fork**](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778) and 3. [**EIP-27 github**](https://github.com/ergoplatform/eips/blob/master/eip-0027.md)for details. 
+>
+>EIP-27 showcases the chains ability to amend itself/evolve, in a decentralized fashion. Similar to EIP-27,all *future* protocol changes are expected to occur painlessly, via soft and velvet forks.  
+{.is-info}
 
 - Check out the updated emissions curve, including EIP-27 re-emission contract with [ergo.watch/emission](https://ergo.watch/emission).
 
