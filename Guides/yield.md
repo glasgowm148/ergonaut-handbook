@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-08-31T13:43:41.388Z
+date: 2022-09-06T07:01:36.039Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -12,7 +12,7 @@ dateCreated: 2021-12-30T10:43:30.389Z
 
 Ergo is a **Proof of Work** blockchain. So, it is not possible to stake Ergo itself as you would in a **Proof of Stake** blockchain. However, it is possible to earn some yield from your ERG in combination with Ergo in liquidity pools, tokenisation of dApps, trading bots, lending platforms, and other mechanisms.
 
-In future, it will be possible to 'stake' native tokens on Ergo in some form using the Profit-Sharingd App described below. 
+You can 'stake' native tokens on Ergo in some form using the Profit-Sharing dApp described below. 
 
 
 
