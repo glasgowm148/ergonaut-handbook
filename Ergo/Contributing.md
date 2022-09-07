@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2022-08-31T03:33:48.604Z
+date: 2022-09-07T11:01:24.648Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-15T13:21:44.908Z
@@ -45,6 +45,11 @@ https://ergonaut.space/register
 6. Spread Ergo [graphics](https://photos.app.goo.gl/HUMnfRjyFDyHSPhHA) on socials. 
 
 
+## Resources
+
+- [Dropbox](https://photos.app.goo.gl/HUMnfRjyFDyHSPhHA)
+- [Shared Figma Graphic Space](https://www.figma.com/file/pd92vgB3xNFThaacIKodYs/Guide-ID?node-id=1%3A756).
+- [Logos](https://github.com/ergoplatform/awesome-ergo/tree/master/graphics/Logo)
 
 ## Development
 
