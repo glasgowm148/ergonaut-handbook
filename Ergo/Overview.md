@@ -2,7 +2,7 @@
 title: Overview
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-09-08T07:04:57.679Z
+date: 2022-09-08T07:08:51.028Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -91,4 +91,4 @@ We are also supported by community developers, who may work on a volunteer basis
 
 Ergo is designed and implemented by a team of experienced developers and researchers who hold publications and PhDs in cryptography, compiler theory, blockchain technology, and cryptographic e-cash. The team also has a solid background in core development with such cryptocurrencies and blockchain frameworks as Nxt, Scorex and Waves.
 
-Long‐term survivability and self‐amenability are what give Ergo its resiliency. Constant and stable community-driven growth: there was no ICO / VC support and **no pre-mine**. 
+Long‐term survivability and self‐amendability are what give Ergo its resiliency. Constant and stable community-driven growth: there was no ICO / VC support and **no pre-mine**. 
