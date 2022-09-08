@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-08T08:29:30.573Z
+date: 2022-09-08T08:30:16.847Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -12,11 +12,8 @@ dateCreated: 2022-01-21T16:19:45.872Z
 ## The Ergo Community Ambassador Program
 
  **First, please check out the official Sigmanauts [Twitter announcement](https://twitter.com/ergoplatformorg/status/1471226580160684032?s=20&t=acrTQ2jyD6r5SO_VN4U8WA) below**:
- 
 ![croppedsigmanaut-tweet.png](/croppedsigmanaut-tweet.png)
-
 ### Program Overview
-
 
 Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are actively helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, or by helping to shape the structure of the Sigmanaut program itself. 
 
