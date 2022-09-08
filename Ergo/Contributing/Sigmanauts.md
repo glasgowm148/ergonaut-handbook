@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-08T09:05:24.822Z
+date: 2022-09-08T09:06:43.701Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -94,4 +94,5 @@ If you can offer your time, skills and/or experience for #Ergo, please apply to 
 [**Sigmanaut Registration Form**](https://q9fwzopidh8.typeform.com/to/RdWAB3MS?typeform-source=www.reddit.com) ✏️
 
 > **Please join the [Ergo Discord](https://discord.com/invite/nr4JRnhAyV) as that is where the Sigmanaut Training Program will take place.**
-{.is-info}
+{.is-success}
+
