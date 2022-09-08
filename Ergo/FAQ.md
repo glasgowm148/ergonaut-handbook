@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-08T04:48:29.571Z
+date: 2022-09-08T05:03:53.506Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -52,31 +52,14 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 
 [Use-cases](https://ergonaut.space/en/Ergo/Use-Cases)
 
-The following discussion about Ergo **use cases** was copied from [FMFW x Ergo AMA](https://sigmanauts.medium.com/fmfw-x-ergo-ama-august-19-ee70af0d3f7e)
 
-**Bogdan** (FMFW.io’s Marketing Coordinator)
 
-Right, now that you’ve mentioned a variety of growing sectors within our space, can you please go into more detail about the use cases that the project offers?
+> **The following quote (by kushti) was in response to a question about Ergo's **use cases**, please see [FMFW x Ergo AMA](https://sigmanauts.medium.com/fmfw-x-ergo-ama-august-19-ee70af0d3f7e) for complete AMA discussion.** 
+>
+>Ergo is an L1 (Layer 1) and we have a lot of applications already deployed by the community or in progress. Stablecoins, oracle pools, decentralized auction, decentralized DEX (with) AMM pools, decentralized grid trading, decentralized options, tens of NFT projects, games, liquidity provision for fees to be paid in custom tokens, bridges, etc.
+>
+>I am not capable to follow all the developments in the community even!
 
-**Armeanio**
-
-Sure Ergo is a programmable blockchain so many of the existing/popular use cases in blockchain are already supported.
-
-We have a stablecoin, Defi, NFTs, and a launchpad. A wide variety of projects and use cases are in development.
-
-It is the job of the core in an open ecosystem to just support the tooling necessary for creativity and growth.
-
-Collectively our community has a lot more mindpower and creativity than just us. Anyone is free to build anything. All we can do is encourage things to be built the right way. Push for clear assumptions and open source development.
-
-Try to create some core principles the community grows to expect, then let things develop around the developer's ideas and passions.
-
-Hopefully grow together as we explore extended UTXO. A lot to be discovered in this new model.
-
-**Kushti**
-
-Ergo is an L1 and we have a lot of applications already deployed by the community or in progress. Stablecoins, oracle pools, decentralized auction, decentralized DEX (with) AMM pools, decentralized grid trading, decentralized options, tens of NFT projects, games, liquidity provision for fees to be paid in custom tokens, bridges, etc.
-
-I am not capable to follow all the developments in the community even!
 ## dApps
 
 - ErgoMixer
