@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-08T08:55:03.313Z
+date: 2022-09-08T09:03:38.961Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -16,39 +16,40 @@ dateCreated: 2022-01-21T16:19:45.872Z
 ![sigmanauts-announcement-tweet-draftedit.png](/sigmanauts-announcement-tweet-draftedit.png){.align-center}
 ## Program Overview
 
-Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are actively helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, or by helping to shape the structure of the Sigmanaut program itself. 
+**Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are actively helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, or by helping to shape the structure of the Sigmanaut program itself.** 
 
--------
-NOTE: Majority of the following text is borrowed from **"The Sigmanauts Programme"** [blog post](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) (Dec. 2021)
+
+> NOTE: Majority of the following text is borrowed from **"The Sigmanauts Programme"** [blog post](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) (Dec. 2021)
+> {.is-info}
+
 ##  Ways to Contribute 
 
 The Sigmanauts Programme is designed to help people participate in, and take ownership of, Ergo. What can you bring to Ergo? What are your strengths and how can they be applied to the collective efforts of the community? If you are interested in becoming a contributing member of the Sigmanauts Program, there are three categories for you to consider.
 
  **Sigmannauts are tasked with improving Ergo in THREE main areas:**
-
-## 1. GROWTH 📈 **Help bring new people into the community**.
-- Marketing
-- DevOps 
-- Designers
+---
+### 1. GROWTH 📈 **Help bring new people into the community**.
+- **Marketing**
+- **DevOps** 
+- **Designers**
 >
 > What skills do you have to assist in growing the community and attracting people of diverse backgrounds and skill sets? Maybe you have marketing expertise and would like to contribute to the promotion of Ergo. Or maybe you have connections to other projects and/or communities that would be interested in what Ergo offers.
-___________
-## 2. COMMUNITY 🌍 **Be the backbone of the community.**
-- Ambassadors
-- Moderators
-- Translators
+-----
+### 2. COMMUNITY 🌍 **Be the backbone of the community.**
+- **Ambassadors**
+- **Moderators**
+- **Translators**
 >
 > There will always be new people coming to the Ergo ecosystem. Who can answer any questions they may have? Who can be a trusted source of information? The ecosystem will always need informed and trustworthy people to develop and maintain a healthy and safe community. As the ecosystem continues to grow, there will also be a continued need for people who can be representatives to new demographics. This category is for those who are interested in being ambassadors, moderators, and/or translators.
 -----
-## 3. CREATIVE 🎨 **Get paid for your high quality Ergo content.**
+### 3. CREATIVE 🎨 **Get paid for your high quality Ergo content.**
 - **Editorial**
 - **Artists** 
 - **Social Media Promoters**
 >
->
 >Are you a skilled graphic designer, videographer or writer? Do you have social media expertise? If so, there is always a need for creative people with these specialized skill sets. As the Ergo ecosystem grows, there will be a continued need for video tutorials, technical blogs, how-to guides, infographics, etc.
-__________________
-## Applicantion Process
+
+## Application Process
 
 **SigCAN & Sigmanaut Roles** 
 
@@ -56,7 +57,6 @@ If this sounds like something you are interested in, there is a formal applicati
 
 Over time, your role can evolve to become a Sigmanaut, and that comes with a **great deal of responsibility**. Community members will look to you as a trusted source of information. You will also be responsible for **representing the Ergo ecosystem in a manner that upholds the professional standards of the ecosystem and the Ergo Foundation**.
 
-________________________
 
 ## Perks 
 
@@ -73,15 +73,7 @@ Successful applicants will be awarded:
 - [x] This official Sigmanaut NFT ⬇️ by [@ERGnomes](https://t.co/n0Cpbjel67) 
 
 ![sigmanautnft.jpg](/sigmanautnft.jpg){.align-center}
-
-
-------------
-
-
-
-
-
-
+____
 
 
 ## Responsibilities
@@ -93,7 +85,7 @@ Sigmanauts who 1) violate the [Ergo Community Code of Conduct](/en/Ergo/Contribu
 > **NOTE: Exact program details (i.e., minimum expected voting/ activity requirements) still being defined. Help us decide the final program structure by applying to the Sigmanaut Training Program, *today*!**
 {.is-info}
 
-_________________
+
 ## Want to Apply?
 
 If you can offer your time, skills and/or experience for #Ergo, please apply to the Sigmanaut Program below!
