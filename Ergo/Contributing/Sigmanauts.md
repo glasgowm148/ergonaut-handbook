@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-08T09:03:38.961Z
+date: 2022-09-08T09:05:19.490Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -26,7 +26,7 @@ dateCreated: 2022-01-21T16:19:45.872Z
 
 The Sigmanauts Programme is designed to help people participate in, and take ownership of, Ergo. What can you bring to Ergo? What are your strengths and how can they be applied to the collective efforts of the community? If you are interested in becoming a contributing member of the Sigmanauts Program, there are three categories for you to consider.
 
- **Sigmannauts are tasked with improving Ergo in THREE main areas:**
+ **Sigmanauts are tasked with improving Ergo in THREE main areas:**
 ---
 ### 1. GROWTH 📈 **Help bring new people into the community**.
 - **Marketing**
