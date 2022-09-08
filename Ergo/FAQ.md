@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-01T09:10:05.572Z
+date: 2022-09-08T04:47:56.619Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -62,7 +62,7 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 
 Algorithmic Stablecoin, backed by a reserve which in it's most simplest form is betting long and short bets against each other. See [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD/Overview) for more.
 
-## SpectrumLabs (formally ErgoDex)
+## SpectrumLabs (formerly ErgoDex)
 
 [Spectrum](/en/dApps/ergodex) allows trading and earning via AMM pools today, with future plans to add Order-Book Liquidity and other functionalities .
 
