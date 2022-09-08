@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-08T07:46:49.283Z
+date: 2022-09-08T07:50:00.720Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -16,7 +16,7 @@ dateCreated: 2022-01-21T16:19:45.872Z
 ### Program Overview
 
 
-Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are activily helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, or by helping to shape the structure of the Sigmanaut program itself. 
+Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are actively helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, or by helping to shape the structure of the Sigmanaut program itself. 
 
 -------
 NOTE: Majority of the following text is borrowed from **"The Sigmanauts Programme"** [blog post](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) (Dec. 2021)
@@ -88,7 +88,7 @@ Successful applicants will be awarded:
 
 The Ergo community consists of people from all over the world and all walks of life who have come together to grow and safeguard the future of Ergo. **All participants in the community are expected to act lawfully, honestly, ethically, and in the project's best interest.**
 
-Sigmanauts who 1) violate the [Ergo Community Code of Conduct](/en/Ergo/Contributing/code-of-conduct), or 2) become generally inactive can be permanantly or temporarily stripped of their role by Officers and fellow Sigmanauts.
+Sigmanauts who 1) violate the [Ergo Community Code of Conduct](/en/Ergo/Contributing/code-of-conduct), or 2) become generally inactive can be permanently, or temporarily, stripped of their role by Officers and fellow Sigmanauts.
 
 > NOTE: Exact program details (i.e., minimum expected voting/ activity requirements) still being defined. Help us decide the final program structure by applying to the Sigmanaut Training Program, *today*!
 {.is-info}
