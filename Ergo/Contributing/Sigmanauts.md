@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-08T08:51:42.199Z
+date: 2022-09-08T08:55:03.313Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -72,8 +72,8 @@ Successful applicants will be awarded:
 
 - [x] This official Sigmanaut NFT ⬇️ by [@ERGnomes](https://t.co/n0Cpbjel67) 
 
+![sigmanautnft.jpg](/sigmanautnft.jpg){.align-center}
 
-![sigmanautnft.jpg](/sigmanautnft.jpg)
 
 ------------
 
@@ -90,7 +90,7 @@ The Ergo community consists of people from all over the world and all walks of l
 
 Sigmanauts who 1) violate the [Ergo Community Code of Conduct](/en/Ergo/Contributing/code-of-conduct), or 2) become generally inactive can be permanently, or temporarily, stripped of their role by Officers and fellow Sigmanauts.
 
-> NOTE: Exact program details (i.e., minimum expected voting/ activity requirements) still being defined. Help us decide the final program structure by applying to the Sigmanaut Training Program, *today*!
+> **NOTE: Exact program details (i.e., minimum expected voting/ activity requirements) still being defined. Help us decide the final program structure by applying to the Sigmanaut Training Program, *today*!**
 {.is-info}
 
 _________________
@@ -101,5 +101,5 @@ If you can offer your time, skills and/or experience for #Ergo, please apply to 
 
 [**Sigmanaut Registration Form**](https://q9fwzopidh8.typeform.com/to/RdWAB3MS?typeform-source=www.reddit.com) ✏️
 
-> Please join the [Ergo Discord](https://discord.com/invite/nr4JRnhAyV) as that is where the Sigmanaut Training Program will take place.
+> **Please join the [Ergo Discord](https://discord.com/invite/nr4JRnhAyV) as that is where the Sigmanaut Training Program will take place.**
 {.is-info}
