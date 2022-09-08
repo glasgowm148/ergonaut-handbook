@@ -2,13 +2,13 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-08T07:14:50.934Z
+date: 2022-09-08T07:42:29.411Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
 ---
 
-# Sigmanaut Training Program
+![psx_20220908_023019.png](/psx_20220908_023019.png)# Sigmanaut Training Program
 ## The Ergo Community Ambassador Program
 
  **First, please check out the official Sigmanauts [Twitter announcement](https://twitter.com/ergoplatformorg/status/1471226580160684032?s=20&t=acrTQ2jyD6r5SO_VN4U8WA) below**:
