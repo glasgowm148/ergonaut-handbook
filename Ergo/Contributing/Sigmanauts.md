@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-01T09:02:45.432Z
+date: 2022-09-08T07:14:50.934Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -12,6 +12,7 @@ dateCreated: 2022-01-21T16:19:45.872Z
 ## The Ergo Community Ambassador Program
 
  **First, please check out the official Sigmanauts [Twitter announcement](https://twitter.com/ergoplatformorg/status/1471226580160684032?s=20&t=acrTQ2jyD6r5SO_VN4U8WA) below**:
+![psx_20220908_021251.png](/psx_20220908_021251.png)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are you interested in helping promote <a href="https://twitter.com/hashtag/Ergo?src=hash&amp;ref_src=twsrc%5Etfw">#Ergo</a>? Then you need to check out the <a href="https://twitter.com/hashtag/Sigmanaut?src=hash&amp;ref_src=twsrc%5Etfw">#Sigmanaut</a> Training Program! Learn how to help <a href="https://twitter.com/hashtag/educate?src=hash&amp;ref_src=twsrc%5Etfw">#educate</a> the community and promote awareness of the Ergo <a href="https://twitter.com/hashtag/blockchain?src=hash&amp;ref_src=twsrc%5Etfw">#blockchain</a>.<br><br>Signup Form👉 <a href="https://t.co/LIZAFHRLJc">https://t.co/LIZAFHRLJc</a><a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> <a href="https://twitter.com/hashtag/crypto?src=hash&amp;ref_src=twsrc%5Etfw">#crypto</a> <a href="https://twitter.com/hashtag/Ergonauts?src=hash&amp;ref_src=twsrc%5Etfw">#Ergonauts</a> <a href="https://twitter.com/search?q=%24ERG&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ERG</a></p>&mdash; Ergo (@ergoplatformorg) <a href="https://twitter.com/ergoplatformorg/status/1471226580160684032?ref_src=twsrc%5Etfw">December 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Program Overview
