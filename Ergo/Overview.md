@@ -2,7 +2,7 @@
 title: Overview
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-08-30T23:29:54.723Z
+date: 2022-09-08T07:04:57.679Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -14,7 +14,7 @@ dateCreated: 2021-02-24T07:55:49.194Z
 
 ## The Next Generation of Blockchain
 
-Ergo is a Layer 1 proof of work blockchain that provides a platform for developers to build trustless financial contracts and enables true peer to peer, decentralised, grassroots finance.
+Ergo is a Layer 1 Proof-of-Work (PoW) blockchain that provides a platform for developers to build trustless financial contracts and enables true peer to peer, decentralised, grassroots finance.
 
 Ergo has prioritised useful features without compromising security with a research-driven but practical development model. 
 
@@ -30,11 +30,11 @@ Ergo has prioritised useful features without compromising security with a resear
 
 ## Research-led but real-world focused
 
-Ergo Platform's native token, ERG, is used to pay all transaction fees for transfers and smart contract execution. Storage fees are also charged on dormant accounts, providing ongoing incentives for miners even after block rewards end. This new economic model ensures a sustainable network. ERG functions as the core token and will be used for different dApps collateral like stablecoin and many other applications. Off-the-peg use of ring and threshold signatures powers non-custodial and non-interactive dApps like ErgoMixer for both ERG and custom tokens.
+Ergo Platform's native token, ERG, is used to pay all transaction fees for transfers and smart contract execution. [Storage fees](/en/Glossary/Storage-Rent) are also charged on dormant accounts, providing ongoing incentives for miners even after block rewards end. This new economic model ensures a sustainable network. ERG functions as the core token and will be used for different dApps collateral like stablecoin and many other applications. Off-the-peg use of ring and threshold signatures powers non-custodial and non-interactive dApps like ErgoMixer for both ERG and custom tokens.
 
 Custom tokens are first-class citizen tokens in Ergo; there is also atomic exchange built for them in the core. Custom tokens can be distributed to miners and other ecosystem stakeholders, using logically defined smart contracts, including built-in PoW-style emission schedules.
 
-Ergo is designed from scratch, including its POW algorithm, Autolykos v2, memory-hard, GPU friendly, and based on fairness. Ergo team believes that network should adapt to changing environment without the intervention of trusted parties, so it has an on-chain miner voting protocol that allows gradual changes in a large number of parameters, including maximum block size, storage fee factor, and more, for more fundamental changes Ergo is trying to follow a soft-fork ability approach if an overwhelming majority of the network accepts a new feature, it is then activated, however, old nodes which do not upgrade will continue to operate normally and skip over this feature validation.
+Ergo was designed from scratch (including its POW algorithm [Autolykos v2](/en/Glossary/Autolykos) and is memory-hard, GPU friendly, and based on fairness. The Ergo team believes that the network should adapt to changing environment without the intervention of trusted parties, so it has an on-chain miner voting protocol that allows gradual changes in a large number of parameters, including maximum block size, storage fee factor, and more. For more fundamental changes Ergo is trying to follow a soft-fork ability approach. If an overwhelming majority of the network accepts a new feature, it is then activated, however, old nodes which do not upgrade will continue to operate normally and skip over this feature validation.
 
 Ergo is designed to be a self-amendable protocol that allows it to absorb new ideas and improve itself in a decentralized manner.
 
@@ -91,4 +91,4 @@ We are also supported by community developers, who may work on a volunteer basis
 
 Ergo is designed and implemented by a team of experienced developers and researchers who hold publications and PhDs in cryptography, compiler theory, blockchain technology, and cryptographic e-cash. The team also has a solid background in core development with such cryptocurrencies and blockchain frameworks as Nxt, Scorex and Waves.
 
-Long‐term survivability and self‐amenability are what give Ergo its resiliency. Constant and stable community-driven growth: there was no ICO / VC support and **no pre-mine**
+Long‐term survivability and self‐amenability are what give Ergo its resiliency. Constant and stable community-driven growth: there was no ICO / VC support and **no pre-mine**. 
