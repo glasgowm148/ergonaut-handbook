@@ -2,13 +2,16 @@
 title: Non-Fungible Tokens (NFTs)
 description: 
 published: true
-date: 2022-09-08T06:48:23.142Z
+date: 2022-09-08T06:49:27.733Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-01T22:03:47.635Z
 ---
 
 **Non-Fungible Tokens (NFTs)** are unique and indivisible blockchain tokens. They can be used to represent and prove ownership of digital products such as works of art, in-game items or characters, virtual trading cards and much, much more. Because an NFT can be used to represent ultimate ownership, they allow users to trade digital items and cryptographically guarantee provenance.
+
+---
+
 
 [NFTs on Ergo](https://ergoplatform.org/en/blog/2020-09-25-nfts-on-ergo/) | Great blog post about NFTs in general, NFTs on Ergo, and future possibile uses for NFTs as an asset class
 
