@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-08T05:03:53.506Z
+date: 2022-09-08T05:11:55.182Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -12,7 +12,7 @@ dateCreated: 2021-02-24T09:09:29.612Z
 
 Ergo is based on the [Autolykos](/en/Glossary/Autolykos) Proof-of-Work protocol. 
 
-Proof-of-Work has tried and tested methods, and provides several benefits over PoS. You can see Charles Hoskinson discussing some of those benefits in a [recent AMA (timestamped)](https://youtu.be/Y27Q3wL_Hko?t=207)
+Proof-of-Work (PoW) has tried and tested methods, and provides several benefits over Proof-of-Stake (PoS). You can see Charles Hoskinson discussing some of those benefits in a [recent AMA (timestamped)](https://youtu.be/Y27Q3wL_Hko?t=207)
 
 Although PoS is a very secure protocol, some smart contracts may require the consensus-theoretic security features of PoW for some part of their execution. The larger a dApp is, if it is doing collateralized DeFi, the larger the stake it has at its disposal, and since this is not yet fully resolved in the Proof of Stake consensus, it is a weak point. Ergo brings the proven security of PoW, with sufficient security for all more complex DApps implementations on top of the common UTxO model.  The PoW+UTXO model was chosen, rather than trying to translate very natural cryptographic concepts inherent in PoW to PoS, where the game theory implications of the protocol are completely different.
 
@@ -56,16 +56,18 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 
 > **The following quote (by kushti) was in response to a question about Ergo's **use cases**, please see [FMFW x Ergo AMA](https://sigmanauts.medium.com/fmfw-x-ergo-ama-august-19-ee70af0d3f7e) for complete AMA discussion.** 
 >
->Ergo is an L1 (Layer 1) and we have a lot of applications already deployed by the community or in progress. Stablecoins, oracle pools, decentralized auction, decentralized DEX (with) AMM pools, decentralized grid trading, decentralized options, tens of NFT projects, games, liquidity provision for fees to be paid in custom tokens, bridges, etc.
+>Ergo is an L1 (Layer 1) and we have a lot of applications already deployed by the community or in progress. Stablecoins, oracle pools, decentralized auction, decentralized DEX AMM pools, decentralized grid trading, decentralized options, tens of NFT projects, games, liquidity provision for fees to be paid in custom tokens, bridges, etc.
 >
 >I am not capable to follow all the developments in the community even!
 
-## dApps
+## [dApps](/en/dApps/)
 
 - ErgoMixer
 - ErgoAuctions
 - ErgoUtils
 
+
+**Browse full list of Ergo dApps (decentralized applications) on [SigmaVerse.io](https://sigmaverse.io/all-projects/?category=All)**
 ## SigmaUSD
 
 Algorithmic Stablecoin, backed by a reserve which in it's most simplest form is betting long and short bets against each other. See [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD/Overview) for more.
