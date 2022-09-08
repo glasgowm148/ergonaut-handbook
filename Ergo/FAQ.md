@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-08T05:11:55.182Z
+date: 2022-09-08T05:14:26.109Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -60,7 +60,7 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 >
 >I am not capable to follow all the developments in the community even!
 
-## [dApps](/en/dApps/)
+## [dApps]
 
 - ErgoMixer
 - ErgoAuctions
