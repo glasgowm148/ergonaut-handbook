@@ -2,13 +2,16 @@
 title: Editor's Guide
 description: Guide to Ergonaut success
 published: true
-date: 2022-09-09T01:26:04.507Z
+date: 2022-09-09T01:28:24.603Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-31T17:21:01.967Z
 ---
 
-ergonaut.space is a community-driven site set up to help consolidate the vast wealth of information that is fragmented around the web. The site is backed up on [Github](https://github.com/glasgowm148/ergonaut-handbook) automatically on a regular basis to prevent data-loss/vandalism.
+> ergonaut.space is a community-driven site set up to help consolidate the vast wealth of information that is fragmented around the web. The site is backed up on [Github](https://github.com/glasgowm148/ergonaut-handbook) automatically on a regular basis, to prevent data-loss/vandalism.
+{.is-success}
+
+
 
 # Editor's Guide
 
