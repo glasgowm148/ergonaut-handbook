@@ -2,7 +2,7 @@
 title: Editor's Guide
 description: Guide to Ergonaut success
 published: true
-date: 2022-08-26T07:29:00.266Z
+date: 2022-09-09T01:17:37.217Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-31T17:21:01.967Z
@@ -12,13 +12,13 @@ ergonaut.space is a community-driven site set up to help consolidate the vast we
 
 # Editor's Guide
 
-The site is written in Markdown, which is trivial to pick up (you might've already used it before without realising), but there is a fully fleshed visual editor which makes it even simpler. 
+The site is written in Markdown, which is trivial to pick up (you might've already used it before without realising), but there is also a fully-fleshed visual editor which makes it even simpler. 
 
-[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/) and this web-based [live preview tool](https://markdownlivepreview.com/) may come in handy when creating and editing offline content for The Ergonaut Handbook. 
+- [Markdown Cheat-Sheet](https://www.markdownguide.org/cheat-sheet/) | Includes syntax of both Basic and Extended Markdown
+- [Web-based live Markdown preview tool](https://markdownlivepreview.com/) | May come in handy when creating and editing offline content for The Ergonaut Handbook. 
 
-Like mentioned above, there is a visual editor which side-steps 
-the need to format wiki content in Markdown if you prefer.  
+Like mentioned above, there is a built-in visual editor which can side-step the need to format wiki content in Markdown, if you prefer.  However, you may personally find it beneficial to pre-format content in Markdown and then simply upload it to the Ergonaut Handbook. 
 
 # Regional versions
 
-The platform supports several regional languages. 
+The platform supports several regional languages. Contact moderators in any of the chatrooms to have a new regional language section added.
