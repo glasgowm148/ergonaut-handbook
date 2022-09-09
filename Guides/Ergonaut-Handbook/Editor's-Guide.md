@@ -2,7 +2,7 @@
 title: Editor's Guide
 description: Guide to Ergonaut success
 published: true
-date: 2022-09-09T01:17:37.217Z
+date: 2022-09-09T01:26:04.507Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-31T17:21:01.967Z
@@ -21,4 +21,4 @@ Like mentioned above, there is a built-in visual editor which can side-step the 
 
 # Regional versions
 
-The platform supports several regional languages. Contact moderators in any of the chatrooms to have a new regional language section added.
+The platform supports several regional languages. The above information/tools should help anyone interested in adding a new regional language to the site. 
