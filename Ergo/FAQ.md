@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-10T02:51:06.702Z
+date: 2022-09-10T02:53:49.681Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -55,9 +55,12 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 
 > **The following quote (by kushti) was in response to a question about Ergo's **use cases**, please see [FMFW x Ergo AMA](https://sigmanauts.medium.com/fmfw-x-ergo-ama-august-19-ee70af0d3f7e) for complete AMA discussion.** 
 >
->Ergo is an L1 (Layer 1) and we have a lot of applications already deployed by the community or in progress. Stablecoins, oracle pools, decentralized auction, decentralized DEX AMM pools, decentralized grid trading, decentralized options, tens of NFT projects, games, liquidity provision for fees to be paid in custom tokens, bridges, etc.
->
->I am not capable to follow all the developments in the community even!
+>>Ergo is an L1 (Layer 1) and we have a lot of applications already deployed by the community or in progress. Stablecoins, oracle pools, decentralized auction, decentralized DEX AMM pools, decentralized grid trading, decentralized options, tens of NFT projects, games, liquidity provision for fees to be paid in custom tokens, bridges, etc.
+>>
+> >I am not capable to follow all the developments in the community even! 
+>> -kushti
+{.is-info}
+
 
 ## [dApps]
 
