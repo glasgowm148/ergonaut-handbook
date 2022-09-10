@@ -2,7 +2,7 @@
 title: Roadmap
 description: 
 published: true
-date: 2022-09-10T03:23:45.114Z
+date: 2022-09-10T03:26:03.065Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:11:23.408Z
@@ -10,13 +10,12 @@ dateCreated: 2021-02-25T08:11:23.408Z
 
 # Roadmap
 
-**Disclaimer: Ergo is busy building NOT updating the Ergonaut Handbook. ![😉](/_assets/svg/twemoji/1f609.svg)** 
-
+**Disclaimer: Ergo is busy building NOT updating the Ergonaut Handbook😉** 
 > For an up-to-date project roadmap please see this official page, 
 *hint* it's interactive: 
 [https://ergoplatform.org/en/ecosystem/#Roadmap](https://ergoplatform.org/en/ecosystem/#Roadmap)
 {.is-success}
-
+------
 
 **Below was last updated in 2021 and the Ergo ecosystem how grown a lot since then. Until this page is updated fully, please use the *up-to-date* project Roadmap found in the link above.**
 
