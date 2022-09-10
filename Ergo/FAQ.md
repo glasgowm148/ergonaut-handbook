@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-10T03:14:08.192Z
+date: 2022-09-10T03:16:49.221Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -62,7 +62,7 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 {.is-info}
 
 
-## [dApps](/en/Glossary/dApps) (decentralized applications)
+## [dApps](/en/dApps/dApps) -*decentralized applications*
 
 - ErgoMixer
 - ErgoAuctions
