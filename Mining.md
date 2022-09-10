@@ -2,7 +2,7 @@
 title: The Complete Ergo Mining Handbook v2.0
 description: Some 3rd party pages link to this alternate URL path
 published: true
-date: 2022-09-10T04:45:57.569Z
+date: 2022-09-10T04:51:32.074Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
@@ -46,7 +46,8 @@ For more information about Ergo follow the links below:
 -   [Ergo Basics](https://ergoplatform.org/en/basics/)
 -   [Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/)
 -   [Ergo Whitepapers](https://ergoplatform.org/en/documents/)
-
+------
+## Where to Store Ergo Rewards
 > Bookmark This "official" Ergo Wallet 🔗 
 >
 > **https://ergoplatform.org/en/get-erg/#Wallets**
@@ -70,9 +71,9 @@ A wallet will be required for you to collect your mining rewards. Digital wallet
 
 ### **Helpful Resources**
 
-- [Ergo Tutorials](https://ergotutorials.com/english) has dozens of great tutorials, many of them cover basic wallet installation and use
+- [Ergo Tutorials](https://ergotutorials.com/english) has dozens of great tutorials, many of them cover basic wallet installation and use of several ERG wallets
 
-- [Tooling and Setup Guides](https://ergoplatform.org/en/category/Tooling/) for wallets on `ergoplatform.org` Blog
+- [Tooling and Setup Guides](https://ergoplatform.org/en/category/Tooling/) for popular wallets on `ergoplatform.org` Blog
 
 - [Best Ergo Wallets](https://www.ergoforum.org/t/best-ergo-wallet/3837/3?u=typodapsycho) ErgoForum post by [@TypoDaPsycho1](https://twitter.com/TypoDaPsycho1) on Twitter
 
@@ -80,8 +81,7 @@ A wallet will be required for you to collect your mining rewards. Digital wallet
 {.is-warning}
 
 
-> Please don't mine direct to exchanges as this allows them to control price movement. Support decentralization.
-{.is-danger}
+
 
 
 ## The Hardware:
