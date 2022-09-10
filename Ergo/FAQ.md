@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-10T03:16:49.221Z
+date: 2022-09-10T03:29:24.404Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -27,9 +27,13 @@ Autolykos v1 originally had non-outsourcability built-in to prevent mining pools
 
 
 > “Bypassing Non-Outsourceable Proof-of-Work Schemes Using Collateralized Smart Contracts” https://ia.cr/2020/044 was presented by Alex Chepurnoy at WTSC workshop associated with Financial Cryptography and Data Security 2020 in Malaysia
+{.is-info}
 
-It's also discussed here on 'Unblocked with Robert Kornacki' [(14:45)](https://www.youtube.com/watch?v=2sbTMrQwWOw&feature=youtu.be)
-- **Mining pools have certain benefits that are just now being exposed by Ergo, like more equitable token distribution for dApps/ projects. This is now available to miners on GETBLOK.io, using the world's first *working* SmartPools/subpooling system.** 
+
+- It's also discussed here on 'Unblocked with Robert Kornacki' [(14:45)](https://www.youtube.com/watch?v=2sbTMrQwWOw&feature=youtu.be)
+
+-----
+**Mining pools have certain benefits that are just now being exposed by Ergo, like more equitable token distribution for dApps/ projects. This is now available to miners on GETBLOK.io, using the world's first *working* SmartPools/subpooling system.** 
 ## What about 51% attacks?
 
 Mining pools offer a buffer against such network attacks as the hash rate is distributed across thousands of individual miners.
@@ -53,7 +57,7 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 
 
 
-> **The following quote (by kushti) was in response to a question about Ergo's **use cases**, please see [FMFW x Ergo AMA](https://sigmanauts.medium.com/fmfw-x-ergo-ama-august-19-ee70af0d3f7e) for complete AMA discussion.** 
+> **The following quote (by kushti) was in response to a question about Ergo's **use cases**, please see [FMFW x Ergo AMA](https://sigmanauts.medium.com/fmfw-x-ergo-ama-august-19-ee70af0d3f7e) for complete discussion.** 
 >
 >>Ergo is an L1 (Layer 1) and we have a lot of applications already deployed by the community or in progress. Stablecoins, oracle pools, decentralized auction, decentralized DEX AMM pools, decentralized grid trading, decentralized options, tens of NFT projects, games, liquidity provision for fees to be paid in custom tokens, bridges, etc.
 >>
