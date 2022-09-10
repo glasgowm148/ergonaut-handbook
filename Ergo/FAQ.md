@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-08T05:14:26.109Z
+date: 2022-09-10T02:51:06.702Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -25,12 +25,11 @@ Robert K, discusses this [here (14:45)](https://youtu.be/2sbTMrQwWOw)
 
 Autolykos v1 originally had non-outsourcability built-in to prevent mining pools on Ergo. However, it became apparent that with smart contracts it's basically impossible to prevent pools, so they  (the miners) turned it off so that not only larger players were able to take advantage of the loophole. Ergo is now focusing on memory hardness in an attempt to keep mining as fair as possible, which should help prevent ASICs mining at least. There are also some improvements for pooling, e.g. Stratum 2 protocol. 
 
-Mining pools have certain benefits that are just now being exposed by Ergo, like more equitable token distribution for dApps/ projects. This is now available to miners on GETBLOK.io, using the world's first *working* SmartPools/subpooling system. 
 
-“Bypassing Non-Outsourceable Proof-of-Work Schemes Using Collateralized Smart Contracts” https://ia.cr/2020/044 was presented by Alex Chepurnoy at WTSC workshop associated with Financial Cryptography and Data Security 2020 in Malaysia
+> “Bypassing Non-Outsourceable Proof-of-Work Schemes Using Collateralized Smart Contracts” https://ia.cr/2020/044 was presented by Alex Chepurnoy at WTSC workshop associated with Financial Cryptography and Data Security 2020 in Malaysia
 
 It's also discussed here on 'Unblocked with Robert Kornacki' [(14:45)](https://www.youtube.com/watch?v=2sbTMrQwWOw&feature=youtu.be)
-
+- **Mining pools have certain benefits that are just now being exposed by Ergo, like more equitable token distribution for dApps/ projects. This is now available to miners on GETBLOK.io, using the world's first *working* SmartPools/subpooling system.** 
 ## What about 51% attacks?
 
 Mining pools offer a buffer against such network attacks as the hash rate is distributed across thousands of individual miners.
@@ -128,12 +127,16 @@ To fund development, promotion, events, to swap Ergo’s Ergo First Year Tokens 
 
 ## Where can I buy Erg?
 
-- [ergoplatform.org](https://ergoplatform.org/en/exchanges/)
+- ergoplatform.org **#Exchanges** 
+
+**https://ergoplatform.org/en/get-erg/#Exchanges**
 
 
 ## Where can I store Erg?
 
-- [ergoplatform.org](https://ergoplatform.org/en/wallets/)
+- ergoplatform.org **#Wallets** 
+
+**https://ergoplatform.org/en/get-erg/#Wallets**
 
 ## How can I stake my Erg?
 Ergo is a PoW (**Proof of Work**) coin not a PoS (**Proof of Stake**), which means that blocks are validated by miners, not by stakers, therefore you can't stake Erg.
