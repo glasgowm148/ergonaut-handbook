@@ -2,7 +2,7 @@
 title: The Complete Ergo Mining Handbook v2.0
 description: Some 3rd party pages link to this alternate URL path
 published: true
-date: 2022-09-06T14:12:44.051Z
+date: 2022-09-10T04:45:57.569Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
@@ -47,22 +47,34 @@ For more information about Ergo follow the links below:
 -   [Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/)
 -   [Ergo Whitepapers](https://ergoplatform.org/en/documents/)
 
-## Bookmark This "official" Ergo Wallet 🔗  
-### **https://ergoplatform.org/en/get-erg/#Wallets**
-#### Yoroi is no longer a recommended Ergo wallet. If you check the official Ergo wallet link URL above, you will see some great "team" and "other" wallets, but no mention of Yoroi.  
+> Bookmark This "official" Ergo Wallet 🔗 
+>
+> **https://ergoplatform.org/en/get-erg/#Wallets**
+{.is-success}
+
+**Yoroi is no longer a recommended Ergo wallet. If you check the official Ergo wallet link URL above, you will see some great "team" and "other" wallets, but no mention of Yoroi.**  
 
 - Yoroi went **from 1st to worst** Ergo  wallet?
 Restore Yoroi balance on better alternatives using Import or Restore Wallet options, you will need correct mnemonic seed phrase of course.
+_____
 
 A wallet will be required for you to collect your mining rewards. Digital wallets can help keep your digital currency safe, private and in your control. We highly recommend the use of wallets for storing Ergo assets (technically, they store the keys to your Ergo addresses). But keep in mind, your wallet is unlike your bank account, so take extra precautions with your passwords and be sure to perform regular backups to protect your money.
 
 ### Wallet Types:
 
-[Third Party Wallets](https://docs.ergoplatform.com/dev/wallet/)
+[Third Party Wallets](https://ergoplatform.org/en/get-erg/#Wallets)
 
 [Ergo Node Wallet](https://github.com/ergoplatform/ergo/wiki/Set-up-a-full-node)
 
 -   [How to set up and configure a full Ergo node on Windows (Youtube)](https://www.youtube.com/watch?v=fpEDJ1CM6ns)
+
+### **Helpful Resources**
+
+- [Ergo Tutorials](https://ergotutorials.com/english) has dozens of great tutorials, many of them cover basic wallet installation and use
+
+- [Tooling and Setup Guides](https://ergoplatform.org/en/category/Tooling/) for wallets on `ergoplatform.org` Blog
+
+- [Best Ergo Wallets](https://www.ergoforum.org/t/best-ergo-wallet/3837/3?u=typodapsycho) ErgoForum post by [@TypoDaPsycho1](https://twitter.com/TypoDaPsycho1) on Twitter
 
 > Note that most wallets are supported by third parties, we only provide the information as a courtesy, in order to simplify the overall digital currency experience for you.
 {.is-warning}
