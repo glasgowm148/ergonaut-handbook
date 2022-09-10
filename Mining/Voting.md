@@ -1,8 +1,8 @@
 ---
 title: Governance & Miner voting
 description: Many parameters can be changed on-the-fly via miners voting
-published: true
-date: 2022-09-10T05:40:16.859Z
+published: false
+date: 2022-09-10T05:40:55.873Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
