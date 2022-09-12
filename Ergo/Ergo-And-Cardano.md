@@ -2,7 +2,7 @@
 title: Ergo-And-Cardano
 description: 
 published: true
-date: 2022-01-02T12:05:09.298Z
+date: 2022-09-12T08:35:14.519Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -71,7 +71,7 @@ Although Ergo adopts the PoW mechanism while Cardano adopts the PoS mechanism, t
 - [Cardano Forums: Ergo Will Compliment Cardano](https://forum.cardano.org/t/ergo-will-complement-cardano/45412)
 - [Emurgo: Emurgo releases oracle core for developers](https://emurgo.io/blog/emurgo-releases-oracle-core-for-developers)
 
-# ErgoDex
+# [Spectrum (ex.-ErgoDex) ](https://spectrum.fi)
 
 ErgoDex is currently live on Ideascale [F5: Scale-UP Cardano's DeFi Ecosystem - ErgoDex Plutus Port ](https://cardano.ideascale.com/a/dtd/ErgoDex-Plutus-Port/352410-48088)
 
