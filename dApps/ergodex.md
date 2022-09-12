@@ -2,13 +2,13 @@
 title: Spectrum (formerly ErgoDEX)
 description: Spectrum is a native cross-chain DeFi ecosystem
 published: true
-date: 2022-09-12T08:55:09.389Z
+date: 2022-09-12T08:58:46.411Z
 tags: yield, dapps, dex, swap, amm, cardano
 editor: markdown
 dateCreated: 2021-04-24T11:14:01.510Z
 ---
 
-## SpectrumLabs 
+# SpectrumLabs 
 **ErgoDex has rebranded to [Spectrum Labs!](https://ergonaut.space/en/dApps/ergodex)**
 
 
@@ -30,7 +30,7 @@ dateCreated: 2021-04-24T11:14:01.510Z
 
 
 
-### **What is Spectrum.DEX?**
+## **What is Spectrum.DEX?**
 
 Spectrum.DEX is a non-custodial decentralized exchange that allows a quick, effortless, and secure transfer of liquidity inside and between the **Ergo** and **Cardano** networks. The eUTXO model gives the unique possibility to have shared liquidity among different networks. **Spectrum.DEX will eventually feature a full AMM, Order Book and more.**
 
@@ -43,7 +43,7 @@ Spectrum.DEX is an open-source DeFi product which take a part in both Ergo and C
 - **Spectrum.DEX User Interface (UI)**: a web (or mobile) interface which provides access in conjunction with the protocol;
 
 - **Spectrum.DEX Execution Bots**xxxxxxx: off-chain software whose function is to execute DEX orders and works in a completely decentralized manner.
-
+### Airdrop Rewards 
 > Defining cohorts of @spectrumlabs_ (ex. ErgoDEX) users for airdrop rewarding. The snapshot will be taken according to the following rules (read the whole thread 🧵):
 >
 >P.S. Any feedback is appreciated
