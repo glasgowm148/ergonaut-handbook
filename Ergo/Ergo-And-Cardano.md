@@ -2,7 +2,7 @@
 title: Ergo-And-Cardano
 description: 
 published: true
-date: 2022-09-12T08:35:14.519Z
+date: 2022-09-12T09:09:31.592Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -71,11 +71,13 @@ Although Ergo adopts the PoW mechanism while Cardano adopts the PoS mechanism, t
 - [Cardano Forums: Ergo Will Compliment Cardano](https://forum.cardano.org/t/ergo-will-complement-cardano/45412)
 - [Emurgo: Emurgo releases oracle core for developers](https://emurgo.io/blog/emurgo-releases-oracle-core-for-developers)
 
-# [Spectrum (ex.-ErgoDex) ](https://spectrum.fi)
+# [Spectrum (ex.-ErgoDex) ](https:)
+Spectrum.DEX is a non-custodial decentralized exchange that allows a quick, effortless, and secure transfer of liquidity inside and between the Ergo and Cardano networks. The eUTXO model gives the unique possibility to have shared liquidity among different networks. Spectrum.DEX will eventually feature a full AMM, Order Book and more.
 
-ErgoDex is currently live on Ideascale [F5: Scale-UP Cardano's DeFi Ecosystem - ErgoDex Plutus Port ](https://cardano.ideascale.com/a/dtd/ErgoDex-Plutus-Port/352410-48088)
+Spectrum.DEX is an open-source DeFi product which take a part in both Ergo and Cardano platforms and as a consequence exists for purposes of both communities. You can imagine Spectrum.DEX infrastructure like the following:
+ErgoDex on Ideascale [F5: Scale-UP Cardano's DeFi Ecosystem - ErgoDex Plutus Port ](https://cardano.ideascale.com/a/dtd/ErgoDex-Plutus-Port/352410-48088)
 
-It will offer the first truly decentralised exchange, available across the Ergo and Cardano network. 
+
 
 
 # StableCoin
