@@ -2,7 +2,7 @@
 title: Spectrum (formerly ErgoDEX)
 description: Spectrum is a native cross-chain DeFi ecosystem
 published: true
-date: 2022-09-12T08:46:57.865Z
+date: 2022-09-12T08:48:32.708Z
 tags: yield, dapps, dex, swap, amm, cardano
 editor: markdown
 dateCreated: 2021-04-24T11:14:01.510Z
@@ -63,15 +63,19 @@ Spectrum.DEX is an open-source DeFi product which take a part in both Ergo and C
 >--------
 >
 > **[Original source Tweet](https://twitter.com/_yashablack/status/1563108257325281280?s=20&t=NRt9aVLq7xakVUk6-38oIA)** for verification and to join discussion on upcoming Spectrum token airdrop. 
->
+> 
+{.is-info}
+
 _______
 
 
 
 
 > ErgoDex is now [Spectrum](https://spectrum.fi/)!
+>
+> >All the info below was written **prior** to the Spectrum rebrand. Complete SpectrumLabs page coming *soon*...
+{.is-danger}
 
-All the info below was written **prior** to the Spectrum rebrand. Complete SpectrumLabs page coming *soon*...
 
 
 
