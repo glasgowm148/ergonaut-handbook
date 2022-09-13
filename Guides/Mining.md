@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-09-13T08:11:33.644Z
+date: 2022-09-13T08:25:40.107Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -24,9 +24,7 @@ Ergo has a strictly limited supply, Ergo's original 8 year emission schedule was
 
 All $ERG tokens are mined through an original Proof‐of‐Work (“PoW”) algorithm called Autolykos v2, designed to be ASIC resistant, which employs a [smoothed difficulty algorithm](https://ergoplatform.org/docs/ErgoPow.pdf).
 
-Miners have to perform memory-hard computations which makes Ergo friendly for GPU mining. At least 2.5 GB memory is needed to mine Ergo today, but the  most efficient implementation *currently*  utilizes around 4 GB of vRAM.  A part of ASIC resistance on Autolykos v2 is credited to Ergo's periodic memory table adjustments. These memory table adjuments slowly increase the minimum GPU vRAM required to mine Ergo over time. The goal being, if someone built an integrated circuit (ASIC) for the memory table today, they would likely have issues with their ASIC machine when the memory table is adjusted (increased) per schedule.
-
- 
+Miners have to perform memory-hard computations which makes Ergo friendly for GPU mining. At least 2.5 GB memory is needed to mine Ergo today, but the  most efficient implementation *currently*  utilizes around 4 GB of vRAM.  A part of ASIC resistance on Autolykos v2 is credited to Ergo's periodic memory table adjustments. These adjuments slowly increase the minimum GPU vRAM required to mine Ergo over time. The goal being, if someone built an integrated circuit (ASIC) for the memory table today, they would likely have issues with their ASIC machine when the memory table is adjusted (increased) per schedule. 
 
 
 There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐mine. ~~At the end of 8 years~~, the final Erg supply will be 97,739,925 Ergs. The Ergo target block interval is 2 minutes and for the first 2 years, each block will release a total of 75 Ergs to be shared between the miners and the Treasury (Treasury discussed below). But starting at year 2, the rate of emission will fall by 3.0 Ergs and thereafter further decline every 3 months by an additional 3.0 Ergs, ~~which will result in an end to emission 8 years after launch.~~
@@ -51,15 +49,15 @@ For more information about Ergo follow the links below:
 -   [Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/)
 -   [Ergo Whitepapers](https://ergoplatform.org/en/documents/)
 
-## Bookmark This "official" Ergo Wallet 🔗  
-### **https://ergoplatform.org/en/get-erg/#Wallets**
-#### Yoroi is no longer a recommended Ergo wallet. If you check the official Ergo wallet link URL above, you will see some great "team" and "other" wallets, but no mention of Yoroi.  
 
-- Yoroi went **from 1st to worst** Ergo  wallet?
-Restore Yoroi balance on better alternatives using Import or Restore Wallet options, you will need correct mnemonic seed phrase of course.
+
+## Wallets
 
 A wallet will be required for you to collect your mining rewards. Digital wallets can help keep your digital currency safe, private and in your control. We highly recommend the use of wallets for storing Ergo assets (technically, they store the keys to your Ergo addresses). But keep in mind, your wallet is unlike your bank account, so take extra precautions with your passwords and be sure to perform regular backups to protect your money.
 
+
+> Please don't mine direct to exchanges as this allows them to control price movement. Support decentralization.
+{.is-danger}
 ### Wallet Types:
 
 [Third Party Wallets](https://ergoplatform.org/en/get-erg/#Wallets)
@@ -69,11 +67,15 @@ A wallet will be required for you to collect your mining rewards. Digital wallet
 -   [How to set up and configure a full Ergo node on Windows (Youtube)](https://www.youtube.com/watch?v=fpEDJ1CM6ns)
 
 > Note that most wallets are supported by third parties, we only provide the information as a courtesy, in order to simplify the overall digital currency experience for you.
-{.is-warning}
+{.is-success}
 
 
-> Please don't mine direct to exchanges as this allows them to control price movement. Support decentralization.
-{.is-danger}
+ **Bookmark this "official" Ergo Wallet page:  
+https://ergoplatform.org/en/get-erg/#Wallets**
+
+**Yoroi is no longer a recommended Ergo wallet. If you check the official Ergo wallet link above, you will see some great "team" and "other" wallets, but no mention of Yoroi.**
+
+Restore Yoroi balance on better alternatives using Import or Restore Wallet options, you will of course need correct mnemonic seed phrase.
 
 
 ## The Hardware:
