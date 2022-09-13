@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-13T05:50:33.060Z
+date: 2022-09-13T08:33:35.532Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -47,19 +47,19 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 
 
 # Use-Cases 
-- Wiki page on Ergo's [use-cases](https://ergonaut.space/en/Ergo/Use-Cases) 
 
-> **The following quote was in response to a question about Ergo's **use cases**. Please see [FMFW x Ergo AMA](https://sigmanauts.medium.com/fmfw-x-ergo-ama-august-19-ee70af0d3f7e) for complete AMA discussion with kushti and Armeanio.** 
->________
->**"Ergo is an L1 (Layer 1) and we have a lot of applications already deployed by the community or in progress. Stablecoins, oracle pools, decentralized auction, decentralized DEX AMM pools, decentralized grid trading, decentralized options, tens of NFT projects, games, liquidity provision for fees to be paid in custom tokens, bridges, etc**
->
-> **I am not capable to follow all the developments in the community even!"** -kushti
-{.is-info}
+**The following quote was in response to a question about Ergo's **use cases**. Please see [FMFW x Ergo AMA](https://sigmanauts.medium.com/fmfw-x-ergo-ama-august-19-ee70af0d3f7e) for complete AMA discussion with kushti and Armeanio.** 
 
+**"Ergo is an L1 (Layer 1) and we have a lot of applications already deployed by the community or in progress. Stablecoins, oracle pools, decentralized auction, decentralized DEX AMM pools, decentralized grid trading, decentralized options, tens of NFT projects, games, liquidity provision for fees to be paid in custom tokens, bridges, etc**
+
+ **I am not capable to follow all the developments in the community even!"** -kushti
+
+
+- Ergo's [use-cases](https://ergonaut.space/en/Ergo/Use-Cases) detailed
 
 - Explore [Sigmaverse.io](https://sigmaverse.io) to see Ergo's entire dApp universe 
 
-## [dApps](/en/dApps/dApps) -*decentralized applications*
+## [dApps](/en/dApps/dApps) 
 
 - [ErgoMixer](/en/dApps/ErgoMixer)
 - [ErgoAuctions](/en/dApps/ErgoAuctions)
@@ -71,9 +71,9 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 
 Algorithmic Stablecoin, backed by a reserve which in it's most simplest form is betting long and short bets against each other. See [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD/Overview) for more.
 
-## SpectrumLabs (formerly ErgoDex)
+## [SpectrumLabs](/en/dApps/ergodex)  (formerly ErgoDex)
 
-[Spectrum](/en/dApps/ergodex) allows trading and earning via AMM pools today, with future plans to add Order-Book Liquidity and other functionalities .
+[Spectrum.DEX](https://app.spectrum.fi/ergo/swap) allows trading and earning via AMM pools today, with future plans to add Order-Book Liquidity and other functionalities .
 
 **A non-custodial, decentralised exchange that allows a quick, effortless and secure transfer of liquidity between the Ergo and Cardano networks.**
 
