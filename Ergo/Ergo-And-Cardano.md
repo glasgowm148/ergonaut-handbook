@@ -2,7 +2,7 @@
 title: Ergo-And-Cardano
 description: 
 published: true
-date: 2022-09-12T09:15:08.725Z
+date: 2022-09-13T05:55:32.104Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T07:53:55.991Z
@@ -23,7 +23,7 @@ Ergo was founded by Charles Hoskinson’s *“favorite technologist”*,  Alex C
 The main objective of Ergo is to provide financial contracts efficiently and securely so that people can use them in a decentralised manner and without any need for prior trust. The fully Cardano-compatible PoW can make significant contributions to all developers in the Cardano ecosystem. Ergo is the first blockchain to adopt a smart contract language similar to the eUTxO (extended UTXO) model used by as Cardano.
 
 1. Ergo will bring all the advantages of Proof of Work to users of the Cardano ecosystem.
-1. [ErgoDex](https://ergonaut.space/ergodex.pdf?11)
+1. [Spectrum](https://ergonaut.space/ergodex.pdf?11) (formerly ErgoDex)
 1. Ergo is the first blockchain to adopt smart contract language similar to the UTxO model Cardano uses, bringing compatibility with Proof of Work to a whole new level.
 1. Long-term scalability of dApps with the ability of parallelisation of dApps.
 1. More advanced cryptography with sigma protocols — highly flexible and composable cryptographic signatures.
@@ -71,15 +71,15 @@ Although Ergo adopts the PoW mechanism while Cardano adopts the PoS mechanism, t
 - [Cardano Forums: Ergo Will Compliment Cardano](https://forum.cardano.org/t/ergo-will-complement-cardano/45412)
 - [Emurgo: Emurgo releases oracle core for developers](https://emurgo.io/blog/emurgo-releases-oracle-core-for-developers)
 
-# [Spectrum (ex.-ErgoDex) ](https://ergonaut.space/en/dApps/ergodex)
+# [Spectrum](https://ergonaut.space/en/dApps/ergodex)
 
-**Spectrum.DEX is a non-custodial decentralized exchange that allows a quick, effortless, and secure transfer of liquidity inside and between the Ergo and Cardano networks.**
+**[Spectrum.DEX](https://app.spectrum.fi/ergo/swap) (formerly ErgoDex) is a non-custodial decentralized exchange that allows a quick, effortless, and secure transfer of liquidity inside and between the Ergo and Cardano networks.**
 
 **The eUTXO model gives the unique possibility to have shared liquidity among different networks. Spectrum.DEX will eventually feature a full AMM, Order Book and more.**
 
 **Spectrum.DEX is an open-source DeFi product which takes part in both Ergo and Cardano platforms, and as a consequence, exists for purposes of both communities.**
 
-> Spectrum.DEX on Ideascale [F5: Scale-UP Cardano's DeFi Ecosystem - ErgoDex Plutus Port ](https://cardano.ideascale.com/a/dtd/ErgoDex-Plutus-Port/352410-48088)
+> ErgoDex on Ideascale [F5: Scale-UP Cardano's DeFi Ecosystem - ErgoDex Plutus Port ](https://cardano.ideascale.com/a/dtd/ErgoDex-Plutus-Port/352410-48088)
 {.is-info}
 
 
