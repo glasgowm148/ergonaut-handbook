@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-13T05:29:43.159Z
+date: 2022-09-13T05:42:54.622Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -64,8 +64,8 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 
 ## [dApps](/en/dApps/dApps) -*decentralized applications*
 
-- ErgoMixer
-- ErgoAuctions
+- [ErgoMixer](/en/dApps/ErgoMixer)
+- [ErgoAuctions](/en/dApps/ErgoAuctions)
 - ErgoUtils
 
 
@@ -116,7 +116,7 @@ The Ergo Foundation is a community-driven entity focused on:
 
 The Treasury’s allocation of Ergs is equivalent to 10% of the total block reward over the first 2 years and leaves miners with a block reward of 67.5 Ergs per block. After 2 years, the Treasury will continue to receive the part of the block reward that exceeds 67.5 Erg, however, this will be 0 after year 2.5 when the block reward becomes 66 Ergs per block.
 
-More information on [ergoplatform.org](https://ergoplatform.org/en/foundation/) and [Emission Schedule](https://ergoplatform.org/en/blog/2019_05_20-curve/)
+- More information on [ergoplatform.org](https://ergoplatform.org/en/foundation/) and [Emission Schedule](https://ergoplatform.org/en/blog/2019_05_20-curve/)
 
 
 ## Why 'Ergo'? 
@@ -127,6 +127,12 @@ More information on [ergoplatform.org](https://ergoplatform.org/en/foundation/) 
 ## What is 'EFYT'
 
 To fund development, promotion, events, to swap Ergo’s Ergo First Year Tokens (“EFYT”, further discussed below) into Ergs and to fund other activities which may advance the platform, Ergo has in place a Treasury which will receive 4.43% of the Ergs released during emission. During the first 2 years post‐mainnet launch, the Treasury will receive 7.5 Ergs per block. Given that the block reward for each block is 75 Ergs total, the Treasury’s allocation of Ergs is equivalent to 10% of the total block reward over the first 2 years and leaves miners with a block reward of 67.5 Ergs per block. After 2 years, the Treasury will continue to receive the part of the block reward that exceeds 67.5 Erg, however, this will be 0 after year 2.5 when the block reward becomes 66 Ergs per block. Readers familiar with some other PoW protocols with a Treasury, such as ZCash, may find this to be similar, however, it should be noted that the amount of Ergs going to the Treasury comprise a total of only 4,330,791.5, or 4.43% of the total monetary base, and is completed in just 2.5 years. This compares with ZCash’s Treasury, which was 10% of the ZCash total monetary base and 20% of all issued ZCash coins during the first 4 years. With Ergo, it is hoped that by 1 year post‐mainnet launch, Ergo will have achieved a high level of decentralization with a diverse developer, miner and user base. For the first year, the Treasury will be used for swapping of the EFYT on the Waves platform for Erg. For the remaining 1.5 years, a community voting mechanism will be put in place to determine how Treasury funds are spent.
+
+> "The current distribution of EFYT can be found [here](http://dev.pywaves.org/assets/725Yv9oceWsB4GsYwyy4A52kEwyVrL5avubkeChSnL46). It should be noted that the max supply of EFYT is 1,970,945.0. This is 10% of the first year of Ergo token emission and the same number of Ergs that the Treasury will receive, meaning that the Treasury will have received 1,970,945.0 Ergs during year 1, sufficient to swap the max supply of EFYT for Erg."
+>
+>For more info please see: **https://ergoplatform.org/en/blog/emission/**
+{.is-info}
+
 
 ## Where can I buy Erg?
 
