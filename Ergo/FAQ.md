@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-13T20:43:44.890Z
+date: 2022-09-13T20:50:22.296Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -149,7 +149,13 @@ To fund development, promotion, events, to swap Ergo’s Ergo First Year Tokens 
 ## How can I stake my Erg?
 Ergo is a PoW (**Proof of Work**) coin not a PoS (**Proof of Stake**), which means that blocks are validated by miners, not by stakers, therefore you can't stake Erg directly.
 
-However, if you are wanting to gain returns from your coins you should take a look at [this guide](https://ergonaut.space/en/Guides/yield).
+However, it is possible to earn some yield from your ERG in combination with Ergo in liquidity pools, tokenisation of dApps, trading bots, lending platforms, and other mechanisms. 
+
+You can 'stake' native tokens on Ergo in some form (on ergopad.io *live*, Night Owl Casino *soon*, ErgoMixer *soon*,+ more)  
+
+For more info on earning off your Erg take a look at the [Yield guide](https://ergonaut.space/en/Guides/yield).
+
+
 # Your Questions Answered
 
 Any other questions? Comment below so we can expand this page !
