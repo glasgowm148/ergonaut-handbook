@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-09-13T21:52:13.280Z
+date: 2022-09-13T22:00:01.270Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -113,7 +113,7 @@ Your redeemable amount changes as the pool gets used and a percentage of the swa
 <br>
 
 
-### Swop.fi
+## Swop.fi
 
 - AMM Pool
 
@@ -149,15 +149,6 @@ Rather than using the bots on KuCoin, you can use custom bots with a bit more co
 
 - 3commas
 - shrimpy.io
-
-# Index Funds
-
-## [Ergo Index](https://ergo-index.fund/)
-
-Ergo Index is a non-custodial platform that enables users to pool their funds together to invest in a portfolio of tokens on the Ergo blockchain (still in development / not operational).
-
-
-- [GitHub](https://github.com/ergo-index)
 
 
 # Lending
@@ -206,6 +197,15 @@ Requires ERG as a native ADA token.
 ## [Gate.io](https://www.gate.io/)
 
 You can lend there for around 3.5%
+
+# Index Funds
+
+## [Ergo Index](https://ergo-index.fund/)
+
+Ergo Index is a non-custodial platform that enables users to pool their funds together to invest in a portfolio of tokens on the Ergo blockchain (still in development / not operational).
+
+
+- [GitHub](https://github.com/ergo-index)
 
 # Trading
 
