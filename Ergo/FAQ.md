@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-13T05:42:54.622Z
+date: 2022-09-13T05:50:33.060Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -21,7 +21,7 @@ Although PoS is a very secure protocol, some smart contracts may require the con
 - [Entering the Next Era of Pow With Ergo](https://curiaregiscrypto.medium.com/entering-the-next-era-of-pow-with-ergo-e4d83530410c)
 ## Why was non-outsourceability turned off?
 
-Autolykos v1 originally had non-outsourcability built-in to prevent mining pools on Ergo. However, it became apparent that with smart contracts, it's basically impossible to prevent pools. So, they  (the miners) turned it off so that not only larger players were able to take advantage of the loophole. Ergo is now focusing on memory hardness in an attempt to keep mining as fair as possible, which should help prevent ASICs mining at least. There are also some improvements for pooling, e.g. Stratum 2 protocol. 
+Autolykos v1 originally had non-outsourceability built-in to prevent mining pools on Ergo. However, it became apparent that with smart contracts, it's basically impossible to prevent pools. So, they  (the miners) turned it off so that not only larger players were able to take advantage of the loophole. Ergo is now focusing on memory hardness in an attempt to keep mining as fair as possible, which should help prevent ASICs mining at least. There are also some improvements for pooling, e.g. Stratum 2 protocol. 
 
 
 > “Bypassing Non-Outsourceable Proof-of-Work Schemes Using Collateralized Smart Contracts” https://ia.cr/2020/044 was presented by Alex Chepurnoy at WTSC workshop associated with Financial Cryptography and Data Security 2020 in Malaysia
@@ -47,12 +47,7 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 
 
 # Use-Cases 
-
-[Sigmaverse.io](https://sigmaverse.io)
-
-[Use-cases](https://ergonaut.space/en/Ergo/Use-Cases)
-
-
+- Wiki page on Ergo's [use-cases](https://ergonaut.space/en/Ergo/Use-Cases) 
 
 > **The following quote was in response to a question about Ergo's **use cases**. Please see [FMFW x Ergo AMA](https://sigmanauts.medium.com/fmfw-x-ergo-ama-august-19-ee70af0d3f7e) for complete AMA discussion with kushti and Armeanio.** 
 >________
@@ -61,6 +56,8 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 > **I am not capable to follow all the developments in the community even!"** -kushti
 {.is-info}
 
+
+- Explore [Sigmaverse.io](https://sigmaverse.io) to see Ergo's entire dApp universe 
 
 ## [dApps](/en/dApps/dApps) -*decentralized applications*
 
@@ -148,7 +145,7 @@ To fund development, promotion, events, to swap Ergo’s Ergo First Year Tokens 
 **https://ergoplatform.org/en/get-erg/#Wallets**
 
 ## How can I stake my Erg?
-Ergo is a PoW (**Proof of Work**) coin not a PoS (**Proof of Stake**), which means that blocks are validated by miners, not by stakers, therefore you can't stake Erg.
+Ergo is a PoW (**Proof of Work**) coin not a PoS (**Proof of Stake**), which means that blocks are validated by miners, not by stakers, therefore you can't stake Erg directly.
 
 However, if you are wanting to gain returns from your coins you should take a look at [this guide](https://ergonaut.space/en/Guides/yield).
 # Your Questions Answered
