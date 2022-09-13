@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-13T08:36:53.618Z
+date: 2022-09-13T20:43:44.890Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -64,10 +64,11 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 - [ErgoMixer](/en/dApps/ErgoMixer)
 - [ErgoAuctions](/en/dApps/ErgoAuctions)
 - ErgoUtils
+- [ErgoRaffle](/en/dApps/ErgoRaffle)
 
 
 **Browse full list of Ergo dApps (decentralized applications) on [SigmaVerse.io](https://sigmaverse.io/all-projects/?category=All)**
-## SigmaUSD
+## [SigmaUSD](/en/dApps/SigmaUSD/Overview)
 
 Algorithmic Stablecoin, backed by a reserve which in it's most simplest form is betting long and short bets against each other. See [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD/Overview) for more.
 
