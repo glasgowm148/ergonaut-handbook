@@ -1,8 +1,8 @@
 ---
 title: ErgoRaffle
 description: Crowdfunding dApp
-published: false
-date: 2022-09-13T20:38:16.046Z
+published: true
+date: 2022-09-13T20:38:47.609Z
 tags: dapps, defi, crowdfunding
 editor: markdown
 dateCreated: 2022-09-13T20:35:08.174Z
