@@ -2,7 +2,7 @@
 title: ErgoAuctions
 description: 
 published: true
-date: 2022-09-13T10:58:07.437Z
+date: 2022-09-13T10:59:43.243Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:23.364Z
@@ -70,6 +70,7 @@ With the upcoming IDO the team behind Auction House will work towards the third 
 - **Flexible royalties**: Auction House V3 will support multiple recipients for royalties which enables artists to collaborate together.
 
 **Auction House Token (AHT)**
+-----
 
 Auction House will launch its own token, the Auction House Token (AHT), at the upcoming IDO. Contributing artists and NFT buyers using AHT will gain access to exclusive features such as having their work featured on the homepage, LaunchPad, and benefiting from a novel and visually appealing user interface for auctions.
 
