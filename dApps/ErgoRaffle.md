@@ -2,17 +2,18 @@
 title: ErgoRaffle
 description: Crowdfunding dApp
 published: false
-date: 2022-09-13T20:35:08.174Z
+date: 2022-09-13T20:38:16.046Z
 tags: dapps, defi, crowdfunding
 editor: markdown
 dateCreated: 2022-09-13T20:35:08.174Z
 ---
 
 # Welcome to ErgoRaffle!
-
+## Resources
+- [ErgoRaffle GitHub](https://github.com/ErgoRaffle)
 - [Browse all Raffles](https://ergoraffle.com/raffle/list)
-- [Check out expanded list of F.A.Q.s](https://ergoraffle.com/faq)
-- [See the ErgoRaffle About page copied below](https://ergoraffle.com/about)
+- [Check out expanded list of ErgoRaffle F.A.Q.s](https://ergoraffle.com/faq)
+- [See the ErgoRaffle About page](https://ergoraffle.com/about)  (*copied below*)
 ## About Ergo Raffle
 ErgoRaffle is a crowdfunding service built on Ergo Platform that enables anyone to raise money for a project. This project can range from a direct donation to a charity, an academic or business plan, or anything you can convince people to part with their hard-earned ERG for! As an added bonus, after finishing the Raffle, a lottery takes place, and one lucky participant wins a set percent of the Raffle as a 'raffle reward'.
 
