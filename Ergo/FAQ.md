@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2022-09-13T08:33:35.532Z
+date: 2022-09-13T08:36:53.618Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:09:29.612Z
@@ -71,12 +71,13 @@ Yes! But first you will need a dedicated GPU (AMD/Nvidia), see [mining](https://
 
 Algorithmic Stablecoin, backed by a reserve which in it's most simplest form is betting long and short bets against each other. See [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD/Overview) for more.
 
-## [SpectrumLabs](/en/dApps/ergodex)  (formerly ErgoDex)
+## [Spectrum](/en/dApps/ergodex)  (formerly ErgoDex)
 
-[Spectrum.DEX](https://app.spectrum.fi/ergo/swap) allows trading and earning via AMM pools today, with future plans to add Order-Book Liquidity and other functionalities .
 
-**A non-custodial, decentralised exchange that allows a quick, effortless and secure transfer of liquidity between the Ergo and Cardano networks.**
 
+**[Spectrum.DEX](https://app.spectrum.fi/ergo/swap) is a non-custodial decentralized exchange that allows a quick, effortless, and secure transfer of liquidity inside and between the Ergo and Cardano networks. The eUTXO model gives the unique possibility to have shared liquidity among different networks. Spectrum.DEX will eventually feature a full AMM, Order Book and more.**
+
+Spectrum.DEX is an open-source DeFi product which take a part in both Ergo and Cardano platforms and as a consequence exists for purposes of both communities.
 
 ## Oracle Pools
 There's a solid comparison of Oracle Pools on Ergo vs Chainlink given on the [ergoforum](https://www.ergoforum.org/t/oracle-pools-a-new-oracle-model/263) (by Robert Kornacki, Head of Research @ Emurgo).
