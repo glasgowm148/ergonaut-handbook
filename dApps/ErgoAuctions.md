@@ -2,7 +2,7 @@
 title: ErgoAuctions
 description: 
 published: true
-date: 2022-09-13T10:59:43.243Z
+date: 2022-09-13T20:20:35.972Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:23.364Z
@@ -78,4 +78,4 @@ Thanks to this facet of tokenomics, AHT will be distributed as bonuses to both b
 
 30% of the Auction House’s profit will be distributed among stakers periodically.. The distribution period and specifics have yet to be determined. The distribution of this 30% will be made in an automatic but centralized manner because there is no working solution on Ergo blockchain as of yet. Later, when ErgoPad releases Paideia, the Auction house will use it to decentralize this process.
 
-**In addition to above, AHT token IDO Roadmap and other info can also be found on [the ergpad.io Auction House page](https://www.ergopad.io/projects/auctionhouse)** 
+**In addition to above,  AHT token IDO Roadmap,AHT Tokenomics and Distribution, and other info can also be found on [the ergpad.io Auction House page](https://www.ergopad.io/projects/auctionhouse)** 
