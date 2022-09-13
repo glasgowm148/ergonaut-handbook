@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-09-06T07:11:29.941Z
+date: 2022-09-13T21:52:13.280Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -162,16 +162,40 @@ Ergo Index is a non-custodial platform that enables users to pool their funds to
 
 # Lending
 
-## [ErgoLend](https://www.ergolend.org/)
+## [EXLE (Ergo-Lend)](https://www.ergolend.org/)
+### PEER TO PEER Lending Platform
+EXLE (formerly Ergo-Lend) is a lending solution being built on the Ergo blockchain to reach those that most need DeFi.
+ 
 
-ErgoLend is a lending solution being built on the Ergo blockchain to reach those that most need DeFi.
+EXLE is a new paradigm for lending. The goal is to leverage blockchain technology to create a global lending platform. A decentralized autonomous organization (DAO) will manage the platform.
+
 
 **Community**
 - [Telegram](https://t.me/ErgoLend)
 - [Twitter](https://twitter.com/ErgoLend)
 - [Reddit](https://www.reddit.com/r/ergolend/)
 
-<br>
+## [Duckpools](https://duckpools.io)
+
+
+### A collateralized lending platform with algorithmic lending pools
+**About duckpools:**
+
+Duckpools is a lending platform being built on top of Ergo with features in development such as:
+
+- Algorithmic Lending Pools - Provide ERG or native assets to lending pools and earn passive income on your capital.
+
+- Collateralized Loans - Obtain funds secured by your collateral!
+
+We believe duckpools can be the catalyst for an explosive DeFi ecosystem on Ergo as our platform facilitates increased utility of ERG and Ergo native assets and increases TVL in Ergo DeFi.
+
+**Community Resources**
+
+Website: https://duckpools.io
+
+Discord: https://discord.gg/znRMge8kQm
+
+Join us to be informed about our development, upcoming tester airdrops or just to ask us anything!
 
 ## [Liqwid](https://liqwid.finance/)
 
