@@ -2,7 +2,7 @@
 title: ErgoAuctions
 description: 
 published: true
-date: 2022-09-11T08:24:50.516Z
+date: 2022-09-13T10:58:07.437Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:23.364Z
@@ -42,3 +42,39 @@ By design, you can use any wallet you like but currently, it is strongly advised
 
 - If you decide to use Yoroi nighty:
 Although many problems with Yoroi nighty are resolved, there are still some issues. If you encounter any problem with it, just open your wallet and let the transaction table update with your latest transactions, and then everything should be fine – also wait for pending transactions to be mined. If it is not resolved, send all your funds to yourself and wait for it to be mined.
+-----
+**Auction House** 
+**Source**: https://www.ergopad.io/projects/auctionhouse
+------
+Auction House, the first open-source NFT marketplace on the Ergo blockchain, featuring innovative solutions for efficient smart contracts, various auction types, on-chain collections and a flexible royalty system
+
+**Description**
+--------
+**About Auction House**
+
+Since October 2020, Auction House has served as Ergo’s first NFT marketplace. About two years of testing and service have been put into it, there have been two big platform updates so far known as V1 and V2, including numerous bug fixes, adjustments and additions. The current Auction House platform (V2) is being used by many Ergonauts, and is still reliable. It has handled more than 10k on-chain operations such as placing bids. Highlighting the V2 is the fact that it's fully decentralized and built upon smart contracts.
+
+What then is the point of this IDO if there is already a fully decentralized platform of Auction House that is up and running?
+
+**Auction House V3**
+
+With the upcoming IDO the team behind Auction House will work towards the third Version of Auction house including the following tools and features:
+
+- **Re-designed UI** : A completely reworked version, Auction House V3, is nearly complete and will include brand-new features and an improved user interface.
+- **Verification system**: To prevent scams and fraud, there will be a new integration of a clear collection verification procedure on Auction House. If the community deems it necessary to have artist verification as well, the same procedure will be followed to verify the artists.
+- **Collections:** Collections are a crucial part of many NFT markets. They are among the most efficient methods of displaying artwork. The platform will be the first on Ergo Blockchain to utilize the recently proposed EIP-34 for collections among NFT marketplaces.
+- **LaunchPad:** Each artist gets a fair opportunity to schedule a spotlight on Auction House website to promote the upcoming release of their collections and showcase their work.
+- **Improved Security:** The team at Auction House is committed to creating a trustworthy NFT marketplace by making all of their processes fully transparent to the general public. The Ergo community and developers will evaluate each proposed smart contract, such as the recently proposed collection and improved artwork EIPs.
+- **New listing types:** Auction House V3 will feature three different listing options: the fixed-price listing, the highest-bid Auction, and the dutch Auction.
+- **Bulk minting**: The next release will include bulk minting, which was implemented to facilitate the creation of collections by artists. The goal is to enhance mass minting through collaborative efforts with artists.
+- **Flexible royalties**: Auction House V3 will support multiple recipients for royalties which enables artists to collaborate together.
+
+**Auction House Token (AHT)**
+
+Auction House will launch its own token, the Auction House Token (AHT), at the upcoming IDO. Contributing artists and NFT buyers using AHT will gain access to exclusive features such as having their work featured on the homepage, LaunchPad, and benefiting from a novel and visually appealing user interface for auctions.
+
+Thanks to this facet of tokenomics, AHT will be distributed as bonuses to both buyers and sellers. For instance, if the final price of the auction is 100 ERGs, the AHT refund could be 5 AHT. Additionally in exchange for staking your AHT on ErgoPad, you will share in the success of Auction House. In financial terms, the auction house receives through fees when artworks are sold. The average percentage they will charge is 2%.
+
+30% of the Auction House’s profit will be distributed among stakers periodically.. The distribution period and specifics have yet to be determined. The distribution of this 30% will be made in an automatic but centralized manner because there is no working solution on Ergo blockchain as of yet. Later, when ErgoPad releases Paideia, the Auction house will use it to decentralize this process.
+
+**In addition to above, AHT token IDO Roadmap and other info can also be found on [the ergpad.io Auction House page](https://www.ergopad.io/projects/auctionhouse)** 
