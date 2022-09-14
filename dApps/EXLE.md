@@ -2,7 +2,7 @@
 title: EXLE (Ergo-Lend)
 description: PEER TO PEER Lending Platform
 published: true
-date: 2022-09-14T22:56:31.578Z
+date: 2022-09-14T23:12:58.151Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T22:30:47.227Z
@@ -72,6 +72,7 @@ Ergo-Lend is an attempt to bring the values outlined in The Ergo Manifesto to le
 A democratic lending community is a significant step toward this vision. Democratic access to financial services is worth investing in. Greater and fairer access to loans will create new economic relationships and opportunities. It is a clear example of where good values can also bring good investment returns.
 
 **The Ergo-Lend Approach**
+
 The Ergo-Lend team has the technical and entrepreneurial capabilities to deliver. They are working with organizations on the ground in Kenya and Nigeria. Together, they will launch pilot projects. These will help develop the Ergo-Lend platform in real world environments. Then, these projects will be models for extending the platform to other communities around the world.
 
 **Conclusion**
