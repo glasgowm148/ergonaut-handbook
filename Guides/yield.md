@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-09-13T22:00:01.270Z
+date: 2022-09-14T23:00:11.482Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -153,7 +153,7 @@ Rather than using the bots on KuCoin, you can use custom bots with a bit more co
 
 # Lending
 
-## [EXLE (Ergo-Lend)](https://www.ergolend.org/)
+## [EXLE (Ergo-Lend)](https://ergonaut.space/en/dApps/EXLE)
 ### PEER TO PEER Lending Platform
 EXLE (formerly Ergo-Lend) is a lending solution being built on the Ergo blockchain to reach those that most need DeFi.
  
@@ -161,12 +161,14 @@ EXLE (formerly Ergo-Lend) is a lending solution being built on the Ergo blockcha
 EXLE is a new paradigm for lending. The goal is to leverage blockchain technology to create a global lending platform. A decentralized autonomous organization (DAO) will manage the platform.
 
 
-**Community**
+
+**Community Resources**
+- [EXLE Website](https://www.ergolend.org)
 - [Telegram](https://t.me/ErgoLend)
 - [Twitter](https://twitter.com/ErgoLend)
 - [Reddit](https://www.reddit.com/r/ergolend/)
 
-## [Duckpools](https://duckpools.io)
+## [Duckpools](/en/dApps/duckpools)
 
 
 ### A collateralized lending platform with algorithmic lending pools
