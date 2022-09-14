@@ -2,7 +2,7 @@
 title: EXLE (Ergo-Lend)
 description: PEER TO PEER Lending Platform
 published: true
-date: 2022-09-14T22:31:50.827Z
+date: 2022-09-14T22:33:10.873Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T22:30:47.227Z
@@ -14,3 +14,8 @@ EXLE (formerly Ergo-Lend) is a lending solution being built on the Ergo blockcha
  
 
 EXLE is a new paradigm for lending. The goal is to leverage blockchain technology to create a global lending platform. A decentralized autonomous organization (DAO) will manage the platform.
+
+**EXLE Community**
+- [Telegram](https://t.me/ErgoLend)
+- [Twitter](https://twitter.com/ErgoLend)
+- [Reddit](https://www.reddit.com/r/ergolend/)
