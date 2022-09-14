@@ -1,8 +1,8 @@
 ---
-title: EXLE (formerly Ergo-Lend)
+title: EXLE (Ergo-Lend)
 description: PEER TO PEER Lending Platform
 published: true
-date: 2022-09-14T22:30:47.227Z
+date: 2022-09-14T22:31:50.827Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T22:30:47.227Z
