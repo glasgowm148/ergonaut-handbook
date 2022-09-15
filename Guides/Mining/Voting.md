@@ -2,14 +2,14 @@
 title: Governance & Miner Voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: true
-date: 2022-09-15T07:37:06.912Z
+date: 2022-09-15T07:38:51.840Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
 ---
 
 # Governance 
-Ergo Miners have the ability to adjust the block size which increases the amount of transactions per block. This increases potential rewards but also adds additional storage requirements. Maximum block size is just one of 8 "everyday" changes possible on Ergo and are described below.
+Ergo Miners have the ability to adjust the block size which increases the amount of transactions per block. This increases potential rewards but also adds additional storage requirements. Maximum block size is just one of the 8 "everyday" changes possible on Ergo as described below.
 
 **Everday Changes `Id 1-8` require simple majority of votes to pass**:
 
