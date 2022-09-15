@@ -2,7 +2,7 @@
 title: TokenJay
 description: open-source tool to exchange or burn Ergo assets/native tokens
 published: true
-date: 2022-09-15T04:57:35.656Z
+date: 2022-09-15T05:00:49.882Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T23:34:20.515Z
@@ -21,7 +21,7 @@ TokenJay created by Benjamin Schulte aka [MrStahlfelge](https://github.com/MrSta
 
 ![tokenjay_mobilewallet_screenshot.png](/ergodapps/tokenjay_mobilewallet_screenshot.png)
 
-⬆️ TokenJay in mobile wallet 
+🔼 TokenJay in mobile wallet 
 ______
 ### Available tools on TokenJay:
 **P2P Escrow**
