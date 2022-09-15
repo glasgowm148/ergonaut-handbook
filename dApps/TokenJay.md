@@ -2,7 +2,7 @@
 title: TokenJay
 description: open-source tool to exchange or burn Ergo assets/native tokens
 published: true
-date: 2022-09-14T23:42:39.653Z
+date: 2022-09-15T01:14:24.577Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T23:34:20.515Z
@@ -16,7 +16,9 @@ You need an ErgoPay compatible Wallet Application at hand.
 
 - https://tokenjay.app/app/
 
-TokenJay created by Benjamin Schulte aka MrStahlfelge
+TokenJay created by Benjamin Schulte aka MrStahlfelge 
+
+![screenshot_20220914-201008.png](/screenshot_20220914-201008.png)
 ### Available tools on TokenJay:
 **P2P Escrow**
 
@@ -31,4 +33,6 @@ Convert ERG into SigUSD and SigRSV, directly with the bank and in a single trans
  **Utilities**
 
 Token Burner- Burn unwanted NFTs and tokens.
+
+
 - https://tokenjay.app/app/#burntoken
