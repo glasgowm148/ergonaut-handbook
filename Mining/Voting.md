@@ -2,7 +2,7 @@
 title: Governance & Miner voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: false
-date: 2022-09-15T05:48:39.531Z
+date: 2022-09-15T05:50:17.031Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
@@ -11,7 +11,7 @@ dateCreated: 2022-09-10T05:40:16.859Z
 # Governance 
 Ergo Miners have the ability to adjust the block size which increases the amount of transactions per block. This increases potential rewards but also adds additional storage requirements. adjust the emission macroeconomics, meaning the long term economic security of the protocol is up to miners to decide.
 
-begin{tabular}{*{6}{l}}
+
 
     Id & Description & Default & Step & Min & Max \\
 
@@ -33,8 +33,8 @@ begin{tabular}{*{6}{l}}
 
     8 & Cost per one transaction output & 100 & - & - & - \\
 
-    120 & Soft-fork (increasing version of a block) & - & - & - & - \\
+   
 
 
 In addition to the protocol parameters above that can be changed via on-chain miner voting, most things on Ergo can be changed via a soft-forking protocol (90% support required). This excludes critical changes such as changing the max supply.
-
+ 120 & Soft-fork (increasing version of a block) & - & - & - & - \\
