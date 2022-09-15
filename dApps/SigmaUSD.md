@@ -1,8 +1,8 @@
 ---
-title: dApps/SigmaUSD
-description: 
+title: SigmaUSD
+description: overview of sigmaUSD stablecoin protocol
 published: true
-date: 2022-08-31T13:45:28.069Z
+date: 2022-09-15T00:14:07.686Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:02:25.004Z
