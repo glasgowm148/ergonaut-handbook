@@ -2,32 +2,33 @@
 title: Governance & Miner voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: false
-date: 2022-09-15T06:26:59.183Z
+date: 2022-09-15T07:00:39.145Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
 ---
 
 # Governance 
-Ergo Miners have the ability to adjust the block size which increases the amount of transactions per block. This increases potential rewards but also adds additional storage requirements. adjust the emission macroeconomics, meaning the long term economic security of the protocol is up to miners to decide.
+Ergo Miners have the ability to adjust the block size (among "everyday" changes 1-8 in) which increases the amount of transactions per block. This increases potential rewards but also adds additional storage requirements. 
 
-**Everday Changes require simple majority of votes to adjust 1-8**
+**Everday Changes `Id 1-8` require simple majority of votes to pass**
 
 **Id**|**Description**|**Default Value**|**Adjustment Step**|**Min Value**|**Max Value**|
 |:-|:-|:-|:-|:-|:-|:-|:-|
-1|Storage fee factor (per byte per storage period) |1250000|25000|0|2500000|
-|2|Minimum monetary value of a box |360|10|0|10000|
+|1|Storage fee factor (per byte per storage period)|1250000 |25000|0|2500000|
+|2|Minimum monetary value of a box|360|10|0|10000| 
 |3|Maximum block size|524288|-|16384|-|
 |4|Maximum cumulative computational cost of a block|1000000|-|16384|-|
 |5|Token access cost|100|-|-|-|
 |6|Cost per one transaction input|2000|-|-|-|
 |7|Cost per one data input|100|-|-|-|
-|8|Cost per one transaction output |100|-|-|-|
-
+|8|Cost per one transaction output|100|-|-|-|
    
 
 
-In addition to the protocol parameters above that can be changed via on-chain miner voting (**Id 1-8**), most things on Ergo can be changed via a soft-forking protocol (90% support required). This excludes critical changes such as changing the max supply.
+In addition to the "everyday" changes above that can be changed via on-chain miner voting, most things on Ergo can be changed via soft-forking protocol (90% support required). Ergo miners have the ability to adjust the emission macroeconomics meaning the long term economic security of the protocol is up to miners to decide. One notable example of this is [EIP-0027](https://github.com/ergoplatform/eips/blob/master/eip-0027.md).**This excludes critical changes such as changing the max supply.**
+
+**Foundational Changes `Id 120`  increase the protocol version via softfork and require super majority (>90%) of votes to pass**
 
 **Id**|**Description**|**Default Value**|**Adjustment Step**|**Min Value**|**Max Value**|
 |:-|:-|:-|:-|:-|:-|:-|:-|
@@ -38,21 +39,12 @@ Original voting table:
 
     Id & Description & Default & Step & Min & Max \\
 
-    \hline
-
-    1 & Storage fee factor (per byte per storage period) & 1250000 & 25000 & 0 & 2500000 \\
-
-    2 & Minimum monetary value of a box & 360 & 10 & 0 & 10000 \\
-
-    3 & Maximum block size & 524288 & - & 16384 & - \\
-
-    4 & Maximum cumulative computational cost of a block & 1000000 & - & 16384 & - \\
-
-    5 & Token access cost & 100 & - & - & - \\
-
-    6 & Cost per one transaction input & 2000 & - & - & - \\
-
-    7 & Cost per one data input & 100 & - & - & - \\
-
-    8 & Cost per one transaction output & 100 & - & - & - \\
+    | 1 | Storage fee factor (per byte per storage period)| 1250000 | 25000 | 0 | 2500000 |
+    | 2 | Minimum monetary value of a box | 360 | 10 | 0 | 10000 | 
+    | 3 | Maximum block size | 524288 | - | 16384 | - |
+    | 4 | Maximum cumulative computational cost of a block | 1000000 | - | 16384 | - |
+    | 5 | Token access cost | 100 | - | - | - |
+    | 6 | Cost per one transaction input | 2000 | - | - | - |
+    | 7 | Cost per one data input | 100 | - | - | - |
+    | 8 | Cost per one transaction output | 100 | - | - | - |
     120 & Soft-fork (increasing version of a block) & - & - & - & - \\`
