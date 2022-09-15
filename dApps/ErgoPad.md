@@ -2,7 +2,7 @@
 title: ErgoPad
 description: Ergo project/token launchpad 
 published: true
-date: 2022-09-15T00:02:47.224Z
+date: 2022-09-15T00:05:11.204Z
 tags: yield, staking, dapps, launchpad, ico, ido, earn
 editor: markdown
 dateCreated: 2022-09-15T00:01:37.409Z
