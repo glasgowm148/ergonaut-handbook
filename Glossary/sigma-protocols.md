@@ -2,7 +2,7 @@
 title: Sigma Protocols
 description: 
 published: true
-date: 2022-09-15T08:22:28.095Z
+date: 2022-09-15T08:25:02.869Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T18:10:43.150Z
@@ -106,7 +106,7 @@ Sigma protocols are the foundation of Ergo’s smart contracts. They allow for a
 
 
 
-# ZK-Snarks
+## ZK-Snarks
 
 In comparison with zk-SNARKs, they have some very appealing properties similar to zk-STARKs. They:
 
@@ -117,7 +117,7 @@ In comparison with zk-SNARKs, they have some very appealing properties similar t
 
 
 
-# Resources
+## Resources
 
 - [Schnorr's Signature and non-interactive Protocols ](https://cryptologie.net/article/193/schnorrs-signature-and-non-interactive-protocols/)
 - [Are zk-SNARKs the Right Tool for You?](https://coders-errand.com/are-zk-snarks-the-right-tool-for-you-part-3/)
