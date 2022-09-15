@@ -2,7 +2,7 @@
 title: Governance & Miner voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: false
-date: 2022-09-15T07:00:39.145Z
+date: 2022-09-15T07:08:09.491Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
@@ -35,16 +35,5 @@ In addition to the "everyday" changes above that can be changed via on-chain min
 |120|Soft-fork (increasing version of a block)| - |- | - |-|`
 
 
-Original voting table:
+Original voting text (from yellow paper) has more voting details and some example votes to review: https://github.com/ergoplatform/ergo/blob/master/papers/yellow/voting.tex
 
-    Id & Description & Default & Step & Min & Max \\
-
-    | 1 | Storage fee factor (per byte per storage period)| 1250000 | 25000 | 0 | 2500000 |
-    | 2 | Minimum monetary value of a box | 360 | 10 | 0 | 10000 | 
-    | 3 | Maximum block size | 524288 | - | 16384 | - |
-    | 4 | Maximum cumulative computational cost of a block | 1000000 | - | 16384 | - |
-    | 5 | Token access cost | 100 | - | - | - |
-    | 6 | Cost per one transaction input | 2000 | - | - | - |
-    | 7 | Cost per one data input | 100 | - | - | - |
-    | 8 | Cost per one transaction output | 100 | - | - | - |
-    120 & Soft-fork (increasing version of a block) & - & - & - & - \\`
