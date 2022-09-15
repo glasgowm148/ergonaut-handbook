@@ -2,7 +2,7 @@
 title: Governance & Miner Voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: true
-date: 2022-09-15T07:49:32.137Z
+date: 2022-09-15T07:53:13.860Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
@@ -37,5 +37,5 @@ In addition to the above "everyday" changes that can be changed via on-chain min
 |**120**|Soft-fork (increasing version of a block)| - |- | - |-|`
 
 ________
-##### Original voting text (from yellow paper) has more details and some example votes to explore: https://github.com/ergoplatform/ergo/blob/master/papers/yellow/voting.tex
+##### Original voting.tex has more details (including some example miner votes) to explore: https://github.com/ergoplatform/ergo/blob/master/papers/yellow/voting.tex
 
