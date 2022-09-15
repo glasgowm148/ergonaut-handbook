@@ -2,7 +2,7 @@
 title: Governance & Miner Voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: true
-date: 2022-09-15T07:46:39.449Z
+date: 2022-09-15T07:47:16.265Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
@@ -26,7 +26,7 @@ Ergo Miners have the ability to adjust the block size which increases the amount
    
 ______
 
-In addition to the above "everyday" changes that can be changed via on-chain miner voting, most things on Ergo can be changed via soft-forking protocol (90% support required). Ergo miners have the ability to adjust the emission macroeconomics meaning the long term economic security of the protocol is up to miners to decide. One notable example of this is [EIP-0027](https://github.com/ergoplatform/eips/blob/master/eip-0027.md). "Foundational" changes (implemented via soft-fork) **exclude critical changes such as changing the max supply.**
+In addition to the above "everyday" changes that can be changed via on-chain miner voting, most things on Ergo can be changed via soft-forking protocol (90% support required). Ergo miners have the ability to adjust the emission macroeconomics, meaning the long term economic security of the protocol is up to miners to decide. One notable example of this is [EIP-0027](https://github.com/ergoplatform/eips/blob/master/eip-0027.md). "Foundational" changes (implemented via soft-fork) **exclude critical changes such as changing the max supply.**
 
 **Foundational Changes `Id 120`  require super majority (>90%) of votes to pass**:
 
