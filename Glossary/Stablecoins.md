@@ -2,7 +2,7 @@
 title: StableCoin Research
 description: 
 published: true
-date: 2022-09-15T08:00:25.910Z
+date: 2022-09-15T08:07:31.505Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-23T12:26:25.167Z
@@ -67,7 +67,7 @@ Decentralized stablecoin on the EOS blockchain. #Proof-of-Stake
 
 - **TerraUSD (UST) ($LUNA)**
 
-TerraUSD (UST) is a stablecoin built on the Terra blockchain. Following a successful launch and increased adoption of Terra, the printing of UST commenced in September 2020. UST is not technically collateralized. Rather, the creation of UST is enabled by the burning of the LUNA coin.
+TerraUSD (UST) is a stablecoin built on the Terra blockchain. Following a successful launch and increased adoption of Terra, the printing of UST commenced in September 2020. UST is not technically collateralized. Rather, the creation of UST is enabled by the burning of the LUNA coin. EDIT: And oh did it burn, straight to the ground! [News article about TerraUSD collapse for the uninformed.](https://bitcoinist.com/founder-of-terra-do-kwon-deems-the-collapse-as-big-betting/)
    - Terra is a stablecoin that achieves price-stability via an elastic money supply, enabled by stable mining incentives.
    - The protocol ensures price-stability by algorithmically expanding and contracting supply. It also uses seigniorage created by its minting operations as transaction stimulus, thereby facilitating adoption.
    - Pegged to the world’s major currencies, Terra aims to be able to support a global payment network.
