@@ -2,16 +2,16 @@
 title: Governance & Miner Voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: true
-date: 2022-09-15T07:10:05.876Z
+date: 2022-09-15T07:12:43.290Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
 ---
 
 # Governance 
-Ergo Miners have the ability to adjust the block size (among "everyday" changes 1-8 in) which increases the amount of transactions per block. This increases potential rewards but also adds additional storage requirements. 
+Ergo Miners have the ability to adjust the block size (among other "everyday" changes 1-8 below) which increases the amount of transactions per block. This increases potential rewards but also adds additional storage requirements. 
 
-**Everday Changes `Id 1-8` require simple majority of votes to pass**
+**Everday Changes `Id 1-8` require simple majority of votes to pass**:
 
 **Id**|**Description**|**Default Value**|**Adjustment Step**|**Min Value**|**Max Value**|
 |:-|:-|:-|:-|:-|:-|:-|:-|
@@ -28,12 +28,12 @@ Ergo Miners have the ability to adjust the block size (among "everyday" changes 
 
 In addition to the "everyday" changes above that can be changed via on-chain miner voting, most things on Ergo can be changed via soft-forking protocol (90% support required). Ergo miners have the ability to adjust the emission macroeconomics meaning the long term economic security of the protocol is up to miners to decide. One notable example of this is [EIP-0027](https://github.com/ergoplatform/eips/blob/master/eip-0027.md).**This excludes critical changes such as changing the max supply.**
 
-**Foundational Changes `Id 120`  increase the protocol version via softfork and require super majority (>90%) of votes to pass**
+**Foundational Changes `Id 120`  increase the protocol version via softfork and require super majority (>90%) of votes to pass**:
 
 **Id**|**Description**|**Default Value**|**Adjustment Step**|**Min Value**|**Max Value**|
 |:-|:-|:-|:-|:-|:-|:-|:-|
 |120|Soft-fork (increasing version of a block)| - |- | - |-|`
 
 
-Original voting text (from yellow paper) has more voting details and some example votes to review: https://github.com/ergoplatform/ergo/blob/master/papers/yellow/voting.tex
+Original voting text (from yellow paper) has more details and some example votes to explore: https://github.com/ergoplatform/ergo/blob/master/papers/yellow/voting.tex
 
