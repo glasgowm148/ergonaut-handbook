@@ -1,8 +1,8 @@
 ---
 title: ErgoDocs/Mining
 description: adapted from https://docs.ergoplatform.com/mining/
-published: false
-date: 2022-09-16T07:15:08.614Z
+published: true
+date: 2022-09-16T07:52:45.004Z
 tags: mining, penambang, miner, gpu, mining, guides
 editor: markdown
 dateCreated: 2022-09-16T06:53:06.922Z
