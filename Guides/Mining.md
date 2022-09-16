@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-09-16T06:32:22.118Z
+date: 2022-09-16T06:32:58.602Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -44,7 +44,7 @@ There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐
 
 For more information about Ergo follow the links below:
 
--   [Ergo Platorm](https://ergoplatform.org/en/)
+-   [Ergo Platform](https://ergoplatform.org/en/)
 -   [Ergo Basics](https://ergoplatform.org/en/basics/)
 -   [Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/)
 -   [Ergo Whitepapers](https://ergoplatform.org/en/documents/)
