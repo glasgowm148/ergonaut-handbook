@@ -2,7 +2,7 @@
 title: Ergo Code of Conduct
 description: https://github.com/ergoplatform/grow-ergo#code-of-conduct
 published: true
-date: 2022-08-27T06:51:05.349Z
+date: 2022-09-16T07:47:12.638Z
 tags: community
 editor: markdown
 dateCreated: 2022-08-27T06:51:05.349Z
@@ -43,4 +43,5 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 ______________
-Sources: https://github.com/ergoplatform/grow-ergo#code-of-conduct
+> **Source: https://github.com/ergoplatform/grow-ergo#code-of-conduct**
+{.is-info}
