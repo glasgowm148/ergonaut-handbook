@@ -2,7 +2,7 @@
 title: The Complete Ergo Mining Handbook v2.0
 description: Some 3rd party pages link to this alternate URL path
 published: true
-date: 2022-09-16T06:20:49.864Z
+date: 2022-09-16T06:33:20.642Z
 tags: mining, penambang, miner, gpu, mining, guides
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
@@ -24,7 +24,7 @@ dateCreated: 2022-08-11T20:02:32.669Z
 Ergo has a strictly limited supply, Ergo's original 8 year emission schedule was extended by miners with EIP-27 (live since block #777,217) while maintaining original max supply. All $ERG tokens are mined through an original Proof‐of‐Work (“PoW”) algorithm called Autolykos v2, designed to be ASIC resistant, which employs a [smoothed difficulty algorithm](https://ergoplatform.org/docs/ErgoPow.pdf).
 
 
-Miners have to perform memory-hard computations which makes Ergo friendly for GPU mining. To mine Ergo today ~3 GB memory is needed,  but the most efficient implementation currently utilizes ~4 GB of vRAM. A part of ASIC resistance on Autolykos v2 is credited to Ergo’s periodic memory table adjustments. These adjuments slowly increase the minimum GPU vRAM required to mine Ergo over time. The goal being, if someone built an integrated circuit (ASIC) for the memory table today, they would likely have issues with their ASIC machine when the memory table is adjusted (increased) as scheduled at later date.
+Miners have to perform memory-hard computations which makes Ergo friendly for GPU mining. To mine Ergo today ~3 GB memory is needed,  but the most efficient implementation currently utilizes ~4 GB of vRAM. A part of ASIC resistance on Autolykos v2 is credited to Ergo’s periodic memory table adjustments. These adjuments slowly increase the minimum GPU vRAM required to mine Ergo over time. The goal being, if someone built an integrated circuit (ASIC) for the memory table today, they would likely have issues with their ASIC machine when the memory table is adjusted (increased) according to schedule at later date.
 
 There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐mine. Ergo has a strictly limited supply of 97,739,925 Ergs. The target Ergo block interval is 2 minutes and for the first 2 years, each block will release a total of 75 Ergs to be shared between the miners and the Treasury (Treasury discussed below). But starting at year 2, the rate of emission will fall by 3.0 Ergs and thereafter further decline every 3 months by an additional 3.0 Ergs, ~~which will result in an end to emission 8 years after launch.~~
 
@@ -43,7 +43,7 @@ There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐
 
 For more information about Ergo follow the links below:
 
--   [Ergo Platorm](https://ergoplatform.org/en/)
+-   [Ergo Platform](https://ergoplatform.org/en/)
 -   [Ergo Basics](https://ergoplatform.org/en/basics/)
 -   [Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/)
 -   [Ergo Whitepapers](https://ergoplatform.org/en/documents/)
@@ -75,7 +75,7 @@ A wallet will be required for you to collect your mining rewards. Digital wallet
 
 - [Tooling and Setup Guides](https://ergoplatform.org/en/category/Tooling/) for popular wallets on `ergoplatform.org` Blog
 
-- [Best Ergo Wallets](https://www.ergoforum.org/t/best-ergo-wallet/3837/3?u=typodapsycho) ErgoForum post by [@TypoDaPsycho1](https://twitter.com/TypoDaPsycho1) on Twitter
+- [Best Ergo Wallets for Desktop](https://www.ergoforum.org/t/best-ergo-wallet/3837/3?u=typodapsycho) ErgoForum post by [@TypoDaPsycho1](https://twitter.com/TypoDaPsycho1).
 
 > Note that most wallets are supported by third parties, we only provide the information as a courtesy, in order to simplify the overall digital currency experience for you.
 {.is-warning}
