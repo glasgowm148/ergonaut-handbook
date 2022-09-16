@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-09-13T08:25:40.107Z
+date: 2022-09-16T06:22:13.012Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -67,15 +67,16 @@ A wallet will be required for you to collect your mining rewards. Digital wallet
 -   [How to set up and configure a full Ergo node on Windows (Youtube)](https://www.youtube.com/watch?v=fpEDJ1CM6ns)
 
 > Note that most wallets are supported by third parties, we only provide the information as a courtesy, in order to simplify the overall digital currency experience for you.
+>
+> **Bookmark this "official" Ergo Wallet page:  
+https://ergoplatform.org/en/get-erg/#Wallets**
 {.is-success}
 
 
- **Bookmark this "official" Ergo Wallet page:  
-https://ergoplatform.org/en/get-erg/#Wallets**
 
-**Yoroi is no longer a recommended Ergo wallet. If you check the official Ergo wallet link above, you will see some great "team" and "other" wallets, but no mention of Yoroi.**
 
-Restore Yoroi balance on better alternatives using Import or Restore Wallet options, you will of course need correct mnemonic seed phrase.
+- **Yoroi is no longer a recommended Ergo wallet. If you check the official Ergo wallet link above, you will see some great "team" and "other" wallets, but no mention of Yoroi.**
+    - Restore Yoroi balance on better alternatives using Import or Restore Wallet options, you will of course need correct mnemonic seed phrase.
 
 
 ## The Hardware:
