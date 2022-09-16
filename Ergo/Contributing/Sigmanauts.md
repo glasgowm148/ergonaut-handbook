@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-08T09:06:43.701Z
+date: 2022-09-16T07:40:57.230Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -34,6 +34,8 @@ The Sigmanauts Programme is designed to help people participate in, and take own
 - **Designers**
 >
 > What skills do you have to assist in growing the community and attracting people of diverse backgrounds and skill sets? Maybe you have marketing expertise and would like to contribute to the promotion of Ergo. Or maybe you have connections to other projects and/or communities that would be interested in what Ergo offers.
+{.is-success}
+
 -----
 ### 2. COMMUNITY 🌍 **Be the backbone of the community.**
 - **Ambassadors**
@@ -41,13 +43,17 @@ The Sigmanauts Programme is designed to help people participate in, and take own
 - **Translators**
 >
 > There will always be new people coming to the Ergo ecosystem. Who can answer any questions they may have? Who can be a trusted source of information? The ecosystem will always need informed and trustworthy people to develop and maintain a healthy and safe community. As the ecosystem continues to grow, there will also be a continued need for people who can be representatives to new demographics. This category is for those who are interested in being ambassadors, moderators, and/or translators.
+{.is-success}
+
 -----
 ### 3. CREATIVE 🎨 **Get paid for your high quality Ergo content.**
 - **Editorial**
 - **Artists** 
 - **Social Media Promoters**
 >
->Are you a skilled graphic designer, videographer or writer? Do you have social media expertise? If so, there is always a need for creative people with these specialized skill sets. As the Ergo ecosystem grows, there will be a continued need for video tutorials, technical blogs, how-to guides, infographics, etc.
+> Are you a skilled graphic designer, videographer or writer? Do you have social media expertise? If so, there is always a need for creative people with these specialized skill sets. As the Ergo ecosystem grows, there will be a continued need for video tutorials, technical blogs, how-to guides, infographics, etc.
+{.is-success}
+
 
 ## Application Process
 
@@ -82,8 +88,8 @@ The Ergo community consists of people from all over the world and all walks of l
 
 Sigmanauts who 1) violate the [Ergo Community Code of Conduct](/en/Ergo/Contributing/code-of-conduct), or 2) become generally inactive can be permanently, or temporarily, stripped of their role by Officers and fellow Sigmanauts.
 
-> **NOTE: Exact program details (i.e., minimum expected voting/ activity requirements) still being defined. Help us decide the final program structure by applying to the Sigmanaut Training Program, *today*!**
-{.is-info}
+**NOTE: Exact program details (i.e., minimum expected voting/ activity requirements) still being defined. Help us decide the final program structure by applying to the Sigmanaut Training Program, *today*!**
+
 
 
 ## Want to Apply?
@@ -93,6 +99,8 @@ If you can offer your time, skills and/or experience for #Ergo, please apply to 
 
 [**Sigmanaut Registration Form**](https://q9fwzopidh8.typeform.com/to/RdWAB3MS?typeform-source=www.reddit.com) ✏️
 
-> **Please join the [Ergo Discord](https://discord.com/invite/nr4JRnhAyV) as that is where the Sigmanaut Training Program will take place.**
-{.is-success}
+> **IMPORTANT: Please join the [Ergo Discord](https://discord.com/invite/nr4JRnhAyV) as that is where the Sigmanaut Training Program will take place.**
+{.is-info}
+
+
 
