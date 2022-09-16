@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2022-09-16T07:49:27.968Z
+date: 2022-09-16T07:50:06.864Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-15T13:21:44.908Z
@@ -11,7 +11,6 @@ dateCreated: 2021-11-15T13:21:44.908Z
 # Contributing
 > *Cryptocurrency should provide tools to enrich ordinary people. Small businesses that are struggling to make ends meet, not big depersonalized financial capital. This is what inspired me. This is my dream.* 
 >  -[The Ergo Manifesto](/en/Ergo/manifesto)
-{.is-success}
 
 
 
