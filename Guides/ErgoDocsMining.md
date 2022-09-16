@@ -2,7 +2,7 @@
 title: ErgoDocs/Mining
 description: adapted from https://docs.ergoplatform.com/mining/
 published: false
-date: 2022-09-16T07:04:07.518Z
+date: 2022-09-16T07:05:19.480Z
 tags: mining, penambang, miner, gpu, mining, guides
 editor: markdown
 dateCreated: 2022-09-16T06:53:06.922Z
@@ -150,4 +150,15 @@ To host your own pool on Ergo you must first setup a local instance of the Ergo 
 
 
 > Community support available in [#host-a-pool](https://discord.gg/kxbrHVwnm5) on Discord.
+{.is-info}
+
+
+# Subpool
+> subpooling is now live at [ergo.getblok.io/smartpool](https://ergo.getblok.io/smartpool)
+{.is-success}
+
+
+
+
+[ergo-subpooling](https://github.com/K-Singh/ergo-subpooling) is a smart contract based mining pool that allows groups of friends to pool together their hashrates in order to get mining pool rewards quicker than they would alone. Subpooling allows members to mine to the same address without worrying about one person controlling the funds. The goal of this dApp is to help encourage decentralization of mining pools while also promoting small time miners who may not be able to get block rewards fast enough on normal mining pools. This project was developed for ERGOHACK II.
 
