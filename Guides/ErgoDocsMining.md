@@ -2,7 +2,7 @@
 title: ErgoDocs/Mining
 description: adapted from https://docs.ergoplatform.com/mining/
 published: false
-date: 2022-09-16T06:53:06.922Z
+date: 2022-09-16T06:58:15.805Z
 tags: mining, penambang, miner, gpu, mining, guides
 editor: markdown
 dateCreated: 2022-09-16T06:53:06.922Z
@@ -19,10 +19,10 @@ Ergo mining is based on [Autolykos](/en/Glossary/Autolykos), an ASIC resistant P
 
 Unless you have 1TH/s+, you likely want to be mining from a pool. Available miners and pools listed in the pool section. 
 
-- [Mining from a pool](setup/join)
-- [Solo Mining](setup/solo)
-- [Hosting a pool](setup/pool)
-- [Subpooling](/mining/setup/subpool)
+- [Mining from a pool](https://docs.ergoplatform.com/mining/setup/join)
+- [Solo Mining](https://docs.ergoplatform.com/mining/setup/solo)
+- [Hosting a pool](https://docs.ergoplatform.com/mining/setup/pool)
+- [Subpooling](https://docs.ergoplatform.com/mining/setup/subpool)
 
 **Resources**
 
