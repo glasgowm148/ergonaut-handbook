@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-16T07:40:57.230Z
+date: 2022-09-16T07:44:27.579Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -61,7 +61,7 @@ The Sigmanauts Programme is designed to help people participate in, and take own
 
 If this sounds like something you are interested in, there is a formal application process for becoming a Sigmanaut. Once accepted into the Sigmanauts Program, you will be assigned the role of SigCAN (Sigmanaut Candidate), where you will have the opportunity to showcase your skills and talents within a team. 
 
-Over time, your role can evolve to become a Sigmanaut, and that comes with a **great deal of responsibility**. Community members will look to you as a trusted source of information. You will also be responsible for **representing the Ergo ecosystem in a manner that upholds the professional standards of the ecosystem and the Ergo Foundation**.
+Over time, your role can evolve to become a Sigmanaut, and that comes with a **great deal of responsibility**. Community members will look to you as a trusted source of information. You will also be responsible for representing the Ergo ecosystem in a manner that upholds the professional standards of the ecosystem and the Ergo Foundation.
 
 
 ## Perks 
