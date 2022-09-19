@@ -2,16 +2,25 @@
 title: Governance & Miner Voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: true
-date: 2022-09-16T07:34:02.992Z
+date: 2022-09-19T10:53:03.949Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
 ---
 
 # Governance 
+
+#####System constants:
+
+**Voting epoch length** = `1024` blocks.
+
+**Voting epochs per foundational change** = `32`
+
+**Voting epochs before approved foundational change activation** = `128`
+
 Many parameters can be changed on-the-fly via miners voting. Ergo Miners have the ability to adjust the block size which increases the amount of transactions per block. This increases potential rewards but also adds additional storage requirements. Maximum block size is just one of the 8 "everyday" changes possible on Ergo, as described in table below.
 _________
-The following table describes vote identifiers, default values (during launch), possible steps, and minimum and maximum values. If the step is not defined in the table, its value is defined as $\max(\lfloor current\_value / 100 \rfloor, 1)$. If the minimum value for a parameter is not defined, it equals zero. If the maximum value is not defined, it equals `1,073,741,823`.
+The following table describes vote identifiers, default values (during launch), possible steps, and minimum and maximum values. If the step is not defined n the table, its value is defined as $\max(\lfloor current\_value / 100 \rfloor, 1)$. If the minimum value for a parameter is not defined, it equals zero. If the maximum value is not defined, it equals `1,073,741,823`.
 
 A miner includes a parameter identifier ($id$) into the block header to propose or vote for increasing a parameter. If the miner supports decreasing the parameter, he includes ($-id$) into the block header.
 
@@ -41,5 +50,9 @@ In addition to the above "everyday" changes that can be changed via on-chain min
 | **120**| Soft-fork (increasing version of a block) |  |  |  |  |
 "Foundational" changes (implemented via soft-fork) <u> exclude critical changes such as changing the max supply.</u>
 ________
+
+
+
+
 ##### Original voting.tex has more details (including some example miner votes) to explore: https://github.com/ergoplatform/ergo/blob/master/papers/yellow/voting.tex
 
