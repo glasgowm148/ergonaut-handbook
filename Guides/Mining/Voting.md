@@ -2,7 +2,7 @@
 title: Governance & Miner Voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: true
-date: 2022-09-19T10:53:03.949Z
+date: 2022-09-19T10:53:51.171Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
@@ -10,7 +10,7 @@ dateCreated: 2022-09-10T05:40:16.859Z
 
 # Governance 
 
-#####System constants:
+##### System constants:
 
 **Voting epoch length** = `1024` blocks.
 
