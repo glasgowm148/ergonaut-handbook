@@ -2,7 +2,7 @@
 title: Governance & Miner Voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: true
-date: 2022-09-19T11:14:58.981Z
+date: 2022-09-19T11:17:03.010Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
@@ -10,6 +10,14 @@ dateCreated: 2022-09-10T05:40:16.859Z
 
 # Governance 
 
+> **System constants:**
+>
+> **Voting epoch length** = `1024` blocks.
+> 
+> **Voting epochs per foundational change** = `32`
+>
+> **Voting epochs before approved foundational change activation** = `128`
+{.is-info}
 
 
 
@@ -41,13 +49,7 @@ In addition to the above "everyday" changes that can be changed via on-chain min
 
 - One notable example of this is [EIP-0027](https://github.com/ergoplatform/eips/blob/master/eip-0027.md). 
 
-#### System constants:
 
-**Voting epoch length** = `1024` blocks.
-
-**Voting epochs per foundational change** = `32`
-
-**Voting epochs before approved foundational change activation** = `128`
 
 **Foundational Changes `Id 120`  require super majority (>90%) of votes to pass**:
 | ID | Description | Default | Step | Min | Max |
