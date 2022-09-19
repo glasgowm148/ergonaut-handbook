@@ -2,7 +2,7 @@
 title: Governance & Miner Voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: true
-date: 2022-09-19T11:18:15.882Z
+date: 2022-09-19T11:22:00.973Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
@@ -55,7 +55,8 @@ In addition to the above "everyday" changes that can be changed via on-chain min
 | ID | Description | Default | Step | Min | Max |
 |---|---|---|---|---|---|
 | **120**| Soft-fork (increasing version of a block) |  |  |  |  |
-"Foundational" changes (implemented via soft-fork) <u> exclude critical changes such as changing the max supply.</u>
+
+**Foundational changes (implemented via soft-fork) <u> exclude critical changes such as changing the max supply.</u>**
 ________
 
 
