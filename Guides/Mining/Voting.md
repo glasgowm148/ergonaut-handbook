@@ -2,7 +2,7 @@
 title: Governance & Miner Voting
 description: Many parameters can be changed on-the-fly via miners voting
 published: true
-date: 2022-09-19T11:17:03.010Z
+date: 2022-09-19T11:18:15.882Z
 tags: mining, vote, governance, mining vote
 editor: markdown
 dateCreated: 2022-09-10T05:40:16.859Z
@@ -31,7 +31,7 @@ The following table describes vote identifiers, default values (during launch), 
 
 A miner includes a parameter identifier ($id$) into the block header to propose or vote for increasing a parameter. If the miner supports decreasing the parameter, he includes ($-id$) into the block header.
 
-**Everday Changes `Id 1-8` require simple majority of votes to pass**:
+**Everyday Changes `Id 1-8` require simple majority of votes to pass**:
 | ID | Description | Default | Step | Min | Max |
 |---|---|---|---|---|---|
 | **1** | Storage fee factor (per byte storage period) | 1250000 | 25000 | 0 | 2500000 |
