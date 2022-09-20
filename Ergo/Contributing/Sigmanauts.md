@@ -2,14 +2,14 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-20T09:09:52.444Z
+date: 2022-09-20T09:14:05.081Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
 ---
 
 # Sigmanaut Training Program
-### The Ergo Community Ambassador Program
+## The Ergo Community Ambassador Program
 
  **First, check out the official Sigmanauts [Twitter announcement](https://twitter.com/ergoplatformorg/status/1471226580160684032?s=20&t=acrTQ2jyD6r5SO_VN4U8WA) below**:
 
@@ -30,12 +30,12 @@ dateCreated: 2022-01-21T16:19:45.872Z
 The Sigmanauts Programme is designed to help people participate in, and take ownership of, Ergo. What can you bring to Ergo? What are your strengths and how can they be applied to the collective efforts of the community? If you are interested in becoming a contributing member of the Sigmanauts Program, there are three categories for you to consider.
 
  **Sigmanauts are tasked with improving Ergo in THREE main areas:**
----
+
 ### 1. GROWTH 🌱 **Help bring new people into the community**.
 ◼ **Marketing**
 ◼ **DevOps** 
 ◼ **Designers**
->
+
 > What skills do you have to assist in growing the community and attracting people of diverse backgrounds and skill sets? Maybe you have marketing expertise and would like to contribute to the promotion of Ergo. Or maybe you have connections to other projects and/or communities that would be interested in what Ergo offers.
 {.is-success}
 
@@ -44,7 +44,7 @@ The Sigmanauts Programme is designed to help people participate in, and take own
 ◼ **Ambassadors**
 ◼ **Moderators**
 ◼ **Translators**
->
+
 > There will always be new people coming to the Ergo ecosystem. Who can answer any questions they may have? Who can be a trusted source of information? The ecosystem will always need informed and trustworthy people to develop and maintain a healthy and safe community. As the ecosystem continues to grow, there will also be a continued need for people who can be representatives to new demographics. This category is for those who are interested in being ambassadors, moderators, and/or translators.
 {.is-success}
 
@@ -53,7 +53,7 @@ The Sigmanauts Programme is designed to help people participate in, and take own
 ◼ **Editorial**
 ◼ **Artists** 
 ◼ **Social Media Promoters**
->
+
 > Are you a skilled graphic designer, videographer or writer? Do you have social media expertise? If so, there is always a need for creative people with these specialized skill sets. As the Ergo ecosystem grows, there will be a continued need for video tutorials, technical blogs, how-to guides, infographics, etc.
 {.is-success}
 
