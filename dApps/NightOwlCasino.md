@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-20T14:46:04.294Z
+date: 2022-09-20T14:47:25.355Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -39,8 +39,7 @@ The unique option to be the house, no ICO or private token sales, plus fully-ver
 Night Owl was part of Ergohack III and has lots of news to come in the near future.
 
 
-## The Pioneers 
-### Night Owl’s First Four Games
+## The Pioneers: Night Owl’s First Four Games
 · Roulette
 
 · Blackjack
@@ -52,9 +51,7 @@ Night Owl was part of Ergohack III and has lots of news to come in the near futu
 Please see [Pioneers article](https://medium.com/@NightOwlCasino/the-pioneers-night-owls-first-four-games-31dc6406a5f8) for details on these 4 games. 
 
 --------
-## The Long-eared Owl Program 
-
-### Third-Party Games on Night Owl
+## The Long-eared Owl Program & Third-Party Games on Night Owl
 
 The Night Owl team actively provides support for third-party developers to build and list their games on the Night Owl platform. 
 
@@ -82,7 +79,7 @@ Ultimately, this shared liquidity will lead to quicker ramp-up periods for third
 
 
 
-#### Spooky Hunt (in beta)  
+### Spooky Hunt (in beta)  
 A Pacman style, Pay-to-Play NFT game, in which players try to collect points while running away from the "Priests" that chase them.
  
 - There will be two modes in Spooky Hunt game, 
@@ -97,7 +94,7 @@ Buy your spooky [NFT's](https://www.skyharbor.io/collection/spookyergo)
 Play Spooky hunt beta [game](https://spookyhunt.netlify.app/)
 </br>
 
-#### Future of 3rd Party Games on Night Owl 
+### Future of 3rd Party Games on Night Owl 
 
 - **A future goal would be to have profiles for third-parties where they can have a library of their games on display and ready to play.**
 
