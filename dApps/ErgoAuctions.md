@@ -2,7 +2,7 @@
 title: ErgoAuctions
 description: 
 published: true
-date: 2022-09-20T15:26:16.159Z
+date: 2022-09-20T15:26:55.793Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:23.364Z
@@ -22,6 +22,7 @@ Ergo Auction House is a decentralized auction house, secure and easy to use. A s
 - [Ergo NFT Discord:](https://discord.gg/WsWpvbZwN2) - active group of NFT fans on Ergo's Discord channel
 
 ## Artist Guidelines & Best Practices
+
 
 **Source: https://www.ergoforum.org/t/artist-guideline/2929**
 
