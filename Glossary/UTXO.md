@@ -2,13 +2,13 @@
 title: UTXO
 description: A description of the UTXO model
 published: true
-date: 2022-09-20T06:45:51.509Z
+date: 2022-09-20T06:48:26.904Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T22:42:53.074Z
 ---
 
-> Ergo uses the [extended UTXO model](https://ergonaut.space/en/Glossary/eUTXO), enabling powerful turing-complete smart contracts to be implemented securely and efficiently,  on-top of Bitcoin's original UTXO model.
+> Ergo uses the extended-UTXO or [eUTXO](https://ergonaut.space/en/Glossary/eUTXO) model, enabling powerful turing-complete smart contracts to be implemented securely and efficiently,  on-top of Bitcoin's original UTXO model.
 {.is-success}
 # UTXO
 
