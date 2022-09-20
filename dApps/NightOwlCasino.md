@@ -2,7 +2,7 @@
 title: Night Owl Casino
 description: Ergo's First Decentralized Casino
 published: true
-date: 2022-09-20T14:48:45.515Z
+date: 2022-09-20T14:50:06.202Z
 tags: yield, staking, dapps
 editor: markdown
 dateCreated: 2022-08-30T21:48:11.631Z
@@ -92,8 +92,7 @@ A Pacman style, Pay-to-Play NFT game, in which players try to collect points whi
 Buy your spooky [NFT's](https://www.skyharbor.io/collection/spookyergo)  
 
 Play Spooky hunt beta [game](https://spookyhunt.netlify.app/)
-</br>
-
+______
 ## Future of 3rd Party Games on Night Owl 
 
 - **A future goal would be to have profiles for third-parties where they can have a library of their games on display and ready to play.**
@@ -114,7 +113,7 @@ Join the communities and follow on twitter!
 https://twitter.com/NightOwlCasino
 
 
-</br>
+
 ----
 
 
