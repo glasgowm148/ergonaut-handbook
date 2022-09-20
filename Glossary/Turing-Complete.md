@@ -2,7 +2,7 @@
 title: Turing-complete
 description: definition and examples
 published: true
-date: 2022-09-20T15:57:33.996Z
+date: 2022-09-20T16:41:40.487Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-20T15:14:55.658Z
@@ -19,6 +19,5 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Turing_completeness#):
 ____
 ## Turing-complete Smart Contracts
 
-- Ethereum advocated the execution of a Turing-complete language on the blockchain. It *theoretically* promised unlimited potential; however, in practice, severe limitations came to light from excessive blockchain bloat, subtle multi-million dollar bugs, gas costs that limit contract complexity, and other such problems. 
-
-- Ergo on the flip side, extends UTXO to enable Turing-completeness while limiting the complexity of the [ErgoScript](https://ergonaut.space/en/Glossary/ErgoScript) language itself. **The same expressive power is achieved in a different and more semantically sound way.**
+- Ethereum is an exceptional platform, but there are things it does not do well. Its Turing-complete smart contracts are powerful but dangerous – as incidents from The DAO to the Parity wallet exploits have proven, with tens of millions of dollars in collateral damage. With complexity comes uncertainty and potentially catastrophic vulnerabilities. Contracts can be expensive to run, and depending on network conditions, may execute unpredictably – or not.
+- Ergo on the flip side, [extends UTXO](https://ergonaut.space/en/Glossary/eUTXO) to enable Turing-completeness (by iterating processes across multiple blocks) while limiting the complexity of the [ErgoScript](https://ergonaut.space/en/Glossary/ErgoScript) language itself. **The same expressive power is achieved in a different and more semantically sound way.** That means Ergo can support versatile [dApps](/en/dApps/dApps-Index) that run predictably, with known costs, and don't have any of the dangers of unrestricted functionality.
