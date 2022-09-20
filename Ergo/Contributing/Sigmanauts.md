@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-20T09:08:06.622Z
+date: 2022-09-20T09:09:52.444Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -81,7 +81,7 @@ Successful applicants will be awarded:
 
 ☑️ This official Sigmanaut NFT  by [@ERGnomes](https://t.co/n0Cpbjel67) ⬇ 
 
-![sigmanautsnft_small.jpg](/sigmanautsnft_small.jpg){.align-center}
+![sigmanautsnft_small.jpg](/sigmanautsnft_small.jpg)
 ____
 
 
