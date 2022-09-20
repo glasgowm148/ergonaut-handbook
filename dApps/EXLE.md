@@ -2,7 +2,7 @@
 title: EXLE (Ergo-Lend)
 description: PEER TO PEER Lending Platform
 published: true
-date: 2022-09-14T23:19:57.746Z
+date: 2022-09-20T15:29:57.204Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T22:30:47.227Z
@@ -17,7 +17,7 @@ EXLE is a new paradigm for lending. The goal is to leverage blockchain technolog
 
 Checkout the EXLE (Ergo-Lend) [litepaper](https://ergopad-pdfs.s3.us-west-2.amazonaws.com/ergo-lend-lite-paper-en.pdf)
 
-**EXLE Community**
+## Community Links
 - [EXLE website](https://www.ergolend.org/) 
 - [Telegram](https://t.me/ErgoLend)
 - [Twitter](https://twitter.com/ErgoLend)
