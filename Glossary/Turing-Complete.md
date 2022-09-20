@@ -1,8 +1,8 @@
 ---
 title: Turing-complete
-description: definition 
+description: definition and examples
 published: true
-date: 2022-09-20T15:37:25.839Z
+date: 2022-09-20T15:38:03.897Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-20T15:14:55.658Z
