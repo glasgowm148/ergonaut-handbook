@@ -2,7 +2,7 @@
 title: ErgoAuctions
 description: 
 published: true
-date: 2022-09-20T15:26:55.793Z
+date: 2022-09-20T15:28:33.476Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:03:23.364Z
@@ -43,9 +43,9 @@ By design, you can use any wallet you like but currently, it is strongly advised
 - If you decide to use Yoroi nighty:
 Although many problems with Yoroi nighty are resolved, there are still some issues. If you encounter any problem with it, just open your wallet and let the transaction table update with your latest transactions, and then everything should be fine – also wait for pending transactions to be mined. If it is not resolved, send all your funds to yourself and wait for it to be mined.
 -----
-**Auction House** 
+## **Auction House** 
 **Source**: https://www.ergopad.io/projects/auctionhouse
-------
+
 Auction House, the first open-source NFT marketplace on the Ergo blockchain, featuring innovative solutions for efficient smart contracts, various auction types, on-chain collections and a flexible royalty system
 
 **Description**
