@@ -1,14 +1,14 @@
 ---
-title: Ergo dApps | Index Page
+title: Ergo dApps- LInks 
 description: decentralized applications resources
 published: true
-date: 2022-09-20T15:18:34.542Z
+date: 2022-09-20T15:21:44.583Z
 tags: dapps, dex, defi, use cases, metaverse
 editor: markdown
 dateCreated: 2022-09-10T03:10:15.755Z
 ---
 
-# Ergo dApps | Index page
+# Ergo dApps- Links & Resources
 - Check out the Ergonaut Handbook *Glossary* [dApps](https://ergonaut.space/en/Glossary/dApps) page for general description of dApps
 - [**SigmaVerse.io**](https://sigmaverse.io/all-projects/?category=All) | your portal to the Ergo dApp Universe, aka the SigmaVerse ;)
 
