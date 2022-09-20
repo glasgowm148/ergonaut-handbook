@@ -1,8 +1,8 @@
 ---
-title: 1. Index Page | Ergo dApps
-description: decentralized applications on Ergo
+title: 1.  Ergo dApps | Index Page
+description: decentralized applications resources
 published: true
-date: 2022-09-20T14:54:57.569Z
+date: 2022-09-20T14:56:16.898Z
 tags: dapps, dex, defi, use cases, metaverse
 editor: markdown
 dateCreated: 2022-09-10T03:10:15.755Z
