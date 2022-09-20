@@ -2,7 +2,7 @@
 title: Turing-complete
 description: Define term and link examples
 published: false
-date: 2022-09-20T15:14:55.658Z
+date: 2022-09-20T15:15:22.730Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-20T15:14:55.658Z
