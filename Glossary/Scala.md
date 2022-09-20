@@ -1,8 +1,8 @@
 ---
 title: Scala (Programming Language)
 description: Short for Scalable Language, a strong general purpose programming language
-published: false
-date: 2022-09-20T06:20:32.405Z
+published: true
+date: 2022-09-20T06:49:16.955Z
 tags: devs, ergoscrypt, programming, coding
 editor: markdown
 dateCreated: 2022-09-20T06:02:00.668Z
