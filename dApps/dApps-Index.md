@@ -1,8 +1,8 @@
 ---
-title: 1. Ergo dApps- LInks & Resources
+title: 1. dApps- Links & Resources
 description: decentralized applications resources
 published: true
-date: 2022-09-20T15:22:37.734Z
+date: 2022-09-20T15:23:16.119Z
 tags: dapps, dex, defi, use cases, metaverse
 editor: markdown
 dateCreated: 2022-09-10T03:10:15.755Z
