@@ -2,16 +2,18 @@
 title: Scala (Programming Language)
 description: Short for Scalable Language, a strong general purpose programming language
 published: false
-date: 2022-09-20T06:14:04.460Z
+date: 2022-09-20T06:20:32.405Z
 tags: devs, ergoscrypt, programming, coding
 editor: markdown
 dateCreated: 2022-09-20T06:02:00.668Z
 ---
 
-> SOURCE: https://docs.scala-lang.org/tour/tour-of-scala.html
-{.is-info}
-# **The Scala Programming Language**
 
+> Ergo's primary language is Scala. Similarily, the scripting language used by ergo, ergoscript, is similarly based on Scala.
+{.is-info}
+
+# **The Scala Programming Language**
+ SOURCE: https://docs.scala-lang.org/tour/tour-of-scala.html
 ## What is Scala?
 Scala (short for Scalable Language) is a modern multi-paradigm programming language designed to express common programming patterns in a concise, elegant, and type-safe way. It seamlessly integrates features of object-oriented and functional languages.
 
