@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-09-16T07:44:27.579Z
+date: 2022-09-20T05:30:37.716Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -18,9 +18,12 @@ dateCreated: 2022-01-21T16:19:45.872Z
 
 **Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are actively helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, or by helping to shape the structure of the Sigmanaut program itself.** 
 
+> **IMPORTANT: Please join the [Ergo Discord](https://discord.com/invite/nr4JRnhAyV) as that is where the Sigmanaut Training Program will take place.**
+{.is-warning}
 
-> NOTE: Majority of the following text is borrowed from **"The Sigmanauts Programme"** [blog post](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) (Dec. 2021)
-> {.is-info}
+- NOTE: Majority of the following text is borrowed from **"The Sigmanauts Programme"** [blog post](https://ergoplatform.org/en/blog/the-sigmanauts-programme/) (Dec. 2021).
+
+
 
 ##  Ways to Contribute 
 
@@ -28,7 +31,7 @@ The Sigmanauts Programme is designed to help people participate in, and take own
 
  **Sigmanauts are tasked with improving Ergo in THREE main areas:**
 ---
-### 1. GROWTH 📈 **Help bring new people into the community**.
+### 1. GROWTH 🌱 **Help bring new people into the community**.
 - **Marketing**
 - **DevOps** 
 - **Designers**
@@ -100,7 +103,9 @@ If you can offer your time, skills and/or experience for #Ergo, please apply to 
 [**Sigmanaut Registration Form**](https://q9fwzopidh8.typeform.com/to/RdWAB3MS?typeform-source=www.reddit.com) ✏️
 
 > **IMPORTANT: Please join the [Ergo Discord](https://discord.com/invite/nr4JRnhAyV) as that is where the Sigmanaut Training Program will take place.**
-{.is-info}
+{.is-warning}
+
+
 
 
 
