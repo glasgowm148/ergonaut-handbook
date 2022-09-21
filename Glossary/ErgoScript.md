@@ -2,18 +2,18 @@
 title: ErgoScript
 description: The underlying smart contract language of Ergo.
 published: true
-date: 2022-09-20T16:33:02.072Z
+date: 2022-09-21T01:24:25.461Z
 tags: programming, coding, developers, scala
 editor: markdown
 dateCreated: 2022-09-20T15:09:13.590Z
 ---
 
 # ErgoScript
-**ErgoScript is the powerful underlying smart contract language of Ergo.** It is a high-level developer-friendly language for writing smart contracts that are then compiled to ErgoTree before being written to the blockchain. 
+- **ErgoScript is the powerful underlying smart contract language of Ergo.** It is a high-level developer-friendly language for writing smart contracts that are then compiled to ErgoTree before being written to the blockchain. 
+- **ErgoScript is a super-simple subset of [Scala](/en/Glossary/Scala).** It is a top-level language translated into a low-level language called ErgoTree, which is translated during execution into cryptographic protocol. 
+- Programs in ErgoScript are used to specify the conditions under which currency can be spent. The language supports a type of non-interactive zero-knowledge proofs called [Sigma (Σ) protocols](https://ergonaut.space/en/Glossary/sigma-protocols) and is flexible enough to allow for: [ring-signatures](/en/Glossary/ring-signatures), multi signatures, multiple currencies, [atomic swaps](/en/Glossary/Atomic-Swaps), self-replicating scripts, and long-term computation.
 
-Programs in ErgoScript are used to specify the conditions under which currency can be spent. The language supports a type of non-interactive zero-knowledge proofs called [Sigma (Σ) protocols](https://ergonaut.space/en/Glossary/sigma-protocols) and is flexible enough to allow for: ring-signatures, multi signatures, multiple currencies, [atomic swaps](/en/Glossary/Atomic-Swaps), self-replicating scripts, and long-term computation.
 
-**ErgoScript is a super-simple subset of Scala.** It is a top-level language translated into a low-level language called ErgoTree, which is translated during execution into cryptographic protocol. 
 
 
 
