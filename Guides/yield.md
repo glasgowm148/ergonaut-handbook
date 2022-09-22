@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-09-14T23:04:13.951Z
+date: 2022-09-22T14:42:40.431Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -71,6 +71,18 @@ One of the features of AMM is that liquidity providers add assets to the exchang
 Please be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting).
 
 <br>
+
+## DeFi
+
+## Duckpools [(BETA)](https://www.duckpools.io/)
+
+Lending solution currently in beta. 
+
+## [ErgoLend](https://www.ergolend.org/)
+
+A person-to-person (P2P) lending platform with easy to use tools to borrow and lend money on the Ergo blockchain. In development. 
+
+
 
 ## [Spectrum](/en/dApps/ergodex) (formerly ErgoDex)
 
