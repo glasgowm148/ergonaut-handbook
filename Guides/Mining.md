@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-09-16T06:32:58.602Z
+date: 2022-09-22T08:14:50.271Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -79,8 +79,7 @@ A wallet will be required for you to collect your mining rewards. Digital wallet
 
 - [Best Ergo Wallets for Desktop](https://www.ergoforum.org/t/best-ergo-wallet/3837/3?u=typodapsycho) ErgoForum post by [@TypoDaPsycho1](https://twitter.com/TypoDaPsycho1).
 
-> Note that most wallets are supported by third parties, we only provide the information as a courtesy, in order to simplify the overall digital currency experience for you.
-{.is-warning}
+**NOTE: Most wallets are supported by third parties, we only provide the information as a courtesy, in order to simplify the overall digital currency experience for you.**
 
 ## The Hardware:
 
