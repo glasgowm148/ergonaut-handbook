@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-07T05:12:26.117Z
+date: 2022-10-07T05:15:47.260Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -226,27 +226,26 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 
 # Difficulty 
 
-Ergo uses the linear least square method which smoothes over 8 epochs (8 x 1024 blocks). This was designed to prevent malicious time warp and coin-hopping attacks.
-- [EIP-0037](https://github.com/ergoplatform/eips/pull/79/files) is an improvement over Ergo's original difficulty adjustment algorithm (DAA), known as the *linear least-squares method*. Improvements resulting in a more responsive/smoother DAA are made by: shortening epoch length, amplifying weight of the last epoch, and limiting change in difficulty as follows-
+- [EIP-0037](https://github.com/ergoplatform/eips/pull/79/files) describes how Ergo calculates difficulty, and is an improved version of Ergo's original difficulty adjustment algorithm (DAA), known as the *linear least-squares method*. Improvements resulting in a more responsive/smoother DAA are made by: shortening epoch length, amplifying weight of the last epoch, and limiting change in difficulty as follows-
 
-  >-Epoch length to be set to 128 blocks.
+- Epoch length to be set to 128 blocks.
 
-  >
 
-  >-We calcualate predictive difficulty according to 8 epochs 128 blocks each and classic difficulty as done in Bitcoin. We took average from them.
 
-  >
+- We calcualate predictive difficulty according to 8 epochs 128 blocks each and classic difficulty as done in Bitcoin. We took average from them.
 
-  >-We limit change so that difficulty is never changed by more than 50% per epoch.
+
+
+- We limit change so that difficulty is never changed by more than 50% per epoch.
 
 ____
     
 
- >Epoch=128 Blocks x 2 min ideal block time = 256min (4.26hrs)
+Epoch=128 Blocks x 2 min ideal block time = 256min (4.26hrs)
 
->
 
->Targeting window of 8 epochs= 8 x 128 blocks x 2 min block time = 2048min 
+
+Targeting window of 8 epochs= 8 x 128 blocks x 2 min block time = 2048min 
  
 The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. If you want an estimate of what might be check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
 
