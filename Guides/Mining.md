@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-07T05:21:35.739Z
+date: 2022-10-07T05:22:15.477Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -240,7 +240,7 @@ Improvements resulting in a more responsive/smoother DAA are made by: shortening
 
 - We limit change so that difficulty is never changed by more than 50% per epoch.
 
-____
+
     
 
 > Epoch=128 Blocks x 2 min ideal block time = 256min (4.26hrs)
