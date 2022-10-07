@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-07T05:19:17.285Z
+date: 2022-10-07T05:21:35.739Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -254,7 +254,7 @@ ____
 
  The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
 
-If you want an estimate of what might be check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
+For an estimate of the upcoming difficulty, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
 
 # Host A Pool
 
