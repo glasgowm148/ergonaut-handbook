@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-07T05:15:47.260Z
+date: 2022-10-07T05:18:59.580Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -226,7 +226,9 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 
 # Difficulty 
 
-- [EIP-0037](https://github.com/ergoplatform/eips/pull/79/files) describes how Ergo calculates difficulty, and is an improved version of Ergo's original difficulty adjustment algorithm (DAA), known as the *linear least-squares method*. Improvements resulting in a more responsive/smoother DAA are made by: shortening epoch length, amplifying weight of the last epoch, and limiting change in difficulty as follows-
+[EIP-0037](https://github.com/ergoplatform/eips/pull/79/files) describes how Ergo calculates difficulty, and is an improved version of Ergo's original difficulty adjustment algorithm (DAA), known as the *linear least-squares method*. 
+
+Improvements resulting in a more responsive/smoother DAA are made by: shortening epoch length, amplifying weight of the last epoch, and limiting change in difficulty as follows-
 
 - Epoch length to be set to 128 blocks.
 
@@ -241,13 +243,19 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 ____
     
 
-Epoch=128 Blocks x 2 min ideal block time = 256min (4.26hrs)
+> Epoch=128 Blocks x 2 min ideal block time = 256min (4.26hrs)
+>
+> Targeting window of 8 epochs= 8 x 128 blocks x 2 min block time = 2048min 
+{.is-info}
 
 
 
-Targeting window of 8 epochs= 8 x 128 blocks x 2 min block time = 2048min 
+
+
  
-The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. If you want an estimate of what might be check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
+The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
+
+If you want an estimate of what might be check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
 
 # Host A Pool
 
