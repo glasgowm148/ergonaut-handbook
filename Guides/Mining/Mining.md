@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2022-10-08T00:02:09.573Z
+date: 2022-10-08T02:54:59.595Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -28,7 +28,7 @@ There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐
 
 > Original 8 year emission schedule has been extended after supermajority (>90%) of miners voted in favor of soft fork. Total supply of 97,739,925 Ergs is strictly preserved.  
 >
->Check out 1.[**Ergos Reemission Vote EIP27: A Path to Sustained Growth?**](https://ergoplatform.org/en/blog/Ergos-Reemission-Vote-EIP27-A-Path-to-Sustained-Growth/)  2.[**Ergo Emission: details, retargeting via a soft-fork**](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778) and 3. [**EIP-27 github**](https://github.com/ergoplatform/eips/blob/master/eip-0027.md)for details. 
+>Check out 1.[**Ergos Reemission Vote EIP27: A Path to Sustained Growth?**](https://ergoplatform.org/en/blog/Ergos-Reemission-Vote-EIP27-A-Path-to-Sustained-Growth/)  2.[**Ergo Emission: details, retargeting via a soft-fork**](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778) and 3. [**EIP-27 github**](https://github.com/ergoplatform/eips/blob/master/eip-0027.md) for details. 
 >
 >EIP-27 showcases the chains ability to amend itself/evolve, in a decentralized fashion. Similar to EIP-27,all *future* protocol changes are expected to occur painlessly, via soft and velvet forks.  
 {.is-info}
@@ -233,29 +233,26 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 
 [EIP-0037](https://github.com/ergoplatform/eips/pull/79/files) describes how Ergo calculates difficulty, and is an improved version of Ergo's original difficulty adjustment algorithm (DAA), known as the *linear least squares method*. 
 
-Improvements resulting in a more responsive/smoother DAA are made by: shortening epoch length, amplifying weight of the last epoch, and limiting change in difficulty as follows-
+Improvements resulting in a more responsive/smoother DAA are made by shortening epoch length, amplifying weight of the last epoch, and limiting change in difficulty as follows:
 
-- Epoch length to be set to 128 blocks.
+ **Epoch = 128 blocks**
 
-- We calculate *predictive* difficulty according to 8 epochs (128 blocks each) AND calculate *classic* difficulty (as done in Bitcoin). We then take average of both predictive & classic difficulty.
+🔹 1. Calculate *predictive* difficulty using previous 8 epochs (128 blocks each).
+🔹 2. Calculate *classic* difficulty (as done in Bitcoin). 
+🔹 3. Take average of predictive & classic difficulty.
+🔹 4. Limit adjustment so that difficulty is never changed by more than 50% per epoch.
 
-- We limit change so that difficulty is never changed by more than 50% per epoch.
-
-    
-
-
-
-
-> Epoch=128 Blocks x 2 min ideal block time = 256min (4.26hrs)
-> Targeting window of 8 epochs= 8 x 128 blocks x 2 min block time = 2048min 
+> **Basics** (*with ideal block times of 120 seconds*):
+>
+> Epoch (how often difficulty is adjusted)= 128 Blocks x 2 min block time = 256min, **so difficulty is adjusted every ~4.26 hrs** 
+>
+>  Adjustment Targeting Window  = 8 epochs x 128 blocks x 2 min block time = 2048min, **so difficulty algorithm uses ~34.1 hrs of recent blockchain history to determine next difficulty value**
 {.is-info}
 
 
+- Ergo's [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
 
-The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
-
-For an estimate of the upcoming difficulty, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
-
+- For an estimate of the upcoming difficulty, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
 
     
 
