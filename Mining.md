@@ -2,7 +2,7 @@
 title: The Complete Ergo Mining Handbook v2.0
 description: Some 3rd party pages link to this alternate URL path
 published: true
-date: 2022-09-16T06:33:20.642Z
+date: 2022-10-08T02:40:30.285Z
 tags: mining, penambang, miner, gpu, mining, guides
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
@@ -231,10 +231,27 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 - [ErgoStratumProxy](https://github.com/mhssamadani/ErgoStratumProxy)
 
 # Difficulty 
+- [EIP-0037](https://github.com/ergoplatform/eips/pull/79/files) is designed to be an improvement over Ergo's original difficulty adjustment algorithm (DAA), known as the *linear least squares* method. Improvements resulting in a more responsive/smoother DAA are made by shortening epoch length, amplifying weight of the last epoch, and limiting change in difficulty as follows:
 
-Ergo uses the linear least square method which smoothes over 8 epochs (8 x 1024 blocks). This was designed to prevent malicious time warp and coin-hopping attacks.
+ **Epoch = 128 blocks**
 
-The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. If you want an estimate of what might be next you can observe the [Difficulty and epoch monitor.](http://cds.oette.info/ergo_diff.htm)
+🔹 1. Calculate *predictive* difficulty using previous 8 epochs (128 blocks each).
+🔹 2. Calculate *classic* difficulty (as done in Bitcoin). 
+🔹 3. Take average of predictive & classic difficulty.
+🔹 4. Limit adjustment so that difficulty is never changed by more than 50% per epoch.
+
+> **Basics** (*with ideal block times of 120 seconds*):
+>
+>Epoch (how often difficulty is adjusted)= 128 Blocks x 2 min block time = 256min, **so difficulty is adjusted every ~4.26 hrs** 
+>
+>  8 Epoch Targeting Window  = 8 x 128 blocks x 2 min block time = 2048min, **so algorithm uses ~34.1 hrs of recent block history to determine next difficulty**
+{.is-info}
+
+
+- Ergo's [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
+
+- For an estimate of the upcoming difficulty, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
+
 
 # Host A Pool
 
