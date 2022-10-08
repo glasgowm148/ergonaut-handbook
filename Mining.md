@@ -2,7 +2,7 @@
 title: The Complete Ergo Mining Handbook v2.0
 description: Some 3rd party pages link to this alternate URL path
 published: true
-date: 2022-10-08T02:40:30.285Z
+date: 2022-10-08T02:48:37.195Z
 tags: mining, penambang, miner, gpu, mining, guides
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
@@ -231,7 +231,7 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 - [ErgoStratumProxy](https://github.com/mhssamadani/ErgoStratumProxy)
 
 # Difficulty 
-- [EIP-0037](https://github.com/ergoplatform/eips/pull/79/files) is designed to be an improvement over Ergo's original difficulty adjustment algorithm (DAA), known as the *linear least squares* method. Improvements resulting in a more responsive/smoother DAA are made by shortening epoch length, amplifying weight of the last epoch, and limiting change in difficulty as follows:
+- [EIP-0037](https://github.com/ergoplatform/eips/pull/79/files) is an improved version of Ergo's original difficulty adjustment algorithm (DAA), known as the *linear least squares* method. Improvements resulting in a more responsive/smoother DAA are made by shortening epoch length, amplifying weight of the last epoch, and limiting change in difficulty as follows:
 
  **Epoch = 128 blocks**
 
@@ -242,9 +242,9 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 
 > **Basics** (*with ideal block times of 120 seconds*):
 >
->Epoch (how often difficulty is adjusted)= 128 Blocks x 2 min block time = 256min, **so difficulty is adjusted every ~4.26 hrs** 
+> Epoch (how often difficulty is adjusted)= 128 Blocks x 2 min block time = 256min, **so difficulty is adjusted every ~4.26 hrs** 
 >
->  8 Epoch Targeting Window  = 8 x 128 blocks x 2 min block time = 2048min, **so algorithm uses ~34.1 hrs of recent block history to determine next difficulty**
+>  Adjustment Targeting Window  = 8 epochs x 128 blocks x 2 min block time = 2048min, **so difficulty algorithm uses ~34.1 hrs of recent blockchain history to determine next difficulty value**
 {.is-info}
 
 
