@@ -2,7 +2,7 @@
 title: Mining
 description: 
 published: true
-date: 2022-10-07T23:52:18.105Z
+date: 2022-10-08T00:02:09.573Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T09:16:51.182Z
@@ -231,27 +231,28 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 
 # Difficulty 
 
-[EIP-0037](https://github.com/ergoplatform/eips/pull/79/files) describes how Ergo calculates difficulty, and is an improved version of Ergo's original difficulty adjustment algorithm (DAA), known as the *linear least-squares method*. 
+[EIP-0037](https://github.com/ergoplatform/eips/pull/79/files) describes how Ergo calculates difficulty, and is an improved version of Ergo's original difficulty adjustment algorithm (DAA), known as the *linear least squares method*. 
 
 Improvements resulting in a more responsive/smoother DAA are made by: shortening epoch length, amplifying weight of the last epoch, and limiting change in difficulty as follows-
 
 - Epoch length to be set to 128 blocks.
 
-- We calcualate predictive difficulty according to 8 epochs 128 blocks each and classic difficulty as done in Bitcoin. We took average from them.
+- We calculate *predictive* difficulty according to 8 epochs (128 blocks each) AND calculate *classic* difficulty (as done in Bitcoin). We then take average of both predictive & classic difficulty.
 
 - We limit change so that difficulty is never changed by more than 50% per epoch.
 
     
 
+
+
+
 > Epoch=128 Blocks x 2 min ideal block time = 256min (4.26hrs)
-
->
-
 > Targeting window of 8 epochs= 8 x 128 blocks x 2 min block time = 2048min 
-
 {.is-info}
 
- The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
+
+
+The [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
 
 For an estimate of the upcoming difficulty, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
 
