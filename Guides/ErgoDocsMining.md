@@ -2,7 +2,7 @@
 title: ErgoDocs/Mining
 description: adapted from https://docs.ergoplatform.com/mining/
 published: true
-date: 2022-09-16T07:52:45.004Z
+date: 2022-10-08T03:19:21.622Z
 tags: mining, penambang, miner, gpu, mining, guides
 editor: markdown
 dateCreated: 2022-09-16T06:53:06.922Z
@@ -187,7 +187,7 @@ Also, table size (N value) is growing with time as follows. Until block `614,400
 
 
 
-## Difficulty Adjustment
+## Difficulty Adjustment -*originally*
 
 Ergo uses the **linear least square method** to calculate difficulty. This function is based on the past eight epochs (1024 blocks), as described in [this paper](https://eprint.iacr.org/2017/731.pdf) to obtain the target block interval of 120s (2 minutes). (On average, during steady-hash). 
 
@@ -203,6 +203,27 @@ While the consistenty of payouts has not been ideal during price drops, and is m
 
 So the general consensus is people would rather deal with the inconsistent rewards until the mining landscape is clearer. 
 
+## Difficulty Adjustment -*now* 
+- [EIP-0037](https://github.com/ergoplatform/eips/pull/79/files) is an improved version of Ergo's original difficulty adjustment algorithm (DAA), known as the *linear least squares* method. Improvements resulting in a more responsive/smoother DAA are made by shortening epoch length, amplifying weight of the last epoch, and limiting change in difficulty as follows:
+
+ **Epoch = 128 blocks**
+
+🔹 1. Calculate *predictive* difficulty using previous 8 epochs (128 blocks each).
+🔹 2. Calculate *classic* difficulty (as done in Bitcoin). 
+🔹 3. Take average of predictive & classic difficulty.
+🔹 4. Limit adjustment so that difficulty is never changed by more than 50% per epoch.
+
+> **Basics** (*with ideal block times of 120 seconds*):
+>
+> Epoch (how often difficulty is adjusted)= 128 Blocks x 2 min block time = 256min, **so difficulty is adjusted every ~4.26 hrs** 
+>
+>  Adjustment Targeting Window  = 8 epochs x 128 blocks x 2 min block time = 2048min, **so difficulty algorithm uses ~34.1 hrs of recent blockchain history to determine next difficulty value**
+{.is-info}
+
+
+- Ergo's [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
+
+- For an estimate of the upcoming difficulty, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
 
 ## Resources
 
