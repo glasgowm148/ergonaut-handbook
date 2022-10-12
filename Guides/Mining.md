@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-07T05:22:15.477Z
+date: 2022-10-12T03:00:59.772Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -29,11 +29,11 @@ Miners have to perform memory-hard computations which makes Ergo friendly for GP
 
 There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐mine. ~~At the end of 8 years~~, the final Erg supply will be 97,739,925 Ergs. The Ergo target block interval is 2 minutes and for the first 2 years, each block will release a total of 75 Ergs to be shared between the miners and the Treasury (Treasury discussed below). But starting at year 2, the rate of emission will fall by 3.0 Ergs and thereafter further decline every 3 months by an additional 3.0 Ergs, ~~which will result in an end to emission 8 years after launch.~~
 
-> Original 8 year emission schedule has been extended after supermajority (>90%) of miners voted in favor of soft fork. Total supply of 97,739,925 Ergs is strictly preserved.  
+> Original 8 year emission schedule was extended after supermajority (>90%) of miners voted in favor of soft fork. Total supply of 97,739,925 Ergs is strictly preserved.  
 >
 >Check out 1.[**Ergos Reemission Vote EIP27: A Path to Sustained Growth?**](https://ergoplatform.org/en/blog/Ergos-Reemission-Vote-EIP27-A-Path-to-Sustained-Growth/)  2.[**Ergo Emission: details, retargeting via a soft-fork**](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778) and 3. [**EIP-27 github**](https://github.com/ergoplatform/eips/blob/master/eip-0027.md)for details. 
 >
->EIP-27 showcases the chains ability to amend itself/evolve, in a decentralized fashion. Similar to EIP-27,all *future* protocol changes are expected to occur painlessly, via soft and velvet forks.  
+>EIP-27 showcases the network's ability to amend itself/evolve, in a decentralized fashion. Similar to EIP-27, most *future* protocol changes are expected to occur painlessly, via soft and velvet forks.  
 {.is-info}
 
 - Check out the updated emissions curve, including EIP-27 re-emission contract with [ergo.watch/emission](https://ergo.watch/emission).
@@ -51,7 +51,7 @@ For more information about Ergo follow the links below:
 
 ## Ergo Wallets 
 
-> Bookmark This "official" Ergo Wallet 🔗 
+> Bookmark this *official* Ergo #Wallets page: 
 >
 > **https://ergoplatform.org/en/get-erg/#Wallets**
 {.is-success}
@@ -61,21 +61,21 @@ For more information about Ergo follow the links below:
 - Restore Yoroi balance using better alternatives using "Import" or "Restore" Wallet options, you will need correct mnemonic seed phrase of course.
 _____
 
-A wallet will be required for you to collect your mining rewards. Digital wallets can help keep your digital currency safe, private and in your control. We highly recommend the use of wallets for storing Ergo assets (technically, they store the keys to your Ergo addresses). But keep in mind, your wallet is unlike your bank account, so take extra precautions with your passwords and be sure to perform regular backups to protect your money.
+A wallet will be required for you to collect your mining rewards. Digital wallets can help keep your digital currency safe, private and in your control. We highly recommend the use of personal wallets, not custodial exchange wallets, for storing Ergo assets (technically, they store the keys to your Ergo addresses). But keep in mind, your wallet is unlike your bank account, so take extra precautions with your passwords and be sure to perform regular backups to protect your money. If you are unwilling or unable to secure your mnemonic 
 
 ### Wallet Types:
 
-[Third Party Wallets](https://ergoplatform.org/en/get-erg/#Wallets)
+- [Third Party Wallets](https://ergoplatform.org/en/get-erg/#Wallets)
 
-[Ergo Node Wallet](https://github.com/ergoplatform/ergo/wiki/Set-up-a-full-node)
+- [Ergo Node Wallet](https://github.com/ergoplatform/ergo/wiki/Set-up-a-full-node)
 
--   [How to set up and configure a full Ergo node on Windows (Youtube)](https://www.youtube.com/watch?v=fpEDJ1CM6ns)
+	- [How to set up and configure a full Ergo node on Windows (Youtube)](https://www.youtube.com/watch?v=fpEDJ1CM6ns)
 
 ### **Helpful Resources**
 
-- [Ergo Tutorials](https://ergotutorials.com/english) has dozens of great tutorials, many of them cover basic wallet installation and use of several ERG wallets
+- [Ergo Tutorials](https://ergotutorials.com/english) has dozens of great, easy-to-follow tutorials, several of which cover installation and use of the popular ERG wallets.
 
-- [Tooling and Setup Guides](https://ergoplatform.org/en/category/Tooling/) for popular wallets on `ergoplatform.org` Blog
+- [Tooling and Setup Guides](https://ergoplatform.org/en/category/Tooling/) for popular wallets on the ErgoPlatform Blog.
 
 - [Best Ergo Wallets for Desktop](https://www.ergoforum.org/t/best-ergo-wallet/3837/3?u=typodapsycho) ErgoForum post by [@TypoDaPsycho1](https://twitter.com/TypoDaPsycho1).
 
