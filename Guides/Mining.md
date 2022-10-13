@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-13T00:20:55.358Z
+date: 2022-10-13T00:26:48.858Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -93,8 +93,8 @@ You will need computer hardware to mine Ergo also refered to as a mining rig. Er
 
 While it is possible to mine Ergo with a 4gb GPU. A 6GB GPU is the suggested minimum as Ergo heavily relies on memory usage while the core processor sits idle. 
 
-> Note: this last statement is seemingly pre Ergo's "hardening upgrade" hard-fork. As mentioned earlier in Handbook, 3gb is enough VRAM to mine Erg but that will soon change with Ergo's scheduled "DAG" increase [(DAG is a misnomer according to kushti here it's actually a table)](https://www.ergoforum.org/t/test-vectors-for-increased-n-values/2887) .
-{.is-info} 
+**Note: this last statement is seemingly pre Ergo's "hardening upgrade" hard-fork. As mentioned earlier in Handbook, 3gb is enough VRAM to mine Erg but that will soon change with Ergo's scheduled "DAG" increase [(DAG is a misnomer according to kushti here it's actually a table)](https://www.ergoforum.org/t/test-vectors-for-increased-n-values/2887).**
+
 
 ### Components required to build a mining rig:
 
