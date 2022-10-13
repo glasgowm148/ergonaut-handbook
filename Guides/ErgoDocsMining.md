@@ -2,7 +2,7 @@
 title: ErgoDocs/Mining
 description: adapted from https://docs.ergoplatform.com/mining/
 published: true
-date: 2022-10-08T03:19:21.622Z
+date: 2022-10-13T00:41:48.009Z
 tags: mining, penambang, miner, gpu, mining, guides
 editor: markdown
 dateCreated: 2022-09-16T06:53:06.922Z
@@ -223,7 +223,7 @@ So the general consensus is people would rather deal with the inconsistent rewar
 
 - Ergo's [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
 
-- For an estimate of the upcoming difficulty, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
+- For an estimate of the upcoming difficulty, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias and [Luivatra](https://twitter.com/Luivatra).
 
 ## Resources
 
