@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-12T03:45:48.813Z
+date: 2022-10-13T00:20:55.358Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -67,7 +67,7 @@ For more information about Ergo follow the links below:
 - Restore Yoroi balance using better alternatives using "Import" or "Restore" Wallet options, you will need correct mnemonic seed phrase of course.
 _____
 
-A wallet will be required for you to collect your mining rewards. Digital wallets can help keep your digital currency safe, private and in your control. We highly recommend the use of personal wallets, not custodial exchange wallets, for storing Ergo assets (technically, they store the keys to your Ergo addresses). But keep in mind, your wallet is unlike your bank account, so take extra precautions with your passwords and be sure to perform regular backups to protect your money. If you are unwilling or unable to secure your mnemonic 
+A wallet will be required for you to collect your mining rewards. Digital wallets can help keep your digital currency safe, private and in your control. We highly recommend the use of personal wallets, not custodial exchange wallets, for storing Ergo assets (technically, they store the keys to your Ergo addresses). But keep in mind, your wallet is unlike your bank account, so take extra precautions with your passwords and be sure to perform regular backups to protect your money. If you are unwilling *or* unable to secure a mnemonic seed phrase long-term (long string of random unrelated words), an exchange or custodial wallet of some sort may be a better option for you.
 
 ### Wallet Types:
 
@@ -93,7 +93,7 @@ You will need computer hardware to mine Ergo also refered to as a mining rig. Er
 
 While it is possible to mine Ergo with a 4gb GPU. A 6GB GPU is the suggested minimum as Ergo heavily relies on memory usage while the core processor sits idle. 
 
-> Note: this last statement is seemingly pre Ergo "hardening upgrade" (Ergo's only hardfork). As mentioned earlier in Handbook, 3gb is enough VRAM to mine Erg but that will soon change with Ergo's scheduled "DAG" increase [(DAG is a misnomer according to kushti here it's actually a table)](https://www.ergoforum.org/t/test-vectors-for-increased-n-values/2887) .
+> Note: this last statement is seemingly pre Ergo's "hardening upgrade" hard-fork. As mentioned earlier in Handbook, 3gb is enough VRAM to mine Erg but that will soon change with Ergo's scheduled "DAG" increase [(DAG is a misnomer according to kushti here it's actually a table)](https://www.ergoforum.org/t/test-vectors-for-increased-n-values/2887) .
 {.is-info} 
 
 ### Components required to build a mining rig:
