@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-13T00:48:05.052Z
+date: 2022-10-13T00:50:23.400Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -30,7 +30,7 @@ Ergo employs a [smoothed difficulty algorithm](https://ergoplatform.org/docs/Erg
 
 Miners have to perform memory-hard computations, making Ergo friendly for GPU mining. At least ⁓3GB memory is needed to mine Ergo *currently*, but the  most efficient implementation utilizes around 4 GB of vRAM.  
 
-A part of ASIC resistance on Autolykos v2 is credited to Ergo's periodic memory table adjustments. These adjuments slowly increase the minimum GPU vRAM required to mine Ergo over time. The goal being, if someone built an integrated circuit (ASIC) for the memory table today, they would likely have issues with their ASIC machine when the memory table is adjusted later (increased), as per schedule. 
+- A part of ASIC resistance on Autolykos v2 is credited to Ergo's periodic memory table adjustments. These adjuments slowly increase the minimum GPU vRAM required to mine Ergo over time. The goal being, if someone built an integrated circuit (ASIC) for the memory table today, they would likely have issues with their ASIC machine when the memory table is adjusted later (increased), as per schedule. 
 
 
 There was 0 ERG in existence at launch of mainnet as there was no ICO nor pre‐mine. ~~At the end of 8 years~~, the final Erg supply will be 97,739,925 Ergs. The Ergo target block interval is 2 minutes and for the first 2 years, each block will release a total of 75 Ergs to be shared between the miners and the Treasury (Treasury discussed below). But starting at year 2, the rate of emission will fall by 3.0 Ergs and thereafter further decline every 3 months by an additional 3.0 Ergs, ~~which will result in an end to emission 8 years after launch.~~
