@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-13T00:26:48.858Z
+date: 2022-10-13T00:27:58.303Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -67,7 +67,7 @@ For more information about Ergo follow the links below:
 - Restore Yoroi balance using better alternatives using "Import" or "Restore" Wallet options, you will need correct mnemonic seed phrase of course.
 _____
 
-A wallet will be required for you to collect your mining rewards. Digital wallets can help keep your digital currency safe, private and in your control. We highly recommend the use of personal wallets, not custodial exchange wallets, for storing Ergo assets (technically, they store the keys to your Ergo addresses). But keep in mind, your wallet is unlike your bank account, so take extra precautions with your passwords and be sure to perform regular backups to protect your money. If you are unwilling *or* unable to secure a mnemonic seed phrase long-term (long string of random unrelated words), an exchange or custodial wallet of some sort may be a better option for you.
+A wallet will be required for you to collect your mining rewards. Digital wallets can help keep your digital currency safe, private and in your control. We highly recommend the use of personal wallets, not custodial exchange wallets, for storing Ergo assets (technically, they store the keys to your Ergo addresses). But keep in mind, your wallet is unlike your bank account, so take extra precautions with your passwords and be sure to perform regular backups to protect your money. If you are unwilling *or* unable to secure a mnemonic seed phrase (long string of random unrelated words) long-term, an exchange or custodial wallet of some sort may be a better option for you.
 
 ### Wallet Types:
 
