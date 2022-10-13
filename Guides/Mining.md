@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-13T00:27:58.303Z
+date: 2022-10-13T00:31:52.371Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -26,7 +26,7 @@ All $ERG tokens are mined through an original Proof‐of‐Work (“PoW”) algo
 
 Compared to the majority of other PoW options, Autolykos v2 is a highly optimized, and power-efficient algorithm.  It's often called the *cool* algo, because it has a tendency  to run 15-20 ℃ cooler than KAWPOW or Dagger Hashimoto variants- when tuned properly. 
 
-Ergo employs a [smoothed difficulty algorithm](https://ergoplatform.org/docs/ErgoPow.pdf), which was recently upgraded in response to the greatly increased number of on-off miners on Ergo since the Ethereum Merge, in Sept. 2022.
+Ergo employs a [smoothed difficulty algorithm](https://ergoplatform.org/docs/ErgoPow.pdf), which was recently upgraded in response to the greatly increased number of on-off miners on Ergo since the Ethereum Merge, in Sept. 2022. More on difficulty towards end of guide.
 
 Miners have to perform memory-hard computations, making Ergo friendly for GPU mining. At least ⁓3GB memory is needed to mine Ergo *currently*, but the  most efficient implementation utilizes around 4 GB of vRAM.  
 
