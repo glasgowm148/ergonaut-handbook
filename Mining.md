@@ -2,7 +2,7 @@
 title: The Complete Ergo Mining Handbook v2.0
 description: Some 3rd party pages link to this alternate URL path
 published: true
-date: 2022-10-14T06:01:13.584Z
+date: 2022-10-14T06:05:05.653Z
 tags: mining, penambang, miner, gpu, mining, guides
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
@@ -235,7 +235,7 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 
  **Epoch = 128 blocks**
 
-🔹 1. Calculate *predictive* difficulty using previous 8 epochs (128 blocks each).
+🔹 1. Calculate *predictive* difficulty using previous 8 epochs (128 blocks each). Limit result to 50% max change, compared to last epoch.
 🔹 2. Calculate *classic* difficulty (as done in Bitcoin). 
 🔹 3. Take average of predictive & classic difficulty.
 🔹 4. Limit adjustment so that difficulty is never changed by more than 50% per epoch.
