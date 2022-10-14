@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-13T00:50:23.400Z
+date: 2022-10-14T06:15:13.086Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -238,10 +238,10 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 
  **Epoch = 128 blocks**
 
-🔹 1. Calculate *predictive* difficulty using previous 8 epochs (128 blocks each).
+🔹 1. Calculate *predictive* difficulty using previous 8 epochs (128 blocks each). Limit result to 50% change, compared to last Epoch.
 🔹 2. Calculate *classic* difficulty (as done in Bitcoin). 
 🔹 3. Take average of predictive & classic difficulty.
-🔹 4. Limit adjustment so that difficulty is never changed by more than 50% per epoch.
+🔹 4. Finally, Limit adjustment so that difficulty is never changed by more than 50% per epoch.
 
 > **Basics** (*with ideal block times of 120 seconds*):
 >
@@ -253,7 +253,7 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 
 - Ergo's [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
 
-- For an estimate of the upcoming difficulty, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community members @essaias and [Luivatra](https://twitter.com/Luivatra).
+- For an estimate of the upcoming difficulty, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community members [@Essaias_Crypto](https://twitter.com/Essaias_Crypto) and [@Luivatra](https://twitter.com/Luivatra).
 # Host A Pool
 
 Currently the [#host-a-pool](https://discord.gg/kxbrHVwnm5) on Discord is the best place to get support configuring a pool. 
