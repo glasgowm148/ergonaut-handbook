@@ -2,7 +2,7 @@
 title: The Complete Ergo Mining Handbook v2.0
 description: Some 3rd party pages link to this alternate URL path
 published: true
-date: 2022-10-14T06:05:05.653Z
+date: 2022-10-14T06:16:56.025Z
 tags: mining, penambang, miner, gpu, mining, guides
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
@@ -250,9 +250,9 @@ In order to operate them, you may or may not need to use Stratum Server and Stra
 
 - Ergo's [difficulty over time](https://explorer.ergoplatform.com/en/charts/difficulty) is visible here. 
 
-- For an estimate of the upcoming difficulty, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community member @essaias.
 
 
+- For an **estimate of the upcoming difficulty**, check out the [Difficulty and Epoch Monitor](http://cds.oette.info/ergo_diff.htm)- by community members [@Essaias_Crypto](https://twitter.com/Essaias_Crypto) and [@Luivatra](https://twitter.com/Luivatra).
 # Host A Pool
 
 Currently the [#host-a-pool](https://discord.gg/kxbrHVwnm5) on Discord is the best place to get support configuring a pool. 
