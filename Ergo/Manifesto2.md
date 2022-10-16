@@ -2,7 +2,7 @@
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
 published: false
-date: 2022-10-16T09:45:08.706Z
+date: 2022-10-16T09:47:28.792Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
@@ -14,7 +14,7 @@ dateCreated: 2022-10-16T09:28:52.103Z
 >  For those not familiar, the Ergo Manifesto can be found here: https://ergonaut.space/en/Ergo/manifesto - now available in fourteen languages!
 {.is-info}
 
-The Ergo Manifesto is considered essesntial reading for all prospective Ergonauts, serving as a "Prime Directive" *of sorts* for the Ergo project/network. As great as the Manifesto is, many believe it is not without its faults, and therefore could use some *light* editing in various places. 
+The Ergo Manifesto is considered essesntial reading for all prospective Ergonauts, serving as the unofficial Constitution or *"Prime Directive" of sorts* for the Ergo project/network. As great as the Manifesto is, many believe it is not without its faults, and could therefore use some *light* editing in various places. 
 
 The intent of this page will be to maintain a community-edited version of the Manifesto- or rather, Ergo Manifesto 2.0- that we can all work on and contribute to- *as a community*. One major point worth noting, although the Ergo Manifesto is in need of some light editing, the text is not to be changed in tone or implied intent. 
 
