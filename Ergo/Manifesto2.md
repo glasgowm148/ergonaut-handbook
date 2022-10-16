@@ -2,7 +2,7 @@
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
 published: false
-date: 2022-10-16T09:38:46.415Z
+date: 2022-10-16T09:39:33.674Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
@@ -32,7 +32,7 @@ Big banksters consider this just another buzzword as another tool to extract val
 
 What I witnessed in the early years around online forums users is this,
 
-Cryptocurrency should provide tools to enrich ordinary people. Small businesses struggling to make ends meet, not big depersonalized financial capital.
+> Cryptocurrency should provide tools to enrich ordinary people. Small businesses struggling to make ends meet, not big depersonalized financial capital.
 
 **This is what inspired me. This is my dream.**
 
