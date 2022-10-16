@@ -2,7 +2,7 @@
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
 published: false
-date: 2022-10-16T09:52:50.274Z
+date: 2022-10-16T10:10:15.703Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
@@ -19,6 +19,9 @@ The Ergo Manifesto is considered essesntial reading for all prospective Ergonaut
 The intent of this page will be to maintain a community-edited version of the Manifesto- or rather, Ergo Manifesto 2.0- that we can all work on and contribute to, *as a community*. One major point worth noting, although the Ergo Manifesto is in need of some light editing, the text is not to be changed in tone or implied intent. 
 
 **The Ergo Manifesto 2.0 must adhere to the original message, and making as few changes as possible to the original text is the overall goal of this particular version.**
+
+> NOTE:  Changes to the reference text should be highlighted or emphasized somehow. Exactly how to do this, while still maintaining readability, is the choice that each contributor needs to make. As long as the method is maintained throughout the text submitted by each individual, there will hopefully be no issues. This is subject to change based on actual results, and is open to interpretation. 
+{.is-success}
 
 ______
 # Ergo Manifesto (version 2.0) 
