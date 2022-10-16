@@ -2,7 +2,7 @@
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
 published: false
-date: 2022-10-16T09:49:37.890Z
+date: 2022-10-16T09:50:41.206Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
@@ -21,9 +21,9 @@ The intent of this page will be to maintain a community-edited version of the Ma
 **The Ergo Manifesto 2.0 must adhere to the original message, and making as few changes as possible to the original text is the overall goal of this particular version.**
 
 ______
-# Ergo Manifesto- community edited version 
+# Ergo Manifesto (community edited version) 
 Insert text here 
-# Original Text
+# Ergo Manifesto (original text)
 **The Ergo Manifesto hopes to educate and offer a vision of what blockchain technology can achieve. We hope to build society through horizontal cooperation through production under the division of labor, trade and exchange, and solidarity and mutual aid.**
 
 We believe this is achievable while maintaining basic principles that benefit the well-being of all humans. Core principles that have been central to human rights and values must be maintained as our technological capacities evolve. The built tools must enrich human value rather than subjugate humans in surveillance and control systems. 
