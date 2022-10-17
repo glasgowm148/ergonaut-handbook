@@ -2,7 +2,7 @@
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
 published: false
-date: 2022-10-17T08:01:25.234Z
+date: 2022-10-17T08:03:24.281Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
@@ -34,7 +34,7 @@ ______
 
 We believe this is achievable while maintaining basic principles that benefit the well-being of all humans. Core principles that have been central to human rights and values must be maintained as our technological capacities evolve. The built tools must enrich human value rather than subjugate humans in surveillance and control systems. 
 
-- We truly believe we can achieve these goals, while still  maintaining basic principles that benefit the well-being of all humans. Core principles that have been central to human rights and values must be maintained as our technological capacities evolve. The tools we build must enrich human value, rather than subjugate humans with surveillance and other systems of control. 
+- We truly believe we can achieve these goals, while still  maintaining basic principles that benefit the well-being of all humans. Core principles that have been central to human rights and values must be maintained as our technological capacities evolve. The tools we build must enrich human value, rather than subjugate humans under surveillance and other systems of control. 
 
 A lot of blockchain-related news these days is saying that a bank X or a corporation Y will use a "blockchain" to "reduce costs". 
 
