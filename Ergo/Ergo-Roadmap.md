@@ -2,7 +2,7 @@
 title: Roadmap
 description: 
 published: true
-date: 2022-10-17T12:59:11.431Z
+date: 2022-10-17T12:59:26.980Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:11:23.408Z
@@ -35,7 +35,7 @@ dateCreated: 2021-02-25T08:11:23.408Z
 -   [Gravity partnership](https://medium.com/wavesprotocol/waves-partners-with-ergo-to-foster-interoperability-solutions-via-gravity-e184bca91d71)
 -   [Crowdfunder CLI](https://ergoplatform.org/en/blog/2019_09_06_crowdfund/)
 
-# Roadmap from 2021
+# 2021
 
 ## Ergo Foundation Updates
 
@@ -128,7 +128,7 @@ We also have 2 scala engineers starting a training period.
 -   [Mixer tokenisation](https://www.ergoforum.org/t/a-solution-for-staking/1057) | Tokenising ErgoMixer to incentivise liquidity in the 3-way ring-signatures. Allows users to ‘stake’ to earn transaction fees. Contracts in final approval
 -   [ErgoFund](https://ergoplatform.org/en/blog/2019_09_06_crowdfund/)
 
-## 2022
+# 2022
 
 
 -   Privacy Perserving Voting
@@ -147,7 +147,7 @@ We also have 2 scala engineers starting a training period.
 -   P2P layer improvements
 
 
-## 2023
+# 2023
 
 -   Refundable ICOs and other novel token schemes | [An ICO Example On Top of Ergo](https://ergoplatform.org/en/blog/2019_04_10-ico-example/)
  -   [Light SPV Clients](https://ergoplatform.org/en/blog/2020_05_08_lite_full_nodes/)
