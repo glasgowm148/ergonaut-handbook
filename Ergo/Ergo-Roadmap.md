@@ -2,7 +2,7 @@
 title: Roadmap
 description: 
 published: true
-date: 2022-10-17T13:00:35.252Z
+date: 2022-10-17T13:00:43.270Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:11:23.408Z
@@ -18,7 +18,7 @@ dateCreated: 2021-02-25T08:11:23.408Z
 
 
 
-## 2020
+# 2020
 
 -   [Headless dApp Framework](https://ergoplatform.org/en/blog/2020-12-08-ergo-headless-dapp-framework-now-available/) | [Understanding Headless dApps](https://www.youtube.com/watch?v=temmjyKpsEU)
 -   [Introducing ErgoMixer](https://ergoplatform.org/en/blog/2020_03_20_ergo_mixer/) | [ELI5](https://ergoplatform.org/en/blog/2021-05-12-ergomixer/)
