@@ -2,7 +2,7 @@
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
 published: false
-date: 2022-10-17T08:03:24.281Z
+date: 2022-10-17T08:09:48.650Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
@@ -26,8 +26,8 @@ The intent of this page will be to maintain a community-edited version of the Ma
 >{.is-success}
 
 ______
-# Ergo Manifesto v2.0
-## revised text, please modify
+# Ergo Manifesto v2.0- revised text
+## Please modify
 **The Ergo Manifesto hopes to educate and offer a vision of what blockchain technology can achieve. We hope to build society through horizontal cooperation through production under the division of labor, trade and exchange, and solidarity and mutual aid.**
 
 - **The Ergo Manifesto hopes to educate readers while offering a vision of what blockchain technology can accomplish. We hope to build society using horizontal cooperation and production, under the division of labor, trade and exchange, and mutual aid based on shared solidarity.**
@@ -236,8 +236,8 @@ Alexander Chepurnoy (aka Kushti) is the core developer of Ergo Platform, and he 
 
 ## A Note On Token Economics:
 Ergo Platform had a fair launch in the very beginning. It didn't hold any ICO, and there weren't any pre-mined coins for the platform's founders. Decentralization and fairness of a peer-to-peer monetary system were the priority in the first place. The Foundation treasury is set to 4.37% of the total coins mined, and it isn't possible to change the core elements of token economics further.
-# Ergo Manifesto 
-##  reference text, please do NOT delete
+# Ergo Manifesto - reference text
+##   Please do NOT delete
 **The Ergo Manifesto hopes to educate and offer a vision of what blockchain technology can achieve. We hope to build society through horizontal cooperation through production under the division of labor, trade and exchange, and solidarity and mutual aid.**
 
 We believe this is achievable while maintaining basic principles that benefit the well-being of all humans. Core principles that have been central to human rights and values must be maintained as our technological capacities evolve. The built tools must enrich human value rather than subjugate humans in surveillance and control systems. 
