@@ -2,7 +2,7 @@
 title: Roadmap
 description: 
 published: true
-date: 2022-10-17T12:59:26.980Z
+date: 2022-10-17T13:00:35.252Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:11:23.408Z
@@ -15,11 +15,7 @@ dateCreated: 2021-02-25T08:11:23.408Z
 *hint* it's interactive: 
 [https://ergoplatform.org/en/ecosystem/#Roadmap](https://ergoplatform.org/en/ecosystem/#Roadmap)
 {.is-success}
-------
 
-**Below was last updated in 2021 and the Ergo ecosystem how grown a lot since then. Until this page is updated fully, please use the *up-to-date* project Roadmap found in the link above.**
-
----
 
 
 ## 2020
@@ -145,6 +141,7 @@ We also have 2 scala engineers starting a training period.
 -   Stealth Pools and mixicles
 -   [Mining rewards reduction begin](https://docs.google.com/spreadsheets/d/1c8fa4Qalf49WbdStwNaexLa4qOybwgvDBDiyzrIH9D4/edit#gid=0)
 -   P2P layer improvements
+-   Plasma
 
 
 # 2023
