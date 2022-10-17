@@ -2,7 +2,7 @@
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
 published: false
-date: 2022-10-17T07:08:15.354Z
+date: 2022-10-17T07:11:46.928Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
@@ -32,12 +32,12 @@ ______
 
 We believe this is achievable while maintaining basic principles that benefit the well-being of all humans. Core principles that have been central to human rights and values must be maintained as our technological capacities evolve. The built tools must enrich human value rather than subjugate humans in surveillance and control systems. 
 
-- We believe this *goal* is achievable *,* while *still*  maintaining basic principles that benefit the well-being of all humans. Core principles that have been central to human rights and values must be maintained as our technological capacities evolve. ~~The built tools~~ The tools we build must enrich human value, rather than subjugate humans ~~in~~ using surveillance and ~~control systems~~ oppressive systems of control. 
+- We believe this is achievable, while still  maintaining basic principles that benefit the well-being of all humans. Core principles that have been central to human rights and values must be maintained as our technological capacities evolve. The tools we build must enrich human value, rather than subjugate humans through surveillance and restrictrive systems of control. 
 
 A lot of blockchain-related news these days is saying that a bank X or a corporation Y will use a "blockchain" to "reduce costs". 
 
 
-- A lot of blockchain-related news these days ~~is saying~~ reports that bank X, or corporation Y, will use a "blockchain" to "reduce costs". 
+- A lot of blockchain-related news these days reports that bank X, or corporation Y, will use a "blockchain" to "reduce costs". 
 
 
 Big banksters consider this just another buzzword as another tool to extract value from everywhere more efficiently and save on cutting job positions.
