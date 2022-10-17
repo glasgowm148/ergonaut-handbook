@@ -2,7 +2,7 @@
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
 published: false
-date: 2022-10-17T08:09:48.650Z
+date: 2022-10-17T08:11:55.909Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
@@ -26,7 +26,7 @@ The intent of this page will be to maintain a community-edited version of the Ma
 >{.is-success}
 
 ______
-# Ergo Manifesto v2.0- revised text
+# Ergo Manifesto | Revised Text
 ## Please modify
 **The Ergo Manifesto hopes to educate and offer a vision of what blockchain technology can achieve. We hope to build society through horizontal cooperation through production under the division of labor, trade and exchange, and solidarity and mutual aid.**
 
@@ -236,7 +236,7 @@ Alexander Chepurnoy (aka Kushti) is the core developer of Ergo Platform, and he 
 
 ## A Note On Token Economics:
 Ergo Platform had a fair launch in the very beginning. It didn't hold any ICO, and there weren't any pre-mined coins for the platform's founders. Decentralization and fairness of a peer-to-peer monetary system were the priority in the first place. The Foundation treasury is set to 4.37% of the total coins mined, and it isn't possible to change the core elements of token economics further.
-# Ergo Manifesto - reference text
+# Ergo Manifesto | Reference Text
 ##   Please do NOT delete
 **The Ergo Manifesto hopes to educate and offer a vision of what blockchain technology can achieve. We hope to build society through horizontal cooperation through production under the division of labor, trade and exchange, and solidarity and mutual aid.**
 
