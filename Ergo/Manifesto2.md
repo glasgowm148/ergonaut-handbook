@@ -2,7 +2,7 @@
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
 published: false
-date: 2022-10-17T05:41:38.703Z
+date: 2022-10-17T05:58:09.568Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
@@ -26,13 +26,17 @@ The intent of this page will be to maintain a community-edited version of the Ma
 ______
 # Ergo Manifesto v2.0
 ## revised text, please modify
-**The Ergo Manifesto hopes to educate and offer *readers* a vision of what blockchain technology can achieve. We hope to build *a better* society *for all* through horizontal cooperation ~~through~~ and production *,* under the division of labor, trade and exchange, and solidarity and mutual aid.**
+**The Ergo Manifesto hopes to educate and offer *readers* a vision of what blockchain technology can achieve. We hope to build *a better* society *for all* through horizontal cooperation ~~through~~ and production *,* under the division of labor, trade and exchange, and solidarity ~~and~~ in mutual aid.**
 
 We believe this *goal* is achievable *,* while *still*  maintaining basic principles that benefit the well-being of all humans. Core principles that have been central to human rights and values must be maintained as our technological capacities evolve. ~~The built tools~~ The tools we build must enrich human value, rather than subjugate humans ~~in~~ using surveillance and ~~control systems~~ oppressive systems of control. 
 
-A lot of blockchain-related news these days ~~is saying~~ announces that a bank X or a corporation Y will use a "blockchain" to "reduce costs". 
+A lot of blockchain-related news these days ~~is saying~~ states that a bank X or a corporation Y will use a "blockchain" to "reduce costs". 
 
-Big banksters ~~consider~~ treat ~~this~~ "blockchain" just another buzzword *to use* as another tool to extract value from everywas here more efficiently and save on cutting job positions.
+
+Big banksters consider this just another buzzword as another tool to extract value from everywhere more efficiently and save on cutting job positions.
+
+- Big banksters treat "blockchain" as another buzzword to use, or just another tool that can extract value from the market more efficiently. To the elite, blockchain isn't a tool which exists to benefit us al, but rather another tool they can use to increase profit- even if that means cutting their company's job positions.
+
 
 What I witnessed in the early years around online forums users is this,
 
