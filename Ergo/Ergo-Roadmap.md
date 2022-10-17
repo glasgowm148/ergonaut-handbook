@@ -2,7 +2,7 @@
 title: Roadmap
 description: 
 published: true
-date: 2022-10-17T12:58:23.799Z
+date: 2022-10-17T12:59:11.431Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:11:23.408Z
@@ -21,11 +21,21 @@ dateCreated: 2021-02-25T08:11:23.408Z
 
 ---
 
+
+## 2020
+
+-   [Headless dApp Framework](https://ergoplatform.org/en/blog/2020-12-08-ergo-headless-dapp-framework-now-available/) | [Understanding Headless dApps](https://www.youtube.com/watch?v=temmjyKpsEU)
+-   [Introducing ErgoMixer](https://ergoplatform.org/en/blog/2020_03_20_ergo_mixer/) | [ELI5](https://ergoplatform.org/en/blog/2021-05-12-ergomixer/)
+-   [ErgoDex CLI](https://github.com/ergoplatform/ergo-dex) | Latest developments on [ergolabs](https://github.com/ergolabs)
+-   [EMURGO to Partner with Ergo and Build Blockchain-Based Decentralized Financial Solutions](https://emurgo.io/en/blog/emurgo-to-partner-with-ergo-and-build-blockchain-based-decentralized-financial-solutions)
+-   [Announcing the Auction House, NFT Marketplace on Ergo](https://ergoplatform.org/en/blog/2020-10-16-announcing-the-auction-house-nft-marketplace-on-ergo/)
+-   [Ergo & BPSAA: A Shared Vision of the Future](https://ergoplatform.org/en/blog/2021-07-28-ergo-bpsaa-a-shared-vision-of-the-future/)
+-   [ZK Treasury](https://ergoplatform.org/en/blog/2020-09-04-announcing-the-zk-treasury-on-ergo/)
+-   [AgeUSD](https://ergoplatform.org/en/blog/2021-02-05-building-ergo-how-the-ageusd-stablecoin-works/)
+-   [Gravity partnership](https://medium.com/wavesprotocol/waves-partners-with-ergo-to-foster-interoperability-solutions-via-gravity-e184bca91d71)
+-   [Crowdfunder CLI](https://ergoplatform.org/en/blog/2019_09_06_crowdfund/)
+
 # Roadmap from 2021
-
-New Roadmap available soon.
-
-References are available below.
 
 ## Ergo Foundation Updates
 
@@ -70,21 +80,6 @@ We also have 2 scala engineers starting a training period.
 -   The **5.0 soft-fork** is going to be proposed to miners soon, the main change is about switching to just-in-time-costing in ErgoTree evaluation which will provide a 5-6x boost in scripts processing (on real blockchain data).
 -   It’s now time to consider the long-term crypto-economic security of the protocol, discussions already started [here](https://www.ergoforum.org/t/ergo-emission-details-retargeting-via-a-soft-fork/2778/7)
 -   For application development, more frameworks and ready apps are needed, there are some results to be announced already.
-
-## References
-
-## 2020
-
--   [Headless dApp Framework](https://ergoplatform.org/en/blog/2020-12-08-ergo-headless-dapp-framework-now-available/) | [Understanding Headless dApps](https://www.youtube.com/watch?v=temmjyKpsEU)
--   [Introducing ErgoMixer](https://ergoplatform.org/en/blog/2020_03_20_ergo_mixer/) | [ELI5](https://ergoplatform.org/en/blog/2021-05-12-ergomixer/)
--   [ErgoDex CLI](https://github.com/ergoplatform/ergo-dex) | Latest developments on [ergolabs](https://github.com/ergolabs)
--   [EMURGO to Partner with Ergo and Build Blockchain-Based Decentralized Financial Solutions](https://emurgo.io/en/blog/emurgo-to-partner-with-ergo-and-build-blockchain-based-decentralized-financial-solutions)
--   [Announcing the Auction House, NFT Marketplace on Ergo](https://ergoplatform.org/en/blog/2020-10-16-announcing-the-auction-house-nft-marketplace-on-ergo/)
--   [Ergo & BPSAA: A Shared Vision of the Future](https://ergoplatform.org/en/blog/2021-07-28-ergo-bpsaa-a-shared-vision-of-the-future/)
--   [ZK Treasury](https://ergoplatform.org/en/blog/2020-09-04-announcing-the-zk-treasury-on-ergo/)
--   [AgeUSD](https://ergoplatform.org/en/blog/2021-02-05-building-ergo-how-the-ageusd-stablecoin-works/)
--   [Gravity partnership](https://medium.com/wavesprotocol/waves-partners-with-ergo-to-foster-interoperability-solutions-via-gravity-e184bca91d71)
--   [Crowdfunder CLI](https://ergoplatform.org/en/blog/2019_09_06_crowdfund/)
 
 ## 2021 Q1-2
 
