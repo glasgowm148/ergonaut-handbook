@@ -2,7 +2,7 @@
 title: Roadmap
 description: 
 published: true
-date: 2022-10-17T13:02:08.270Z
+date: 2022-10-17T13:04:44.697Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:11:23.408Z
@@ -122,24 +122,28 @@ We also have 2 scala engineers starting a training period.
 
 # 2022
 
-
--   Privacy Perserving Voting
+**Core**
 -   [A focus on Throughput, Scalability and interoperability](https://ergoplatform.org/en/blog/2021-07-13-updated-2021-roadmap-from-kushti/)
 -   [Ergo Pay](https://github.com/ergoplatform/eips/pull/37) | Allows easier payments with QR codes / links which are auto-filled.
+-   [Mining rewards reduction begin](https://docs.google.com/spreadsheets/d/1c8fa4Qalf49WbdStwNaexLa4qOybwgvDBDiyzrIH9D4/edit#gid=0)
+-   P2P layer improvements
+
+
+**Ecosystem**
 -   [ErgoProfitSharingdApp](https://github.com/mhssamadani/ErgoProfitSharingDapp)
 -   Mining in Log space | [ErgoCast S1E5: NiPoPoWs & Log-Space Mining  
     ](https://www.youtube.com/watch?v=OUjxar1WCmo)
 -   [EIP-0023 Oracle pool 2.0](https://github.com/ergoplatform/eips/pull/41) | Reduction in inefficiencies
 -   [AnetaBTC](https://twitter.com/AnetaBTC)
--   ErgoSummit - Q1 2022
 -   [ergopad.io](https://ergopad.io)
 -   Applications built ontop ErgoMixer Privacy API
 -   Stealth Pools and mixicles
--   [Mining rewards reduction begin](https://docs.google.com/spreadsheets/d/1c8fa4Qalf49WbdStwNaexLa4qOybwgvDBDiyzrIH9D4/edit#gid=0)
--   P2P layer improvements
 -   Plasma
 -   Ledger integration | Backend complete, working on integration. (See weekly dev updates on Discord)
 
+**Events**
+- ErgoSummit
+- ERGOHACKFEST & ERGOHACK V
 
 
 # 2023
@@ -149,3 +153,5 @@ We also have 2 scala engineers starting a training period.
  -   [Light SPV Clients](https://ergoplatform.org/en/blog/2020_05_08_lite_full_nodes/)
 -   [LETS](https://ergoplatform.org/en/blog/2021-07-01-lets-start-the-discussion/)
 -   Private Schnorr Swaps with other chains (BTC, Komodo, LTC, Bitcoin Cash, etc)
+-   Privacy Perserving Voting
+
