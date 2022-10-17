@@ -2,7 +2,7 @@
 title: Roadmap
 description: 
 published: true
-date: 2022-10-17T13:00:43.270Z
+date: 2022-10-17T13:02:08.270Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:11:23.408Z
@@ -108,8 +108,6 @@ We also have 2 scala engineers starting a training period.
 
 -   [Ergofaucet](https://ergofaucet.org/)
 -   Zero Knowledge Spending Vaults
--   [SuSy](https://ergoplatform.org/en/blog/2021-08-16-ergo-graviton-partnership/)
--   [Wormhole](https://wormholebridge.com/#/)
 -   [ERGOHACK II](https://ergoplatform.org/en/blog/2021-09-07-ergohack-ii/)
 -   New Wallets
     -   iOS wallet (in Beta)
@@ -120,8 +118,6 @@ We also have 2 scala engineers starting a training period.
 -   Ergo v5 JITC
 -   [ErgoLend](https://www.ergolend.org/#)
 -   Blockchain Sync using UTXO set snapshots |
--   Ledger integration | Backend complete, Yoroi dev is now working on integration. (See weekly dev updates on Discord)
--   [Mixer tokenisation](https://www.ergoforum.org/t/a-solution-for-staking/1057) | Tokenising ErgoMixer to incentivise liquidity in the 3-way ring-signatures. Allows users to ‘stake’ to earn transaction fees. Contracts in final approval
 -   [ErgoFund](https://ergoplatform.org/en/blog/2019_09_06_crowdfund/)
 
 # 2022
@@ -142,10 +138,13 @@ We also have 2 scala engineers starting a training period.
 -   [Mining rewards reduction begin](https://docs.google.com/spreadsheets/d/1c8fa4Qalf49WbdStwNaexLa4qOybwgvDBDiyzrIH9D4/edit#gid=0)
 -   P2P layer improvements
 -   Plasma
+-   Ledger integration | Backend complete, working on integration. (See weekly dev updates on Discord)
+
 
 
 # 2023
 
+-   [Mixer tokenisation](https://www.ergoforum.org/t/a-solution-for-staking/1057) | Tokenising ErgoMixer to incentivise liquidity in the 3-way ring-signatures. Allows users to ‘stake’ to earn transaction fees. Contracts in final approval
 -   Refundable ICOs and other novel token schemes | [An ICO Example On Top of Ergo](https://ergoplatform.org/en/blog/2019_04_10-ico-example/)
  -   [Light SPV Clients](https://ergoplatform.org/en/blog/2020_05_08_lite_full_nodes/)
 -   [LETS](https://ergoplatform.org/en/blog/2021-07-01-lets-start-the-discussion/)
