@@ -2,26 +2,28 @@
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
 published: false
-date: 2022-10-17T06:05:46.336Z
+date: 2022-10-17T06:40:25.466Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
 ---
 
-# Ergo Manifesto 2.0
-## Help Contibute to the *unofficial* Ergo Manifesto 2.0 !
+# Overview of Ergo Manifesto 2.0
+## Help Contibute to the *unofficial* Ergo Manifesto!
 
 >  For those not familiar, the Ergo Manifesto can be found here: https://ergonaut.space/en/Ergo/manifesto - now available in fourteen languages!
 {.is-info}
 
 The Ergo Manifesto is considered essesntial reading for all prospective Ergonauts, serving as the unofficial Constitution or *"Prime Directive" of sorts* for the Ergo project/network. As great as the Manifesto is, many believe it is not without its faults, and could therefore use some *light* editing in various places. 
 
-The intent of this page will be to maintain a community-edited version of the Manifesto- or rather, Ergo Manifesto 2.0- that we can all work on and contribute to, *as a community*. One major point worth noting, although the Ergo Manifesto is in need of some light editing, the text is not to be changed in tone or implied intent. 
+The intent of this page will be to maintain a community-edited version of the Manifesto- or rather, Ergo Manifesto 2.0- that we can all work on and contribute to, *as a community*. One major point worth noting, although the Ergo Manifesto is in need of some light editing, the text should not be changed in tone or implied intent. 
 
-**The Ergo Manifesto 2.0 must adhere to the original message, and making as few changes as possible to the original text is the overall goal of this particular version.**
+**The Ergo Manifesto 2.0 must adhere to the original message, and making as few changes as possible to the original text is the overall goal of this version of the Manifesto.**
 
-> NOTE:  Changes to the reference text should be highlighted or emphasized somehow. Exactly how to do this, while still maintaining readability, is the choice that each contributor needs to make. As long as the method is maintained throughout the text submitted by each individual, there will hopefully be no issues. This is subject to change based on actual results, and is open to interpretation. 
-{.is-success}
+> NOTE:  Changes to the reference text should be highlighted or emphasized somehow. Exactly how to do this, while still maintaining readability, is the choice that each contributor needs to make. This is subject to change based on actual results, and is open to interpretation. 
+>
+> To start I will alternate sections of reference text, followed by revised texts under bullet points. I don't know if this is a good method. You can decide for yourself and adjust methods as you see fit.
+>{.is-success}
 
 ______
 # Ergo Manifesto v2.0
