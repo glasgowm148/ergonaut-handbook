@@ -2,7 +2,7 @@
 title: The Complete Ergo Mining Handbook v2.0
 description: Some 3rd party pages link to this alternate URL path
 published: true
-date: 2022-10-18T09:21:04.915Z
+date: 2022-10-18T09:22:13.733Z
 tags: mining, penambang, miner, gpu, mining, guides
 editor: markdown
 dateCreated: 2022-08-11T20:02:32.669Z
