@@ -1,8 +1,8 @@
 ---
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
-published: false
-date: 2022-10-17T08:11:55.909Z
+published: true
+date: 2022-10-19T06:23:08.081Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
