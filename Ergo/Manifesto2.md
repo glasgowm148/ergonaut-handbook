@@ -2,7 +2,7 @@
 title: Ergo Manifesto 2.0
 description: Community Edited Version of 'Ergo Manifesto'
 published: false
-date: 2022-10-19T06:30:29.328Z
+date: 2022-10-19T06:33:29.065Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T09:28:52.103Z
@@ -46,6 +46,8 @@ Big banksters consider this just another buzzword as another tool to extract val
 
 - Big banksters treat "blockchain" as another buzzword, or tool, they  can use to extract value from the system more efficiently. To the elite, blockchain isn't a tool which exists to benefit us all, but rather, another tool they can use to increase their own personal profit- even if that means cutting job positions within their own bussiness. 
 
+____
+#End of Edit #1
 
 What I witnessed in the early years around online forums users is this,
 
