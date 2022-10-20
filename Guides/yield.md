@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-10-20T09:42:06.392Z
+date: 2022-10-20T09:45:06.111Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -76,8 +76,6 @@ Please be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#imp
 
 
 
-
-
 ## [Spectrum](/en/dApps/ergodex) (formerly ErgoDex)
 
 ![screenshot_2022-01-09_at_18.13.43.png](/screenshot_2022-01-09_at_18.13.43.png)
@@ -131,32 +129,6 @@ While not without risk, several options are available to earn some returns on yo
 
 There is an AMM Pool available on CoinEx.
 
-
-# Trade Bots 
-
-
-## KuCoin
-
-KuCoin offers perhaps the most simple ways to earn yield on your Erg with the following bots available:
-
-- **Spot Grid** trades with a grid, selling high and buying low. The problem is that if ERG goes way above your range, you will have sold all your ERG and be left holding USDT (see: [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting)).
-- **Infinity Grid** works like the spot gird but has no set range and your bids with the price.
-- **Futures Grid** is still unfortunately unavailable for ERG.
-- **DCA** reduces the risk of purchasing high by investing at consistent intervals.
-
-
-**Community**
-- [ERG: Technical Analysis & Botting Telegram](https://t.me/ERGTechnicalAnalysis)
-
-<br>
-
-## Others
-Rather than using the bots on KuCoin, you can use custom bots with a bit more control over your trading strategy. 
-
-- 3commas
-- shrimpy.io
-
-
 # deFi Lending
 ## [EXLE (Ergo-Lend)](https://ergonaut.space/en/dApps/EXLE)
 ### PEER TO PEER Lending Platform
@@ -204,6 +176,32 @@ Requires ERG as a native ADA token.
 ## [Gate.io](https://www.gate.io/)
 
 You can lend there for around 3.5%
+# Trade Bots 
+
+
+## KuCoin
+
+KuCoin offers perhaps the most simple ways to earn yield on your Erg with the following bots available:
+
+- **Spot Grid** trades with a grid, selling high and buying low. The problem is that if ERG goes way above your range, you will have sold all your ERG and be left holding USDT (see: [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting)).
+- **Infinity Grid** works like the spot gird but has no set range and your bids with the price.
+- **Futures Grid** is still unfortunately unavailable for ERG.
+- **DCA** reduces the risk of purchasing high by investing at consistent intervals.
+
+
+**Community**
+- [ERG: Technical Analysis & Botting Telegram](https://t.me/ERGTechnicalAnalysis)
+
+<br>
+
+## Others
+Rather than using the bots on KuCoin, you can use custom bots with a bit more control over your trading strategy. 
+
+- 3commas
+- shrimpy.io
+
+
+
 
 # Index Funds
 
