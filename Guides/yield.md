@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-10-20T09:34:25.512Z
+date: 2022-10-20T09:37:34.725Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -30,11 +30,11 @@ So, it will not be way a way to 'stake' ERG at first. However in the future it c
 
 More details available on the [ergoforum](https://www.ergoforum.org/t/a-solution-for-staking/1057).
 
-## Staking
+# Staking
 
 Several other projects plan to launch native tokens on Erg and plan to offer staking.
 
-### [ErgoPad](https://ergopad.io/)
+## [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad)
 
 The purpose of ErgoPad is to help new projects build financial capital through token sales during IDO's, or Initial Decentralized Token Offerings. ErgoPad has deployed its own token through an IDO that gives investors governance powers as well as the ability to stake the asset. If investors reach a certain staking tier, they can enjoy early access to seed sales (often at a lower price than what will be charged at the IDO) for new projects.
 
@@ -45,7 +45,7 @@ The purpose of ErgoPad is to help new projects build financial capital through t
 
 
 
-### [anetaBTC](https://www.anetabtc.io/)
+## [anetaBTC](https://www.anetabtc.io/)
 
 Decentralized, On-Chain Wrapped Bitcoin on Ergo and Cardano.
 
@@ -55,14 +55,14 @@ Decentralized, On-Chain Wrapped Bitcoin on Ergo and Cardano.
 * [Reddit](https://www.reddit.com/r/anetaBTC/)
 
 
-### [NightOwl](/en/dApps/NightOwlCasino)
+## [NightOwl](/en/dApps/NightOwlCasino)
 
 Soon staking with a *stable token* will be available, no risk of impermanent loss or token price drops. Just good old fashioned passive returns, on a stable asset, by acting as the house in Night Owl Casino.
 
 **Community**
 * [linktr.ee](https://linktr.ee/NightOwlCasino)
 
-## Automated Market Makers
+# Automated Market Makers
 
 An Automated Market Maker (AMM) uses mathematical models to set the price and match buyers and sellers rather than merely matching buy and sell orders, as in traditional order-books. AMM is best in markets with low liquidity. 
 
@@ -72,9 +72,9 @@ Please be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#imp
 
 <br>
 
-## DeFi
+# DeFi
 
-## Duckpools [(BETA)](https://www.duckpools.io/)
+## [Duckpools](https://www.duckpools.io/) (BETA)
 
 Lending solution currently in beta. 
 
