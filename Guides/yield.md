@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-10-20T09:30:59.436Z
+date: 2022-10-20T09:34:25.512Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -78,7 +78,7 @@ Please be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#imp
 
 Lending solution currently in beta. 
 
-## [ErgoLend](https://www.ergolend.org/)
+## [EXLE (Ergo-Lend)](https://ergonaut.space/e/en/dApps/EXLE)
 
 A person-to-person (P2P) lending platform with easy to use tools to borrow and lend money on the Ergo blockchain. In development. 
 
