@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2022-10-20T09:37:34.725Z
+date: 2022-10-20T09:39:04.877Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -74,11 +74,11 @@ Please be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#imp
 
 # DeFi
 
-## [Duckpools](https://www.duckpools.io/) (BETA)
+## [Duckpools](/en/dApps/duckpools) (BETA)
 
 Lending solution currently in beta. 
 
-## [EXLE (Ergo-Lend)](https://ergonaut.space/e/en/dApps/EXLE)
+## [EXLE (Ergo-Lend)](/en/dApps/EXLE)
 
 A person-to-person (P2P) lending platform with easy to use tools to borrow and lend money on the Ergo blockchain. In development. 
 
