@@ -2,7 +2,7 @@
 title: Roadmap
 description: 
 published: true
-date: 2022-10-17T13:04:44.697Z
+date: 2022-10-21T13:17:06.734Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T08:11:23.408Z
@@ -20,16 +20,21 @@ dateCreated: 2021-02-25T08:11:23.408Z
 
 # 2020
 
+**Core**
 -   [Headless dApp Framework](https://ergoplatform.org/en/blog/2020-12-08-ergo-headless-dapp-framework-now-available/) | [Understanding Headless dApps](https://www.youtube.com/watch?v=temmjyKpsEU)
+
+**Applications**
+-   [Crowdfunder CLI](https://ergoplatform.org/en/blog/2019_09_06_crowdfund/)
 -   [Introducing ErgoMixer](https://ergoplatform.org/en/blog/2020_03_20_ergo_mixer/) | [ELI5](https://ergoplatform.org/en/blog/2021-05-12-ergomixer/)
 -   [ErgoDex CLI](https://github.com/ergoplatform/ergo-dex) | Latest developments on [ergolabs](https://github.com/ergolabs)
--   [EMURGO to Partner with Ergo and Build Blockchain-Based Decentralized Financial Solutions](https://emurgo.io/en/blog/emurgo-to-partner-with-ergo-and-build-blockchain-based-decentralized-financial-solutions)
 -   [Announcing the Auction House, NFT Marketplace on Ergo](https://ergoplatform.org/en/blog/2020-10-16-announcing-the-auction-house-nft-marketplace-on-ergo/)
--   [Ergo & BPSAA: A Shared Vision of the Future](https://ergoplatform.org/en/blog/2021-07-28-ergo-bpsaa-a-shared-vision-of-the-future/)
 -   [ZK Treasury](https://ergoplatform.org/en/blog/2020-09-04-announcing-the-zk-treasury-on-ergo/)
 -   [AgeUSD](https://ergoplatform.org/en/blog/2021-02-05-building-ergo-how-the-ageusd-stablecoin-works/)
+
+**Partnerships**
+-   [EMURGO to Partner with Ergo and Build Blockchain-Based Decentralized Financial Solutions](https://emurgo.io/en/blog/emurgo-to-partner-with-ergo-and-build-blockchain-based-decentralized-financial-solutions)
+-   [Ergo & BPSAA: A Shared Vision of the Future](https://ergoplatform.org/en/blog/2021-07-28-ergo-bpsaa-a-shared-vision-of-the-future/)
 -   [Gravity partnership](https://medium.com/wavesprotocol/waves-partners-with-ergo-to-foster-interoperability-solutions-via-gravity-e184bca91d71)
--   [Crowdfunder CLI](https://ergoplatform.org/en/blog/2019_09_06_crowdfund/)
 
 # 2021
 
@@ -79,36 +84,48 @@ We also have 2 scala engineers starting a training period.
 
 ## 2021 Q1-2
 
+
+**Core**
 -   [The ‘Hardening’ hard fork](https://www.ergoforum.org/t/hardening-hard-fork-post-mortem/599)
 -   [The Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/)
+-   [Ergo’s first Mobile Wallet](https://ergoplatform.org/en/blog/2021-07-29-ergo-for-android-released/)
+-   [developer bountries](https://ergoplatform.org/en/blog/2021-07-01-grow-ergo/)
+-   [ErgoScanner](https://github.com/ergoplatform/scanner/)
+
+**Applications**
 -   [SigmaUSD Launched](https://ergoplatform.org/en/blog/2021_02_26-sigmausd-released/)
 -   [The Bearwhale saga](https://ergoplatform.org/en/blog/2021-05-13-bearwhale-saga/)
 -   [SigmaUSD available in ErgoMixer](https://twitter.com/ergoplatformorg/status/1378985675823976461)
+-   [Mixer Hops (Obfuscation)](https://ergoplatform.org/en/blog/2021-07-16-ergoutils-a-how-to-guide/)
+-   [ergnomes.io](https://ergnomes.io/)
+-   [Ergofaucet](https://ergofaucet.org/)
+-   [ErgoLend](https://www.ergolend.org/#)
+-   [ErgoFund](https://ergoplatform.org/en/blog/2019_09_06_crowdfund/)
+
+
+**Partnerships**
 -   [Cryptocurrency Checkout partnership](https://twitter.com/crypto_checkout/status/1389972682561638409?s=20)
 -   [Yoroi dApp connector](https://emurgo.io/blog/emurgo-is-thrilled-to-announce-the-yoroi-dapp-connector)
+-   [Gravity Backend](https://github.com/ErgoGravity)
+-   [viawallet](https://twitter.com/ergoplatformorg/status/1434924605949550602) | iOS wallet **(ERG ONLY - no native assets/NFTs!)**
+-   New Exchanges | Kucoin, Changelly (PRO).
+-   [UTXO alliance](https://ergoplatform.org/en/blog/2021-09-26-the-utxo-alliance/)
+
+
+**Events**
 -   [ERGOHACK I](https://ergoplatform.org/en/blog/2021-06-19-ergohack/)
--   [Ergo’s first Mobile Wallet](https://ergoplatform.org/en/blog/2021-07-29-ergo-for-android-released/)
+-   [ERGOHACK II](https://ergoplatform.org/en/blog/2021-09-07-ergohack-ii/)
 
 ## 2021 Q3
 
--   [Mixer Hops (Obfuscation)](https://ergoplatform.org/en/blog/2021-07-16-ergoutils-a-how-to-guide/)
--   [Gravity Backend](https://github.com/ErgoGravity)
--   [viawallet](https://twitter.com/ergoplatformorg/status/1434924605949550602) | iOS wallet **(ERG ONLY - no native assets/NFTs!)**
--   [ergnomes.io](https://ergnomes.io/)
--   [developer bountries](https://ergoplatform.org/en/blog/2021-07-01-grow-ergo/)
--   New Exchanges | Kucoin, Changelly (PRO).
 -   [EIP-017](https://github.com/ergoplatform/eips/blob/master/eip-0017.md)
 -   [EIP-004](https://github.com/ergoplatform/eips/blob/master/eip-0004.md)
--   [UTXO alliance](https://ergoplatform.org/en/blog/2021-09-26-the-utxo-alliance/)
 -   [EIP-0019: Cold Wallet](https://github.com/ergoplatform/eips/pull/36)
 -   [Ergo Raffle](https://ergoplatform.org/en/blog/2021-09-02-ergo-raffle/)
--   [ErgoScanner](https://github.com/ergoplatform/scanner/)
 
 ## 2021 Q4
 
--   [Ergofaucet](https://ergofaucet.org/)
 -   Zero Knowledge Spending Vaults
--   [ERGOHACK II](https://ergoplatform.org/en/blog/2021-09-07-ergohack-ii/)
 -   New Wallets
     -   iOS wallet (in Beta)
     -   [Minotaur multi-platform development stack wallet](https://www.ergoforum.org/t/multi-platform-development-stack/2874)
@@ -116,9 +133,6 @@ We also have 2 scala engineers starting a training period.
 -   [EIP-0022: Auction Contract (v2)](https://github.com/ergoplatform/eips/pull/39)
 -   [Mining Pool decentralisation](https://miningpoolstats.stream/ergo) | Bringing nanopool down to 35% with dozens of new pools added.
 -   Ergo v5 JITC
--   [ErgoLend](https://www.ergolend.org/#)
--   Blockchain Sync using UTXO set snapshots |
--   [ErgoFund](https://ergoplatform.org/en/blog/2019_09_06_crowdfund/)
 
 # 2022
 
@@ -130,28 +144,40 @@ We also have 2 scala engineers starting a training period.
 
 
 **Ecosystem**
--   [ErgoProfitSharingdApp](https://github.com/mhssamadani/ErgoProfitSharingDapp)
--   Mining in Log space | [ErgoCast S1E5: NiPoPoWs & Log-Space Mining  
-    ](https://www.youtube.com/watch?v=OUjxar1WCmo)
--   [EIP-0023 Oracle pool 2.0](https://github.com/ergoplatform/eips/pull/41) | Reduction in inefficiencies
--   [AnetaBTC](https://twitter.com/AnetaBTC)
--   [ergopad.io](https://ergopad.io)
--   Applications built ontop ErgoMixer Privacy API
--   Stealth Pools and mixicles
--   Plasma
--   Ledger integration | Backend complete, working on integration. (See weekly dev updates on Discord)
+- [ErgoProfitSharingdApp](https://github.com/mhssamadani/ErgoProfitSharingDapp)
+- Mining in Log space | [ErgoCast S1E5: NiPoPoWs & Log-Space Mining](https://www.youtube.com/watch?v=OUjxar1WCmo)
+- [EIP-0023 Oracle pool 2.0](https://github.com/ergoplatform/eips/pull/41) | Reduction in inefficiencies
+- [AnetaBTC](https://twitter.com/AnetaBTC)
+- [ergopad.io](https://ergopad.io)
+- Applications built ontop ErgoMixer Privacy API
+- Stealth Pools and mixicles
+- Plasma
+- Ledger integration | Backend complete, working on integration. (See weekly dev updates on Discord)
 
 **Events**
 - ErgoSummit
 - ERGOHACKFEST & ERGOHACK V
 
 
-# 2023
+
+
+
+# Next
+
+**Core**
+-   Blockchain Sync using UTXO set snapshots 
+-  [Light SPV Clients](https://ergoplatform.org/en/blog/2020_05_08_lite_full_nodes/)
 
 -   [Mixer tokenisation](https://www.ergoforum.org/t/a-solution-for-staking/1057) | Tokenising ErgoMixer to incentivise liquidity in the 3-way ring-signatures. Allows users to ‘stake’ to earn transaction fees. Contracts in final approval
 -   Refundable ICOs and other novel token schemes | [An ICO Example On Top of Ergo](https://ergoplatform.org/en/blog/2019_04_10-ico-example/)
- -   [Light SPV Clients](https://ergoplatform.org/en/blog/2020_05_08_lite_full_nodes/)
 -   [LETS](https://ergoplatform.org/en/blog/2021-07-01-lets-start-the-discussion/)
 -   Private Schnorr Swaps with other chains (BTC, Komodo, LTC, Bitcoin Cash, etc)
 -   Privacy Perserving Voting
+- Babel Fees
 
+## Wen
+
+> **WEN NIPOPOWS?** For quick bootstrapping (stateless full-node), the P2P Part done but not integrated, alot of places around the node to be revisted for the needs of the new bootstrapping mode. There is also parallel work to build an external client ontop of sigma-rust. This is mostly done and then external client can be finished. 
+> [oracle core v2](https://github.com/ergoplatform/oracle-core#roadmap)
+> [SPV node API](https://github.com/ergoplatform/sigma-rust/milestone/17)
+{.is-info}
