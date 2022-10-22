@@ -2,7 +2,7 @@
 title: Meta: The Ergonaut Handbook
 description: Placeholder for the start of Meta Documents
 published: true
-date: 2022-10-22T10:37:26.455Z
+date: 2022-10-22T10:38:44.584Z
 tags: ergo, the ergonaut handbook, meta
 editor: markdown
 dateCreated: 2021-12-31T14:46:47.638Z
@@ -11,7 +11,10 @@ dateCreated: 2021-12-31T14:46:47.638Z
 # Needed Directory & Pages 
 * A meta directory related to The Ergonaut Handbook itself (done with the creation of this page)
 * A link to a github repo for The Ergonaut Handbook software, if there is one
-https://github.com/glasgowm148/ergonaut-handbook
+
+> please see: https://github.com/glasgowm148/ergonaut-handbook
+{.is-info}
+
 
 # Bugs in The Ergonaut Handbook
 I'm not sure if there is a github repo, so this is a placeholder for issues related to the software The Ergonaut Handbook runs on.
