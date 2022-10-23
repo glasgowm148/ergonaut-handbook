@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-10-23T08:39:13.138Z
+date: 2022-10-23T08:46:50.824Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -20,8 +20,10 @@ dateCreated: 2022-01-21T16:19:45.872Z
 
 **Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are actively helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, maintanace of Ergo related tools & sites, or by helping to shape the structure of the Sigmanaut program itself.** 
 
-> You do NOT need to be a creative or artistic person to be a Sigmanaut !! This isn't a full-time commitment 
-{.is-info}
+> The Sigmanaut Program is nowhere near a full-time commitment
+> You do NOT need to be creative or artistic to be a Sigmanaut !!
+{.is-warning}
+
 
 
 **You should consider applying to the Sigmanaut Program if you:**
