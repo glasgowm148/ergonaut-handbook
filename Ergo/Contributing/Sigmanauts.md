@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-10-23T08:46:50.824Z
+date: 2022-10-23T08:47:21.902Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -22,7 +22,7 @@ dateCreated: 2022-01-21T16:19:45.872Z
 
 > The Sigmanaut Program is nowhere near a full-time commitment
 > You do NOT need to be creative or artistic to be a Sigmanaut !!
-{.is-warning}
+{.is-info}
 
 
 
