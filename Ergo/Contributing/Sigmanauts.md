@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-10-23T08:02:51.239Z
+date: 2022-10-23T08:24:14.629Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -24,8 +24,8 @@ dateCreated: 2022-01-21T16:19:45.872Z
 >
 > We invite anyone to apply to the Sigmanaut Program if they: 
 > 🔶 Are helping or want to help Ergo grow in any meaningful way
-> 🔶 Will participate in group discussions/ vote on group proposals
-> 🔶 Will hold themselves to high standards -as a steward and ambassador of Ergo
+> 🔶 Will participate in group discussions & vote on group proposals
+> 🔶 Will hold themselves to high standards -as stewards/ ambassadors of Ergo
 {.is-info}
 
 
