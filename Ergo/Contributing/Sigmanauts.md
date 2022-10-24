@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-10-23T08:47:21.902Z
+date: 2022-10-24T04:27:54.725Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -30,7 +30,7 @@ dateCreated: 2022-01-21T16:19:45.872Z
 
 ☑️ Are helping (or want to help) Ergo grow in any meaningful way
 ☑️ Will participate in Sigmanaut discussions & vote on Sigmanaut proposals
-☑️ Will hold yourself to high standards -as a trusted ambassador of Ergo
+☑️ As a trusted ambassador of Ergo, will hold yourself to high standards
 
 
 
