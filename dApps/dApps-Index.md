@@ -1,8 +1,8 @@
 ---
-title: 1. dApps- Links & Resources
+title:  *dApps Index- Links & Resources
 description: decentralized applications resources
 published: true
-date: 2022-09-20T15:24:37.227Z
+date: 2022-10-25T06:39:09.932Z
 tags: dapps, dex, defi, use cases, metaverse
 editor: markdown
 dateCreated: 2022-09-10T03:10:15.755Z
