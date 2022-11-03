@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-11-03T06:45:19.044Z
+date: 2022-11-03T06:45:57.025Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -14,9 +14,9 @@ dateCreated: 2022-01-21T16:19:45.872Z
  **First, check out the official Sigmanauts [Twitter announcement](https://twitter.com/ergoplatformorg/status/1471226580160684032?s=20&t=acrTQ2jyD6r5SO_VN4U8WA) below**:
 
 ![sigmanauts-announcement-tweet-draftedit.png](/sigmanauts-announcement-tweet-draftedit.png){.align-center}
-## Program Overview** 
+## Program Overview
 
-- Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are actively helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, maintanace of Ergo related tools & sites, or by helping to shape the structure of the Sigmanaut program itself.**
+- **Sigmanauts gain exclusive access to the team, representing and bringing ideas to the wider community. Sigmanauts are actively helping shape and grow Ergo, whether it's with their contributions in writing, campaigning, community moderation, maintanace of Ergo related tools & sites, or by helping to shape the structure of the Sigmanaut program itself.**
 
 > **IMPORTANT: Please join the [Ergo Discord](https://discord.com/invite/nr4JRnhAyV) as that is where the Sigmanaut Training Program will take place.**
 {.is-warning}
