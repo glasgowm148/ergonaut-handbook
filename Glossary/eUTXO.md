@@ -2,7 +2,7 @@
 title: eUTXO
 description: 
 published: true
-date: 2022-11-05T10:23:35.148Z
+date: 2022-11-05T10:24:38.733Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:17:43.660Z
@@ -14,7 +14,7 @@ dateCreated: 2021-02-24T08:17:43.660Z
 >
 >
 >
-> EUTXO *extends* the UTXO model, by allowing output addresses to contain complex logic to decide which transactions can be used to unlock them and by adding custom data to all outputs.
+> EUTXO *extends* the UTXO model- by allowing output addresses to contain complex logic to decide which transactions can be used to unlock them and by adding custom data to all outputs.
 {.is-info}
 
 
