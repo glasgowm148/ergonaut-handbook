@@ -2,7 +2,7 @@
 title: Overview
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-11-05T11:35:38.572Z
+date: 2022-11-05T11:37:36.023Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -74,7 +74,7 @@ Like many other features in Ergo, the network's economic model is based on Bitco
   **UPDATE: EMISSIONS retargeted with EIP-27**{: .panel-heading}
 
 
-> Check out the comprehensive [Ergos Reemission Vote EIP27: A Path to Sustained Growth?](https://ergoplatform.org/en/blog/Ergos-Reemission-Vote-EIP27-A-Path-to-Sustained-Growth/) for detailed updates to Ergo's original 8-year emission schedule. EIP-27 showcases the chains ability to amend itself/evolve, in a decentralized fashion. Similar to EIP-27,all *future* protocol changes are expected to occur painlessly, via soft and velvet forks.  
+> Check out the comprehensive [Ergos Reemission Vote EIP27: A Path to Sustained Growth?](https://ergoplatform.org/en/blog/Ergos-Reemission-Vote-EIP27-A-Path-to-Sustained-Growth/) for detailed updates to Ergo's original 8-year emission schedule. EIP-27 showcases the chains ability to amend itself/evolve, in a decentralized fashion. Similar to EIP-27, most protocol changes will occur painlessly, via soft and velvet forks.  
 {.is-info}
 
 In addition to transaction fees, miners will also benefit from [Storage Rent fees](https://ergonaut.space/en/Glossary/Storage-Rent) charged on boxes (UTXOs) that have not moved (remain "unspent") for four years or longer. There are at least two advantages to this approach. Firstly, it gives miners an additional source of revenues once block rewards end. Since the network's security depends on the hash rate and miner participation, this is a significant incentive to provide. Secondly, it has the effect of recycling lost coins (and dust) back into the Ergo economy. Research suggests that up to 4 million BTC have been permanently removed from circulation due to lost private keys. Ergo's storage fees will slowly reclaim these for productive purposes, while users who want to hold coins for the long term can avoid being charged simply by moving their funds.
