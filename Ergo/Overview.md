@@ -2,7 +2,7 @@
 title: Overview
 description: Community gathered resources for the Ergo blockchain
 published: true
-date: 2022-09-08T07:08:51.028Z
+date: 2022-11-05T11:35:38.572Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T07:55:49.194Z
@@ -57,7 +57,11 @@ With Ergo, this kind of application can be created quickly, thanks to the integr
 
 Each script is applied to an unspent output. We have drawn this feature from the Bitcoin protocol, which uses UTXOs or the 'coin' model rather than an 'account' model like Ethereum's. We consider this a more secure approach since boxes are immutable, as well as being more flexible.
 
-Ergo's blockchain uses the Autolykos algorithm for consensus, which is a variant of Equihash and offers better ASIC resistance and a degree of pool resistance. This enables better decentralization, avoiding large pools that can collude or be coerced to attack the network. At the same time, we recognize that ordinary users who do not run a full node should enjoy the same security benefits as miners. Ergo's non-interactive proof-of-proof-of-work (NiPoPoW) allows anyone to make and verify transactions with complete confidence, without needing the storage, bandwidth and time required to download the full blockchain. As little as 1 MB of data is needed – meaning any device can be used.
+***Autolykos v2*** 
+
+Ergo's blockchain uses the Autolykos2  algorithm for consensus, which is a highly-optimzed version of original Autolykos, **with pool-resistance turned off.** 
+
+The original Autolykos was a variant of Equihash and offers better ASIC resistance and a degree of pool resistance. This enables better decentralization, avoiding large pools that can collude or be coerced to attack the network. At the same time, we recognize that ordinary users who do not run a full node should enjoy the same security benefits as miners. Ergo's non-interactive proof-of-proof-of-work (NiPoPoW) allows anyone to make and verify transactions with complete confidence, without needing the storage, bandwidth and time required to download the full blockchain. As little as 1 MB of data is needed – meaning any device can be used.
 
 > In regards to security, we always tried to use the most straightforward and well-studied approach; otherwise, to cover a new direction with a published paper and a lot of testing. We considered some things seriously other projects are fixing after attacks only, e.g. spammy contracts (causing "verifier's dilemma").
 
