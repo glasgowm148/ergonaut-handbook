@@ -2,16 +2,20 @@
 title: eUTXO
 description: 
 published: true
-date: 2022-08-30T23:13:25.285Z
+date: 2022-11-05T10:09:12.230Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:17:43.660Z
 ---
 
 ## Define eUTXO
-eUTXO (short for "extended Unspent Transaction Output") is a highly performant ledger model used by Ergo (among others). Extended UTXO is named as such due to it being an "extension" of Bitcoin's original UTXO model.
+> eUTXO (short for "extended Unspent Transaction Output") is a highly performant ledger model used by Ergo (among others). Extended UTXO is named as such due to it being an "extension" of Bitcoin's original UTXO model.
+>
+>
+>
+> EUTXO extends the UTXO model by allowing output addresses to contain complex logic to decide which transactions can be used to unlock them and by adding custom data to all outputs.
+{.is-info}
 
-EUTXO extends the UTXO model by allowing output addresses to contain complex logic to decide which transactions can be used to unlock them and by adding custom data to all outputs.
 
 ## Extended UTXO & Ergo
 Ergo takes the most secure and best-established features of Bitcoin and implements advanced new cryptographic features on its rock-solid foundations. This series explores the choices we have made in creating Ergo, with the first article unpacking the advantages of the UTXO model.
