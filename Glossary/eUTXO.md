@@ -2,7 +2,7 @@
 title: eUTXO
 description: 
 published: true
-date: 2022-11-05T10:14:29.711Z
+date: 2022-11-05T10:21:04.558Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:17:43.660Z
@@ -18,16 +18,18 @@ dateCreated: 2021-02-24T08:17:43.660Z
 {.is-info}
 
 
-## Extended UTXO 
+## extended-UTXO 
 
-![screenshot_20221105-013919-449.png](/screenshot_20221105-013919-449.png) & Ergo
-Ergo takes the most secure and best-established features of Bitcoin and implements advanced new cryptographic features on its rock-solid foundations. This series explores the choices we have made in creating Ergo, with the first article unpacking the advantages of the UTXO model.
+![screenshot_20221105-013919-449.png](/screenshot_20221105-013919-449.png) 
+
+
+Ergo being a pioneer of the eUTXO modeltakes the most secure and best-established features of Bitcoin and implements advanced new cryptographic features on its rock-solid foundations. This series explores the choices we have made in creating Ergo, with the first article unpacking the advantages of the UTXO model.
 
 [Multi-Stage Contracts in the UTXO Model: Delivery by Alexander Chepurnoy & Amitabh Saxena](https://www.youtube.com/watch?v=g3FlM_WOwBU)
 
 When you’re dealing with financial value, you cannot afford to take chances. Every architecture decision in a cryptocurrency platform has implications. While there are different ways to solve the same problem, some solutions are better tested and more reliable than others.
 
-Like Bitcoin, Ergo uses the ‘UTXO’ (unspent transaction outputs) model, rather than the Account model used by platforms like Ethereum. There are a number of reasons why we have made this choice, but first it’s worth explaining a little about how the UTXO or ‘Box’ model works.
+Like Bitcoin, Ergo uses the ‘UTXO’ (unspent transaction outputs) model, rather than the Account (or*balances*) model used by platforms like Ethereum. There are a number of reasons why we have made this choice, but first it’s worth explaining a little about how the UTXO or ‘Box’ model works.
 
 Most people think that the balance of an account is a simple number that is updated when you send or receive funds. This is the obvious way to approach the problem; after all, it is effectively how money works in the real world. Your bank account has a balance that is increased or decreased when different transfers are made in and out. This is how the ‘Account’ model operates: your balance on the blockchain is altered by transactions to and from the account.
 
