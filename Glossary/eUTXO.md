@@ -2,7 +2,7 @@
 title: eUTXO
 description: 
 published: true
-date: 2022-11-05T10:21:04.558Z
+date: 2022-11-05T10:23:35.148Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-24T08:17:43.660Z
@@ -18,12 +18,12 @@ dateCreated: 2021-02-24T08:17:43.660Z
 {.is-info}
 
 
-## extended-UTXO 
 
 ![screenshot_20221105-013919-449.png](/screenshot_20221105-013919-449.png) 
 
+## Extended UTXO and ERGO 
 
-Ergo being a pioneer of the eUTXO modeltakes the most secure and best-established features of Bitcoin and implements advanced new cryptographic features on its rock-solid foundations. This series explores the choices we have made in creating Ergo, with the first article unpacking the advantages of the UTXO model.
+Ergo being a pioneer of the eUTXO model, takes the most secure and best-established features of Bitcoin and implements advanced new cryptographic features on its rock-solid foundations. This series explores the choices we have made in creating Ergo, with the first article unpacking the advantages of the UTXO model.
 
 [Multi-Stage Contracts in the UTXO Model: Delivery by Alexander Chepurnoy & Amitabh Saxena](https://www.youtube.com/watch?v=g3FlM_WOwBU)
 
