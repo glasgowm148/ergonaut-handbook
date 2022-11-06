@@ -2,7 +2,7 @@
 title: Atomic Swaps
 description: 
 published: true
-date: 2022-11-06T08:01:54.818Z
+date: 2022-11-06T08:04:52.658Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T22:39:18.493Z
@@ -18,11 +18,13 @@ dateCreated: 2021-12-31T22:39:18.493Z
 
 ---
 
-tags:
 
-  - UTXO
 
----
+
+
+  
+
+*The following text is from: https://docs.ergoplatform.com/dev/protocol/eutxo/atomic/*
 
 # Atomic Swaps
 
