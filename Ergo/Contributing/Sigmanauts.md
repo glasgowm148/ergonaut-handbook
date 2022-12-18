@@ -2,7 +2,7 @@
 title: Sigmanauts
 description: Help Shape the Future of Ergo 
 published: true
-date: 2022-11-03T06:45:57.025Z
+date: 2022-12-18T14:44:57.946Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T16:19:45.872Z
@@ -118,7 +118,7 @@ Sigmanauts who 1) violate the [Ergo Community Code of Conduct](/en/Ergo/Contribu
 If you can offer your time, skills and/or experience for #Ergo, please apply to the Sigmanaut Program below!
 
 
-- [**Sigmanaut Registration Form**](https://q9fwzopidh8.typeform.com/to/RdWAB3MS?typeform-source=www.reddit.com) ✏️
+- [**Sigmanaut Registration Form**](https://my.ergoport.dev/sigcan_form.html) ✏️
 
 > **IMPORTANT: Please join the [Ergo Discord](https://discord.com/invite/nr4JRnhAyV) as that is where the Sigmanaut Training Program will take place.**
 {.is-warning}
