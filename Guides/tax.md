@@ -2,12 +2,32 @@
 title: Tax
 description: 
 published: true
-date: 2022-03-24T18:59:43.859Z
+date: 2023-02-03T19:36:09.936Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-24T14:38:12.122Z
 ---
 
+
+# Formatting for Taxes using Koinly
+
+Anyone struggling with Ergo taxes, it is possible to get Koinly to accept a csv and accurately represent everything. Here's how:
+ 
+1. Retore wallet in SAFEW
+2. Export .csv
+3. Arrange first row with the following headings: date, sent amount, sent currency, received amount, received currency, fee amount, fee currency, txn hash (most of this is done, just move a couple around and create collumns for received
+4. Cut and paste all positive values from the sent amount column and the sent currency (formerly 'balance') into the received amount and received currency collumns
+5. Remove the '-' sign from the sent amount collumn so that all values are positive
+6. Check for unrecognized currencies in the spreadsheet, some may be left blank. I just looked at SAFEW for this. If it was LP, I created a name that was consistent across those txns. If it was something dumb like spicy oatmeal, I just deleted those rows.
+
+Edit in Google Sheets, then downloaded as .csv and uploaded to Koinly.
+
+A complicated wallet can like 30 min, but most should be easy.
+
+## Python Tool
+
+There is also a Python tool to format transactions into .csv for Koinly.
+https://github.com/crystoll/export-erg-transactions
 
 # UK Tax
 
