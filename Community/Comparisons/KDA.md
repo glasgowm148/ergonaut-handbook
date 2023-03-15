@@ -2,7 +2,7 @@
 title: KDA
 description: 
 published: true
-date: 2023-03-15T13:39:13.814Z
+date: 2023-03-15T13:40:07.920Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T13:36:54.004Z
@@ -34,7 +34,7 @@ While Kadena offers scalability through its unique consensus algorithm, Ergo's w
 
 ## Account-Model
 
-Ergo's eUTXO (extended Unspent Transaction Output) model offers [several advantages] over Kadena's account-based model. Enabling greater concurrency and scalability, as transactions can be processed in parallel, unlike the account-based model, which may face bottlenecks due to global state updates. Ergo's model also benefits from the proven security of Bitcoin's UTXO model and provides more predictability, as the outputs of transactions are explicitly defined. This makes it easier to reason about the state of the system and reduces the likelihood of unexpected results or vulnerabilities that can arise in complex smart contract interactions, which have been an issue in some account-based blockchains.
+Ergo's eUTXO (extended Unspent Transaction Output) model offers [several advantages](https://docs.ergoplatform.com/dev/protocol/eutxo/) over Kadena's account-based model. Enabling greater concurrency and scalability, as transactions can be processed in parallel, unlike the account-based model, which may face bottlenecks due to global state updates. Ergo's model also benefits from the proven security of Bitcoin's UTXO model and provides more predictability, as the outputs of transactions are explicitly defined. This makes it easier to reason about the state of the system and reduces the likelihood of unexpected results or vulnerabilities that can arise in complex smart contract interactions, which have been an issue in some account-based blockchains.
 
 ## Decentralisation
 
