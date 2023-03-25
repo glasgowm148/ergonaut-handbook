@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-03-25T15:19:57.361Z
+date: 2023-03-25T15:21:27.431Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -14,10 +14,11 @@ Ergo is a **Proof of Work** blockchain. So, it is not possible to stake Ergo its
 
 You can 'stake' native tokens on Ergo in some form (on ergopad.io *live*, Night Owl Casino *soon*, ErgoMixer *soon*,+ more) using methods like the Profit-Sharing dApp described below. 
 
-Here are some related threads from ergoforum
+Related resources
 
 - [DeFi Degen Megathread](https://www.ergoforum.org/t/defi-degen-megathread/4258)
 - [Liquidity Provision: Yield Opportunities and Experiences](https://www.ergoforum.org/t/liquidity-provision-yield-opportunities-and-experiences/4220)
+- [Blog: Earning ERG in 2023 and Beyond](https://ergoplatform.org/en/blog/Earning-ERG-in-2023-and-Beyond/)
 
 ## [Ergo Profit-Sharing DApp](https://github.com/mhssamadani/ErgoProfitSharingDapp)
 
