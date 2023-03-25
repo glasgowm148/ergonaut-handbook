@@ -2,71 +2,77 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-03-25T15:21:27.431Z
+date: 2023-03-25T15:51:14.745Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
 ---
 
-# Earning Yield
+# Earning Yield on Ergo
 
-Ergo is a **Proof of Work** blockchain. So, it is not possible to stake Ergo itself as you would in a **Proof of Stake** blockchain. However, it is possible to earn some yield from your ERG in combination with Ergo in liquidity pools, tokenisation of dApps, trading bots, lending platforms, and other mechanisms.
+Ergo is a Proof of Work (PoW) blockchain, which means it doesn't support staking like Proof of Stake (PoS) blockchains. However, you can still earn yield on your ERG holdings by participating in liquidity pools, dApp tokenization, trading bots, lending platforms, and other innovative mechanisms.
 
-You can 'stake' native tokens on Ergo in some form (on ergopad.io *live*, Night Owl Casino *soon*, ErgoMixer *soon*,+ more) using methods like the Profit-Sharing dApp described below. 
+You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), Night Owl Casino (coming soon), ErgoMixer (coming soon), and more. One such method is the Profit-Sharing dApp, which allows token holders to earn a share of a dApp's revenue.
 
-Related resources
+**Centralized Exchange Offerings**
+
+| Opportunity          | Type               | Platform / Project                                                                                             | Status                | Description                               |
+|----------------------|--------------------|----------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------|
+| KuCoin Grid Bots     | Trading Bot        | KuCoin                                                                                                         | Live                  | Grid trading bot for buying and selling  |
+| CoinEx AMM Pool      | Exchange, LP       | CoinEx                                                                                                         | Live                  | Liquidity providing in AMM pool          |
+| Swop.fi AMM Pool     | Exchange, LP       | Swop.fi                                                                                                        | Live                  | Liquidity providing in AMM pool          |
+| Gate.io Lending      | Exchange, Lending  | Gate.io                                                                                                        | Live                  | Lending assets for interest              |
+| Huobi Trading Bots   | Trading Bot        | Huobi                                                                                                          | Live                  | Various trading bots for automation      |
+| Custom Bots          | Trading Bot        | [shrimpy.io](https://www.shrimpy.io/), [3commas](https://3commas.io/)                                          | Live                  | Custom trading bot solutions             |
+| Huobi Earn           | Short-term Offer   | [Huobi Earn](https://account.huobi.com/support/en-us/detail/44916960013648)                                    | Live                  | Interest-earning on deposits             |
+
+**Ergo Ecosystem Projects**
+
+| Opportunity          | Type               | Platform / Project                                                                                             | Status                | Description                               |
+|----------------------|--------------------|----------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------|
+| SigmaUSD              | Short/Long*            | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD)                                                              | Live                  | Secure stability or bet on utilisation. |
+
+| ErgoPad              | Staking            | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad)                                                              | Live                  | Staking platform for ERG and other assets|
+| anetaBTC             | Staking            | [anetaBTC](https://www.anetabtc.io/)                                                                             | Live                  | Staking platform for ERG and BTC         |
+| NightOwl             | Staking            | [NightOwl](/en/dApps/NightOwlCasino)                                                                            | Planned               | Staking platform for ERG and other assets|
+| Spectrum Finance     | AMM, LP            | [Spectrum](/en/dApps/ergodex)                                                                                    | Live                  | Decentralized exchange and LP            |
+| EXLE (Ergo-Lend)     | P2P Lending        | [EXLE](https://ergonaut.space/en/dApps/EXLE)                                                                     | Private Beta          | P2P lending platform                     |
+| Duckpools            | Lending            | [Duckpools](/en/dApps/duckpools)                                                                                 | Public Beta           | Lending pools and collateralized loans   |
+| SigmaFi              | P2P Financial Svcs | [SigmaFi](https://sigmafi.app/#/)                                                                                | Public Beta           | P2P-focused financial services platform  |
+| SigmaO               | Options            | [SigmaO](https://www.sigmao.cc/)                                                                                 | Public Beta           | Options trading on Ergo                  |
+| Spectrum Finance     | LP Farming         | [Spectrum Finance](https://spectrum.fi/)                                                                         | Private Beta          | Farming tokens on your LPs               |
+| Decentralized Grid Bots | Trading Bot     | [In Development](https://www.ergoforum.org/t/decentralized-grid-trading-on-ergo/3750)                             | In Development        | Decentralized grid trading bots          |
+| EXLE                 | P2P Lending        | [EXLE](https://exle.io/)                                                                                        | Private Beta          | Global P2P lending platform              |
+| Ergo Index           | Index              | [Ergo Index](https://github.com/ergo-index)                                                                     | Inactive              | Early ERGOHACK project, code may be useful|
+| SigmaUSD on Spectrum | LP Opportunity     | [SigmaUSD on Spectrum](#sigmausd-on-spectrum-4)                                                                 | Live                  | Unique LP opportunities with SigmaUSD    |
+
+Please note that the information in these tables may change as projects and platforms evolve. Always do your own research and stay updated on the latest developments before making any investment decisions.
+
+Discuss with the community 
 
 - [DeFi Degen Megathread](https://www.ergoforum.org/t/defi-degen-megathread/4258)
 - [Liquidity Provision: Yield Opportunities and Experiences](https://www.ergoforum.org/t/liquidity-provision-yield-opportunities-and-experiences/4220)
-- [Blog: Earning ERG in 2023 and Beyond](https://ergoplatform.org/en/blog/Earning-ERG-in-2023-and-Beyond/)
+
 
 ## [Ergo Profit-Sharing DApp](https://github.com/mhssamadani/ErgoProfitSharingDapp)
 
-This service will provide a way for dapps to distribute gains among the dapps' token holders.
+This innovative service enables dApps to distribute earnings among their token holders. Initial implementations will tokenize ErgoMixer, followed by Ergo Auction House and Ergo Raffle. ErgoMixer's revenue, currently received by its creator, will be distributed to $MIX token holders who stake their tokens in the Profit Sharing contract.
 
-The first implementation of this will tokenise ErgoMixer, then subsequently Ergo Auction House, and Ergo Raffle.
-
-
-
-The ErgoMixer income (in ERG and other tokens) is currently received by its creator ('anon2020s'), since it has only one stakeholder at the moment. He has announced that he is willing to create and sell some tokens in the near future to obtain more stakeholders; let's call this token $MIX. Later, anyone with these $MIX tokens can stake them in the Profit Sharing contract and obtain the mixer's incomes proportional to their staked tokens.
 
 So, it will not be way a way to 'stake' ERG at first. However in the future it could be used in some creative services to provide ERG-staking.
 
 More details available on the [ergoforum](https://www.ergoforum.org/t/a-solution-for-staking/1057).
 
-# Staking
 
-Several other projects plan to launch native tokens on Erg and plan to offer staking.
+## Staking on Ergo-based Projects
 
-## [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad)
+Many projects on Ergo plan to introduce native tokens and offer staking opportunities, such as:
 
-The purpose of ErgoPad is to help new projects build financial capital through token sales during IDO's, or Initial Decentralized Token Offerings. ErgoPad has deployed its own token through an IDO that gives investors governance powers as well as the ability to stake the asset. If investors reach a certain staking tier, they can enjoy early access to seed sales (often at a lower price than what will be charged at the IDO) for new projects.
+- [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad): Helps new projects raise funds via Initial Decentralized Token Offerings (IDOs) and offers governance powers and staking opportunities to token holders.
+- [anetaBTC](https://www.anetabtc.io/): A wrapped Bitcoin solution on Ergo and Cardano.
+- [NightOwl](/en/dApps/NightOwlCasino): A casino platform planning to introduce staking with a stable token, providing passive returns without the risk of impermanent loss or token price drops.
 
-**Community**
-* [Discord](https://discord.gg/JdfVv7jp6b)
-* [Twitter](https://twitter.com/ErgoPadOfficial)
-* [Reddit](https://www.reddit.com/r/ergopad/)
-
-
-
-## [anetaBTC](https://www.anetabtc.io/)
-
-Decentralized, On-Chain Wrapped Bitcoin on Ergo and Cardano.
-
-**Community**
-* [Discord](https://discord.gg/2wHJPetCx9)
-* [Twitter](https://twitter.com/AnetaBTC)
-* [Reddit](https://www.reddit.com/r/anetaBTC/)
-
-
-## [NightOwl](/en/dApps/NightOwlCasino)
-
-Soon staking with a *stable token* will be available, no risk of impermanent loss or token price drops. Just good old fashioned passive returns, on a stable asset, by acting as the house in Night Owl Casino.
-
-**Community**
-* [linktr.ee](https://linktr.ee/NightOwlCasino)
-
-# Automated Market Makers
+## Automated Market Makers (AMMs)
 
 An Automated Market Maker (AMM) uses mathematical models to set the price and match buyers and sellers rather than merely matching buy and sell orders, as in traditional order-books. AMM is best in markets with low liquidity. 
 
@@ -74,7 +80,18 @@ One of the features of AMM is that liquidity providers add assets to the exchang
 
 Please be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting).
 
-<br>
+
+## DeFi Platforms on Ergo
+
+- [Spectrum](/en/dApps/ergodex) (formerly ErgoDex): A decentralized exchange (DEX) on Ergo that features several pools with visible estimated asset APY for yield harvesting.
+- [Swop.fi](https://swop.fi/): An AMM pool offering liquidity provision opportunities.
+- [EXLE (Ergo-Lend)](https://ergonaut.space/en/dApps/EXLE): A peer-to-peer lending platform built on Ergo, aiming to create a global lending platform managed by a decentralized autonomous organization (DAO).
+- [Duckpools](/en/dApps/duckpools): A collateralized lending platform with algorithmic lending pools and loans secured by collateral.
+- [Gate.io](https://www.gate.io/): A centralized exchange offering lending opportunities with around 3.5% return.
+
+
+
+
 
 # DeFi
 
@@ -180,32 +197,23 @@ Requires ERG as a native ADA token.
 ## [Gate.io](https://www.gate.io/)
 
 You can lend there for around 3.5%
-# Trade Bots 
 
+## Trading Bots
 
-## KuCoin
+Trading bots can help you earn yield on your ERG by automating trades and optimizing strategies. Some of the popular platforms include:
 
-KuCoin offers perhaps the most simple ways to earn yield on your Erg with the following bots available:
+- **KuCoin**: Offers various trading bots, such as Spot Grid, Infinity Grid, and Dollar-Cost Averaging (DCA). However, Futures Grid is currently unavailable for ERG.
+  - Spot Grid: Trades within a set price range, selling high and buying low. Be aware of [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting) if ERG moves beyond the range.
+  - Infinity Grid: Works like Spot Grid but doesn't have a set range, adapting bids to the price.
+  - DCA: Reduces the risk of purchasing at high prices by consistently investing at regular intervals.
 
-- **Spot Grid** trades with a grid, selling high and buying low. The problem is that if ERG goes way above your range, you will have sold all your ERG and be left holding USDT (see: [impermanent loss](https://ergonaut.space/en/Guides/yield#impermanent-loss-volitality-harvesting)).
-- **Infinity Grid** works like the spot gird but has no set range and your bids with the price.
-- **Futures Grid** is still unfortunately unavailable for ERG.
-- **DCA** reduces the risk of purchasing high by investing at consistent intervals.
+Join the [ERG: Technical Analysis & Botting Telegram](https://t.me/ERGTechnicalAnalysis) for more information and community discussions.
 
+- **Custom Bots**: For more control over your trading strategies, you can use custom bots available on various platforms:
+  - [3commas](https://3commas.io/)
+  - [shrimpy.io](https://www.shrimpy.io/)
 
-**Community**
-- [ERG: Technical Analysis & Botting Telegram](https://t.me/ERGTechnicalAnalysis)
-
-<br>
-
-## Others
-Rather than using the bots on KuCoin, you can use custom bots with a bit more control over your trading strategy. 
-
-- 3commas
-- shrimpy.io
-
-
-
+By exploring these DeFi platforms, staking opportunities, and trading bots, you can potentially earn yield on your Ergo holdings. Be sure to research and understand the risks associated with each method before participating.
 
 # Index Funds
 
@@ -215,6 +223,34 @@ Ergo Index is a non-custodial platform that enables users to pool their funds to
 
 
 - [GitHub](https://github.com/ergo-index)
+
+# More
+
+
+In addition to the previously mentioned methods, you can explore other opportunities to generate yield with your Ergo holdings. Check out the [Blog: Earning ERG in 2023 and Beyond](https://ergoplatform.org/en/blog/Earning-ERG-in-2023-and-Beyond/) and here are a few more options:
+
+### NFT Marketplace
+
+As the NFT space continues to grow, consider investing in Ergo-based NFTs as a way to potentially generate returns. Look out for emerging NFT marketplaces on the Ergo platform where you can buy, sell, and trade digital art and collectibles.
+
+### Governance Tokens
+
+Some Ergo-based projects may issue governance tokens, allowing holders to participate in the decision-making process for platform development. By staking or voting with these tokens, you could potentially earn rewards or gain access to exclusive features and benefits.
+
+### Arbitrage Opportunities
+
+Monitor various exchanges and DeFi platforms for price discrepancies in ERG and other tokens. Exploit these arbitrage opportunities to generate profits from the price differences. Be mindful of transaction fees and potential risks when employing this strategy.
+
+### Airdrops
+
+Stay up-to-date with the latest developments in the Ergo ecosystem, as new projects may offer airdrops to ERG holders or early adopters. By participating in these airdrops, you can receive free tokens, which could increase in value over time.
+
+### Token Sales
+
+Participate in Initial Decentralized Token Offerings (IDOs) on platforms like ErgoPad. By investing early in promising projects, you can potentially benefit from the growth in value of these tokens.
+
+Remember, each investment opportunity carries its own risks, and it's essential to conduct thorough research before participating. Stay informed about the latest news and updates in the Ergo ecosystem to make well-informed decisions and maximize your potential returns.
+
 
 # Trading
 
