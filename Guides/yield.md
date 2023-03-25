@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-03-25T15:53:26.862Z
+date: 2023-03-25T15:54:15.725Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -58,14 +58,7 @@ Discuss with the community
 
 
 
-
-
-
-# DeFi
-
-
-
-## [Spectrum](/en/dApps/ergodex) (formerly ErgoDex)
+# [Spectrum](/en/dApps/ergodex) 
 
 ![screenshot_2022-01-09_at_18.13.43.png](/screenshot_2022-01-09_at_18.13.43.png)
 There is currently one decentralized exchange on Ergo, [Spectrum](https://app.spectrum.fi/). There are several pools on Spectrum with a visible estimated asset annual percentage yield (APY) that can be used for yield harvesting.
