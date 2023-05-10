@@ -2,7 +2,7 @@
 title: How-To: Consolidate A Wallet
 description: This article describes how to consolidate boxes on the Ergo blockchain
 published: true
-date: 2023-05-10T17:09:32.330Z
+date: 2023-05-10T17:11:02.685Z
 tags: tokenjay nautilus wallet wallets safew minotaur satergo consolidation
 editor: markdown
 dateCreated: 2023-05-10T17:08:46.829Z
