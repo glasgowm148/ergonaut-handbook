@@ -2,14 +2,14 @@
 title: Storage Rent
 description: 
 published: true
-date: 2023-05-10T16:22:40.730Z
+date: 2023-05-10T17:15:36.001Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T19:06:27.106Z
 ---
 
 # Storage Rent
-> **Storage Rent is a fee for long term storage on the Ergo blockchain. You will be charged ~0.14 ERG and a transaction fee for any box (UTXO) of yours that remains dormant (unspent) for 4 years, to pay for the costs of storing your digital information. You can avoid this fee by periodically "consolidating your boxes".**
+> **Storage Rent is a fee for long term storage on the Ergo blockchain. You will be charged ~0.14 ERG and a transaction fee for any box (UTXO) of yours that remains dormant (unspent) for 4 years, to pay for the costs of storing your digital information. You can avoid this fee if you [consolidate your wallet](/en/Glossary/how-to-consolidate-a-wallet) periodically.**
 {.is-info}
 
 We've designed Ergo with long-term economic sustainability in mind, and storage rent is one of the ways we're ensuring miners stay profitable well into the future. This can be thought of as 'on-chain garbage collection' that reduces the problem of blockchain bloat – and even makes it profitable.
