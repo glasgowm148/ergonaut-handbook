@@ -2,7 +2,7 @@
 title: Why Ergo?
 description: A brief elevator pitch covering what makes the Ergo blockchain unique
 published: true
-date: 2023-05-10T16:16:38.418Z
+date: 2023-05-10T19:42:23.520Z
 tags: ergo summary technology blockchain scaling
 editor: markdown
 dateCreated: 2023-05-10T16:16:38.418Z
@@ -30,4 +30,4 @@ Some of Ergo's innovations are unique: storage rent (on-chain garbage collection
 
 ## Values Driven
 
-Perhaps most importantly, Ergo was far launched. Most contracts are dApps are open-source and can be re-used. To read more on the values of the Ergo Blockchain, read the [Ergo Manifesto](/en/Ergo/manifesto).
+Perhaps most importantly, Ergo was fair launched. Most contracts are dApps are open-source and can be re-used. To read more on the values of the Ergo Blockchain, read the [Ergo Manifesto](/en/Ergo/manifesto).
