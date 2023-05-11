@@ -2,23 +2,23 @@
 title: home
 description: 
 published: true
-date: 2023-05-11T18:43:33.036Z
+date: 2023-05-11T19:28:24.039Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-23T15:05:07.686Z
 ---
 
 # Добро пожаловать в ergonaut.space
-Ergonaut.space — это вики-сообщество посвященное блокчейну Ergo, демонстрирующее возможности и дающее детальную информацию по Ergo-платформе для технически неподкованных людей. Если вы разработчик или уже опытный пользователь криптовалют, то ресурс [docs.ergoplatform](http://docs.ergoplatform.org/) на GitHub может быть более подходящим источником информации для вас.
+Ergonaut.space — это вики-сообщество посвященное блокчейну Ergo, демонстрирующее возможности и дающее детальную информацию по Ergo-платформе для технически неподкованных людей. Если Вы разработчик или уже опытный пользователь криптовалют, то ресурс [docs.ergoplatform](http://docs.ergoplatform.org/) на основном Ergo-портале и соответствующий раздел в [GitHub.com](https://github.com/ergoplatform) могут быть более подходящими источниками информации для Вас.
 
 ## Что такое Ergo, если быть кратким?
 
 Ergo — это платформа смарт-контрактов следующего поколения, на собственном блокчейне, которая обеспечивает экономическую свободу для обычных людей с помощью децентрализованных, частных и безопасных финансовых инструментов.
 
-**Обзоры**
+**Обзорная информация**
 
-- [Ergo Manifesto(orig. eng)](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([версии](Ergo/manifesto))
 - [Манифест Ergo (rus)](https://ergonaut.space/ru/Ergo/manifesto)
+- [Ergo Manifesto(orig. eng)](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([версии](Ergo/manifesto))
 - [Почему Ergo](https://cafebedouin.org/2021/12/09/why-ergo/)
 - [Обзор блокчейна Ergo](Ergo/Обзор)
 - [Что такое Ergo (май 2022 г.)](https://www.youtube.com/watch?v=LyyD-clUvyI&t=941s)
