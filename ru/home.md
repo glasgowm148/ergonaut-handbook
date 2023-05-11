@@ -2,7 +2,7 @@
 title: home
 description: 
 published: true
-date: 2023-05-11T19:38:13.719Z
+date: 2023-05-11T19:39:13.737Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-23T15:05:07.686Z
@@ -21,7 +21,7 @@ Ergo — это платформа смарт-контрактов следую�
 - [Ergo Manifesto (orig. eng)](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([версии на др. языках](Ergo/manifesto))
 - [Почему Ergo (eng)](https://cafebedouin.org/2021/12/09/why-ergo/)
 - [Обзор блокчейна Ergo](Ergo/Обзор)
-- [Что такое Ergo (май 2022 г.)](https://www.youtube.com/watch?v=LyyD-clUvyI&t)
+- [Что такое Ergo (май 2022 г.)](https://www.youtube.com/watch?v=LyyD-clUvyI)
 
 
 ## Что я могу сделать с Ergo?
