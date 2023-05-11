@@ -2,7 +2,7 @@
 title: home
 description: 
 published: true
-date: 2023-05-11T18:26:09.407Z
+date: 2023-05-11T18:27:22.616Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-23T15:05:07.686Z
@@ -59,7 +59,7 @@ Ergo — это платформа смарт-контрактов следую�
 - [Dropbox - изображения, видео, GIFS](https://www.dropbox.com/sh/jionpgnj89eod2f/AAC5S1vnOwO3gm2vRYOmDBQ-a?dl=0)
 - [Арена дизайна Figma](https://www.figma.com/file/pd92vgB3xNFThaacIKodYs/ERGO?node-id=538%3A987)
 
-## Присоединиться к разговору
+## Присоединиться к общению на тему Ergo платформы
 
 - [Реддит] (https://www.reddit.com/r/ergonauts)
 - [Официальный канал в Telegram (англ.)](https://t.me/ergoplatform)
