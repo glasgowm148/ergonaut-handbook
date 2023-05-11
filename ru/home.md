@@ -2,7 +2,7 @@
 title: home
 description: 
 published: true
-date: 2022-04-23T15:06:51.512Z
+date: 2023-05-11T18:26:09.407Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-23T15:05:07.686Z
@@ -17,7 +17,8 @@ Ergo — это платформа смарт-контрактов следую�
 
 **Обзоры**
 
-- [Манифест Ergo](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([версии](Ergo/manifesto))
+- [Ergo Manifesto(orig. eng)](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([версии](Ergo/manifesto))
+- [Манифест Ergo (rus)](https://ergonaut.space/ru/Ergo/manifesto)
 - [Почему Ergo](https://cafebedouin.org/2021/12/09/why-ergo/)
 - [Обзор блокчейна Ergo](Ergo/Обзор)
 - [Что такое Ergo (май 2022 г.)](https://www.youtube.com/watch?v=LyyD-clUvyI&t=941s)
@@ -61,8 +62,9 @@ Ergo — это платформа смарт-контрактов следую�
 ## Присоединиться к разговору
 
 - [Реддит] (https://www.reddit.com/r/ergonauts)
-- [Телеграмма](https://t.me/ergoplatform)
-- [Раздор](https://discordapp.com/invite/gYrVrjS)
+- [Официальный канал в Telegram (англ.)](https://t.me/ergoplatform)
+- [Телеграм канал русскоязычного сообщества (рус.)](https://t.me/ergoplatformru)
+- [Канал в Дискорд](https://discordapp.com/invite/gYrVrjS)
 - [Форум Эрго] (https://www.ergoforum.org/)
 
 > ergonaut.space — это пространство, управляемое сообществом, где каждый может внести свой вклад. Свяжитесь с модераторами в любом из чатов, чтобы добавить новый раздел на региональном языке.
