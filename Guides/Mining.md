@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2022-10-14T06:15:13.086Z
+date: 2023-06-22T20:57:10.110Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -120,6 +120,11 @@ Search your card here [Autolykos v2 hashrates](https://docs.google.com/spreadshe
 ![photo_2021-10-15_23-03-13.jpg](/photo_2021-10-15_23-03-13.jpg =x300)  
 - Artwork by: Autolykos Megistos
 ---
+
+### [Kryptex Pool](https://pool.kryptex.com/en/erg)
+- [Kryptex Support Page](https://pool.kryptex.com/en/articles/get-support-en)
+- [Kryptex Discord](https://discord.gg/RAeEcrJvM6)
+- [Kryptex Telegram Chat](https://t.me/kryptex_chat_en)
 
 ### [GetBlok.io Smart Pool](https://ergo.getblok.io)
 - [How to connect to GetBlok](https://www.getblok.io/how-to-connect/)
