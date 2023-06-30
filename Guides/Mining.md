@@ -2,7 +2,7 @@
 title: Mining
 description: Keeping the original Miner's guide path for now.
 published: true
-date: 2023-06-22T20:57:19.768Z
+date: 2023-06-30T08:27:40.915Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-31T23:01:12.178Z
@@ -163,7 +163,12 @@ Search your card here [Autolykos v2 hashrates](https://docs.google.com/spreadshe
 -   [Hero Miners: How to Mine Ergo (ERG)? Complete Beginner’s Guide](https://herominers.medium.com/how-to-mine-ergo-erg-complete-beginners-guide-608a87e89ed6)
 -   [HeroMiners: How to mine Erg](https://ergo.herominers.com/#how-to-mine-ergo-erg)
 -   [How to Mine Ergo? Step by Step (Youtube)](https://www.youtube.com/watch?v=4SnpCF67kyc)
-
+### [OKMINER](https://okminer.com/)
+-  [Okminer Telegram Chat] (https://t.me/okminer_support)
+-  [Okminer Mobile App iOS] (https://apps.apple.com/ru/app/okminer-os/id1494087547)
+-  [Okminer Mobile App Android] (https://downap.okminer.com/hashapk/okminer.apk)
+-  [Okminer Discord] (https://discord.gg/atTjmbT62J)
+- [How to start mine] (https://okminer.zendesk.com/hc/en-gb/categories/15474122316180-Mining-Tutorial)
 ---
 
 Check pool stats to see ranking of pools. See note regarding 51% attack below
