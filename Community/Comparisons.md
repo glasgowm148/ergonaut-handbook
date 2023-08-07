@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-07T10:12:00.142Z
+date: 2023-08-07T10:12:35.500Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -13,7 +13,7 @@ dateCreated: 2023-03-15T12:29:22.180Z
 Below are some of our closest competitors on the technical front. Detailed comparison pages are linked where available, please add to this resource!
 
 
-| Cryptocurrency   | Ticker | Consensus Mechanism | Smart Contracts | Fork of                  | Notable Features                                  | Accounting Model | Community Distribution |
+| Cryptocurrency   | Ticker | Consensus  | Smart Contracts | Fork of                  | Features                                  |  Model |  Distribution |
 |------------------|--------|---------------------|-----------------|------------------------|---------------------------------------------------|------------------|------------------------|
 | Ethereum Classic | ETC    | Proof of Work       | Yes             | Ethereum               | Ethereum's original chain, focus on immutability and decentralization | Account-based |
 | [Kaspa](https://ergonaut.space/en/Community/Comparisons/KAS)           | KSP    | Proof of Work       | **Planned**             |                    | GHOSTDAG protocol, high throughput, and fast confirmation times | UTXO          | Unknown               |
