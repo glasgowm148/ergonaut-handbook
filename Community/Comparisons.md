@@ -2,13 +2,16 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-07T10:10:02.401Z
+date: 2023-08-07T10:11:03.141Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
 ---
 
 # Proof of Work + Smart Contracts
+
+Below are some of our closest competitors on the technical front. Detailed comparison pages are linked where available, please add to this resource!
+
 
 | Cryptocurrency   | Ticker | Consensus Mechanism | Smart Contracts | Fork of                  | Notable Features                                  | Accounting Model | Community Distribution |
 |------------------|--------|---------------------|-----------------|------------------------|---------------------------------------------------|------------------|------------------------|
