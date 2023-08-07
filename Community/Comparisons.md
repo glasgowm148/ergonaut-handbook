@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-07T09:51:55.467Z
+date: 2023-08-07T09:52:14.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -12,7 +12,7 @@ dateCreated: 2023-03-15T12:29:22.180Z
 
 | Cryptocurrency   | Ticker | Consensus Mechanism | Smart Contracts | Forks                  | Notable Features                                  | Accounting Model | Community Distribution |
 |------------------|--------|---------------------|-----------------|------------------------|---------------------------------------------------|------------------|------------------------|
-| [Kaspa]            | KSP    | Proof of Work       | **Planned**             | N/A                    | GHOSTDAG protocol, high throughput, and fast confirmation times | UTXO          | Unknown               |
+| [Kaspa](https://ergonaut.space/en/Community/Comparisons/KAS)           | KSP    | Proof of Work       | **Planned**             | N/A                    | GHOSTDAG protocol, high throughput, and fast confirmation times | UTXO          | Unknown               |
 | Ergo             | ERG    | Proof of Work       | Sophisticated             | N/A                    | Sigma protocols, eUTXO model, and focus on financial contracts | eUTXO         | ~95%                  |
 | Nervos CKB       | CKB    | Proof of Work       |  CKB-VM             | N/A                    | Common Knowledge Base, layered architecture, and focus on scalability and security | UTXO | Unknown               |
 | Syscoin          | SYS    | Proof of Work       | NEVM             | N/A                    | Asset/token creation, decentralized marketplace, Z-DAG protocol | UTXO          | Unknown               |
