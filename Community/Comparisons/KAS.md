@@ -2,7 +2,7 @@
 title: Ergo vs KAS
 description: 
 published: true
-date: 2023-08-07T09:39:17.469Z
+date: 2023-08-07T09:51:07.930Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T09:26:17.272Z
@@ -29,8 +29,39 @@ In conclusion, while Kaspa's ghostDAG protocol presents an interesting and innov
 | **Scalability** | Aims to solve [scalability with the power of eUTXO, NiPoPoWs and other novel features](https://docs.ergoplatform.com/dev/protocol/scaling/) | Aims to solve scalability issues with ghostDAG protocol |
 | **Use Cases** | Financial contracts | Fast transactions  |
 | **ASIC-Resistant** | Yes | No, ASICs are on the network |
+| **Language-base** | JVM | Go |
 
 
+## Smart Contracts
+
+> The aim of Kaspa is to become the fastest, most scalable, and secure L1 PoW crypto. And while we feel we have already reached this benchmark, there still exists some fine-tuning for peak performance. However, performance for the sake of performance is not the end goal of Kaspa. The broader goal is to create the ultimate Layer 1 to implement smart contracts, Defi, and Layer 2 applications over it. It’s our hope that a future ecosystem will arise on Kaspa that will be as strong as the foundation and wonderful community that helped birth it.
+
+Kaspa has plans to implement smart contracts in future, however it's hard to imagine how this could compete to the sophisticated smart contract language that was built from scratch alongside Ergo. 
+
+## Block pruning
+
+In July 2023, there was some controversary online as [users discovered](https://twitter.com/flaw_bored/status/1687152097211580417) that 3,944,700,000 KAS were mined between 7 Nov 2021 and 8 Feb 2022 with no block history. Kaspa confirmed that the data had been lost and they were attempting to recover it via a community push. 
+
+This is because they're reference client only stores the past 3 days.
+
+The functionality here is somewhat similar to UTXO Set Snapshots in Ergo, but Ergo offers the added advantage of being able to restore blocks from Explorer data and verify merkle and AVL trees.
+
+In Ergo, transactions are committed separately from being witnessed, and their byte representation is deterministic. This means that you can restore serialized transactions and verify merkle tree roots even if transactions are available as JSONs and without signatures. The pregenesis data is set in the configuration, and the pregenesis state is also deterministic. This allows you to restore state transformations and verify them against hashes in the header.
+
+However, it seems that Kaspa might be lacking some of these features that are present in Ergo.
+
+## Transaction Speed
+
+The speed of transaction confirmations depends on the amount of hashpower you're willing to trust. If you're comfortable trusting less hashpower, you'll receive faster confirmations. This is because waiting for a certain amount of hashpower to confirm your transaction doesn't benefit from faster blocks.
+
+For this purpose, on Ergo, [sub-block confirmation protocols](https://docs.ergoplatform.com/dev/protocol/scaling/layer1/#sub-block-confirmation-protocols-and-micro-blocks) can be developed.
+
+## References
+
+- [Ergo vs Kaspa](https://www.reddit.com/r/ergonauts/comments/yvi046/ergo_vs_kaspa/)
+
+
+### Quote from kushti 
 > kushti khushi, [7 Aug 2023](https://t.me/ergoplatform/419156):
 >
 > Checked yesterday Kaspa core code a bit, I doubt introduction of smart contracts will be simple, on top of input signing with different sighash option taken from bitcoin they have
@@ -44,3 +75,5 @@ In conclusion, while Kaspa's ghostDAG protocol presents an interesting and innov
 > Which is solving verification dilemma for miners at least but a very different beast from blockchains we know
 >
 > But Kaspa is so extreme from initial investigation
+> 
+> Sorry, not so extreme. Good for ordinary folks like exchange engineers coming to develop on Kaspa, but in the presence of dag and smart contracts verification dilemma could hit hard. Need to check for more whats there maybe next weekend
