@@ -2,7 +2,7 @@
 title: Ergo vs KAS
 description: 
 published: true
-date: 2023-08-07T09:36:55.096Z
+date: 2023-08-07T09:39:17.469Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T09:26:17.272Z
@@ -10,16 +10,17 @@ dateCreated: 2023-08-07T09:26:17.272Z
 
 # Ergo vs Kaspa
 
-Ergo stands out as a superior choice for those seeking a cryptocurrency platform that is well-researched, built on known methods, and utilizes tried and tested principles. It is designed to provide an efficient, secure, and easy way to implement financial contracts, making it a robust platform for financial transactions. Ergo uses a unique consensus algorithm called Autolykos, a Proof-of-Work (PoW) algorithm designed to be ASIC-resistant. This makes it more decentralized and fairer than other PoW cryptocurrencies.
+Ergo and Kaspa are two cryptocurrencies that have been gaining attention in the crypto space. Both have their unique features and technologies, but when it comes to well-researched, known methods, and tried and tested principles, Ergo stands out as the superior choice.
 
-Ergo also features smart contract capabilities, with its own language called ErgoScript, which is a powerful and protocol-friendly scripting language for cryptocurrencies. This makes it possible to create complex financial contracts on the Ergo platform. Furthermore, Ergo emphasizes privacy, with features such as "ring signatures" and "zero-knowledge proofs" to ensure transactions can be private.
+Ergo is a decentralized blockchain platform designed to provide an efficient, secure, and easy way to implement financial contracts. It uses a unique consensus algorithm called Autolykos, a Proof-of-Work (PoW) algorithm designed to be ASIC-resistant. This makes it more decentralized and fairer than other PoW cryptocurrencies. Ergo also features smart contract capabilities, with its own language called ErgoScript, which is a powerful and protocol-friendly scripting language for cryptocurrencies. This makes it possible to create complex financial contracts on the Ergo platform. Furthermore, Ergo emphasizes privacy, with features such as "ring signatures" and "zero-knowledge proofs" to ensure transactions can be private.
 
-On the other hand, Kaspa, which uses the ghostDAG protocol, is still experimental and may not be the best place for robust financial contracts. As noted by kushti below, a core developer of Ergo, after examining Kaspa's core code, he expressed doubts about the introduction of smart contracts on the Kaspa platform due to its complex input signing with different sighash options taken from Bitcoin.
+In 2023, Ergo continued to make strides in its development. The Ergo Summit celebrated progress within the ecosystem. EIP-27, a proposal to adjust the emission schedule of ERG to extend the mining rewards beyond the original eight-year schedule, marked an important milestone for the Ergo network and ecosystem. 
 
-He also questioned the use of muhash for state authentication in Kaspa, and why an incremental hash was used instead of an authenticated dictionary. The presence of a directed acyclic graph (DAG) in Kaspa could lead to a verification dilemma, which might not have been adequately addressed in the ghostDAG paper and its continuations.
+On the other hand, Kaspa, which uses the ghostDAG protocol, is still experimental and may not be the best place for robust financial contracts. As noted by kushti khushi, a core developer of Ergo, after examining Kaspa's core code, he expressed doubts about the introduction of smart contracts on the Kaspa platform due to its complex input signing with different sighash options taken from Bitcoin. He also questioned the use of muhash for state authentication in Kaspa, and why an incremental hash was used instead of an authenticated dictionary. The presence of a directed acyclic graph (DAG) in Kaspa could lead to a verification dilemma, which might not have been adequately addressed in the ghostDAG paper and its continuations.
 
-Kaspa is indeed a very different beast from the blockchains we know, and while it may have its merits, its experimental nature and the potential issues identified by kushti suggest that it may not be the most reliable platform for financial contracts. Ergo, with its well-researched and tested principles, offers a more solid and reliable platform for such purposes.
+In 2023, Kaspa was still in the development phase, with a white paper scheduled for release that would combine Kaspa's past research and current goals into a cohesive document. Kaspa also achieved a milestone by reaching 10 Blocks Per Second (BPS) on its testnet, setting a new standard in the world of cryptography. However, these developments are still in the experimental stage, and the platform's suitability for robust financial contracts remains to be seen.
 
+In conclusion, while Kaspa's ghostDAG protocol presents an interesting and innovative approach to blockchain technology, its experimental nature and potential issues suggest that it may not be the most reliable platform for financial contracts. On the other hand, Ergo, with its well-researched and tested principles, offers a more solid and reliable platform for such purposes. As always, potential investors should conduct their own research and consider their risk tolerance before investing in any cryptocurrency.
 | Feature | Ergo (ERG) | Kaspa (KSP) |
 |---------|------------|-------------|
 | **Consensus Mechanism** | Autolykos (Proof-of-Work) | ghostDAG protocol |
