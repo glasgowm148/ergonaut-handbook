@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-07T09:52:45.418Z
+date: 2023-08-07T09:53:14.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -33,3 +33,9 @@ dateCreated: 2023-03-15T12:29:22.180Z
 | Digibyte          | DGB    | Proof of Work       | Assets              | N/A                    | Multi-algorithm mining, focus on security and decentralization | UTXO |
 | Flux              | FLUX   | Proof of Work       | Yes              | N/A                    | Scalable infrastructure, parallel assets, and node incentivization | UTXO |
 | Verge             | XVG    | Proof of Work       | No              | N/A                    | Focus on privacy, multi-algorithm mining, and fast transactions | UTXO |
+
+# Proof of Work 
+
+| Cryptocurrency   | Ticker | Consensus Mechanism | Smart Contracts | Forks                  | Notable Features                                  | Accounting Model |
+|------------------|--------|---------------------|-----------------|------------------------|---------------------------------------------------|------------------|
+| Kadena | KDA    | Proof of Work       | No             |                |  | Account-based |
