@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-07T09:52:14.210Z
+date: 2023-08-07T09:52:45.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -19,7 +19,6 @@ dateCreated: 2023-03-15T12:29:22.180Z
 | Digibyte         | DGB    | Proof of Work       | DigiAssets             | N/A                    | Multi-algorithm mining, focus on security and decentralization | UTXO           | Unknown               |
 | Flux             | FLUX   | Proof of Work       | Yes             | N/A                    | Scalable infrastructure, parallel assets, and node incentivization | UTXO          | Unknown               |
 
-You can update the table with the community distribution percentage for Kaspa if available.
 # Proof of Work + Smart Contracts
 
 | Cryptocurrency   | Ticker | Consensus Mechanism | Smart Contracts | Forks                  | Notable Features                                  | Accounting Model |
