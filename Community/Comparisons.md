@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-07T09:53:14.763Z
+date: 2023-08-07T09:53:46.798Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -38,4 +38,4 @@ dateCreated: 2023-03-15T12:29:22.180Z
 
 | Cryptocurrency   | Ticker | Consensus Mechanism | Smart Contracts | Forks                  | Notable Features                                  | Accounting Model |
 |------------------|--------|---------------------|-----------------|------------------------|---------------------------------------------------|------------------|
-| Kadena | KDA    | Proof of Work       | No             |                |  | Account-based |
+| [Kadena](https://ergonaut.space/en/Community/Comparisons/KDA) | KDA    | Proof of Work       | No             |                |  | Account-based |
