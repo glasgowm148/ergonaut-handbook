@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-07T10:11:24.018Z
+date: 2023-08-07T10:12:00.142Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -22,7 +22,7 @@ Below are some of our closest competitors on the technical front. Detailed compa
 | Syscoin          | SYS    | Proof of Work       | NEVM             |                    | Asset/token creation, decentralized marketplace, Z-DAG protocol | UTXO          | Unknown               |
 | Digibyte         | DGB    | Proof of Work       | DigiAssets             |                     | Multi-algorithm mining, focus on security and decentralization | UTXO           | Unknown               |
 | Flux             | FLUX   | Proof of Work       | Yes             |                    | Scalable infrastructure, parallel assets, and node incentivization | UTXO          | Unknown               |
-| [Kadena](https://ergonaut.space/en/Community/Comparisons/KDA) | KDA    | Proof of Work       | No             |                |  | Account-based 
+| [Kadena](https://ergonaut.space/en/Community/Comparisons/KDA) | KDA    | Proof of Work       | Yes             |                |  | Account-based 
 | Ubiq              | UBQ    | Proof of Work       | Yes             | Ethereum               | Ethereum fork with modified parameters, focus on stability and enterprise use | Account-based |
 | Expanse           | EXP    | Proof of Work       | Yes             | Ethereum               | Ethereum fork, focus on decentralized applications and governance | Account-based |
 | RSK (Rootstock)   | RBTC   | Merge-mined with Bitcoin | Yes      | Bitcoin                | Smart contracts on Bitcoin, secured by Bitcoin's mining power | Account-based |
