@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-07T10:32:27.291Z
+date: 2023-08-07T10:36:22.924Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -26,6 +26,6 @@ Below are some of our closest competitors on the technical front. Detailed compa
 | Ubiq              | UBQ    | Proof of Work       | Yes             | Ethereum               | Ethereum fork with modified parameters, focus on stability and enterprise use | Account-based |
 | Expanse           | EXP    | Proof of Work       | Yes             | Ethereum               | Ethereum fork, focus on decentralized applications and governance | Account-based |
 | RSK (Rootstock)   | RBTC   | Merge-mined with Bitcoin | Yes      | Bitcoin                | Smart contracts on Bitcoin, secured by Bitcoin's mining power | Account-based |
-| Verge             | XVG    | Proof of Work       | No              |                     | Focus on privacy, multi-algorithm mining, and fast transactions | UTXO |
+| Verge             | XVG    | Proof of Work       |Yes              |                     | Focus on privacy, multi-algorithm mining, and fast transactions | UTXO |
 
 
