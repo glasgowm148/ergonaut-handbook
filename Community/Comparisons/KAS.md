@@ -2,7 +2,7 @@
 title: Ergo vs KAS
 description: 
 published: true
-date: 2023-08-07T09:26:17.272Z
+date: 2023-08-07T09:26:42.966Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T09:26:17.272Z
@@ -30,3 +30,7 @@ dateCreated: 2023-08-07T09:26:17.272Z
 > And verification dilemma in the presence of dag could hit hard, have to check how it was accounted in ghostdag paper and its continuations, probably just skipped
 >
 > Yonatan has an idea back in 2017 to have client side validation, so miners in this case can include double spends and other invalid but well formed transactions
+
+> Which is solving verification dilemma for miners at least but a very different beast from blockchains we know
+
+> But Kaspa is so extreme from initial investigation
