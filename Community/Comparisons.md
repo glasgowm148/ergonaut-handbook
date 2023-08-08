@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T12:56:18.711Z
+date: 2023-08-08T12:56:35.387Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -76,7 +76,7 @@ While all these models use PoW, the way they achieve consensus and handle transa
 | Aspect/Feature | Virtual Machine (e.g., Ethereum's EVM) | Ergo (eUTXO + ErgoScript) |
 |----------------|----------------------------------------|---------------------------|
 | **Execution Environment** | Simulates a computer system. | Processes transactions directly on the blockchain. |
-| **Turing Completeness** | Yes, VMs like EVM are Turing complete. | ErgoScript is non-Turing complete, but the multi-stage protocol allows for Turing completeness. |
+| **Turing Completeness** | Yes, VMs like EVM are Turing complete. | ErgoScript is non-Turing complete, but  multi-stage protocols enable Turing completeness. |
 | **Resource Management** | Uses a "gas" mechanism to prevent excessive computation. | Predictable execution cost due to non-Turing complete nature of ErgoScript. |
 | **State Management** | Maintains a global state that's updated after every transaction. | Uses the eUTXO model which is inherently stateless. Each transaction refers to previous UTXOs and produces new ones. |
 | **Complexity & Versatility** | Can run complex and versatile smart contracts. | ErgoScript ensures predictability, but the multi-stage protocol allows for complex operations. |
