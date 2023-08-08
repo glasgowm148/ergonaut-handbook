@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T13:02:05.691Z
+date: 2023-08-08T13:02:24.539Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -35,7 +35,7 @@ DigiByte, Ravencoin, and Flux, like Ergo, do not rely on a traditional virtual m
 | **Primary Focus** | Financial contracts and decentralized applications | eUTXO model with ErgoScript | DigiAssets for asset issuance and more | Asset issuance and transfer | Decentralized computational infrastructure | 
 | **Execution Environment** | Native DigiByte blockchain | Native Ravencoin protocol | Native Flux blockchain |
 | **Smart Contracts** | ErgoScript with multi-stage protocol for Turing completeness | Limited programmable conditions | Primarily asset-focused, not versatile smart contracts | Not the primary focus | 
-| **Asset System** | DigiAssets | Asset Layer | Flux Assets | eUTXO model allows for token issuance and more |
+| **Asset System** | eUTXO model allows for token issuance and more |DigiAssets | Asset Layer | Flux Assets | 
 
 
 
