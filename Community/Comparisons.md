@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T08:38:23.873Z
+date: 2023-08-08T08:39:16.067Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -32,9 +32,9 @@ Below are some of our closest competitors on the technical front. Detailed compa
 
 ## Smart Contracts > Other
 | Cryptocurrency   | Ticker | Consensus  | Contracts |  Features  |  Model | 
-|------------------|--------|------------|-----------|------------|
-| [Kaspa](https://ergonaut.space/en/Community/Comparisons/KAS)           | KAS    | Proof of Work       | Planned             |                    |  high throughput, and fast confirmation times | GHOSTDAG          |                |
-| Conflux             | RVN    | Proof of Work       |Solidity              |                     | Fast-PoW | Tree-Graph (TG) |
+|------------------|--------|------------|-----------|------------|--------|
+| [Kaspa](https://ergonaut.space/en/Community/Comparisons/KAS)| KAS| Proof of Work|Planned| high throughput, and fast confirmation times | GHOSTDAG| 
+| Conflux             | RVN    | Proof of Work |Solidity| Fast-PoW | Tree-Graph (TG) |
 ## Smart Contracts > Account Model
 
 
