@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T13:00:52.364Z
+date: 2023-08-08T13:02:05.691Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -30,11 +30,11 @@ Below are some of our closest competitors on the technical front. Detailed compa
 
 DigiByte, Ravencoin, and Flux, like Ergo, do not rely on a traditional virtual machine (VM) for their primary functionalities. Instead, they have implemented specialized systems or protocols tailored to their specific use cases.
 
-| Aspect/Feature | [Digibyte](https://ergonaut.space/en/Community/Comparisons/DGB) | [RavenCoin](https://ergonaut.space/en/Community/Comparisons/RVN) | [Flux](https://ergonaut.space/en/Community/Comparisons/FLUX) | Ergo |
+| Aspect/Feature |  Ergo |[Digibyte](https://ergonaut.space/en/Community/Comparisons/DGB) | [RavenCoin](https://ergonaut.space/en/Community/Comparisons/RVN) | [Flux](https://ergonaut.space/en/Community/Comparisons/FLUX) |
 |----------------|----------|-----------|------|------|
-| **Primary Focus** | DigiAssets for asset issuance and more | Asset issuance and transfer | Decentralized computational infrastructure | Financial contracts and decentralized applications |
-| **Execution Environment** | Native DigiByte blockchain | Native Ravencoin protocol | Native Flux blockchain | eUTXO model with ErgoScript |
-| **Smart Contracts** | Limited programmable conditions | Primarily asset-focused, not versatile smart contracts | Not the primary focus | ErgoScript with multi-stage protocol for Turing completeness |
+| **Primary Focus** | Financial contracts and decentralized applications | eUTXO model with ErgoScript | DigiAssets for asset issuance and more | Asset issuance and transfer | Decentralized computational infrastructure | 
+| **Execution Environment** | Native DigiByte blockchain | Native Ravencoin protocol | Native Flux blockchain |
+| **Smart Contracts** | ErgoScript with multi-stage protocol for Turing completeness | Limited programmable conditions | Primarily asset-focused, not versatile smart contracts | Not the primary focus | 
 | **Asset System** | DigiAssets | Asset Layer | Flux Assets | eUTXO model allows for token issuance and more |
 
 
