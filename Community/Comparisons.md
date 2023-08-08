@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T13:00:25.523Z
+date: 2023-08-08T13:00:52.364Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -46,20 +46,16 @@ While all these models use PoW, the way they achieve consensus and handle transa
 | Feature/Model | Ergo | [Conflux](https://ergonaut.space/en/Community/Comparisons/CFX) | [Syscoin](https://ergonaut.space/en/Community/Comparisons/SYS) | [Kaspa](https://ergonaut.space/en/Community/Comparisons/KAS) |
 |---------------|--------------|-------------------|--------------------|----------------------|
 | **Consensus** | eUTXO | Tree-Graph (TG) | Z-DAG | GHOSTDAG |
-
+| **Contracts** | Box Model | VM | NEVM | *Planned* |
 | **Security** | Battle-tested with known security assumptions. | Newer mechanism; long-term security implications not as well-understood. | Still a topic of research under different network conditions. | Different security model from traditional blockchains; requires more research. |
 | **Decentralization** | Ensures power isn't concentrated; anyone can participate. | Aims for high throughput without sacrificing decentralization. | Not inherently tied to decentralization. | Can handle concurrent blocks, but decentralization varies by implementation. |
 | **Finality** | Probabilistic finality; becomes more secure with more confirmations. | Achieves consensus faster than traditional blockchains. | Fast transactions, but finality varies by implementation. | Provides a partial order of blocks for faster consensus. |
 | **Efficiency** | Optimized for smart contracts and complex financial transactions. | Optimized for high throughput. | Designed for fast microtransactions. | Aims for faster consensus than traditional blockchains. |
 | **Drawbacks** | Energy-intensive due to PoW, but offers robust security. | Long-term security implications are still being studied. | Security under adversarial scenarios is still being researched. | Security model is different from traditional blockchains. |
-| **Contracts** | Box Model | VM | NEVM | *Planned* |
 
 
-| Cryptocurrency   | Ticker | Consensus  | Contracts |  Features  |  Model | 
-|------------------|--------|------------|-----------|------------|--------|
-| | KAS| Proof of Work|Planned| high throughput, and fast confirmation times | GHOSTDAG| 
-|           | SYS    | Proof of Work       | NEVM | Asset/token creation, decentralized marketplace | Z-DAG |  
-|              | CFX    | Proof of Work |VM| Fast-PoW |  |
+
+
 
 
 # PoW > Smart Contracts > Account Model
