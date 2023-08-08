@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T12:49:27.723Z
+date: 2023-08-08T12:56:18.711Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -26,13 +26,18 @@ Below are some of our closest competitors on the technical front. Detailed compa
 | [Alephium](https://ergonaut.space/en/Community/Comparisons/ALPH)             | ALPH    | Proof of Less Work |Alphred VM| Fast-PoW | stateful-UTXO |
 | [Verge](https://ergonaut.space/en/Community/Comparisons/XVG)            | XVG    | Proof of Work       |*(Planned)* [MiniScript](https://vergecurrency.com/key-tech/)      | Focus on privacy, multi-algorithm mining, and fast transactions | UTXO |
 
-# Assets-based Smart Logic
+# Assets-based 
 
-| Cryptocurrency   | Ticker | Consensus  | Contracts |  Features  |  Model | 
-|------------------|--------|------------|-----------|------------|--------|
-| [Digibyte](https://ergonaut.space/en/Community/Comparisons/DGB)         | DGB    | Proof of Work       | DigiAssets | Multi-algorithm mining, focus on security and decentralization | UTXO |
-| [RavenCoin](https://ergonaut.space/en/Community/Comparisons/RVN)        | RVN    | Proof of Work       |Assets  | P2P Assets | UTXO |
-| [Flux](https://ergonaut.space/en/Community/Comparisons/FLUX)             | FLUX   | Proof of Work       | Cloud Infrastructure | Scalable infrastructure, parallel assets, and node incentivization | UTXO |
+DigiByte, Ravencoin, and Flux, like Ergo, do not rely on a traditional virtual machine (VM) for their primary functionalities. Instead, they have implemented specialized systems or protocols tailored to their specific use cases.
+
+| Aspect/Feature | [Digibyte](https://ergonaut.space/en/Community/Comparisons/DGB) | [RavenCoin](https://ergonaut.space/en/Community/Comparisons/RVN) | [Flux](https://ergonaut.space/en/Community/Comparisons/FLUX) | Ergo |
+|----------------|----------|-----------|------|------|
+| **Primary Focus** | DigiAssets for asset issuance and more | Asset issuance and transfer | Decentralized computational infrastructure | Financial contracts and decentralized applications |
+| **Execution Environment** | Native DigiByte blockchain | Native Ravencoin protocol | Native Flux blockchain | eUTXO model with ErgoScript |
+| **Smart Contracts** | Limited programmable conditions | Primarily asset-focused, not versatile smart contracts | Not the primary focus | ErgoScript with multi-stage protocol for Turing completeness |
+| **Asset System** | DigiAssets | Asset Layer | Flux Assets | eUTXO model allows for token issuance and more |
+
+
 
 # Exotic Consensus'
 
@@ -66,6 +71,17 @@ While all these models use PoW, the way they achieve consensus and handle transa
 | [Expanse](https://ergonaut.space/en/Community/Comparisons/EXP)           | EXP    | Proof of Work       | Yes             | Ethereum               | Ethereum fork, focus on decentralized applications and governance | Account-based |
 | [Rootstock](https://ergonaut.space/en/Community/Comparisons/RSK)   | RSK   | Merge-mined with Bitcoin | Yes      | Bitcoin                | Smart contracts on Bitcoin, secured by Bitcoin's mining power | Account-based |
 
+# Comparison: VM Approach vs. Ergo's Approach
 
+| Aspect/Feature | Virtual Machine (e.g., Ethereum's EVM) | Ergo (eUTXO + ErgoScript) |
+|----------------|----------------------------------------|---------------------------|
+| **Execution Environment** | Simulates a computer system. | Processes transactions directly on the blockchain. |
+| **Turing Completeness** | Yes, VMs like EVM are Turing complete. | ErgoScript is non-Turing complete, but the multi-stage protocol allows for Turing completeness. |
+| **Resource Management** | Uses a "gas" mechanism to prevent excessive computation. | Predictable execution cost due to non-Turing complete nature of ErgoScript. |
+| **State Management** | Maintains a global state that's updated after every transaction. | Uses the eUTXO model which is inherently stateless. Each transaction refers to previous UTXOs and produces new ones. |
+| **Complexity & Versatility** | Can run complex and versatile smart contracts. | ErgoScript ensures predictability, but the multi-stage protocol allows for complex operations. |
+| **Data Model** | Account-based model. | Extended UTXO model where UTXOs can carry additional data. |
+
+This table provides a side-by-side comparison of the key features and differences between a traditional virtual machine approach and Ergo's approach. Both methods have their strengths and trade-offs, and the choice between them would depend on specific use cases and requirements.
 
 
