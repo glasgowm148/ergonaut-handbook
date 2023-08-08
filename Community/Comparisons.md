@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T13:15:41.429Z
+date: 2023-08-08T13:16:21.478Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -21,7 +21,7 @@ Below are some of our closest competitors on the technical front. Detailed compa
 
 | Cryptocurrency   | Ticker | Consensus  | Contracts |  Features  |  Model | 
 |------------------|--------|------------|-----------|------------|--------|
-| Ergo             | ERG    | Proof of Work       | Box Model  | Sigma protocols, eUTXO model, and focus on financial contracts | eUTXO         |               
+| Ergo             | ERG    | Proof of Work       | Box Model  | Sigma protocols and focus on financial contracts | eUTXO         |               
 
 
 
@@ -35,7 +35,7 @@ The combination of UTXO and a VM might seem counterintuitive at first, especiall
 | Aspect/Feature | Ethereum VM (eVM) | Ergo (eUTXO + ErgoScript) | [Nervos CKB](https://ergonaut.space/en/Community/Comparisons/CKB) (CKB-VM + Cells) | [Alephium](https://ergonaut.space/en/Community/Comparisons/ALPH) (Alphred VM) |
 |----------------|-------------------|---------------------------|-----------------------------|-----------------------|
 | **Execution Environment** | Simulates a computer system. | Processes transactions directly on the blockchain. | Operates on the cell model, where each cell can store data, including contract code or state. | Likely simulates a computer system, but specifics would need more detailed documentation. |
-| **Features** |  | | Common Knowledge Base, layered architecture, and focus on scalability and security | |
+| **Features** |Sigma protocols and focus on financial contracts  | | Common Knowledge Base, layered architecture, and focus on scalability and security | |
 | **Turing Completeness** | Yes. | ErgoScript is non-Turing complete, but multi-stage protocols enable Turing completeness. | Yes, CKB-VM is Turing complete. | Likely Turing complete, but specifics would need more detailed documentation. |
 | **Resource Management** | Uses a "gas" mechanism to prevent excessive computation. | Predictable execution cost due to non-Turing complete nature of ErgoScript. | Uses a "cycle" mechanism similar to gas in Ethereum. | Specifics would need more detailed documentation, but most VMs use some form of resource management. |
 | **State Management** | Maintains a global state that's updated after every transaction. | Uses the eUTXO model which is inherently stateless. Each transaction refers to previous UTXOs and produces new ones. | Uses the cell model. Each transaction references input cells and creates output cells. | Stateful-UTXO, a hybrid that combines features of both UTXO and account-based models. |
@@ -88,7 +88,8 @@ While all these models use PoW, the way they achieve consensus and handle transa
 | [Rootstock](https://ergonaut.space/en/Community/Comparisons/RSK)   | RSK   | Merge-mined with Bitcoin | Yes      | Bitcoin                | Smart contracts on Bitcoin, secured by Bitcoin's mining power | Account-based |
 
 # Misc
-
+| Cryptocurrency   | Ticker | Consensus  | Contracts |  Features  |  Model | 
+|------------------|--------|------------|-----------|------------|--------|
 | [Verge](https://ergonaut.space/en/Community/Comparisons/XVG)            | XVG    | Proof of Work       |*(Planned)* [MiniScript](https://vergecurrency.com/key-tech/)      | Focus on privacy, multi-algorithm mining, and fast transactions | UTXO |
 
 
