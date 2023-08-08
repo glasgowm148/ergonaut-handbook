@@ -2,7 +2,7 @@
 title: CFX
 description: 
 published: true
-date: 2023-08-08T09:11:58.724Z
+date: 2023-08-08T09:12:27.003Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T08:53:42.979Z
@@ -20,4 +20,4 @@ dateCreated: 2023-08-08T08:53:42.979Z
 | **Use Cases** | Financial contracts | DApps, digital assets, and cross-chain interactions |
 | **ASIC-Resistant** | Yes | Yes |
 | **Language-base** | JVM | Rust |
-| **Public Distribution* | ~95% | [~40% (TBC)](https://www.reddit.com/r/Conflux_Network/comments/n6l1th/tokenomics/) |
+| **Public Distribution** | ~95% | [~40% (TBC)](https://www.reddit.com/r/Conflux_Network/comments/n6l1th/tokenomics/) |
