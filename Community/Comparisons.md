@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T13:04:29.261Z
+date: 2023-08-08T13:04:53.520Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -28,7 +28,16 @@ Below are some of our closest competitors on the technical front. Detailed compa
 
 # Virtual Machine
 
-Below are some of our closest competitors on the technical front. Detailed comparison pages are linked where available, please add to this resource!
+
+| Aspect/Feature | Virtual Machine (e.g., Ethereum's EVM) | Ergo (eUTXO + ErgoScript) |
+|----------------|----------------------------------------|---------------------------|
+| **Execution Environment** | Simulates a computer system. | Processes transactions directly on the blockchain. |
+| **Turing Completeness** | Yes, VMs like EVM are Turing complete. | ErgoScript is non-Turing complete, but  multi-stage protocols enable Turing completeness. |
+| **Resource Management** | Uses a "gas" mechanism to prevent excessive computation. | Predictable execution cost due to non-Turing complete nature of ErgoScript. |
+| **State Management** | Maintains a global state that's updated after every transaction. | Uses the eUTXO model which is inherently stateless. Each transaction refers to previous UTXOs and produces new ones. |
+| **Complexity & Versatility** | Can run complex and versatile smart contracts. | ErgoScript ensures predictability, but the multi-stage protocol allows for complex operations. |
+| **Data Model** | Account-based model. | Extended UTXO model where UTXOs can carry additional data. |
+
 
 
 | Cryptocurrency   | Ticker | Consensus  | Contracts |  Features  |  Model | 
@@ -80,17 +89,8 @@ While all these models use PoW, the way they achieve consensus and handle transa
 | [Expanse](https://ergonaut.space/en/Community/Comparisons/EXP)           | EXP    | Proof of Work       | Yes             | Ethereum               | Ethereum fork, focus on decentralized applications and governance | Account-based |
 | [Rootstock](https://ergonaut.space/en/Community/Comparisons/RSK)   | RSK   | Merge-mined with Bitcoin | Yes      | Bitcoin                | Smart contracts on Bitcoin, secured by Bitcoin's mining power | Account-based |
 
-# Comparison: VM Approach vs. Ergo's Approach
 
-| Aspect/Feature | Virtual Machine (e.g., Ethereum's EVM) | Ergo (eUTXO + ErgoScript) |
-|----------------|----------------------------------------|---------------------------|
-| **Execution Environment** | Simulates a computer system. | Processes transactions directly on the blockchain. |
-| **Turing Completeness** | Yes, VMs like EVM are Turing complete. | ErgoScript is non-Turing complete, but  multi-stage protocols enable Turing completeness. |
-| **Resource Management** | Uses a "gas" mechanism to prevent excessive computation. | Predictable execution cost due to non-Turing complete nature of ErgoScript. |
-| **State Management** | Maintains a global state that's updated after every transaction. | Uses the eUTXO model which is inherently stateless. Each transaction refers to previous UTXOs and produces new ones. |
-| **Complexity & Versatility** | Can run complex and versatile smart contracts. | ErgoScript ensures predictability, but the multi-stage protocol allows for complex operations. |
-| **Data Model** | Account-based model. | Extended UTXO model where UTXOs can carry additional data. |
 
-This table provides a side-by-side comparison of the key features and differences between a traditional virtual machine approach and Ergo's approach. Both methods have their strengths and trade-offs, and the choice between them would depend on specific use cases and requirements.
+
 
 
