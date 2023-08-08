@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T10:01:11.796Z
+date: 2023-08-08T11:06:35.799Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -11,6 +11,8 @@ dateCreated: 2023-03-15T12:29:22.180Z
 # Smart Contract Platform Comparison Guide
 
 These comparisons aim to be neutral, but may contain misunderstandings; if you're landing on this page from one of the communities listed - feel free to sign up to this site and make clarifying edits!
+
+See also the [Crypto Comparison Table](https://docs.google.com/spreadsheets/d/1SBCylFAuJRcvZ47obGXfQz19bHDYdaJznnzemcaBgWk/edit?usp=sharing) sheet where various projects are categorised and ranked. 
 
 # extended UTXO
 
