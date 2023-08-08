@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T08:22:26.011Z
+date: 2023-08-08T08:22:40.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -22,7 +22,7 @@ Below are some of our closest competitors on the technical front. Detailed compa
 | Cryptocurrency   | Ticker | Consensus  | Contracts | Fork of                  | Features                                  |  Model |  Distribution |
 |------------------|--------|---------------------|-----------------|------------------------|---------------------------------------------------|------------------|------------------------|
 | Ergo             | ERG    | Proof of Work       | Sophisticated             |                     | Sigma protocols, eUTXO model, and focus on financial contracts | eUTXO         | ~95%                  |
-| [Kaspa](https://ergonaut.space/en/Community/Comparisons/KAS)           | KAS    | Proof of Work       | **Planned**             |                    | GHOSTDAG protocol, high throughput, and fast confirmation times | UTXO          | 100% (TBC)               |
+| [Kaspa](https://ergonaut.space/en/Community/Comparisons/KAS)           | KAS    | Proof of Work       | **Planned**             |                    | GHOSTDAG protocol, high throughput, and fast confirmation times | UTXO          |                |
 | Nervos CKB       | CKB    | Proof of Work       |  CKB-VM             |                   | Common Knowledge Base, layered architecture, and focus on scalability and security | UTXO |                |
 | Syscoin          | SYS    | Proof of Work       | NEVM             |                    | Asset/token creation, decentralized marketplace, Z-DAG protocol | UTXO          |                |
 | Digibyte         | DGB    | Proof of Work       | DigiAssets             |                     | Multi-algorithm mining, focus on security and decentralization | UTXO           |                |
