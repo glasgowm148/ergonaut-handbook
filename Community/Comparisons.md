@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T09:07:23.674Z
+date: 2023-08-08T09:13:53.473Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -45,7 +45,7 @@ While all these models use PoW, the way they achieve consensus and handle transa
 | Cryptocurrency   | Ticker | Consensus  | Contracts |  Features  |  Model | 
 |------------------|--------|------------|-----------|------------|--------|
 | [Kaspa](https://ergonaut.space/en/Community/Comparisons/KAS)| KAS| Proof of Work|Planned| high throughput, and fast confirmation times | GHOSTDAG| 
-| [Syscoin](https://ergonaut.space/en/Community/Comparisons/CKB)          | SYS    | Proof of Work       | NEVM | Asset/token creation, decentralized marketplace | Z-DAG |  
+| [Syscoin](https://ergonaut.space/en/Community/Comparisons/SYS)          | SYS    | Proof of Work       | NEVM | Asset/token creation, decentralized marketplace | Z-DAG |  
 | [Conflux](https://ergonaut.space/en/Community/Comparisons/CFX)             | CFX    | Proof of Work |VM| Fast-PoW | Tree-Graph (TG) |
 
 # PoW > Smart Contracts > Account Model
@@ -56,7 +56,7 @@ While all these models use PoW, the way they achieve consensus and handle transa
 | [Ethereum Classic](https://ergonaut.space/en/Community/Comparisons/ETC) | ETC    | Proof of Work       | Yes             | Ethereum               | Ethereum's original chain, focus on immutability and decentralization | Account-based |
 | [Kadena](https://ergonaut.space/en/Community/Comparisons/KDA) | KDA    | Proof of Work       | Yes             |                |  | Account-based 
 | [Ubiq](https://ergonaut.space/en/Community/Comparisons/UBQ)              | UBQ    | Proof of Work       | Yes             | Ethereum               | Ethereum fork with modified parameters, focus on stability and enterprise use | Account-based |
-| [Expanse](https://ergonaut.space/en/Community/Comparisons/UBQ)           | EXP    | Proof of Work       | Yes             | Ethereum               | Ethereum fork, focus on decentralized applications and governance | Account-based |
-| [Rootstock](https://ergonaut.space/en/Community/Comparisons/UBQ)   | RSK   | Merge-mined with Bitcoin | Yes      | Bitcoin                | Smart contracts on Bitcoin, secured by Bitcoin's mining power | Account-based |
+| [Expanse](https://ergonaut.space/en/Community/Comparisons/EXP)           | EXP    | Proof of Work       | Yes             | Ethereum               | Ethereum fork, focus on decentralized applications and governance | Account-based |
+| [Rootstock](https://ergonaut.space/en/Community/Comparisons/RSK)   | RSK   | Merge-mined with Bitcoin | Yes      | Bitcoin                | Smart contracts on Bitcoin, secured by Bitcoin's mining power | Account-based |
 
 
