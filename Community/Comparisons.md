@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T09:27:11.960Z
+date: 2023-08-08T09:27:56.388Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -21,7 +21,7 @@ Below are some of our closest competitors on the technical front. Detailed compa
 |------------------|--------|------------|-----------|------------|--------|
 | Ergo             | ERG    | Proof of Work       | Assets+SC  | Sigma protocols, eUTXO model, and focus on financial contracts | eUTXO         |               
 | [Nervos CKB](https://ergonaut.space/en/Community/Comparisons/CKB)| CKB    | Proof of Work       |  CKB-VM | Common Knowledge Base, layered architecture, and focus on scalability and security | sUTXO |
-| [Verge](https://ergonaut.space/en/Community/Comparisons/XVG)            | XVG    | Proof of Work       |Planned     | Focus on privacy, multi-algorithm mining, and fast transactions | UTXO |
+| [Verge](https://ergonaut.space/en/Community/Comparisons/XVG)            | XVG    | Proof of Work       |[MiniScript](https://vergecurrency.com/key-tech/) *(Planned)*     | Focus on privacy, multi-algorithm mining, and fast transactions | UTXO |
 
 
 # PoW > Smart Contracts > Assets
