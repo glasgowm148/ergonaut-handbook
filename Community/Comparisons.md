@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T11:06:35.799Z
+date: 2023-08-08T11:11:49.987Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -26,14 +26,15 @@ Below are some of our closest competitors on the technical front. Detailed compa
 | [Verge](https://ergonaut.space/en/Community/Comparisons/XVG)            | XVG    | Proof of Work       |[MiniScript](https://vergecurrency.com/key-tech/) *(Planned)*     | Focus on privacy, multi-algorithm mining, and fast transactions | UTXO |
 | [Alephium](https://ergonaut.space/en/Community/Comparisons/ALPH)             | ALPH    | Proof of Less Work |VM| Fast-PoW | stateful-UTXO |
 
-# Assets-based
+# Assets-based Smart Logic
+
 | Cryptocurrency   | Ticker | Consensus  | Contracts |  Features  |  Model | 
 |------------------|--------|------------|-----------|------------|--------|
 | [Digibyte](https://ergonaut.space/en/Community/Comparisons/DGB)         | DGB    | Proof of Work       | DigiAssets | Multi-algorithm mining, focus on security and decentralization | UTXO |
 | [RavenCoin](https://ergonaut.space/en/Community/Comparisons/RVN)        | RVN    | Proof of Work       |Assets  | P2P Assets | UTXO |
 | [Flux](https://ergonaut.space/en/Community/Comparisons/FLUX)             | FLUX   | Proof of Work       | Cloud Infrastructure | Scalable infrastructure, parallel assets, and node incentivization | UTXO |
 
-# Exotic Consensus
+# Exotic Consensus'
 
 While all these models use PoW, the way they achieve consensus and handle transactions varies, leading to different trade-offs in terms of security, speed, and decentralization. Here's a comparison table of the consensus mechanisms compared to Ergo's eUTXO model:
 
