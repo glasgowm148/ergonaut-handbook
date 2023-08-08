@@ -2,7 +2,7 @@
 title: Comparisons
 description: 
 published: true
-date: 2023-08-08T09:20:30.373Z
+date: 2023-08-08T09:27:11.960Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T12:29:22.180Z
@@ -12,7 +12,7 @@ dateCreated: 2023-03-15T12:29:22.180Z
 
 These comparisons aim to be neutral, but may contain misunderstandings; if you're landing on this page from one of the communities listed - feel free to sign up to this site and make clarifying edits!
 
-# PoW > Smart Contracts > UTXO
+# PoW > Smart Contracts > extended UTXO
 
 Below are some of our closest competitors on the technical front. Detailed comparison pages are linked where available, please add to this resource!
 
@@ -22,6 +22,11 @@ Below are some of our closest competitors on the technical front. Detailed compa
 | Ergo             | ERG    | Proof of Work       | Assets+SC  | Sigma protocols, eUTXO model, and focus on financial contracts | eUTXO         |               
 | [Nervos CKB](https://ergonaut.space/en/Community/Comparisons/CKB)| CKB    | Proof of Work       |  CKB-VM | Common Knowledge Base, layered architecture, and focus on scalability and security | sUTXO |
 | [Verge](https://ergonaut.space/en/Community/Comparisons/XVG)            | XVG    | Proof of Work       |Planned     | Focus on privacy, multi-algorithm mining, and fast transactions | UTXO |
+
+
+# PoW > Smart Contracts > Assets
+| Cryptocurrency   | Ticker | Consensus  | Contracts |  Features  |  Model | 
+|------------------|--------|------------|-----------|------------|--------|
 | [Digibyte](https://ergonaut.space/en/Community/Comparisons/DGB)         | DGB    | Proof of Work       | DigiAssets | Multi-algorithm mining, focus on security and decentralization | UTXO |
 | [RavenCoin](https://ergonaut.space/en/Community/Comparisons/RVN)        | RVN    | Proof of Work       |Assets  | P2P Assets | UTXO |
 | [Flux](https://ergonaut.space/en/Community/Comparisons/FLUX)             | FLUX   | Proof of Work       | Cloud Infrastructure | Scalable infrastructure, parallel assets, and node incentivization | UTXO |
