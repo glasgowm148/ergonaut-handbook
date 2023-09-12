@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-09-12T12:13:29.844Z
+date: 2023-09-12T12:17:33.010Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -29,26 +29,43 @@ You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), 
 
 ## Ergo Ecosystem Projects
 
+**Financial Instruments**
 
 | Type | Platform / Project | Status | Description |
 |---|---|---|---|
 | Short/Long* | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD) | Live | Secure stability or bet on utilisation. |
-| AMM, LP | [Spectrum](/en/dApps/ergodex) | Live | Decentralized exchange and LP |
-| LP Farming | [Spectrum Finance](https://spectrum.fi/) | Live | Farming tokens on your LPs |
-| LP Opportunity | [SigmaUSD on Spectrum](#sigmausd-on-spectrum-4) | Live | Unique LP opportunities with SigmaUSD |
 | Lending | [Duckpools](/en/dApps/duckpools) | Live | Lending pools and collateralized loans |
 | Bonds | [SigmaFi](https://sigmafi.app/#/) | Live | P2P-focused financial services platform |
-| Staking | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad) | Live | Staking platform for ERG and other assets |
-| Staking | [anetaBTC](https://www.anetabtc.io/) | Live | Staking platform for ERG and BTC |
-| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | Ponzi |
 | Options | [SigmaO](https://www.sigmao.cc/) | Public Beta | Options trading on Ergo |
+| P2P Lending | [EXLE](https://ergonaut.space/en/dApps/EXLE) | Public Beta | P2P lending platform |
+| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | Ponzi |
+
+**Tooling**
+
+| Type | Platform / Project | Status | Description |
+|---|---|---|---|
 | Trading Bot | [In Development](https://www.ergoforum.org/t/decentralized-grid-trading-on-ergo/3750) | [Available](https://github.com/Telefragged/off-the-grid/) | Decentralized grid trading bots |
 | Grid Trading | [In Development](https://www.ergoforum.org/t/decentralized-grid-trading-on-ergo/3750) | Machina Finance | grid trading DEX |
 | Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Match Orders |
 | Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Match Orders |
-| P2P Lending | [EXLE](https://ergonaut.space/en/dApps/EXLE) | Public Beta | P2P lending platform |
+
+**Yield**
+
+| Type | Platform / Project | Status | Description |
+|---|---|---|---|
+| AMM, LP | [Spectrum](/en/dApps/ergodex) | Live | Decentralized exchange and LP |
+| LP Farming | [Spectrum Finance](https://spectrum.fi/) | Live | Farming tokens on your LPs |
+| LP Opportunity | [SigmaUSD on Spectrum](#sigmausd-on-spectrum-4) | Live | Unique LP opportunities with SigmaUSD |
+| Staking | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad) | Live | Staking platform for ERG and other assets |
+| Staking | [anetaBTC](https://www.anetabtc.io/) | Live | Staking platform for ERG and BTC |
+
+**Inactive**
+
+| Type | Platform / Project | Status | Description |
+|---|---|---|---|
 | Staking | [NightOwl](/en/dApps/NightOwlCasino) | Planned | Staking platform for ERG and other assets |
 | Index | [Ergo Index](https://github.com/ergo-index) | Inactive | Early ERGOHACK project, code may be useful |
+
 
 Please note that the information in these tables may change as projects and platforms evolve. Always do your own research and stay updated on the latest developments before making any investment decisions.
 
