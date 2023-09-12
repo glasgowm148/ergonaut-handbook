@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-09-12T12:17:33.010Z
+date: 2023-09-12T12:19:35.200Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -54,10 +54,11 @@ You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), 
 | Type | Platform / Project | Status | Description |
 |---|---|---|---|
 | AMM, LP | [Spectrum](/en/dApps/ergodex) | Live | Decentralized exchange and LP |
-| LP Farming | [Spectrum Finance](https://spectrum.fi/) | Live | Farming tokens on your LPs |
+| LP Farming | [Spectrum Finance](https://spectrum.fi/) | Live | Farm tokens on your LPs |
 | LP Opportunity | [SigmaUSD on Spectrum](#sigmausd-on-spectrum-4) | Live | Unique LP opportunities with SigmaUSD |
-| Staking | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad) | Live | Staking platform for ERG and other assets |
+| Staking | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad) | Live | Staking platform for ERG and other tokens |
 | Staking | [anetaBTC](https://www.anetabtc.io/) | Live | Staking platform for ERG and BTC |
+| Staking | [Auction House](https://ergoauctions.org) | Live | Claim a share of the site's profits by staking AHT |
 
 **Inactive**
 
