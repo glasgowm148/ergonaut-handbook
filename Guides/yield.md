@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-03-25T15:54:15.725Z
+date: 2023-09-12T11:55:03.626Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -32,7 +32,6 @@ You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), 
 | Opportunity          | Type               | Platform / Project                                                                                             | Status                | Description                               |
 |----------------------|--------------------|----------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------|
 | SigmaUSD              | Short/Long*            | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD)                                                              | Live                  | Secure stability or bet on utilisation. |
-
 | ErgoPad              | Staking            | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad)                                                              | Live                  | Staking platform for ERG and other assets|
 | anetaBTC             | Staking            | [anetaBTC](https://www.anetabtc.io/)                                                                             | Live                  | Staking platform for ERG and BTC         |
 | NightOwl             | Staking            | [NightOwl](/en/dApps/NightOwlCasino)                                                                            | Planned               | Staking platform for ERG and other assets|
