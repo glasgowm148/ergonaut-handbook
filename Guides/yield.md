@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-09-12T12:19:35.200Z
+date: 2023-09-12T12:44:27.966Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -40,15 +40,6 @@ You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), 
 | P2P Lending | [EXLE](https://ergonaut.space/en/dApps/EXLE) | Public Beta | P2P lending platform |
 | Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | Ponzi |
 
-**Tooling**
-
-| Type | Platform / Project | Status | Description |
-|---|---|---|---|
-| Trading Bot | [In Development](https://www.ergoforum.org/t/decentralized-grid-trading-on-ergo/3750) | [Available](https://github.com/Telefragged/off-the-grid/) | Decentralized grid trading bots |
-| Grid Trading | [In Development](https://www.ergoforum.org/t/decentralized-grid-trading-on-ergo/3750) | Machina Finance | grid trading DEX |
-| Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Match Orders |
-| Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Match Orders |
-
 **Yield**
 
 | Type | Platform / Project | Status | Description |
@@ -59,6 +50,16 @@ You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), 
 | Staking | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad) | Live | Staking platform for ERG and other tokens |
 | Staking | [anetaBTC](https://www.anetabtc.io/) | Live | Staking platform for ERG and BTC |
 | Staking | [Auction House](https://ergoauctions.org) | Live | Claim a share of the site's profits by staking AHT |
+
+**Tooling**
+
+| Type | Platform / Project | Status | Description |
+|---|---|---|---|
+| Trading Bot | [In Development](https://www.ergoforum.org/t/decentralized-grid-trading-on-ergo/3750) | [Available](https://github.com/Telefragged/off-the-grid/) | Decentralized grid trading bots |
+| Grid Trading | [In Development](https://www.ergoforum.org/t/decentralized-grid-trading-on-ergo/3750) | Machina Finance | grid trading DEX |
+| Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Match Orders |
+| Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Match Orders |
+
 
 **Inactive**
 
