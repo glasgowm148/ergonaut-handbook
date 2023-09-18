@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-09-12T12:44:27.966Z
+date: 2023-09-18T13:48:49.874Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -33,12 +33,10 @@ You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), 
 
 | Type | Platform / Project | Status | Description |
 |---|---|---|---|
-| Short/Long* | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD) | Live | Secure stability or bet on utilisation. |
 | Lending | [Duckpools](/en/dApps/duckpools) | Live | Lending pools and collateralized loans |
 | Bonds | [SigmaFi](https://sigmafi.app/#/) | Live | P2P-focused financial services platform |
 | Options | [SigmaO](https://www.sigmao.cc/) | Public Beta | Options trading on Ergo |
 | P2P Lending | [EXLE](https://ergonaut.space/en/dApps/EXLE) | Public Beta | P2P lending platform |
-| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | Ponzi |
 
 **Yield**
 
@@ -60,6 +58,14 @@ You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), 
 | Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Match Orders |
 | Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Match Orders |
 
+**Gambling**
+
+| Type | Platform / Project | Status | Description |
+|---|---|---|---|
+| Short/Long* | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD) | Live | Secure stability or bet on utilisation. |
+| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | Ponzi |
+| Gambling | [Grand Gambit](https://www.grandgambit.io/) | Live | (Centralised) Gambling Platform |
+| Staking | [NightOwl](/en/dApps/NightOwlCasino) | Planned | Staking platform for ERG and other assets |
 
 **Inactive**
 
