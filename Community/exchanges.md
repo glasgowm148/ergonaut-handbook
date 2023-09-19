@@ -2,7 +2,7 @@
 title: Exchanges
 description: 
 published: true
-date: 2023-09-12T11:17:32.243Z
+date: 2023-09-19T11:33:42.108Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-12T11:15:55.375Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-12T11:15:55.375Z
 
 | Exchange | Type | Daily limit without KYC | No Registration | US-Access | Inflow tokens | On-Ramp | Off-Ramp | Maker Fee | Taker Fee | Based |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Bitpanda | Broker | Compulsory | ✘ | No |  | 40+ Countries | 40+ Countries | 0.10% | 0.15% | Austria |
+| [Bitpanda](#Bitpanda) | Broker | Compulsory | ✘ | No |  | 40+ Countries | 40+ Countries | 0.10% | 0.15% | Austria |
 | Kucoin | CEX/Orderbook | Compulsory | ✘ | No |  |  |  | 0.10% | 0.10% |  |
 | gate.io | CEX/Orderbook | Varies on location | ✘ | No |  |  |  | 0.20% | 0.20% |  |
 | Huobi | CEX/Orderbook | 0.06 BTC | ✘ | Not with KYC |  |  |  | 0.20% | 0.20% |  |
@@ -27,7 +27,13 @@ dateCreated: 2023-09-12T11:15:55.375Z
 | Indodax | CEX/Orderbook | Compulsory | ✘ | No |  | Indonesia |  |  |  |  |
 | SimpleSwap | CEX/Swap | None | ✔ | ✔ |  |  |  |  |  |  |
 | StealthEx | CEX/Swap | None | ✔ | ✔ |  |  |  |  |  |  |
+| [SwapSpace](http://swapspace.co) | CEX/Swap | None | ✔ | ✔ |  |  |  |  |  |  |
 | ChangeNOW | CEX/Swap | None | ✔ | ✔ | ADA |  |  |  |  |  |
 | Changelly | CEX/Swap | 2 BTC | ✔ | Not with KYC |  |  |  |  |  |  |
 | Spectrum | Decentralised Exchange | None | ✔ | ✔ | ERG |  |  |  |  |  |
 | Bisq | Decentralised OnRamp | None | ✘ | ✔ | ERG, BTC |  |  |  |  |  |
+
+
+## Bitpanda
+
+[Bitpanda](https://www.bitpanda.com/en/prices/ergo-erg)
