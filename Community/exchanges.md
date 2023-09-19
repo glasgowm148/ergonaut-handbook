@@ -2,7 +2,7 @@
 title: Exchanges
 description: 
 published: true
-date: 2023-09-19T11:33:42.108Z
+date: 2023-09-19T11:34:00.609Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-12T11:15:55.375Z
@@ -34,6 +34,6 @@ dateCreated: 2023-09-12T11:15:55.375Z
 | Bisq | Decentralised OnRamp | None | ✘ | ✔ | ERG, BTC |  |  |  |  |  |
 
 
-## Bitpanda
+# Bitpanda
 
 [Bitpanda](https://www.bitpanda.com/en/prices/ergo-erg)
