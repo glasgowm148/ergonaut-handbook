@@ -2,7 +2,7 @@
 title: Exchanges
 description: 
 published: true
-date: 2023-09-28T12:52:16.288Z
+date: 2023-09-28T12:53:08.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-12T11:15:55.375Z
@@ -28,7 +28,7 @@ dateCreated: 2023-09-12T11:15:55.375Z
 | Indodax | CEX/Orderbook | Compulsory | ✘ | No |  | Indonesia |  |  |  |  |
 | SimpleSwap | CEX/Swap | None | ✔ | ✔ |  |  |  |  |  |  |
 | StealthEx | CEX/Swap | None | ✔ | ✔ |  |  |  |  |  |  |
-| NonKYC.io | CEX/Orderbook | None | ✔ | ✘ |  |  |  |  |  |  |
+| NonKYC.io | CEX/Orderbook | None | ✔ | ✔ |  |  |  |  |  |  |
 | [SwapSpace](http://swapspace.co) | CEX/Swap | None | ✔ | ✔ |  |  |  |  |  |  |
 | ChangeNOW | CEX/Swap | None | ✔ | ✔ | ADA |  |  |  |  |  |
 | Changelly | CEX/Swap | 2 BTC | ✔ | Not with KYC |  |  |  |  |  |  |
