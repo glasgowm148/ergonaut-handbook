@@ -2,7 +2,7 @@
 title: Exchanges
 description: 
 published: true
-date: 2023-09-19T11:34:20.465Z
+date: 2023-09-28T12:50:55.589Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-12T11:15:55.375Z
@@ -18,6 +18,8 @@ dateCreated: 2023-09-12T11:15:55.375Z
 | Huobi | CEX/Orderbook | 0.06 BTC | ✘ | Not with KYC |  |  |  | 0.20% | 0.20% |  |
 | probit | CEX/Orderbook | $5k | ✘ | Not with KYC |  |  |  | 0.20% | 0.20% |  |
 | CoinEx | CEX/Orderbook/AMM | $10k | ✘ | Not with KYC | XLM |  |  | 0.20% | 0.20% |  |
+| CoinDCX | CEX/Orderbook |  | ✘ | Not with KYC |  |  |  |  |  | India |
+
 | Bitmart | CEX/Orderbook | 0.06 BTC | ✘ | Not with KYC |  |  |  | 0.25% | 0.25% |  |
 | TradeOgre | CEX/Orderbook | None | ✘ | ✔ | USDT (ERC), BTC |  |  |  |  | U.S |
 | SevenSeas | CEX/Orderbook | None | ✘ | ✔ | USDT (ERC) |  |  |  |  | Anon |
