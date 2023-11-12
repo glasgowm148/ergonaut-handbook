@@ -2,7 +2,7 @@
 title: Tax
 description: 
 published: true
-date: 2023-02-03T19:36:09.936Z
+date: 2023-11-12T21:51:56.186Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-24T14:38:12.122Z
@@ -11,7 +11,9 @@ dateCreated: 2022-03-24T14:38:12.122Z
 
 # Formatting for Taxes using Koinly
 
-Anyone struggling with Ergo taxes, it is possible to get Koinly to accept a csv and accurately represent everything. Here's how:
+Anyone struggling with Ergo taxes, it is possible to get Koinly to accept a csv and accurately represent everything. If you are comfortable with github and python, you can try this Luivatra's [Github repository](https://github.com/Luivatra/koinly-csv-extract).
+
+If you need to do it manually, here's how:
  
 1. Retore wallet in SAFEW
 2. Export .csv
