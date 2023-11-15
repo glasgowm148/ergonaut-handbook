@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-11-15T13:52:03.203Z
+date: 2023-11-15T13:53:51.804Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -48,9 +48,9 @@ Ergo is a Proof of Work (PoW) blockchain, which means it doesn't support staking
 
 **Staking**
 
-| Type | Platform / Project | Status | Description |
-|---|---|---|---|
-| Staking | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad) | Live | Staking platform for ERG and other tokens |
+| Type | Platform / Project | Status | Description | Resources
+|---|---|---|---|---|
+| Staking | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad) | Live | Staking platform for ERG and other tokens | [YouTube](https://www.youtube.com/@ErgopadOfficial/videos)
 | Staking | [anetaBTC](https://www.anetabtc.io/) | Live | Staking platform for ERG and BTC |
 | Staking | [Auction House](https://ergoauctions.org) | Live | Claim a share of the site's profits by staking AHT |
 
