@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-11-15T13:51:08.349Z
+date: 2023-11-15T13:51:33.605Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -32,7 +32,7 @@ Ergo is a Proof of Work (PoW) blockchain, which means it doesn't support staking
 **Financial Instruments**
 
 | Type | Platform / Project | Status | Description | Resources |
-|---|---|---|---|
+|---|---|---|---|---|
 | Lending | [Duckpools](/en/dApps/duckpools) | Live | Lending pools and collateralized loans | [Video Guides](https://www.youtube.com/@duckpools_io)
 | Bonds | [SigmaFi](https://sigmafi.app/#/) | Live | P2P-focused financial services platform | [Video Guide](https://www.youtube.com/watch?v=IzhDb2JbBag)
 | Options | [SigmaO](https://www.sigmao.cc/) | Public Beta | Options trading on Ergo | [Demo](https://www.youtube.com/watch?v=a1f0F24Ld9w)
@@ -41,7 +41,7 @@ Ergo is a Proof of Work (PoW) blockchain, which means it doesn't support staking
 **Yield**
 
 | Type | Platform / Project | Status | Description | Resources
-|---|---|---|---|
+|---|---|---|---|---|
 | AMM, LP | [Spectrum](/en/dApps/ergodex) | Live | Decentralized exchange and LP | [Video Guide](https://www.youtube.com/watch?v=XnsArAwUl_4)
 | Farming | [Spectrum Finance](https://spectrum.fi/) | Live | Farm tokens on your LPs | [Video Guide](https://youtu.be/XnsArAwUl_4?t=188)
 | LP | [SigmaUSD on Spectrum](#sigmausd-on-spectrum-4) | Live | Unique LP opportunities with SigmaUSD |
