@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-11-15T13:44:10.197Z
+date: 2023-11-15T13:50:42.290Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -11,8 +11,6 @@ dateCreated: 2021-12-30T10:43:30.389Z
 # Earning Yield on Ergo
 
 Ergo is a Proof of Work (PoW) blockchain, which means it doesn't support staking like Proof of Stake (PoS) blockchains. However, you can still earn yield on your ERG holdings by participating in liquidity pools, dApp tokenization, trading bots, lending platforms, and other innovative mechanisms.
-
-You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), Night Owl Casino (coming soon), ErgoMixer (coming soon), and more. One such method is the Profit-Sharing dApp, which allows token holders to earn a share of a dApp's revenue.
 
 - Youtube: [How to buy Erg (Ergo) in the USA and use it as a lender or borrower!](https://www.youtube.com/watch?v=rvBrHq6lER8)
 
@@ -35,17 +33,17 @@ You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), 
 
 | Type | Platform / Project | Status | Description | Resources
 |---|---|---|---|
-| Lending | [Duckpools](/en/dApps/duckpools) | Live | Lending pools and collateralized loans | [Guides](https://www.youtube.com/@duckpools_io)
-| Bonds | [SigmaFi](https://sigmafi.app/#/) | Live | P2P-focused financial services platform |
-| Options | [SigmaO](https://www.sigmao.cc/) | Public Beta | Options trading on Ergo |
+| Lending | [Duckpools](/en/dApps/duckpools) | Live | Lending pools and collateralized loans | [Video Guides](https://www.youtube.com/@duckpools_io)
+| Bonds | [SigmaFi](https://sigmafi.app/#/) | Live | P2P-focused financial services platform | [Video Guide](https://www.youtube.com/watch?v=IzhDb2JbBag)
+| Options | [SigmaO](https://www.sigmao.cc/) | Public Beta | Options trading on Ergo | [Demo](https://www.youtube.com/watch?v=a1f0F24Ld9w)
 | P2P Lending | [EXLE](https://ergonaut.space/en/dApps/EXLE) | Public Beta | P2P lending platform |
 
 **Yield**
 
-| Type | Platform / Project | Status | Description |
+| Type | Platform / Project | Status | Description | Resources
 |---|---|---|---|
-| AMM, LP | [Spectrum](/en/dApps/ergodex) | Live | Decentralized exchange and LP |
-| Farming | [Spectrum Finance](https://spectrum.fi/) | Live | Farm tokens on your LPs |
+| AMM, LP | [Spectrum](/en/dApps/ergodex) | Live | Decentralized exchange and LP | [Video Guide](https://www.youtube.com/watch?v=XnsArAwUl_4)
+| Farming | [Spectrum Finance](https://spectrum.fi/) | Live | Farm tokens on your LPs | [Video Guide](https://youtu.be/XnsArAwUl_4?t=188)
 | LP | [SigmaUSD on Spectrum](#sigmausd-on-spectrum-4) | Live | Unique LP opportunities with SigmaUSD |
 
 **Staking**
@@ -61,18 +59,18 @@ You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), 
 | Type | Platform / Project | Status | Description | Resources |
 |---|---|---|---|
 | Grid Trading | [Off-the-grid](https://github.com/Telefragged/off-the-grid/) | Available | Decentralized grid trading bots |
-| Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Earn fees for matching orders | [Guide](https://www.youtube.com/watch?v=B6WkXKHUcUg)
+| Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Earn fees for matching orders | [Video Guide](https://www.youtube.com/watch?v=B6WkXKHUcUg)
 | Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Earn fees for matching orders | 
 | Grid Trading | [Machina Finance](https://docs.ergoplatform.com/eco/machina-finance/) | In Development | grid trading DEX |
 
 
 **Degen**
 
-| Type | Platform / Project | Status | Description | Documentation |
+| Type | Platform / Project | Status | Description | Resources
 |---|---|---|---|
-| Short/Long* | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD) | Live | Secure stability or bet on utilisation. |
-| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | A Transparent Ponzi |
-| Degen | [Hodlbox](https://hodlbox.xyz/) | Live | Lock your ERG until $20 | [docs](https://docs.ergoplatform.com/events/ergohack/#hodlbox)
+| Short/Long* | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD) | Live | Secure stability or bet on utilisation. | [Buying Guide](https://www.youtube.com/watch?v=Vvh51GwAfyc&embeds_referring_euri=https%3A%2F%2Fergotutorials.com%2F&source_ve_path=MjM4NTE&feature=emb_title)
+| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | A Transparent Ponzi | [Concept Video](https://www.youtube.com/watch?v=D7L7h7EOIow)
+| Degen | [Hodlbox](https://hodlbox.xyz/) | Live | Lock your ERG until $20 | [docs](https://docs.ergoplatform.com/events/ergohack/#hodlbox), [interview](https://www.youtube.com/watch?v=U5-zIxg4M6k)
 | Degen | [Auction Coin](https://auctioncoin.app/) | Live | A Transparent Ponzi |
 | Gambling | [Grand Gambit](https://www.grandgambit.io/) | Live | (Centralised) Gambling Platform |
 | Degen | [Options Coin](https://www.ergoforum.org/t/auction-coin-auction-based-emission-and-degen-finance-autonomous-machine/4287/14) | R&D |  |
