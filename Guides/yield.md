@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-11-15T13:51:33.605Z
+date: 2023-11-15T13:52:03.203Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -57,7 +57,7 @@ Ergo is a Proof of Work (PoW) blockchain, which means it doesn't support staking
 **Tooling**
 
 | Type | Platform / Project | Status | Description | Resources |
-|---|---|---|---|
+|---|---|---|---|---|
 | Grid Trading | [Off-the-grid](https://github.com/Telefragged/off-the-grid/) | Available | Decentralized grid trading bots |
 | Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Earn fees for matching orders | [Video Guide](https://www.youtube.com/watch?v=B6WkXKHUcUg)
 | Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Earn fees for matching orders | 
@@ -67,7 +67,7 @@ Ergo is a Proof of Work (PoW) blockchain, which means it doesn't support staking
 **Degen**
 
 | Type | Platform / Project | Status | Description | Resources
-|---|---|---|---|
+|---|---|---|---|---|
 | Short/Long* | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD) | Live | Secure stability or bet on utilisation. | [Buying Guide](https://www.youtube.com/watch?v=Vvh51GwAfyc&embeds_referring_euri=https%3A%2F%2Fergotutorials.com%2F&source_ve_path=MjM4NTE&feature=emb_title)
 | Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | A Transparent Ponzi | [Concept Video](https://www.youtube.com/watch?v=D7L7h7EOIow)
 | Degen | [Hodlbox](https://hodlbox.xyz/) | Live | Lock your ERG until $20 | [docs](https://docs.ergoplatform.com/events/ergohack/#hodlbox), [interview](https://www.youtube.com/watch?v=U5-zIxg4M6k)
