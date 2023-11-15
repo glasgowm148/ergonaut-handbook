@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-09-18T13:48:49.874Z
+date: 2023-11-15T13:34:28.718Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -58,14 +58,16 @@ You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), 
 | Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Match Orders |
 | Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Match Orders |
 
-**Gambling**
+**Degen**
 
-| Type | Platform / Project | Status | Description |
+| Type | Platform / Project | Status | Description | Documentation |
 |---|---|---|---|
 | Short/Long* | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD) | Live | Secure stability or bet on utilisation. |
-| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | Ponzi |
+| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | A Transparent Ponzi |
+| Degen | [Hodlbox](https://hodlbox.xyz/) | Live | Lock your ERG until $20 | [docs](https://docs.ergoplatform.com/events/ergohack/#hodlbox)
+| Degen | [Auction Coin](https://auctioncoin.app/) | Live | A Transparent Ponzi |
 | Gambling | [Grand Gambit](https://www.grandgambit.io/) | Live | (Centralised) Gambling Platform |
-| Staking | [NightOwl](/en/dApps/NightOwlCasino) | Planned | Staking platform for ERG and other assets |
+| Staking | [Options Coin](https://www.ergoforum.org/t/auction-coin-auction-based-emission-and-degen-finance-autonomous-machine/4287/14) | R&D |  |
 
 **Inactive**
 
