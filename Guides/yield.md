@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-11-15T13:50:42.290Z
+date: 2023-11-15T13:51:08.349Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -31,7 +31,7 @@ Ergo is a Proof of Work (PoW) blockchain, which means it doesn't support staking
 
 **Financial Instruments**
 
-| Type | Platform / Project | Status | Description | Resources
+| Type | Platform / Project | Status | Description | Resources |
 |---|---|---|---|
 | Lending | [Duckpools](/en/dApps/duckpools) | Live | Lending pools and collateralized loans | [Video Guides](https://www.youtube.com/@duckpools_io)
 | Bonds | [SigmaFi](https://sigmafi.app/#/) | Live | P2P-focused financial services platform | [Video Guide](https://www.youtube.com/watch?v=IzhDb2JbBag)
