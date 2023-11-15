@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-11-15T13:34:28.718Z
+date: 2023-11-15T13:35:36.227Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -53,7 +53,7 @@ You can 'stake' native tokens on Ergo through platforms like ergopad.io (live), 
 
 | Type | Platform / Project | Status | Description |
 |---|---|---|---|
-| Trading Bot | [In Development](https://www.ergoforum.org/t/decentralized-grid-trading-on-ergo/3750) | [Available](https://github.com/Telefragged/off-the-grid/) | Decentralized grid trading bots |
+| Grid Trading | [Off-the-grid](https://www.ergoforum.org/t/decentralized-grid-trading-on-ergo/3750) | [Available](https://github.com/Telefragged/off-the-grid/) | Decentralized grid trading bots |
 | Grid Trading | [In Development](https://www.ergoforum.org/t/decentralized-grid-trading-on-ergo/3750) | Machina Finance | grid trading DEX |
 | Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Match Orders |
 | Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Match Orders |
