@@ -2,7 +2,7 @@
 title: Hasil
 description: Dapatkan Hasil dengan ERG Milik Anda
 published: true
-date: 2023-12-19T16:16:42.733Z
+date: 2023-12-19T16:17:01.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-19T16:16:42.733Z
@@ -12,7 +12,7 @@ dateCreated: 2023-12-19T16:16:42.733Z
 
 Ergo adalah blockchain Proof of Work (PoW), yang artinya tidak mendukung staking seperti blockchain Proof of Stake (PoS). Namun, Anda masih dapat memperoleh hasil dari kepemilikan ERG Anda dengan berpartisipasi dalam kumpulan likuiditas, tokenisasi DApp, bot perdagangan, platform peminjaman, dan mekanisme inovatif lainnya.
 
-* Youtube: [Cara membeli Erg (Ergo) di AS dan menggunakannya sebagai pemberi pinjaman atau peminjam!] (https://www.youtube.com/watch?v=rvBrHq6lER8)
+* Youtube: [Cara membeli Erg (Ergo) di AS dan menggunakannya sebagai pemberi pinjaman atau peminjam!](https://www.youtube.com/watch?v=rvBrHq6lER8)
 
 ## Penawaran Pertukaran Terpusat
 
