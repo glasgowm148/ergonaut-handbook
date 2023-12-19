@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-12-19T14:48:42.270Z
+date: 2023-12-19T14:49:03.181Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-15T17:44:41.940Z
@@ -12,7 +12,7 @@ dateCreated: 2022-03-15T17:44:41.940Z
 # Selamat datang di ergonaut.space
 ergonaut.space adalah komunitas wiki dari blockchain Ergo, yang menampilkan berbagai kemungkinan dan detail mengenai Ergo untuk orang-orang non-teknis. Jika Anda adalah seorang pengembang atau pengguna tingkat lanjut mata uang digital, [ErgoDocs](http://docs.ergoplatform.org/) di GitHub mungkin merupakan sumber informasi yang lebih tepat. 
 
-**Daftar wiki *MEGA Ergo**
+**Daftar MEGA wiki Ergo**
 - [*resmi* Ergo wiki - GitHub](https://github.com/ergoplatform/ergo/wiki)
 - [Komunitas wiki - Buku Pegangan Ergonaut](https://ergonaut.space/e/en/home)
 - [r/ergonauts wiki - Reddit](https://www.reddit.com/r/ergonauts/wiki/index/)
