@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-12-19T14:50:31.049Z
+date: 2023-12-19T14:55:26.691Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-15T17:44:41.940Z
@@ -26,7 +26,7 @@ Ergo adalah platform kontrak pintar generasi berikutnya yang memastikan kebebasa
 
 **Gambaran Umum**
 
-- [Manifesto Ergo](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versi](Ergo/manifesto)) | Bacaan *penting* untuk semua Ergonauts 
+- [Manifesto Ergo](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/) ([versi](https://ergonaut.space/id/Manifesto)) | Bacaan *penting* untuk semua Ergonauts 
 - [Mengapa pakai Ergo?](/en/Ergo/why-ergo)
 - [Gambaran Umum Blockchain Ergo](Ergo/Overview)
 - [Apa Ergo itu (Mei, 2022)](https://www.youtube.com/watch?v=LyyD-clUvyI&t=941s)
@@ -36,7 +36,7 @@ Ergo adalah platform kontrak pintar generasi berikutnya yang memastikan kebebasa
 Situs [Sigmaverse](https://sigmaverse.io/) menyediakan daftar semua aplikasi terdesentralisasi ([dApps](https://ergonaut.space/en/Glossary/dApps)) yang tersedia di blockchain Ergo. Kegunaan yang umum termasuk:
 
 - Menukar satu mata uang kripto dengan mata uang kripto lainnya di bursa terdesentralisasi (DEX)
-- Menghasilkan uang dengan mentransfer mata uang kripto Anda ke dalam pool likuiditas, mempertaruhkannya di dApp, atau bergabung dengan pool penambangan (Lihat [Hasil](/en/Panduan/hasil))
+- Menghasilkan uang dengan mentransfer mata uang kripto Anda ke dalam pool likuiditas, mempertaruhkannya di dApp, atau bergabung dengan pool penambangan (Lihat [Hasil](https://ergonaut.space/en/Guides/yield))
 - Mentransfer mata uang kripto Anda ke alamat dompet pribadi
 - Membeli karya seni digital di situs lelang
 - Membuat atau mendukung undian untuk tujuan amal
