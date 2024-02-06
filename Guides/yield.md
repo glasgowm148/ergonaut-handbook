@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2023-11-15T13:53:51.804Z
+date: 2024-02-06T12:22:48.407Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -14,7 +14,88 @@ Ergo is a Proof of Work (PoW) blockchain, which means it doesn't support staking
 
 - Youtube: [How to buy Erg (Ergo) in the USA and use it as a lender or borrower!](https://www.youtube.com/watch?v=rvBrHq6lER8)
 
-## Centralized Exchange Offerings
+# Ergo Ecosystem Projects
+
+Please note that the information in these tables may change as projects and platforms evolve. Always do your own research and stay updated on the latest developments before making any investment decisions.
+
+Discuss with the community 
+
+- [DeFi Degen Megathread](https://www.ergoforum.org/t/defi-degen-megathread/4258)
+- [Liquidity Provision: Yield Opportunities and Experiences](https://www.ergoforum.org/t/liquidity-provision-yield-opportunities-and-experiences/4220)
+
+## Financial Instruments
+| Type | Platform / Project | Status | Description | Resources |
+|---|---|---|---|---|
+| Lending Pools| [Duckpools](/en/dApps/duckpools) | Live | Lending pools and collateralized loans | [Video Guides](https://www.youtube.com/@duckpools_io)
+| Bonds | [SigmaFi](https://sigmafi.app/#/) | Live | P2P-focused financial services platform | [Video Guide](https://www.youtube.com/watch?v=IzhDb2JbBag)
+| Options | [SigmaO](https://www.sigmao.cc/) | Public Beta | Options trading on Ergo | [Demo](https://www.youtube.com/watch?v=a1f0F24Ld9w)
+| P2P Lending | [EXLE](https://ergonaut.space/en/dApps/EXLE) | Public Beta | P2P lending platform |
+
+## DegFi
+
+DegFi, short for "Degenerate Finance," is a subcategory within the broader DeFi (Decentralized Finance) ecosystem that focuses on high-risk, high-reward financial strategies and instruments. Often operating on the fringes of traditional finance, DegFi amplifies the potential gains and losses through complex mechanisms and game-theoretic interactions. As a reaction against the cautious, regulated approach of conventional finance, DegFi represents an experiment in extreme financial engineering, carried out entirely on decentralized platforms. 
+
+| Type | Platform / Project | Status | Description | Resources
+|---|---|---|---|---|
+| Short/Long* | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD) | Live | Secure stability or bet on utilisation. | [Buying Guide](https://www.youtube.com/watch?v=Vvh51GwAfyc&embeds_referring_euri=https%3A%2F%2Fergotutorials.com%2F&source_ve_path=MjM4NTE&feature=emb_title)
+| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | A Transparent Ponzi | [Concept Video](https://www.youtube.com/watch?v=D7L7h7EOIow)
+| Degen | [Hodlbox](https://hodlbox.xyz/) | Live | Lock your ERG until $20 | [docs](https://docs.ergoplatform.com/events/ergohack/#hodlbox), [interview](https://www.youtube.com/watch?v=U5-zIxg4M6k)
+| Degen | [Auction Coin](https://auctioncoin.app/) | Live | Tokens are periodically emitted through auctions | [Telegram](https://t.me/auction_coin)
+| Gambling | [Grand Gambit](https://www.grandgambit.io/) | Live | (Centralised) Gambling Platform | [Telegram](https://t.me/GrandGambit)
+| Degen | [Options Coin](https://www.ergoforum.org/t/auction-coin-auction-based-emission-and-degen-finance-autonomous-machine/4287/14) | R&D |  |
+
+
+## Yield
+
+| Type | Platform / Project | Status | Description | Resources
+|---|---|---|---|---|
+| AMM, LP | [Spectrum](/en/dApps/ergodex) | Live | Decentralized exchange and LP | [Video Guide](https://www.youtube.com/watch?v=XnsArAwUl_4)
+| Farming | [Spectrum Finance](https://spectrum.fi/) | Live | Farm tokens on your LPs | [Video Guide](https://youtu.be/XnsArAwUl_4?t=188)
+| LP | [SigmaUSD on Spectrum](#sigmausd-on-spectrum-4) | Live | Unique LP opportunities with SigmaUSD |
+
+## Staking
+
+| Type | Platform / Project | Status | Description | Resources
+|---|---|---|---|---|
+| Staking | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad) | Live | Staking platform for ERG and other tokens | [YouTube](https://www.youtube.com/@ErgopadOfficial/videos)
+| Staking | [Auction House](https://ergoauctions.org) | Live | Claim a share of the site's profits by staking AHT |
+
+## Off-Chain
+
+| Type | Platform / Project | Status | Description | Resources |
+|---|---|---|---|---|
+| Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Earn fees for matching orders | [Video Guide](https://www.youtube.com/watch?v=B6WkXKHUcUg)
+| Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Earn fees for matching orders | 
+| Oracles | [GORT](#GORT) | Live | Run an Gold Oracle and recieve GORT! | 
+
+## Grid Trading
+
+| Type | Platform / Project | Status | Description | Resources |
+|---|---|---|---|---|
+| Grid Trading | [Off-the-grid](https://github.com/Telefragged/off-the-grid/) | Available | Decentralized grid trading bots |
+| Grid Trading | [Machina Finance](https://docs.ergoplatform.com/eco/machina-finance/) | In Development | grid trading DEX |
+
+
+
+
+## Off-chain
+
+### GORT
+
+Running an oracle provides ~24 GORT (Gold Oracle Reward Token)/day in rewards
+
+The Gold Pool Oracle Tokens which are needed to join the existing oracle pool are periodicially put up for [auction](https://ergoauctions.org/artwork/78263e5613557e129f075f0a241287e09c4204be76ad53d77d6e7feebcccb001).
+
+**Why own GORT?**
+
+- Support gold price feed for the #Ergo Gold Cooperative
+- Passive income earning $GORT
+- Provide ERG/GORT Liquidity income
+
+# Centralized Exchange Offerings
+
+As a fairly launched project, nobody has a huge chunk of the supply to give to a market-maker to make the market liquid. However, a truly liquid market can be achieved by small amounts that add up. 
+
 
 | Opportunity          | Type               | Platform / Project                                                                                             | Status                | Description                               |
 |----------------------|--------------------|----------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------|
@@ -27,91 +108,7 @@ Ergo is a Proof of Work (PoW) blockchain, which means it doesn't support staking
 | Huobi Earn           | Short-term Offer   | [Huobi Earn](https://account.huobi.com/support/en-us/detail/44916960013648)                                    | Live                  | Interest-earning on deposits             |
 | Low-Liquidity Exchanges           | Long-term Offer   | SevenSeas, TradeOgre, etc                                    | Live                  | Profit off exchanges with low liquidity by acting as a Market Maker             |
 
-## Ergo Ecosystem Projects
 
-**Financial Instruments**
-
-| Type | Platform / Project | Status | Description | Resources |
-|---|---|---|---|---|
-| Lending | [Duckpools](/en/dApps/duckpools) | Live | Lending pools and collateralized loans | [Video Guides](https://www.youtube.com/@duckpools_io)
-| Bonds | [SigmaFi](https://sigmafi.app/#/) | Live | P2P-focused financial services platform | [Video Guide](https://www.youtube.com/watch?v=IzhDb2JbBag)
-| Options | [SigmaO](https://www.sigmao.cc/) | Public Beta | Options trading on Ergo | [Demo](https://www.youtube.com/watch?v=a1f0F24Ld9w)
-| P2P Lending | [EXLE](https://ergonaut.space/en/dApps/EXLE) | Public Beta | P2P lending platform |
-
-**Yield**
-
-| Type | Platform / Project | Status | Description | Resources
-|---|---|---|---|---|
-| AMM, LP | [Spectrum](/en/dApps/ergodex) | Live | Decentralized exchange and LP | [Video Guide](https://www.youtube.com/watch?v=XnsArAwUl_4)
-| Farming | [Spectrum Finance](https://spectrum.fi/) | Live | Farm tokens on your LPs | [Video Guide](https://youtu.be/XnsArAwUl_4?t=188)
-| LP | [SigmaUSD on Spectrum](#sigmausd-on-spectrum-4) | Live | Unique LP opportunities with SigmaUSD |
-
-**Staking**
-
-| Type | Platform / Project | Status | Description | Resources
-|---|---|---|---|---|
-| Staking | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad) | Live | Staking platform for ERG and other tokens | [YouTube](https://www.youtube.com/@ErgopadOfficial/videos)
-| Staking | [anetaBTC](https://www.anetabtc.io/) | Live | Staking platform for ERG and BTC |
-| Staking | [Auction House](https://ergoauctions.org) | Live | Claim a share of the site's profits by staking AHT |
-
-**Tooling**
-
-| Type | Platform / Project | Status | Description | Resources |
-|---|---|---|---|---|
-| Grid Trading | [Off-the-grid](https://github.com/Telefragged/off-the-grid/) | Available | Decentralized grid trading bots |
-| Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Earn fees for matching orders | [Video Guide](https://www.youtube.com/watch?v=B6WkXKHUcUg)
-| Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Earn fees for matching orders | 
-| Grid Trading | [Machina Finance](https://docs.ergoplatform.com/eco/machina-finance/) | In Development | grid trading DEX |
-
-
-**Degen**
-
-| Type | Platform / Project | Status | Description | Resources
-|---|---|---|---|---|
-| Short/Long* | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD) | Live | Secure stability or bet on utilisation. | [Buying Guide](https://www.youtube.com/watch?v=Vvh51GwAfyc&embeds_referring_euri=https%3A%2F%2Fergotutorials.com%2F&source_ve_path=MjM4NTE&feature=emb_title)
-| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | A Transparent Ponzi | [Concept Video](https://www.youtube.com/watch?v=D7L7h7EOIow)
-| Degen | [Hodlbox](https://hodlbox.xyz/) | Live | Lock your ERG until $20 | [docs](https://docs.ergoplatform.com/events/ergohack/#hodlbox), [interview](https://www.youtube.com/watch?v=U5-zIxg4M6k)
-| Degen | [Auction Coin](https://auctioncoin.app/) | Live | A Transparent Ponzi |
-| Gambling | [Grand Gambit](https://www.grandgambit.io/) | Live | (Centralised) Gambling Platform |
-| Degen | [Options Coin](https://www.ergoforum.org/t/auction-coin-auction-based-emission-and-degen-finance-autonomous-machine/4287/14) | R&D |  |
-
-**Inactive**
-
-| Type | Platform / Project | Status | Description |
-|---|---|---|---|
-| Staking | [NightOwl](/en/dApps/NightOwlCasino) | Planned | Staking platform for ERG and other assets |
-| Index | [Ergo Index](https://github.com/ergo-index) | Inactive | Early ERGOHACK project, code may be useful |
-
-
-Please note that the information in these tables may change as projects and platforms evolve. Always do your own research and stay updated on the latest developments before making any investment decisions.
-
-Discuss with the community 
-
-- [DeFi Degen Megathread](https://www.ergoforum.org/t/defi-degen-megathread/4258)
-- [Liquidity Provision: Yield Opportunities and Experiences](https://www.ergoforum.org/t/liquidity-provision-yield-opportunities-and-experiences/4220)
-
-
-
-
-
-# [Spectrum](/en/dApps/ergodex) 
-
-![screenshot_2022-01-09_at_18.13.43.png](/screenshot_2022-01-09_at_18.13.43.png)
-There is currently one decentralized exchange on Ergo, [Spectrum](https://app.spectrum.fi/). There are several pools on Spectrum with a visible estimated asset annual percentage yield (APY) that can be used for yield harvesting.
-
-Your redeemable amount changes as the pool gets used and a percentage of the swaps are earned by the pool. You get a percent of the pool fee proportional to your stake.
-
-- SigRSV/ERG pair
-	-	Minimises impermanent loss (both coins move in the same direction price-wise)
-- SigUSD/ERG
-	- High IL risk, however a solid investment if you want to earn fee's off your nest-egg. SigUSD has has never came close to loosing it's peg. 
-
-**Community**
-- [Discord](https://discord.gg/KBrwstYcBx)
-- [Telegram](https://t.me/ergodex_community)
-- [Twitter](https://twitter.com/ErgoDex)
-- [Reddit](https://www.reddit.com/r/ergodex/)
-- [SigmaUSD Telegram](https://t.me/SigmaUSD)
 
 
 # More
@@ -145,19 +142,26 @@ Remember, each investment opportunity carries its own risks, and it's essential 
 
 # Appendix
 
+## [Spectrum](/en/dApps/ergodex) 
 
-## [Ergo Profit-Sharing DApp](https://github.com/mhssamadani/ErgoProfitSharingDapp)
+![screenshot_2022-01-09_at_18.13.43.png](/screenshot_2022-01-09_at_18.13.43.png)
+There is currently one decentralized exchange on Ergo, [Spectrum](https://app.spectrum.fi/). There are several pools on Spectrum with a visible estimated asset annual percentage yield (APY) that can be used for yield harvesting.
 
-This innovative service enables dApps to distribute earnings among their token holders. Initial implementations will tokenize ErgoMixer, followed by Ergo Auction House and Ergo Raffle. ErgoMixer's revenue, currently received by its creator, will be distributed to $MIX token holders who stake their tokens in the Profit Sharing contract.
+Your redeemable amount changes as the pool gets used and a percentage of the swaps are earned by the pool. You get a percent of the pool fee proportional to your stake.
 
+- SigRSV/ERG pair
+	-	Minimises impermanent loss (both coins move in the same direction price-wise)
+- SigUSD/ERG
+	- High IL risk, however a solid investment if you want to earn fee's off your nest-egg. SigUSD has has never came close to loosing it's peg. 
 
-So, it will not be way a way to 'stake' ERG at first. However in the future it could be used in some creative services to provide ERG-staking.
+**Community**
+- [SpectrumLabs Telegram](https://t.me/spectrum_labs_community)
+- [SigmaUSD Telegram](https://t.me/SigmaUSD)
 
-More details available on the [ergoforum](https://www.ergoforum.org/t/a-solution-for-staking/1057).
 
 
 ## Technical Analysis Resources
-- [Trading chat](https://t.me/ERGTechnicalAnalysis)
+- [Trading chat](https://t.me/ErgoTrading)
 - [Alternative to TradingView](https://www.livecoinwatch.com/price/Ergo-ERG)
 - [Bitcoin Stats](https://www.lopp.net/bitcoin-information/statistics-metrics.html)
 - [Chainanalysis](https://markets.chainalysis.com)
@@ -183,4 +187,14 @@ Then, Erg's price goes to $20 a month later. Let's assume you earned $2 in fees.
 So, why would anyone provide liquidity to an AMM in an asset they expected to go up and a stablecoin like SigUSD? The answer: volitality harvesting.
 
 There's an [involved paper](https://research.paradigm.xyz/uniswaps-alchemy), but here's the central idea: digital assets like Erg don't just increase. They have a lot of volitality, ups and downs, and if you are in an AMM liquidity pool, the balancing of the AMM of the pool works as a kind of dollar cost averaging. It buys more of the asset that costs less when it is down and less of the asset that costs more when it is up.
+
+
+## Inactive
+
+| Type | Platform / Project | Status | Description |
+|---|---|---|---|
+| Staking | [NightOwl](/en/dApps/NightOwlCasino) | Planned | Staking platform for ERG and other assets |
+| Index | [Ergo Index](https://github.com/ergo-index) | Inactive | Early ERGOHACK project, code may be useful |
+
+
 
