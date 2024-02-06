@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-06T12:31:30.201Z
+date: 2024-02-06T12:36:04.755Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -24,6 +24,9 @@ Discuss with the community
 - [Liquidity Provision: Yield Opportunities and Experiences](https://www.ergoforum.org/t/liquidity-provision-yield-opportunities-and-experiences/4220)
 
 ## Financial Instruments
+
+Financial Instruments in the Ergo ecosystem encompass a variety of platforms and projects that offer services such as lending pools, bonds, options trading, and P2P lending. 
+
 | Type | Platform / Project | Status | Description | Resources |
 |---|---|---|---|---|
 | Lending Pools| [Duckpools](/en/dApps/duckpools) | Live | Lending pools and collateralized loans | [Video Guides](https://www.youtube.com/@duckpools_io)
@@ -44,8 +47,9 @@ DegFi, short for "Degenerate Finance," is a subcategory within the broader DeFi 
 | Gambling | [Grand Gambit](https://www.grandgambit.io/) | Live | (Centralised) Gambling Platform | [Telegram](https://t.me/GrandGambit)
 | Degen | [Options Coin](https://www.ergoforum.org/t/auction-coin-auction-based-emission-and-degen-finance-autonomous-machine/4287/14) | R&D |  |
 
-
 ## Yield
+
+Yield platforms in the Ergo ecosystem offer users the opportunity to earn returns on their ERG holdings through various strategies such as Automated Market Making (AMM), Liquidity Provision (LP), and Farming. These platforms provide a decentralized way for users to maximize their yield in a secure and transparent manner.
 
 | Type | Platform / Project | Status | Description | Resources
 |---|---|---|---|---|
@@ -55,6 +59,8 @@ DegFi, short for "Degenerate Finance," is a subcategory within the broader DeFi 
 
 ## Staking
 
+Staking platforms in the Ergo ecosystem allow users to stake their ERG and other tokens to earn rewards. These platforms provide a secure and decentralized way for users to participate in the network's consensus mechanism and earn passive income.
+
 | Type | Platform / Project | Status | Description | Resources
 |---|---|---|---|---|
 | Staking | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad) | Live | Staking platform for ERG and other tokens | [YouTube](https://www.youtube.com/@ErgopadOfficial/videos)
@@ -62,13 +68,16 @@ DegFi, short for "Degenerate Finance," is a subcategory within the broader DeFi 
 
 ## Grid Trading
 
+Grid Trading platforms in the Ergo ecosystem offer users the opportunity to engage in decentralized grid trading. These platforms provide a way for users to automate their trading strategies and maximize their potential returns.
+
 | Type | Platform / Project | Status | Description | Resources |
 |---|---|---|---|---|
 | Grid Trading | [Off-the-grid](https://github.com/Telefragged/off-the-grid/) | Available | Decentralized grid trading bots |
 | Grid Trading | [Machina Finance](https://docs.ergoplatform.com/eco/machina-finance/) | In Development | grid trading DEX |
 
-
 ## Off-Chain
+
+Off-Chain platforms in the Ergo ecosystem offer users the opportunity to earn fees for matching orders, providing price fees with an oracle, or becoming a watcher. These platforms provide a way for users to participate in the network's operations and earn rewards.
 
 | Type | Platform / Project | Status | Description | Resources |
 |---|---|---|---|---|
@@ -76,8 +85,6 @@ DegFi, short for "Degenerate Finance," is a subcategory within the broader DeFi 
 | Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Earn fees for matching orders | 
 | Oracles | [GORT](#GORT) | Live | Run an Gold Oracle and recieve GORT! | 
 | Off-Chain Bots | Rosen Watcher | Live | Become a watcher! | 
-
-
 
 ## Yield Analytics
 
