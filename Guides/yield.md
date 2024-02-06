@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-06T12:22:48.407Z
+date: 2024-02-06T12:23:03.355Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -60,14 +60,6 @@ DegFi, short for "Degenerate Finance," is a subcategory within the broader DeFi 
 | Staking | [ErgoPad](https://ergonaut.space/en/dApps/ErgoPad) | Live | Staking platform for ERG and other tokens | [YouTube](https://www.youtube.com/@ErgopadOfficial/videos)
 | Staking | [Auction House](https://ergoauctions.org) | Live | Claim a share of the site's profits by staking AHT |
 
-## Off-Chain
-
-| Type | Platform / Project | Status | Description | Resources |
-|---|---|---|---|---|
-| Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Earn fees for matching orders | [Video Guide](https://www.youtube.com/watch?v=B6WkXKHUcUg)
-| Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Earn fees for matching orders | 
-| Oracles | [GORT](#GORT) | Live | Run an Gold Oracle and recieve GORT! | 
-
 ## Grid Trading
 
 | Type | Platform / Project | Status | Description | Resources |
@@ -75,6 +67,14 @@ DegFi, short for "Degenerate Finance," is a subcategory within the broader DeFi 
 | Grid Trading | [Off-the-grid](https://github.com/Telefragged/off-the-grid/) | Available | Decentralized grid trading bots |
 | Grid Trading | [Machina Finance](https://docs.ergoplatform.com/eco/machina-finance/) | In Development | grid trading DEX |
 
+
+## Off-Chain
+
+| Type | Platform / Project | Status | Description | Resources |
+|---|---|---|---|---|
+| Off-Chain Bots | [Spectrum Finance](https://spectrum.fi/) | Live | Earn fees for matching orders | [Video Guide](https://www.youtube.com/watch?v=B6WkXKHUcUg)
+| Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Earn fees for matching orders | 
+| Oracles | [GORT](#GORT) | Live | Run an Gold Oracle and recieve GORT! | 
 
 
 
