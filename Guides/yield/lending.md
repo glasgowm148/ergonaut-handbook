@@ -2,7 +2,7 @@
 title: Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-08T16:52:42.430Z
+date: 2024-02-08T16:53:29.945Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
