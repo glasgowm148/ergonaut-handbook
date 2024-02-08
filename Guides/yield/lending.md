@@ -2,7 +2,7 @@
 title: Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-08T16:30:18.290Z
+date: 2024-02-08T16:32:00.186Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
@@ -33,6 +33,10 @@ Lending pools are a fundamental component of DeFi, allowing users to lend out th
 2. **Acquire ERG**: Purchase ERG from an exchange, if you don't already own it. You'll need ERG not just for lending but also to pay transaction fees on the Ergo network.
 3. **Deposit into Duckpools**: Follow the instructions on Duckpools to deposit your ERG into one of the lending pools. Ensure you understand the terms, including the interest rate and any fees.
 4. **Earn Interest**: Once your ERG is in the pool, you'll start earning interest. The rate can vary based on demand for loans and the amount of ERG in the pool.
+
+### Tutorials
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xnzZEpcdCuA?si=pZeHGyLLuXeQj4Zp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Analytics
 
