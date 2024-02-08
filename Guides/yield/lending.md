@@ -2,7 +2,7 @@
 title: Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-08T16:35:58.749Z
+date: 2024-02-08T16:52:42.430Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
@@ -32,30 +32,24 @@ Lending pools are a fundamental component of DeFi, allowing users to lend out th
 1. **Create a Wallet**: If you haven't already, create a cryptocurrency wallet that supports Ergo. Make sure it's secure and that you control the private keys.
 2. **Acquire ERG**: Purchase ERG from an exchange, if you don't already own it. You'll need ERG not just for lending but also to pay transaction fees on the Ergo network.
 3. **Deposit into Duckpools**: Follow the instructions on Duckpools to deposit your ERG into one of the lending pools. Ensure you understand the terms, including the interest rate and any fees.
+	- [Step-by-Step Guide: How to Lend on duckpools.io](https://www.youtube.com/watch?v=xnzZEpcdCuA)
+	- [Step-by-Step Guide: How to Borrow on duckpools.io](https://www.youtube.com/watch?v=dN4VqQJAyuk)
 4. **Earn Interest**: Once your ERG is in the pool, you'll start earning interest. The rate can vary based on demand for loans and the amount of ERG in the pool.
+	- Some early analytics pulled up by Luivatra shows a [8% return in ~5 months](https://twitter.com/Luivatra/status/1750497386856665115) on SigUSD deposited in duckpools. 
 
-### Tutorials
-
-- [Step-by-Step Guide: How to Lend on duckpools.io](https://www.youtube.com/watch?v=xnzZEpcdCuA)
-- [Step-by-Step Guide: How to Borrow on duckpools.io](https://www.youtube.com/watch?v=dN4VqQJAyuk)
-
-### Analytics
-
-Some early analytics pulled up by Luivatra shows a [8% return in ~5 months](https://twitter.com/Luivatra/status/1750497386856665115) on SigUSD deposited in duckpools. 
 
 ### Risks and Considerations
 
 While lending pools on Ergo offer an attractive way to earn passive income, there are risks to be aware of:
 
-- **Smart Contract Vulnerabilities**: Though rare, smart contracts can contain vulnerabilities that could be exploited, leading to losses.
+- **Smart Contract Vulnerabilities**: [Know Your Assumptions!](/en/Guides/yield/kya) Though rare, smart contracts can contain vulnerabilities that could be exploited, leading to losses. 
 - **Market Volatility**: The value of your deposited cryptocurrency can fluctuate. If the market drops significantly, the real-world value of your interest earnings might be lower than expected.
 - **Liquidity Risks**: In periods of high demand, you might face delays when withdrawing your assets from the pool.
 
 ## Best Practices for Lending Pool Participation
-
+- **Understand the Terms**: Before depositing, make sure you fully understand the pool's terms, including how interest is calculated, payment frequency, and any applicable fees.
 - **Diversify**: Don't put all your crypto in one pool. Spread your investments across different assets and platforms to reduce risk.
 - **Stay Informed**: Keep up with developments in the Ergo ecosystem and the broader crypto market. Changes can affect interest rates and lending pool dynamics.
-- **Understand the Terms**: Before depositing, make sure you fully understand the pool's terms, including how interest is calculated, payment frequency, and any applicable fees.
 
 ## Conclusion
 
