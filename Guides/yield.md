@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-08T14:56:44.229Z
+date: 2024-02-08T14:57:01.213Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -43,8 +43,6 @@ To maximize yield opportunities on Ergo, individuals and entities can leverage v
   - **Oracle Contribution**: Participants can operate a GORT (Gold Oracle Reward Tokens) oracle, playing a crucial role in providing accurate and reliable price feeds for DeFi applications within the Ergo ecosystem. This task, essential for the ecosystem's health, rewards operators with GORT tokens, allowing for an impactful contribution without the need for advanced development skills.
   
   - **Rosen Bridge Monitoring**: As a Rosen Watcher, individuals oversee and validate the transactions facilitated by the Rosen bridge, which connects Ergo with other blockchain ecosystems like Cardano. This role is vital for ensuring the bridge operates securely and efficiently, with watchers being rewarded in ERG and other involved tokens. It represents a unique opportunity to support cross-chain interoperability and earn rewards for maintaining critical infrastructure components.
-
-This title reflects the broader impact and contribution these roles have on the Ergo ecosystem, emphasizing the supportive and validating nature of their activities.
 
 ### 7. The Ethical Investor
 - **Persona:** Prefers to invest in projects that align with their personal values, such as decentralization, privacy, and community governance.
