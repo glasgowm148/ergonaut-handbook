@@ -2,7 +2,7 @@
 title: Arbitrage Made Easy
 description: 
 published: true
-date: 2024-02-08T15:51:47.122Z
+date: 2024-02-08T15:54:33.321Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:14:13.357Z
@@ -24,7 +24,7 @@ In Ergo's ecosystem and across centralized exchanges, these opportunities are pl
 
 - **Simple Arbitrage**: This involves directly buying and selling the same asset (e.g., ERG) across different exchanges to take advantage of price differentials.
 	- **SigmaUSD Bank Arbitrage:** Occasionally, the price of SigUSD on ErgoDEX may diverge from its peg, creating arbitrage opportunities directly with the SigmaUSD bank, where SigUSD is minted and redeemed.
-  - **Low Liquidity Exchanges:** Platforms with low-liquidity like TradeOgre, Bitrue, and BitMart, often feature significant price variances for ERG and related tokens. These conditions are ideal for arbitrage, especially when large market movements prompt substantial price spikes.
+  - **Low Liquidity Exchanges:** Platforms with low-liquidity like TradeOgre, Bitrue, and BitMart, often feature significant price variances for ERG and related tokens. These conditions are ideal for arbitrage, especially when large market movements prompt substantial price spikes. See a full list of all exchanges that support Ergo [here](https://ergoplatform.org/en/get-erg/#Exchanges).
 - **Triangular Arbitrage**: A more complex form, triangular arbitrage involves making three trades that exploit currency discrepancies on the same or multiple platforms. For example, you might start with ERG, exchange it for SigmaUSD, swap SigmaUSD for another token like ADA, and then convert ADA back to ERG at a profit.
 - **Cross-Chain Arbitrage**: Ergo's interoperability, notably through the Rosen bridge, opens opportunities for arbitrage across blockchains. You can exploit price differences for the same asset or related assets across different blockchain ecosystems. For example, you might start with ERG, exchange it for rsADA, unwrap rsADA using rosen.tech, and then convert rsADA back to ERG at a profit.
 
@@ -42,7 +42,7 @@ In Ergo's ecosystem and across centralized exchanges, these opportunities are pl
 
 ### Monitoring and Analysis
 
-Consistently monitor ErgoDEX and centralized exchanges to identify price disparities. Real-time tracking of prices across multiple platforms is essential for detecting arbitrage opportunities efficiently.
+Consistently monitor decentralised and centralized exchanges to identify price disparities. Real-time tracking of prices across multiple platforms is essential for detecting arbitrage opportunities efficiently.
 
 - [Crux Finance](https://cruxfinance.io/): Access Ergo portfolio and charts for insightful analysis.
 - [TapTools.io](https://www.taptools.io/): Explore Cardano charts to gain comprehensive market insights.
