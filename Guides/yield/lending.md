@@ -2,7 +2,7 @@
 title: Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-08T16:32:00.186Z
+date: 2024-02-08T16:35:58.749Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
@@ -36,7 +36,8 @@ Lending pools are a fundamental component of DeFi, allowing users to lend out th
 
 ### Tutorials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xnzZEpcdCuA?si=pZeHGyLLuXeQj4Zp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- [Step-by-Step Guide: How to Lend on duckpools.io](https://www.youtube.com/watch?v=xnzZEpcdCuA)
+- [Step-by-Step Guide: How to Borrow on duckpools.io](https://www.youtube.com/watch?v=dN4VqQJAyuk)
 
 ### Analytics
 
