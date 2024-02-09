@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-09T14:23:35.297Z
+date: 2024-02-09T14:33:40.319Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -17,19 +17,15 @@ Despite being a Proof of Work (PoW) blockchain, Ergo offers several avenues for 
 - [**Maximizing Returns with Lending Pools**](/en/Guides/yield/lending): A comprehensive guide to leveraging Ergo's lending platforms for earning interest on your digital assets.
 - [**Yield Farming & Liquidity Provision on Ergo**](/en/Guides/yield/yield): Step-by-step strategies for farming yield and providing liquidity in the Ergo ecosystem.
 - [**Navigating High-Risk Rewards with DegFi on Ergo**](/en/Guides/yield/DegFi): Insights into DeFi's high-risk, high-reward opportunities available on Ergo.
-- [**Simplifying Arbitrage on Ergo**](/en/Guides/yield/Arbitrage): Easy-to-follow methods for capitalizing on arbitrage opportunities within the Ergo network.
+- [**Simplifying Arbitrage on Ergo**](/en/Guides/yield/Arbitrage): Easy-to-follow methods for capitalizing on arbitrage opportunities with Ergo.
 - [**Off-Chain Earnings: Expanding Your Ergo Investments**](/en/Guides/yield/off-chain): Strategies for augmenting your Ergo holdings through off-chain avenues.
 
-For detailed information on each strategy and platform, refer to [Ergo's documentation](https://docs.ergoplatform.com/eco/earning-yield-on-ergo/).
 
 # Ergo Ecosystem Projects
 
 Please note that the information in these tables may change as projects and platforms evolve. Always do your own research and stay updated on the latest developments before making any investment decisions.
 
-Discuss with the community 
 
-- [DeFi Degen Megathread](https://www.ergoforum.org/t/defi-degen-megathread/4258)
-- [Liquidity Provision: Yield Opportunities and Experiences](https://www.ergoforum.org/t/liquidity-provision-yield-opportunities-and-experiences/4220)
 
 ## Financial Instruments
 
@@ -94,35 +90,7 @@ Off-Chain platforms in the Ergo ecosystem offer users the opportunity to earn fe
 | Oracles | [GORT](#GORT) | Live | Run an Gold Oracle and recieve GORT! | 
 | Off-Chain Bots | Rosen Watcher | Live | Become a watcher! | 
 
-## Yield Analytics
 
-### Rosen Watcher Rewards
-
-The following data represents an example of the reward distribution for a single watcher on the Rosen network within the period from January 22, 2024, to February 3, 2024. The actual rewards can vary based on the traffic on the bridge.
-
-- ERG Watcher Rewards:  100.217 ERG
-- ADA Watcher Rewards:  25.37 ADA
-- Total Rewards (ERG + ADA):  125.59
-
-Please note that these figures are subject to change and depend on the actual bridge traffic. The more traffic the bridge has, the higher the potential rewards for the watcher.
-
-For more information on becoming a watcher, please see [this page](https://docs.ergoplatform.com/eco/rosen/rosen-watcher/)
-
-### Duckpools
-
-Some early analytics pulled up by Luivatra shows a [8% return in ~5 months](https://twitter.com/Luivatra/status/1750497386856665115) on SigUSD deposited in duckpools. 
-
-### GORT
-
-Operating an oracle within the Ergo ecosystem offers a unique opportunity to earn approximately 24 GORT (Gold Oracle Reward Tokens) per day as rewards. These tokens serve as a testament to your contribution to the network and can be a source of passive income.
-
-To join the existing oracle pool, you will need Gold Pool Oracle Tokens. These tokens are periodically made available through [auctions](https://ergoauctions.org/artwork/78263e5613557e129f075f0a241287e09c4204be76ad53d77d6e7feebcccb001), providing a fair and transparent process for potential participants.
-
-But why should you consider owning GORT? Here are a few compelling reasons:
-
-- **Support the Ergo Gold Cooperative:** By owning GORT, you are directly supporting the gold price feed for the Ergo Gold Cooperative. This is a crucial component of the ecosystem, and your contribution helps ensure its accuracy and reliability.
-- **Earn Passive Income:** The GORT you earn from running an oracle can be a source of passive income. As the network grows and the value of GORT increases, this income can potentially become a significant part of your earnings.
-- **Provide ERG/GORT Liquidity:** Owning GORT also allows you to provide liquidity to the ERG/GORT pair. This not only helps stabilize the market but also earns you additional income from transaction fees.
 # Centralized Exchange Offerings
 
 In the context of our project, which was launched with fairness at its core, there isn't a single entity or individual that holds a significant portion of the total supply. This means that we don't have the option to rely on a single market-maker to ensure liquidity in the market. However, this doesn't pose a barrier to achieving a truly liquid market. In fact, it opens up the opportunity for a more decentralized and robust liquidity provision. By encouraging a large number of participants to contribute smaller amounts, we can collectively create a market that is not only liquid but also more resilient and less susceptible to manipulation. This approach aligns with our commitment to decentralization and community participation.
@@ -146,6 +114,11 @@ In the context of our project, which was launched with fairness at its core, the
 
 
 In addition to the previously mentioned methods, you can explore other opportunities to generate yield with your Ergo holdings. Check out the [Blog: Earning ERG in 2023 and Beyond](https://ergoplatform.org/en/blog/Earning-ERG-in-2023-and-Beyond/) and here are a few more options:
+
+Discuss with the community 
+
+- [DeFi Degen Megathread](https://www.ergoforum.org/t/defi-degen-megathread/4258)
+- [Liquidity Provision: Yield Opportunities and Experiences](https://www.ergoforum.org/t/liquidity-provision-yield-opportunities-and-experiences/4220)
 
 ### NFT Marketplace
 
