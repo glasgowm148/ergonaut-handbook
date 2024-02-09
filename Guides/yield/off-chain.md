@@ -2,7 +2,7 @@
 title: 6. Off-Chain Earnings on Ergo
 description: 
 published: true
-date: 2024-02-09T13:11:21.292Z
+date: 2024-02-09T13:12:45.124Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:23:39.428Z
@@ -17,13 +17,12 @@ Off-chain earnings refer to rewards earned through activities that don't directl
 
 ### Watchers on the Rosen Bridge
 
-The Rosen Bridge, Ergo's solution for interoperability with other blockchains like Cardano, relies on watchers to maintain its security and efficiency. Watchers are responsible for monitoring and validating cross-chain transactions, ensuring they are correctly processed and recorded.
+Watchers are integral to Rosen Bridge, serving as cross-chain oracles. They observe and report deposit events on their network to Ergo, contributing to the network's security and expansion.
+
 
 #### How to Become a Watcher:
-1. **Technical Setup**: Running a watcher node requires a stable internet connection and a machine that meets the technical specifications detailed in Ergo's documentation.
-   
-2. **Stake ERG**: Some watcher roles may require staking ERG as a form of security deposit or to participate in reward distribution mechanisms.
-   
+1. **Technical Setup**: Running a watcher node requires a stable internet connection and a machine that meets the technical specifications detailed in [Ergo's documentation](https://docs.ergoplatform.com/eco/rosen/rosen-watcher/).
+2. **Provide Collateral**: Each instance requires 800 ERG and 30,000 RSN as collateral. This collateral is fully redeemable and the amount is adjustable.
 3. **Monitor Transactions**: Watchers need to continuously monitor cross-chain transactions, validating them according to the protocol's rules.
 
 4. **Earn Rewards**: Successful watchers earn rewards in ERG, distributed according to their contributions to the network's security and operation.
