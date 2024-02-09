@@ -2,7 +2,7 @@
 title: 2. Arbitrage Made Easy
 description: 
 published: true
-date: 2024-02-09T12:33:58.365Z
+date: 2024-02-09T12:36:39.455Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:14:13.357Z
@@ -65,3 +65,7 @@ Join the [Ergo Yield Telegram](https://t.me/ErgoYield)
 ## Conclusion
 
 Arbitrage in the Ergo ecosystem, complemented by strategies involving centralized exchanges, presents a balanced approach to maximizing your trading profits. By staying informed, prepared, and responsive, you can navigate the complexities of both DeFi and CEX landscapes to your advantage. Happy trading, and may your arbitrage endeavors across Ergo and beyond be prosperous!
+
+## Resources
+
+- [KuPyBot](https://github.com/FlyingPig69/KuPyBot): A simply buy low sell high bot written in python using Kucoins python library.
