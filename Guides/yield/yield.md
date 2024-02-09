@@ -1,8 +1,8 @@
 ---
-title: Yield and Liquidity Provisions
+title: 3. Yield and Liquidity Provisions
 description: 
 published: true
-date: 2024-02-09T12:33:11.542Z
+date: 2024-02-09T12:34:15.796Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:22:10.429Z
