@@ -2,7 +2,7 @@
 title: 6. Off-Chain Earnings on Ergo
 description: 
 published: true
-date: 2024-02-09T13:14:20.084Z
+date: 2024-02-09T13:15:44.939Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:23:39.428Z
@@ -11,29 +11,39 @@ dateCreated: 2024-02-08T15:23:39.428Z
 
 The Ergo ecosystem, known for its innovative approach to decentralized finance (DeFi), offers numerous opportunities for users to earn rewards not only through on-chain activities but also through off-chain mechanisms. This guide explores how participants can leverage off-chain earnings through roles such as watchers, oracles, and bots, contributing to the ecosystem's health while securing passive income.
 
-## Understanding Off-Chain Earnings
 
-Off-chain earnings refer to rewards earned through activities that don't directly involve the blockchain's ledger but are crucial for supporting its infrastructure and services. These roles often require a combination of technical setup, monitoring, and sometimes, an upfront investment of resources or tokens.
-
-### Watchers on the Rosen Bridge
+## Watchers on Rosen Bridge
 
 Watchers are integral to Rosen Bridge, serving as cross-chain oracles. They observe and report deposit events on their network to Ergo, contributing to the network's security and expansion.
 
 
-#### How to Become a Watcher:
+
+### How to Become a Watcher:
 1. **Technical Setup**: Running a watcher node requires a stable internet connection and a machine that meets the technical specifications detailed in [Ergo's documentation](https://docs.ergoplatform.com/eco/rosen/rosen-watcher/) for more information.
 2. **Provide Collateral**: Each instance requires 800 ERG and 30,000 RSN as collateral. This collateral is fully redeemable and the amount is adjustable.
 3. **Monitor Transactions**: Watchers need to continuously monitor cross-chain transactions, validating them according to the protocol's rules.
 4. **Earn Rewards**: Successful watchers earn rewards in ERG, distributed according to their contributions to the network's security and operation.
 
-### Oracles: Fueling Ergo's Smart Contracts
+### Estimated Rewards 
+The following data represents an example of the reward distribution for a single watcher on the Rosen network within the period from January 22, 2024, to February 3, 2024. The actual rewards can vary based on the traffic on the bridge.
+
+- ERG Watcher Rewards:  100.217 ERG
+- ADA Watcher Rewards:  25.37 ADA
+- Total Rewards (ERG + ADA):  125.59
+
+Please note that these figures are subject to change and depend on the actual bridge traffic. The more traffic the bridge has, the higher the potential rewards for the watcher.
+
+
+## Oracles: Fueling Ergo's Smart Contracts
 
 Oracles play a pivotal role in DeFi by providing external data (e.g., price feeds) to smart contracts. Ergo's ecosystem utilizes oracles for various applications, including stablecoins and financial instruments.
 
-#### Becoming an Oracle Provider:
-
 > To join the existing oracle pool, you will need a *Gold Pool Oracle Token*. These tokens are periodically made available through [auctions](https://ergoauctions.org/artwork/78263e5613557e129f075f0a241287e09c4204be76ad53d77d6e7feebcccb001), providing a fair and transparent process for potential participants.
 {.is-warning}
+
+
+#### Becoming an Oracle Provider:
+
 
 
 1. **Data Source Integration**: Oracle providers need to integrate reliable data sources with the Ergo blockchain, ensuring the information is accurate and timely.
@@ -42,7 +52,7 @@ Oracles play a pivotal role in DeFi by providing external data (e.g., price feed
 4. **Compensation**: Oracle providers are typically compensated by the users or contracts that rely on their data feeds, often through transaction fees or subscriptions. Operating an Gold oracle nets approximately 24 GORT (Gold Oracle Reward Tokens) per day. 
 
 
-### Bots for Automated Trading and Order Matching
+## Bots for Automated Trading and Order Matching
 
 Automated bots can be used for various off-chain tasks, including trading and order matching. These bots interact with decentralized exchanges (DEXs) and other platforms to execute trades or match orders based on predefined criteria.
 
