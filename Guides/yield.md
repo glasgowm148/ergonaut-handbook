@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-09T13:28:47.431Z
+date: 2024-02-09T14:23:35.297Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -10,21 +10,15 @@ dateCreated: 2021-12-30T10:43:30.389Z
 
 # Earning Yield on Ergo
 
-Ergo is a Proof of Work (PoW) blockchain, which means it doesn't support staking like Proof of Stake (PoS) blockchains. However, you can still earn yield on your ERG holdings by participating in liquidity pools, dApp tokenization, trading bots, lending platforms, and other innovative mechanisms.
+Despite being a Proof of Work (PoW) blockchain, Ergo offers several avenues for holders to earn yield on their ERG assets without traditional staking. From participating in liquidity pools to exploring dApp tokenization, trading bots, lending platforms, and more, Ergo provides a diverse ecosystem for yield generation.
 
-To maximize yield opportunities on Ergo, individuals and entities can leverage various strategies and platforms within the Ergo ecosystem, catering to different risk tolerances, market views, and financial goals. Here are a few hypothetical personas and how they might use Ergo and its DApps to execute their strategies:
+## Explore Yield-Generating Strategies on Ergo
 
-- **Conservative Lender:** Utilizes lending platforms like **Duckpools** for steady, passive income.
-	- [Leveraging Lending Pools](/en/Guides/yield/lending)
-- **Speculative Trader:** Engages in options trading on **SigmaO** and liquidity pools on **Spectrum**.
-	- [Yielding Success: How to Farm and Provide Liquidity on Ergo](/en/Guides/yield/yield)
-- **DeFi Enthusiast:** Participates in DegFi projects like **Hodlcoin** or **Auction Coin** and farms tokens on **Spectrum Finance**.
-	- [Diving into DegFi: High-Risk and High-Reward Strategies on Ergo](/en/Guides/yield/DegFi) 
-- **Passive Income Seeker:** Stakes ERG on platforms like **ErgoPad** or becomes a watcher on the Rosen network.
-- **Market Maker:** Acts as a market maker on low-liquidity exchanges like **SevenSeas** and **TradeOgre**.
-	- [Arbitrage Made Easy](/en/Guides/yield/Arbitrage)
-- **Ecosystem Validator:** Operates a GORT oracle or becomes a Rosen Watcher to maintain critical infrastructure components.
-	- [Off-Chain Earnings on Ergo](/en/Guides/yield/off-chain)
+- [**Maximizing Returns with Lending Pools**](/en/Guides/yield/lending): A comprehensive guide to leveraging Ergo's lending platforms for earning interest on your digital assets.
+- [**Yield Farming & Liquidity Provision on Ergo**](/en/Guides/yield/yield): Step-by-step strategies for farming yield and providing liquidity in the Ergo ecosystem.
+- [**Navigating High-Risk Rewards with DegFi on Ergo**](/en/Guides/yield/DegFi): Insights into DeFi's high-risk, high-reward opportunities available on Ergo.
+- [**Simplifying Arbitrage on Ergo**](/en/Guides/yield/Arbitrage): Easy-to-follow methods for capitalizing on arbitrage opportunities within the Ergo network.
+- [**Off-Chain Earnings: Expanding Your Ergo Investments**](/en/Guides/yield/off-chain): Strategies for augmenting your Ergo holdings through off-chain avenues.
 
 For detailed information on each strategy and platform, refer to [Ergo's documentation](https://docs.ergoplatform.com/eco/earning-yield-on-ergo/).
 
@@ -179,21 +173,7 @@ Remember, each investment opportunity carries its own risks, and it's essential 
 
 # Appendix
 
-## [Spectrum](/en/dApps/ergodex) 
 
-![screenshot_2022-01-09_at_18.13.43.png](/screenshot_2022-01-09_at_18.13.43.png)
-There is currently one decentralized exchange on Ergo, [Spectrum](https://app.spectrum.fi/). There are several pools on Spectrum with a visible estimated asset annual percentage yield (APY) that can be used for yield harvesting.
-
-Your redeemable amount changes as the pool gets used and a percentage of the swaps are earned by the pool. You get a percent of the pool fee proportional to your stake.
-
-- SigRSV/ERG pair
-	-	Minimises impermanent loss (both coins move in the same direction price-wise)
-- SigUSD/ERG
-	- High IL risk, however a solid investment if you want to earn fee's off your nest-egg. SigUSD has has never came close to loosing it's peg. 
-
-**Community**
-- [SpectrumLabs Telegram](https://t.me/spectrum_labs_community)
-- [SigmaUSD Telegram](https://t.me/SigmaUSD)
 
 
 
