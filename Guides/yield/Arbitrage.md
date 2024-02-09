@@ -1,8 +1,8 @@
 ---
-title: Arbitrage Made Easy
+title: 2. Arbitrage Made Easy
 description: 
 published: true
-date: 2024-02-09T12:32:08.091Z
+date: 2024-02-09T12:33:58.365Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:14:13.357Z
