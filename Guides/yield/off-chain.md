@@ -2,7 +2,7 @@
 title: 6. Off-Chain Earnings on Ergo
 description: 
 published: true
-date: 2024-02-09T12:34:59.083Z
+date: 2024-02-09T13:11:21.292Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:23:39.428Z
@@ -33,13 +33,16 @@ The Rosen Bridge, Ergo's solution for interoperability with other blockchains li
 Oracles play a pivotal role in DeFi by providing external data (e.g., price feeds) to smart contracts. Ergo's ecosystem utilizes oracles for various applications, including stablecoins and financial instruments.
 
 #### Becoming an Oracle Provider:
+
+> To join the existing oracle pool, you will need a *Gold Pool Oracle Token*. These tokens are periodically made available through [auctions](https://ergoauctions.org/artwork/78263e5613557e129f075f0a241287e09c4204be76ad53d77d6e7feebcccb001), providing a fair and transparent process for potential participants.
+{.is-warning}
+
+
 1. **Data Source Integration**: Oracle providers need to integrate reliable data sources with the Ergo blockchain, ensuring the information is accurate and timely.
-   
 2. **Deploy Oracle Contracts**: Deploy smart contracts on Ergo that will serve as the interface for your data feeds.
-   
 3. **Maintain Reliability**: Continuous monitoring and maintenance are required to ensure your oracle remains reliable and trustworthy.
-   
-4. **Compensation**: Oracle providers are typically compensated by the users or contracts that rely on their data feeds, often through transaction fees or subscriptions.
+4. **Compensation**: Oracle providers are typically compensated by the users or contracts that rely on their data feeds, often through transaction fees or subscriptions. Operating an Gold oracle nets approximately 24 GORT (Gold Oracle Reward Tokens) per day. 
+
 
 ### Bots for Automated Trading and Order Matching
 
