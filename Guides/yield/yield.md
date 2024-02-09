@@ -1,8 +1,8 @@
 ---
-title: 3. Yield and Liquidity
+title: Yielding Success: How to Farm and Provide Liquidity on Ergo
 description: 
 published: true
-date: 2024-02-09T14:31:47.389Z
+date: 2024-02-09T15:26:32.320Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:22:10.429Z
