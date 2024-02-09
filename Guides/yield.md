@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-09T14:35:40.988Z
+date: 2024-02-09T14:36:22.289Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -14,10 +14,10 @@ Despite being a Proof of Work (PoW) blockchain, Ergo offers several avenues for 
 
 ## Explore Yield-Generating Strategies on Ergo
 1. [Know Your Assumptions!](/en/Guides/yield/kya):  This guide outlines practical measures that allow you to make well-informed decisions, leveraging the strengths and community-driven insights of the Ergo platform.
+- [**Simplifying Arbitrage on Ergo**](/en/Guides/yield/Arbitrage): Easy-to-follow methods for capitalizing on arbitrage opportunities with Ergo.
 - [**Maximizing Returns with Lending Pools**](/en/Guides/yield/lending): A comprehensive guide to leveraging Ergo's lending platforms for earning interest on your digital assets.
 - [**Yield Farming & Liquidity Provision on Ergo**](/en/Guides/yield/yield): Step-by-step strategies for farming yield and providing liquidity in the Ergo ecosystem.
 - [**Navigating High-Risk Rewards with DegFi on Ergo**](/en/Guides/yield/DegFi): Insights into DeFi's high-risk, high-reward opportunities available on Ergo.
-- [**Simplifying Arbitrage on Ergo**](/en/Guides/yield/Arbitrage): Easy-to-follow methods for capitalizing on arbitrage opportunities with Ergo.
 - [**Off-Chain Earnings: Expanding Your Ergo Investments**](/en/Guides/yield/off-chain): Strategies for augmenting your Ergo holdings through off-chain avenues.
 
 
