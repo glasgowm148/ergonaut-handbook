@@ -1,14 +1,13 @@
 ---
-title: Off-Chain Earnings on Ergo: Watchers, Oracles, and Bots
+title: Off-Chain Earnings on Ergo
 description: 
 published: true
-date: 2024-02-08T15:23:39.428Z
+date: 2024-02-09T12:32:41.333Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:23:39.428Z
 ---
 
-# Off-Chain Earnings on Ergo: Watchers, Oracles, and Bots
 
 The Ergo ecosystem, known for its innovative approach to decentralized finance (DeFi), offers numerous opportunities for users to earn rewards not only through on-chain activities but also through off-chain mechanisms. This guide explores how participants can leverage off-chain earnings through roles such as watchers, oracles, and bots, contributing to the ecosystem's health while securing passive income.
 
