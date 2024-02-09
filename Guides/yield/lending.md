@@ -1,8 +1,8 @@
 ---
-title: Leveraging Lending Pools
+title: 4. Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-08T16:53:29.945Z
+date: 2024-02-09T12:34:33.770Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
