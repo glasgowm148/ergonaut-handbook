@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-09T14:36:22.289Z
+date: 2024-02-09T14:45:08.076Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -18,7 +18,13 @@ Despite being a Proof of Work (PoW) blockchain, Ergo offers several avenues for 
 - [**Maximizing Returns with Lending Pools**](/en/Guides/yield/lending): A comprehensive guide to leveraging Ergo's lending platforms for earning interest on your digital assets.
 - [**Yield Farming & Liquidity Provision on Ergo**](/en/Guides/yield/yield): Step-by-step strategies for farming yield and providing liquidity in the Ergo ecosystem.
 - [**Navigating High-Risk Rewards with DegFi on Ergo**](/en/Guides/yield/DegFi): Insights into DeFi's high-risk, high-reward opportunities available on Ergo.
+- [**Options Trading on Ergo: A Deep Dive**](/en/Guides/yield/SigmaO): Unlock the potential of options trading on Ergo with SigmaO, offering a detailed walkthrough of using this innovative platform to hedge your investments or speculate with potential high returns.
+- [**Capitalizing on Airdrops, Token Sales, and IDOs**](/en/Guides/yield/TokenEvents): This guide provides insights into leveraging airdrops, participating in token sales, and initial DEX offerings (IDOs) within the Ergo ecosystem for potential gains.
+- [**Exploring the Ergo Auction House: NFTs and Token Sales**](/en/Guides/yield/ErgoAuctionHouse): Navigate the vibrant world of the Ergo Auction House, where NFT and token sales unfold, offering unique opportunities for collectors and investors alike.
+
 - [**Off-Chain Earnings: Expanding Your Ergo Investments**](/en/Guides/yield/off-chain): Strategies for augmenting your Ergo holdings through off-chain avenues.
+
+
 
 
 # Ergo Ecosystem Projects
