@@ -2,7 +2,7 @@
 title: 6. Off-Chain Earnings on Ergo
 description: 
 published: true
-date: 2024-02-09T13:12:45.124Z
+date: 2024-02-09T13:14:20.084Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:23:39.428Z
@@ -21,10 +21,9 @@ Watchers are integral to Rosen Bridge, serving as cross-chain oracles. They obse
 
 
 #### How to Become a Watcher:
-1. **Technical Setup**: Running a watcher node requires a stable internet connection and a machine that meets the technical specifications detailed in [Ergo's documentation](https://docs.ergoplatform.com/eco/rosen/rosen-watcher/).
+1. **Technical Setup**: Running a watcher node requires a stable internet connection and a machine that meets the technical specifications detailed in [Ergo's documentation](https://docs.ergoplatform.com/eco/rosen/rosen-watcher/) for more information.
 2. **Provide Collateral**: Each instance requires 800 ERG and 30,000 RSN as collateral. This collateral is fully redeemable and the amount is adjustable.
 3. **Monitor Transactions**: Watchers need to continuously monitor cross-chain transactions, validating them according to the protocol's rules.
-
 4. **Earn Rewards**: Successful watchers earn rewards in ERG, distributed according to their contributions to the network's security and operation.
 
 ### Oracles: Fueling Ergo's Smart Contracts
