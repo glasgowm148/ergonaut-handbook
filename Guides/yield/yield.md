@@ -2,7 +2,7 @@
 title: Yielding Success: How to Farm and Provide Liquidity on Ergo
 description: 
 published: true
-date: 2024-02-08T15:22:10.429Z
+date: 2024-02-09T12:29:16.381Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:22:10.429Z
@@ -55,3 +55,8 @@ SigmaUSD is Ergo's stablecoin, and alongside SigmaRSV, it offers a unique opport
 ## Conclusion
 
 Yield farming and liquidity provision on Ergo offer exciting avenues for earning passive income in the DeFi space. By leveraging platforms like Spectrum Finance and engaging with innovative mechanisms like SigmaUSD, users can participate in the growth of Ergo's DeFi ecosystem. Remember, success in yield farming and liquidity provision requires a combination of diligent research, strategic planning, and ongoing engagement with the community. Happy farming!
+
+## Resources
+
+- [LP Pool Calculation](https://docs.google.com/spreadsheets/d/15DNZ6ocTO5J3pKr2hGUR1NPVk5CD34Uq2zkKigAlFIs/edit?usp=sharing
+) spreadsheet. 
