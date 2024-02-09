@@ -2,7 +2,7 @@
 title: Options Trading on Ergo: Unveiling SigmaO's Potential
 description: 
 published: true
-date: 2024-02-09T16:05:03.782Z
+date: 2024-02-09T16:05:48.611Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T14:48:07.115Z
@@ -39,8 +39,6 @@ SigmaO is an innovative platform that brings the complex world of options tradin
 **Twitter:** [SigmaOptions](https://twitter.com/SigmaOptions)
 **Explainer Article:** [SigmaO Options on Ergo Tokens](https://medium.com/@Haileypdll/sigmao-options-on-ergo-tokens-18adaa098416)
 **GitHub:** [ThierryM1212/sigmao](https://github.com/ThierryM1212/sigmao)
-**Options Trading Basics Course:** [Tastytrade](https://learn.tastylive.com/courses/beginner-options-course)
-**Trading Strategies Resource:** [Options Playbook](https://www.optionsplaybook.com/option-strategies/)
 
 ## How Does SigmaO Work?
 
