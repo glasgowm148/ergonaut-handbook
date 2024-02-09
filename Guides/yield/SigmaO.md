@@ -2,7 +2,7 @@
 title: Options Trading on Ergo: Unveiling SigmaO's Potential
 description: 
 published: true
-date: 2024-02-09T16:05:48.611Z
+date: 2024-02-09T16:08:46.929Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T14:48:07.115Z
@@ -39,13 +39,10 @@ SigmaO is an innovative platform that brings the complex world of options tradin
 **Twitter:** [SigmaOptions](https://twitter.com/SigmaOptions)
 **Explainer Article:** [SigmaO Options on Ergo Tokens](https://medium.com/@Haileypdll/sigmao-options-on-ergo-tokens-18adaa098416)
 **GitHub:** [ThierryM1212/sigmao](https://github.com/ThierryM1212/sigmao)
-
+**SigmaO Telegram chat:** [t.me/SigmaOpts](https://t.me/SigmaOpts)
 ## How Does SigmaO Work?
 
 SigmaO plans to make options trading accessible by providing a platform where users can easily create and trade options. The platform utilizes Ergo's smart contracts to ensure transactions are secure and efficient. Pricing mechanisms for these options are derived from Spectrum Liquidity Pools, providing transparent and fair valuation.
-
-**Exact Formula:** The exact computation implemented in Ergoscript and JS can be found [here](https://github.com/ThierryM1212/SigmaO/blob/main/front-end/src/utils/utils.js#L98) and [here](https://github.com/ThierryM1212/SigmaO/blob/main/contract/Option_Sell.es#L107).
-
 ## The Benefits of Trading Options on SigmaO
 
 - **Hedging**: SigmaO offers traders the ability to hedge their investments, protecting against market volatility and minimizing potential losses.
@@ -70,6 +67,9 @@ Sigma'O is a decentralized application (dApp) built on the Ergo blockchain. It w
 - **Share Size**: Represents the number of tokens granted per option.
 - **Strike Price**: The price of the underlying asset when exercising the option.
 - **Maturity Date**: The end of the grant of the option.
+
+**Exact Formula:** The exact computation implemented in Ergoscript and JS can be found [here](https://github.com/ThierryM1212/SigmaO/blob/main/front-end/src/utils/utils.js#L98) and [here](https://github.com/ThierryM1212/SigmaO/blob/main/contract/Option_Sell.es#L107).
+
 
 **Minting Option Tokens:**
 
