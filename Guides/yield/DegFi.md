@@ -1,8 +1,8 @@
 ---
-title: 5. Diving into DegFi
+title: Diving into DegFi: High-Risk and High-Reward Strategies on Ergo
 description: 
 published: true
-date: 2024-02-09T12:34:46.744Z
+date: 2024-02-09T14:37:03.354Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:20:40.596Z
