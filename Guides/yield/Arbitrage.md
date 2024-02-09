@@ -1,8 +1,8 @@
 ---
-title: 2. Arbitrage Made Easy
+title: Simplifying Arbitrage on Ergo
 description: 
 published: true
-date: 2024-02-09T13:18:11.060Z
+date: 2024-02-09T15:26:01.650Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:14:13.357Z
