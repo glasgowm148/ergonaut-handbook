@@ -2,7 +2,7 @@
 title: 3. Yield and Liquidity
 description: 
 published: true
-date: 2024-02-09T12:35:25.114Z
+date: 2024-02-09T12:38:15.045Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:22:10.429Z
@@ -58,5 +58,7 @@ Yield farming and liquidity provision on Ergo offer exciting avenues for earning
 
 ## Resources
 
+- [ERGODEX GAINS CALCULATOR FOR LIQUIDITY PROVIDERS](https://docs.google.com/spreadsheets/d/15FKyiacsEkdez3Lw6rno9LqtuAZTDb_8XwM3riTIUUU/edit#gid=52194767)
+- [sigmaUSD_V5](https://docs.google.com/spreadsheets/d/1hZVQ3AUASTmaY7xY68CRmGIX5a5PuBYx/edit#gid=319699227)
 - [LP Pool Calculation](https://docs.google.com/spreadsheets/d/15DNZ6ocTO5J3pKr2hGUR1NPVk5CD34Uq2zkKigAlFIs/edit?usp=sharing
 ) spreadsheet. 
