@@ -2,7 +2,7 @@
 title: 6. Off-Chain Earnings on Ergo
 description: 
 published: true
-date: 2024-02-09T13:15:44.939Z
+date: 2024-02-09T13:19:33.907Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:23:39.428Z
@@ -34,11 +34,11 @@ The following data represents an example of the reward distribution for a single
 Please note that these figures are subject to change and depend on the actual bridge traffic. The more traffic the bridge has, the higher the potential rewards for the watcher.
 
 
-## Oracles: Fueling Ergo's Smart Contracts
+## Oracles: Empowering Ergo's dApps
 
 Oracles play a pivotal role in DeFi by providing external data (e.g., price feeds) to smart contracts. Ergo's ecosystem utilizes oracles for various applications, including stablecoins and financial instruments.
 
-> To join the existing oracle pool, you will need a *Gold Pool Oracle Token*. These tokens are periodically made available through [auctions](https://ergoauctions.org/artwork/78263e5613557e129f075f0a241287e09c4204be76ad53d77d6e7feebcccb001), providing a fair and transparent process for potential participants.
+> To join the existing Gold oracle pool, you will need a *Gold Pool Oracle Token*. These tokens are periodically made available through [auctions](https://ergoauctions.org/artwork/78263e5613557e129f075f0a241287e09c4204be76ad53d77d6e7feebcccb001), providing a fair and transparent process for potential participants.
 {.is-warning}
 
 
