@@ -1,8 +1,8 @@
 ---
-title: Know Your Assumptions
+title: 1. Know Your Assumptions
 description: 
 published: true
-date: 2024-02-08T16:49:48.526Z
+date: 2024-02-09T12:33:41.421Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T16:49:48.526Z
