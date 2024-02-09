@@ -2,7 +2,7 @@
 title: 6. Off-Chain Earnings on Ergo
 description: 
 published: true
-date: 2024-02-09T13:19:33.907Z
+date: 2024-02-09T13:20:53.243Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:23:39.428Z
@@ -54,25 +54,45 @@ Oracles play a pivotal role in DeFi by providing external data (e.g., price feed
 
 ## Bots for Automated Trading and Order Matching
 
-Automated bots can be used for various off-chain tasks, including trading and order matching. These bots interact with decentralized exchanges (DEXs) and other platforms to execute trades or match orders based on predefined criteria.
+Decentralized grid trading is a powerful concept implemented on the Ergo blockchain. It allows for automated trading orders while ensuring users maintain control over their funds. Two notable implementations of this concept are the Off the Grid and Machina Finance projects.
 
-#### Setting Up Trading Bots:
-1. **Choose Your Strategy**: Decide on the trading strategy your bot will execute, such as market making, arbitrage, or trend following.
-   
-2. **Develop or Deploy the Bot**: You can develop your own bot using Ergo's APIs or deploy existing bot software compatible with Ergo's ecosystem.
-   
-3. **Run and Monitor**: Launch your bot and continuously monitor its performance and the market conditions. Adjust your strategy as needed.
+Learn more about grid trading on [Investopedia](https://www.investopedia.com/terms/g/grid-trading.asp).
 
-4. **Earnings**: Bots can earn profits from successful trades or by providing liquidity and earning transaction fees.
+
+### Off the Grid
+
+Off the Grid is a decentralized application (dApp) that builds on the grid trading contract proposed by kushti. It includes an execution bot/batcher for automating order matching without user interaction.
+
+Explore the project [here](https://github.com/Telefragged/off-the-grid/)
+
+
+### Features
+
+Off the Grid provides the following features:
+
+- Utilizes a contract that permits spending only if orders are correctly filled or with the order owner's signature. This contract can manage multiple orders simultaneously.
+- Employs off-chain bots/batchers to monitor grid orders and match them against other liquidity sources.
+- Currently, it matches orders against Spectrum Automated Market Makers (AMMs). However, it can be extended to other sources like the SigUSD bank.
+- Supports trading of ERG against any token, with profits accumulated in ERGs.
+- Enables grid orders to profit from repeated execution of the same orders, while bot operators benefit from arbitraging the price difference between the liquidity source and grid orders.
+
+This concept was introduced by `@kushti` on [ergoforum](https://www.ergoforum.org/t/decentralized-grid-trading-on-ergo/).
+
+> "We can do decentralized grid trading on Ergo (which is automatically compatible with existing DEXes, such as Spectrum LP pools and babel fees). Grid trading is a good way to make profits from volatility, and many CEXes offer it."
+
+Check out the [first decentralized grid order transaction on Ergo](https://twitter.com/chepurnoy/status/1582657292834861057).
+
+### Machina Finance
+
+Machina Finance is another project on Ergo that is exploring the concept of grid trading. It is developing a decentralized exchange (DEX) that utilizes grid order contracts.
+
+Explore the project [here](../eco/machina-finance.md)
 
 ## Best Practices for Off-Chain Earnings
 
-- **Stay Informed**: Keep up-to-date with the latest developments in the Ergo ecosystem, including updates to protocols and new opportunities for off-chain earnings.
-  
+- **Stay Informed**: Keep up-to-date with the latest developments in the Ergo ecosystem, including updates to protocols and new opportunities for off-chain earnings.  
 - **Security**: Ensure your setup is secure, especially if you are handling private keys or large amounts of ERG.
-  
 - **Community Engagement**: Join Ergo's community forums and channels. Sharing insights and collaborating with others can enhance your strategies and impact.
-
 - **Compliance**: Be aware of and comply with any legal or regulatory requirements applicable to your activities, especially when dealing with financial data or assets.
 
 ## Conclusion
