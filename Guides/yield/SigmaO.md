@@ -2,7 +2,7 @@
 title: Options Trading on Ergo: Unveiling SigmaO's Potential
 description: 
 published: true
-date: 2024-02-09T14:48:07.115Z
+date: 2024-02-09T14:51:36.815Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T14:48:07.115Z
@@ -15,6 +15,8 @@ Ergo's decentralized finance (DeFi) landscape is about to expand with the introd
 ## What is SigmaO?
 
 SigmaO is an innovative platform that brings the complex world of options trading to the Ergo blockchain, allowing users to engage in call and put options across a variety of Ergo EIP-4 tokens. With a focus on accessibility and security, SigmaO is poised to become a key player in Ergo's DeFi offerings.
+
+- [Sigma'O | Ergo Summit - Cypherpunk Finance](https://www.youtube.com/watch?v=a1f0F24Ld9w) 
 
 ## How Does SigmaO Work?
 
