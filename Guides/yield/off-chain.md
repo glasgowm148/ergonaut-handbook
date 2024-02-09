@@ -1,8 +1,8 @@
 ---
-title: 6. Off-Chain Earnings on Ergo
+title: Off-Chain Earnings on Ergo
 description: 
 published: true
-date: 2024-02-09T13:20:53.243Z
+date: 2024-02-09T14:55:32.128Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:23:39.428Z
