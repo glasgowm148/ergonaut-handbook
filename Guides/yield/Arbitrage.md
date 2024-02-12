@@ -2,7 +2,7 @@
 title: Simplifying Arbitrage on Ergo
 description: 
 published: true
-date: 2024-02-12T14:22:22.001Z
+date: 2024-02-12T23:28:34.062Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:14:13.357Z
@@ -31,7 +31,20 @@ Start by researching various cryptocurrency exchanges where Ergo (ERG) is listed
 > View all exchanges that list Ergo on [the ergo site](https://ergoplatform.org/en/get-erg/#Exchanges) or in the markets section on [CoinGecko](https://www.coingecko.com/en/coins/ergo#markets). You can also use [Crux Finance](https://cruxfinance.io/) and [TapTools.io](https://www.taptools.io/) to explore ecosystem system charts. 
 {.is-info}
 
+When visiting the Erg markets section on LiveCoinWatch, sorting by liquidity allows you to identify where trading opportunities lie based on the available volume with minimal price impact, typically within a 2% range. For instance, CoinEx displays a trading volume of approximately $3k, yet only $147 worth of Ergo is readily available within this liquidity threshold. Further examination of the market-depth graph reveals a mere $42 listed on the sell side.
+
+![Market Depth Screenshot](/screenshot_2024-02-12_at_23.13.51.png)
+
+Analyzing the ERG/USDC chart, notable spikes are evident occurring within a few days, resulting in fluctuations of 500-800 ERG and a price difference of $0.06 per ERG.
+
+![ERG/USDC Chart Screenshot](/screenshot_2024-02-12_at_23.15.50.png)
+
+One strategy to capitalize on these fluctuations is to manually provide liquidity to the order book, anticipating potential large purchases that could absorb existing orders. Alternatively, automating the process of adjusting positions between the ERG/USDC and ERG/USDT pairs can help mitigate risks associated with such price movements.
+
+This example highlights just one of many potential trading opportunities, including arbitraging native token pairs between nonKYC.io and Spectrum DEX.
+
 You can also utilize monitoring bots such as [epbot](https://t.me/ergoportbot) to automate the process and receive timely alerts on price differentials across exchanges.
+
 
 
 ### Step 2: Analyze Price Differences and Calculate Potential Profits
