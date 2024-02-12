@@ -2,7 +2,7 @@
 title: Yielding Success: How to Farm and Provide Liquidity on Ergo
 description: 
 published: true
-date: 2024-02-12T14:48:08.403Z
+date: 2024-02-12T14:49:19.476Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:22:10.429Z
@@ -85,6 +85,8 @@ Yield farming and liquidity provision on Ergo offer exciting avenues for earning
 - [sigmaUSD_V5](https://docs.google.com/spreadsheets/d/1hZVQ3AUASTmaY7xY68CRmGIX5a5PuBYx/edit#gid=319699227)
 - [LP Pool Calculation](https://docs.google.com/spreadsheets/d/15DNZ6ocTO5J3pKr2hGUR1NPVk5CD34Uq2zkKigAlFIs/edit?usp=sharing
 ) spreadsheet.
+- [Liquidity Provision: Yield Opportunities and Experiences](https://www.ergoforum.org/t/liquidity-provision-yield-opportunities-and-experiences/4220)
+
 
 ### Automated Market Makers (AMMs)
 
