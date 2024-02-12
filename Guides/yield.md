@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-12T14:52:41.359Z
+date: 2024-02-12T14:56:05.001Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -13,7 +13,8 @@ dateCreated: 2021-12-30T10:43:30.389Z
 Despite being a Proof of Work (PoW) blockchain, Ergo offers several avenues for holders to earn yield on their ERG assets without traditional staking. From participating in liquidity pools to exploring dApp tokenization, trading bots, lending platforms, and more, Ergo provides a diverse ecosystem for yield generation.
 
 ## Explore Yield-Generating Strategies on Ergo
-1. [Know Your Assumptions!](/en/Guides/yield/kya):  This guide outlines practical measures that allow you to make well-informed decisions, leveraging the strengths and community-driven insights of the Ergo platform.
+1. [Getting Started](/en/Guides/yield/getting-started): Get setup with some ERG in a wallet. 
+2. [Know Your Assumptions!](/en/Guides/yield/kya):  This guide outlines practical measures that allow you to make well-informed decisions, leveraging the strengths and community-driven insights of the Ergo platform.
 
 - [**Simplifying Arbitrage on Ergo**](/en/Guides/yield/Arbitrage)
 - [**Maximizing Returns with Lending Pools**](/en/Guides/yield/lending)
