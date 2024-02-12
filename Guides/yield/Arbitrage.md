@@ -2,7 +2,7 @@
 title: Simplifying Arbitrage on Ergo
 description: 
 published: true
-date: 2024-02-09T15:26:01.650Z
+date: 2024-02-12T14:22:22.001Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:14:13.357Z
@@ -70,16 +70,3 @@ Engage with both the Ergo community and communities surrounding centralized exch
 
 Join the [Ergo Yield Telegram](https://t.me/ErgoYield)
 
-
-## Resources
-
-- [KuPyBot](https://github.com/FlyingPig69/KuPyBot): A simply buy low sell high bot written in python using Kucoins python library.
-
-
-### Leveraging CEX Tools and Programs
-
-- **Trading Bots:** Automate your arbitrage strategies using grid bots available on KuCoin and Huobi. These bots can buy low and sell high within predefined price ranges, perfect for capturing short-term price movements.
-
-- **AMM Pools:** Participate in automated market maker pools available on CoinEx and nonkyc to earn transaction fees while waiting for arbitrage opportunities. These pools can offer passive income and serve as a hedge against market volatility.
-
-- **Gate.io Lending** Utilize lending services to earn interest on your holdings. This strategy can be particularly effective when you're waiting for arbitrage opportunities to materialize.
