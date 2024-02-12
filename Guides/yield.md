@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-12T14:50:42.886Z
+date: 2024-02-12T14:52:41.359Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -96,31 +96,6 @@ Off-Chain platforms in the Ergo ecosystem offer users the opportunity to earn fe
 | Off-Chain Bots | [Duckpools](/en/dApps/duckpools) | Live | Earn fees for matching orders | 
 | Oracles | [GORT](#GORT) | Live | Run an Gold Oracle and recieve GORT! | 
 | Off-Chain Bots | Rosen Watcher | Live | Become a watcher! | 
-
-
-# Centralized Exchange Offerings
-
-In the context of our project, which was launched with fairness at its core, there isn't a single entity or individual that holds a significant portion of the total supply. This means that we don't have the option to rely on a single market-maker to ensure liquidity in the market. However, this doesn't pose a barrier to achieving a truly liquid market. In fact, it opens up the opportunity for a more decentralized and robust liquidity provision. By encouraging a large number of participants to contribute smaller amounts, we can collectively create a market that is not only liquid but also more resilient and less susceptible to manipulation. This approach aligns with our commitment to decentralization and community participation.
-
-
-| Opportunity          | Type               | Platform / Project                                                                                             | Status                | Description                               |
-|----------------------|--------------------|----------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------|
-| KuCoin Grid Bots     | Trading Bot        | KuCoin                                                                                                         | Live                  | Grid trading bot for buying and selling  |
-| CoinEx AMM Pool      | Exchange, LP       | CoinEx                                                                                                         | Live                  | Liquidity providing in AMM pool          |
-| Swop.fi AMM Pool     | Exchange, LP       | Swop.fi                                                                                                        | Live                  | Liquidity providing in AMM pool          |
-| Gate.io Lending      | Exchange, Lending  | Gate.io                                                                                                        | Live                  | Lending assets for interest              |
-| Huobi Trading Bots   | Trading Bot        | Huobi                                                                                                          | Live                  | Various trading bots for automation      |
-| Custom Bots          | Trading Bot        | [shrimpy.io](https://www.shrimpy.io/), [3commas](https://3commas.io/)                                          | Live                  | Custom trading bot solutions             |
-| Huobi Earn           | Short-term Offer   | [Huobi Earn](https://account.huobi.com/support/en-us/detail/44916960013648)                                    | Live                  | Interest-earning on deposits             |
-| Low-Liquidity Exchanges           | Long-term Offer   | SevenSeas, TradeOgre, etc                                    | Live                  | Profit off exchanges with low liquidity by acting as a Market Maker             |
-
-## Technical Analysis Resources
-- [Trading chat](https://t.me/ErgoTrading)
-- [Alternative to TradingView](https://www.livecoinwatch.com/price/Ergo-ERG)
-- [Bitcoin Stats](https://www.lopp.net/bitcoin-information/statistics-metrics.html)
-- [Chainanalysis](https://markets.chainalysis.com)
-- [The Pattern Site](http://thepatternsite.com/barrb.html)
-
 
 ## Inactive
 
