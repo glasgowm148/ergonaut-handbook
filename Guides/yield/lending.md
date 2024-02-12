@@ -2,7 +2,7 @@
 title: Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-09T15:26:16.158Z
+date: 2024-02-12T14:45:42.064Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
@@ -21,17 +21,22 @@ Lending pools are a fundamental component of DeFi, allowing users to lend out th
 3. **Interest Payments**: Borrowers pay interest on their loans, which is then distributed to the lenders as a return on their investment.
 4. **Smart Contracts Manage the Pool**: All transactions, including deposits, withdrawals, and interest payments, are governed by smart contracts, ensuring transparency and security.
 
+## Best Practices for Lending Pool Participation
+- **Understand the Terms**: Before depositing, make sure you fully understand the pool's terms, including how interest is calculated, payment frequency, and any applicable fees.
+- **Diversify**: Don't put all your crypto in one pool. Spread your investments across different assets and platforms to reduce risk.
+- **Stay Informed**: Keep up with developments in the Ergo ecosystem and the broader crypto market. Changes can affect interest rates and lending pool dynamics.
+
+
 
 ## Duckpools: A Prime Example
 
 [Duckpools](https://www.youtube.com/@duckpools_io) is one of the leading platforms for lending pools within the Ergo ecosystem. It offers a straightforward way for users to earn interest on their ERG and other supported cryptocurrencies. Here's how to get started:
 
-1. **Create a Wallet**: If you haven't already, create a cryptocurrency wallet that supports Ergo. Make sure it's secure and that you control the private keys.
-2. **Acquire ERG**: Purchase ERG from an exchange, if you don't already own it. You'll need ERG not just for lending but also to pay transaction fees on the Ergo network.
-3. **Deposit into Duckpools**: Follow the instructions on Duckpools to deposit your ERG into one of the lending pools. Ensure you understand the terms, including the interest rate and any fees.
+1. **Create a Wallet** & **Acquire ERG**: See [Getting Started](/en/Guides/yield/getting-started) for more details
+2. **Deposit into Duckpools**: Follow the instructions on Duckpools to deposit your ERG into one of the lending pools. Ensure you understand the terms, including the interest rate and any fees.
 	- [Step-by-Step Guide: How to Lend on duckpools.io](https://www.youtube.com/watch?v=xnzZEpcdCuA)
 	- [Step-by-Step Guide: How to Borrow on duckpools.io](https://www.youtube.com/watch?v=dN4VqQJAyuk)
-4. **Earn Interest**: Once your ERG is in the pool, you'll start earning interest. The rate can vary based on demand for loans and the amount of ERG in the pool.
+3. **Earn Interest**: Once your ERG is in the pool, you'll start earning interest. The rate can vary based on demand for loans and the amount of ERG in the pool.
 	- Some early analytics pulled up by Luivatra shows a [8% return in ~5 months](https://twitter.com/Luivatra/status/1750497386856665115) on SigUSD deposited in duckpools. 
 
 
@@ -75,16 +80,17 @@ The process is streamlined through the creation of smart contracts for each loan
 
 SigmaFi's reliance on the extended unspent transaction output (eUTXO) model provides a secure foundation for its operations. The platform's open-source contracts invite further innovation, allowing developers to build upon or integrate these mechanisms into new or existing DeFi applications, enriching the Ergo DeFi landscape.
 
-### In Summary
-
 SigmaFi offers a functional solution for P2P lending within the Ergo blockchain, simplifying the process for both borrowers and lenders. Its approach to over-collateralization, combined with the security of smart contracts, makes it a practical tool for users looking to engage in direct financial transactions.
 
 Stay updated and join the community on [Telegram](https://t.me/sigmafi) for more information and support.
 
-## Best Practices for Lending Pool Participation
-- **Understand the Terms**: Before depositing, make sure you fully understand the pool's terms, including how interest is calculated, payment frequency, and any applicable fees.
-- **Diversify**: Don't put all your crypto in one pool. Spread your investments across different assets and platforms to reduce risk.
-- **Stay Informed**: Keep up with developments in the Ergo ecosystem and the broader crypto market. Changes can affect interest rates and lending pool dynamics.
+## EXLE
+
+[EXLE](https://exle.io)  represents a groundbreaking shift in the lending industry, utilizing blockchain technology to establish a global, peer-to-peer lending platform. Governed by a decentralized autonomous organization (DAO), it aims to democratize lending by providing universal access, irrespective of business size, geographic location, or the prevailing interest rates determined by major financial institutions. This initiative directly addresses the challenges in the current financial system, which often fails to offer small loans at fair rates, especially impacting the unbanked and those in rural areas. By eliminating intermediaries, EXLE lowers borrowing costs, making smaller loans feasible and opening up a vast, previously inaccessible market of borrowers.
+
+The platform emphasizes secure, trustless transactions and privacy, allowing individuals to effectively "be their own bank." This innovation not only benefits borrowers by offering more accessible loan options but also reduces operational and underwriting costs, leveraging widespread cell phone access to bring financial services to users' fingertips.
+
+EXLE's token sale is facilitated by Ergopad, with the token distribution structured to support various stakeholders, including Ergopad stakers, the core team, and a reserve for the DAO, among others. Starting as 'Ergo-Lend' during the ErgoHack 2 hackathon, EXLE's journey reflects a committed effort to address the financial barriers faced by billions of unbanked individuals worldwide through key stages of implementation outlined in its roadmap.
 
 ## Conclusion
 
