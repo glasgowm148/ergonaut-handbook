@@ -2,7 +2,7 @@
 title: Yielding Success: How to Farm and Provide Liquidity on Ergo
 description: 
 published: true
-date: 2024-02-09T15:26:32.320Z
+date: 2024-02-12T14:23:18.836Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:22:10.429Z
@@ -65,13 +65,24 @@ SigmaUSD, along with SigmaRSV, offers varied strategies for yield farming within
 These strategies offer a spectrum of risk and reward scenarios in the Ergo ecosystem, catering to different investor profiles. From stable, pegged assets to more volatile pairings, SigmaUSD and SigmaRSV provide versatile tools for yield farming and potential arbitrage, making them an integral part of a diversified crypto portfolio.
 
 
+### Leveraging CEX Tools and Programs
+
+- **Trading Bots:** Automate your arbitrage strategies using grid bots available on KuCoin and Huobi. These bots can buy low and sell high within predefined price ranges, perfect for capturing short-term price movements.
+
+- **AMM Pools:** Participate in automated market maker pools available on CoinEx and nonkyc to earn transaction fees while waiting for arbitrage opportunities. These pools can offer passive income and serve as a hedge against market volatility.
+
+- **Gate.io Lending** Utilize lending services to earn interest on your holdings.
+
+
 ## Conclusion
 
 Yield farming and liquidity provision on Ergo offer exciting avenues for earning passive income in the DeFi space. By leveraging platforms like Spectrum Finance and engaging with innovative mechanisms like SigmaUSD, users can participate in the growth of Ergo's DeFi ecosystem. Remember, success in yield farming and liquidity provision requires a combination of diligent research, strategic planning, and ongoing engagement with the community. Happy farming!
 
 ## Resources
 
+- [KuPyBot](https://github.com/FlyingPig69/KuPyBot): A simply buy low sell high bot written in python using Kucoins python library.
 - [ERGODEX GAINS CALCULATOR FOR LIQUIDITY PROVIDERS](https://docs.google.com/spreadsheets/d/15FKyiacsEkdez3Lw6rno9LqtuAZTDb_8XwM3riTIUUU/edit#gid=52194767)
 - [sigmaUSD_V5](https://docs.google.com/spreadsheets/d/1hZVQ3AUASTmaY7xY68CRmGIX5a5PuBYx/edit#gid=319699227)
 - [LP Pool Calculation](https://docs.google.com/spreadsheets/d/15DNZ6ocTO5J3pKr2hGUR1NPVk5CD34Uq2zkKigAlFIs/edit?usp=sharing
-) spreadsheet. 
+) spreadsheet.
+
