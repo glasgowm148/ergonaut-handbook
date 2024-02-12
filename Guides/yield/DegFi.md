@@ -2,7 +2,7 @@
 title: Diving into DegFi: High-Risk and High-Reward Strategies on Ergo
 description: 
 published: true
-date: 2024-02-09T14:37:16.182Z
+date: 2024-02-12T14:49:44.473Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:20:40.596Z
@@ -53,3 +53,7 @@ SigmaUSD is Ergo's stablecoin, and while it might not seem like a candidate for 
 ## Conclusion
 
 Diving into DegFi on Ergo offers a frontier of high-risk, high-reward opportunities that appeal to those looking for speculative investments and innovative financial mechanisms. While the potential for significant returns exists, it's accompanied by the possibility of equally significant losses. By approaching DegFi with caution, thorough research, and an informed strategy, participants can navigate this volatile yet exciting segment of the Ergo ecosystem.
+
+## Resources
+
+- [DeFi Degen Megathread](https://www.ergoforum.org/t/defi-degen-megathread/4258)
