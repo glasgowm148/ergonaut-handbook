@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-12T14:47:44.119Z
+date: 2024-02-12T14:50:42.886Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -114,56 +114,12 @@ In the context of our project, which was launched with fairness at its core, the
 | Huobi Earn           | Short-term Offer   | [Huobi Earn](https://account.huobi.com/support/en-us/detail/44916960013648)                                    | Live                  | Interest-earning on deposits             |
 | Low-Liquidity Exchanges           | Long-term Offer   | SevenSeas, TradeOgre, etc                                    | Live                  | Profit off exchanges with low liquidity by acting as a Market Maker             |
 
-
-
-
-# More
-
-
-In addition to the previously mentioned methods, you can explore other opportunities to generate yield with your Ergo holdings. Check out the [Blog: Earning ERG in 2023 and Beyond](https://ergoplatform.org/en/blog/Earning-ERG-in-2023-and-Beyond/) and here are a few more options:
-
-Discuss with the community 
-
-- [DeFi Degen Megathread](https://www.ergoforum.org/t/defi-degen-megathread/4258)
-- [Liquidity Provision: Yield Opportunities and Experiences](https://www.ergoforum.org/t/liquidity-provision-yield-opportunities-and-experiences/4220)
-
-### NFT Marketplace
-
-As the NFT space continues to grow, consider investing in Ergo-based NFTs as a way to potentially generate returns. Look out for emerging NFT marketplaces on the Ergo platform where you can buy, sell, and trade digital art and collectibles.
-
-### Governance Tokens
-
-Some Ergo-based projects may issue governance tokens, allowing holders to participate in the decision-making process for platform development. By staking or voting with these tokens, you could potentially earn rewards or gain access to exclusive features and benefits.
-
-### Arbitrage Opportunities
-
-Monitor various exchanges and DeFi platforms for price discrepancies in ERG and other tokens. Exploit these arbitrage opportunities to generate profits from the price differences. Be mindful of transaction fees and potential risks when employing this strategy.
-
-### Airdrops
-
-Stay up-to-date with the latest developments in the Ergo ecosystem, as new projects may offer airdrops to ERG holders or early adopters. By participating in these airdrops, you can receive free tokens, which could increase in value over time.
-
-### Token Sales
-
-Participate in Initial Decentralized Token Offerings (IDOs) on platforms like ErgoPad. By investing early in promising projects, you can potentially benefit from the growth in value of these tokens.
-
-Remember, each investment opportunity carries its own risks, and it's essential to conduct thorough research before participating. Stay informed about the latest news and updates in the Ergo ecosystem to make well-informed decisions and maximize your potential returns.
-
-
-
-# Appendix
-
-
-
-
-
 ## Technical Analysis Resources
 - [Trading chat](https://t.me/ErgoTrading)
 - [Alternative to TradingView](https://www.livecoinwatch.com/price/Ergo-ERG)
 - [Bitcoin Stats](https://www.lopp.net/bitcoin-information/statistics-metrics.html)
 - [Chainanalysis](https://markets.chainalysis.com)
 - [The Pattern Site](http://thepatternsite.com/barrb.html)
-
 
 
 ## Inactive
