@@ -2,7 +2,7 @@
 title: Yielding Success: How to Farm and Provide Liquidity on Ergo
 description: 
 published: true
-date: 2024-02-13T00:28:17.581Z
+date: 2024-02-13T08:44:26.526Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:22:10.429Z
@@ -88,6 +88,9 @@ In the context of our project, which was launched with fairness at its core, the
 | Custom Bots          | Trading Bot        | [shrimpy.io](https://www.shrimpy.io/), [3commas](https://3commas.io/)                                          | Live                  | Custom trading bot solutions             |
 | Low-Liquidity Exchanges           | Long-term Offer   | SevenSeas, TradeOgre, etc                                    | Live                  | Profit off exchanges with low liquidity by acting as a Market Maker (See [Arbitrage](/en/Guides/yield/Arbitrage))             |
 
+## Run your own grid bots
+
+There are several tools that let you run grid bots within and outwith Ergo, see [This section in the Off Chain Article](https://ergonaut.space/en/Guides/yield/off-chain#bots-for-automated-trading-and-order-matching) for more information. 
 
 
 ## Conclusion
@@ -96,8 +99,7 @@ Yield farming and liquidity provision on Ergo offer exciting avenues for earning
 
 ## Resources
 
-- [HummingBot: Using Dashboard to Deploy and Backtest Strategies](https://hummingbot.org/academy-content/using-dashboard-to-deploy-and-backtest-strategies/)
-- [KuPyBot](https://github.com/FlyingPig69/KuPyBot): A simply buy low sell high bot written in python using Kucoins python library.
+
 - [ERGODEX GAINS CALCULATOR FOR LIQUIDITY PROVIDERS](https://docs.google.com/spreadsheets/d/15FKyiacsEkdez3Lw6rno9LqtuAZTDb_8XwM3riTIUUU/edit#gid=52194767)
 - [sigmaUSD_V5](https://docs.google.com/spreadsheets/d/1hZVQ3AUASTmaY7xY68CRmGIX5a5PuBYx/edit#gid=319699227)
 - [LP Pool Calculation](https://docs.google.com/spreadsheets/d/15DNZ6ocTO5J3pKr2hGUR1NPVk5CD34Uq2zkKigAlFIs/edit?usp=sharing
