@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-13T19:54:34.639Z
+date: 2024-02-13T19:57:43.249Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -23,7 +23,7 @@ Despite being a Proof of Work (PoW) blockchain, Ergo offers several avenues for 
 - [**Options Trading on Ergo: A Deep Dive**](/en/Guides/yield/SigmaO)
 - [**Capitalizing on Airdrops, Token Sales, and IDOs**](/en/Guides/yield/TokenEvents)
 - [**Exploring the Ergo Auction House: NFTs and Token Sales**](/en/Guides/yield/ErgoAuctionHouse)
-- [**Mastering the Game: A Comprehensive Overview of Gaming and Gambling on Ergo**](/en/Guides/yield/gaming)
+- [**Mastering the Game: A Comprehensive Overview of Gaming on Ergo**](/en/Guides/yield/gaming)
 - [**Off-Chain Earnings: Expanding Your Ergo Investments**](/en/Guides/yield/off-chain)
 
 
