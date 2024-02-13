@@ -2,7 +2,7 @@
 title: Join The Stable Order and Earn Gluon: A Call to Action in DeFi
 description: 
 published: true
-date: 2024-02-13T13:47:44.399Z
+date: 2024-02-13T13:48:35.595Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-13T13:47:44.399Z
@@ -13,7 +13,7 @@ dateCreated: 2024-02-13T13:47:44.399Z
 
 Gluons are the cornerstone of The Stable Order, crafted to incentivize active engagement in our shared quests. Distinguished from traditional cryptocurrencies, Gluons are not mined or bought but are earned through valuable contributions to The Stable Order's projects. This ensures that every Gluon holder is not just an investor but a committed ally in our pursuit of a stable future.
 
-For an in-depth exploration of our principles and initiatives, visit the [Djed documentation](https://docs.djed.one/about-us/the-stable-order).
+For an in-depth exploration of Djed and The Stable Order's principles and initiatives, visit the [Djed documentation](https://docs.djed.one/about-us/the-stable-order).
 
 ## Do They Have Any Value?
 
