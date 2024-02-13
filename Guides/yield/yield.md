@@ -2,7 +2,7 @@
 title: Yielding Success: How to Farm and Provide Liquidity on Ergo
 description: 
 published: true
-date: 2024-02-12T14:52:31.659Z
+date: 2024-02-13T00:28:17.581Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:22:10.429Z
@@ -96,6 +96,7 @@ Yield farming and liquidity provision on Ergo offer exciting avenues for earning
 
 ## Resources
 
+- [HummingBot: Using Dashboard to Deploy and Backtest Strategies](https://hummingbot.org/academy-content/using-dashboard-to-deploy-and-backtest-strategies/)
 - [KuPyBot](https://github.com/FlyingPig69/KuPyBot): A simply buy low sell high bot written in python using Kucoins python library.
 - [ERGODEX GAINS CALCULATOR FOR LIQUIDITY PROVIDERS](https://docs.google.com/spreadsheets/d/15FKyiacsEkdez3Lw6rno9LqtuAZTDb_8XwM3riTIUUU/edit#gid=52194767)
 - [sigmaUSD_V5](https://docs.google.com/spreadsheets/d/1hZVQ3AUASTmaY7xY68CRmGIX5a5PuBYx/edit#gid=319699227)
