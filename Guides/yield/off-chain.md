@@ -2,7 +2,7 @@
 title: Off-Chain Earnings on Ergo
 description: 
 published: true
-date: 2024-02-09T14:55:32.128Z
+date: 2024-02-13T08:45:22.082Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:23:39.428Z
@@ -65,9 +65,6 @@ Off the Grid is a decentralized application (dApp) that builds on the grid tradi
 
 Explore the project [here](https://github.com/Telefragged/off-the-grid/)
 
-
-### Features
-
 Off the Grid provides the following features:
 
 - Utilizes a contract that permits spending only if orders are correctly filled or with the order owner's signature. This contract can manage multiple orders simultaneously.
@@ -87,6 +84,11 @@ Check out the [first decentralized grid order transaction on Ergo](https://twitt
 Machina Finance is another project on Ergo that is exploring the concept of grid trading. It is developing a decentralized exchange (DEX) that utilizes grid order contracts.
 
 Explore the project [here](../eco/machina-finance.md)
+
+### Other bots
+
+- [HummingBot: Using Dashboard to Deploy and Backtest Strategies](https://hummingbot.org/academy-content/using-dashboard-to-deploy-and-backtest-strategies/)
+- [KuPyBot](https://github.com/FlyingPig69/KuPyBot): A simply buy low sell high bot written in python using Kucoins python library.
 
 ## Best Practices for Off-Chain Earnings
 
