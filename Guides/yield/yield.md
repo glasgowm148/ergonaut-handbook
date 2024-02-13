@@ -2,7 +2,7 @@
 title: Yielding Success: How to Farm and Provide Liquidity on Ergo
 description: 
 published: true
-date: 2024-02-13T08:44:26.526Z
+date: 2024-02-13T14:25:32.455Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:22:10.429Z
@@ -17,6 +17,10 @@ In the dynamic world of decentralized finance (DeFi), yield farming and liquidit
 **Yield Farming** involves staking or lending your cryptocurrency assets in a DeFi protocol to earn interest or rewards. This strategy leverages the power of smart contracts to automate earning opportunities in various DeFi projects.
 
 **Liquidity Provision**, on the other hand, requires users to deposit their assets into a liquidity pool. These pools fuel marketplace activities, enabling trading and lending on decentralized exchanges (DEXs) and lending platforms. In return for contributing to these pools, providers earn transaction fees generated from the trades or loans facilitated by their liquidity.
+
+> Join qx() as he takes you through a one shot no edits no nonsense take on how to swap, provide LP, and farm on Spectrum in [Spectrum - Swap, LP, Farm | One Take Series](https://www.youtube.com/watch?v=oNVJJcsE90M)
+{.is-info}
+
 
 
 
