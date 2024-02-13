@@ -2,7 +2,7 @@
 title: Yield
 description: Earn Yield with your ERG
 published: true
-date: 2024-02-13T00:46:53.444Z
+date: 2024-02-13T00:48:03.239Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-30T10:43:30.389Z
@@ -53,7 +53,7 @@ DegFi, short for "Degenerate Finance," is a subcategory within the broader DeFi 
 | Type | Platform / Project | Status | Description | Resources
 |---|---|---|---|---|
 | Short/Long* | [SigmaUSD](https://ergonaut.space/en/dApps/SigmaUSD) | Live | Secure stability or bet on utilisation. | [Buying Guide](https://www.youtube.com/watch?v=Vvh51GwAfyc&embeds_referring_euri=https%3A%2F%2Fergotutorials.com%2F&source_ve_path=MjM4NTE&feature=emb_title)
-| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | The longer you hodl your ERGs, the more you earn| [Concept Video](https://www.youtube.com/watch?v=D7L7h7EOIow)
+| Degen | [Hodlcoin](https://app.hodlcoin.co.in/) | Live | A game where the longer you hodl your ERGs, in comparison with other hodlers, the more you earn. | [Concept Video](https://www.youtube.com/watch?v=D7L7h7EOIow)
 | Degen | [Hodlbox](https://hodlbox.xyz/) | Live | Lock your ERG until $20 | [docs](https://docs.ergoplatform.com/events/ergohack/#hodlbox), [interview](https://www.youtube.com/watch?v=U5-zIxg4M6k)
 | Degen | [Auction Coin](https://auctioncoin.app/) | Live | Tokens are periodically emitted through auctions | [Telegram](https://t.me/auction_coin)
 | Gambling | [Grand Gambit](https://www.grandgambit.io/) | Live | (Centralised) Gambling Platform | [Telegram](https://t.me/GrandGambit)
