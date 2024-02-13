@@ -2,7 +2,7 @@
 title: Diving into DegFi: High-Risk and High-Reward Strategies on Ergo
 description: 
 published: true
-date: 2024-02-12T14:49:44.473Z
+date: 2024-02-13T14:28:33.224Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:20:40.596Z
@@ -28,7 +28,11 @@ SigmaUSD is Ergo's stablecoin, and while it might not seem like a candidate for 
 
 ### Hodlcoin
 
-[Hodlcoin](https://app.hodlcoin.co.in/) positions itself as a transparent Ponzi scheme, where users can "invest" ERG with the understanding that returns are generated entirely from the deposits of future participants. While highly risky, it's an example of the extreme end of DegFi, where the transparency of blockchain technology is used to create a game-theoretic financial experiment.
+[Hodlcoin](https://app.hodlcoin.co.in/) positions itself as *the dual* of a Ponzi scheme, where users can "invest" ERG with the understanding that returns are generated entirely from the deposits of future participants. While highly risky, it's an example of the extreme end of DegFi, where the transparency of blockchain technology is used to create a game-theoretic financial experiment.
+
+> Join qx() as he takes you through a one shot no edits no nonsense take on Ergo's hodlCoin!
+ [Ergo hodlCoin | One Take Series](https://www.youtube.com/watch?v=zbD1O-LNXBU) on YouTube.
+{.is-info}
 
 ### Hodlbox
 
@@ -37,6 +41,10 @@ SigmaUSD is Ergo's stablecoin, and while it might not seem like a candidate for 
 ### Auction Coin
 
 [Auction Coin](https://auctioncoin.app/) introduces a novel mechanism where tokens are emitted through a continuous auction process. Participants can speculate on the future value of these tokens, engaging in a dynamic market that offers both high risk and potential for high reward.
+
+> Join qx() as he takes you through a one shot no edits no nonsense take on Ergo's Auction Coin Protocol in [Ergo Auction Coin | One Take Series](https://www.youtube.com/watch?v=1nY9-YQ9o_g) on YouTube.
+{.is-info}
+
 
 ## Strategies for Engaging with DegFi on Ergo
 
