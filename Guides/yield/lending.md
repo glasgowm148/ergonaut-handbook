@@ -2,7 +2,7 @@
 title: Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-13T09:15:12.649Z
+date: 2024-02-13T09:19:23.987Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
@@ -38,16 +38,21 @@ Lending pools are a fundamental component of DeFi, allowing users to lend out th
 	- [Step-by-Step Guide: How to Borrow on duckpools.io](https://www.youtube.com/watch?v=dN4VqQJAyuk)
 3. **Earn Interest**: Once your ERG is in the pool, you'll start earning interest. The rate can vary based on demand for loans and the amount of ERG in the pool.
 	- Some early analytics pulled up by Luivatra shows a [8% return in ~5 months](https://twitter.com/Luivatra/status/1750497386856665115) on SigUSD deposited in duckpools. 
-
 ### Cross-chain opportunities
 
-Bridge your $ADA via Rosen Bridge and earn competitive yields
 
-![screenshot_2024-02-12_at_23.40.32.png](/screenshot_2024-02-12_at_23.40.32.png)
 
-Lend ERG and use it as collateral to borrow $ADA now on [app.liqwid.finance](https://app.liqwid.finance)
+<figure>
+  <img src="/screenshot_2024-02-12_at_23.40.32.png" alt="Bridge your $ADA via Rosen Bridge and earn competitive yields" width="100%">
+  <figcaption>Bridge your $ADA via Rosen Bridge and earn competitive yields.</figcaption>
+</figure>
 
-![gfhkbnsxoaaepq9.jpeg](/gfhkbnsxoaaepq9.jpeg)
+
+<figure>
+  <img src="/gfhkbnsxoaaepq9.jpeg" alt="Lend ERG and use it as collateral to borrow $ADA now on app.liqwid.finance" width="100%">
+  <figcaption>Lend ERG and use it as collateral to borrow $ADA now on app.liqwid.finance.</figcaption>
+</figure>
+
 
 ### Risks and Considerations
 
