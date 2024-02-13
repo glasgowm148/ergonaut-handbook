@@ -2,7 +2,7 @@
 title: Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-13T09:20:00.400Z
+date: 2024-02-13T14:32:28.928Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
@@ -67,6 +67,10 @@ SigmaFi introduces a straightforward approach to lending and borrowing within th
 At its core, SigmaFi allows any Ergo wallet holder to initiate loan requests or respond to existing ones. The platform's mechanism is built around the concept of over-collateralization — a necessary feature considering the inherent volatility of cryptocurrencies. For example, securing a loan of 100 SigUSD typically requires collateral in ERG worth 150 SigUSD, offering protection to lenders against market downturns.
 
 The process is streamlined through the creation of smart contracts for each loan, detailing terms and securely holding collateral until the loan is repaid or the term expires. This setup not only ensures the safety of the funds but also the clarity and enforceability of the loan terms.
+
+
+> [Join qx() on YouTube](https://www.youtube.com/watch?v=rvBrHq6lER8&t=13s) as he shows you step by step how to move from Coinbase - Kucoin - Spectrum Finance - Sigmafi!
+{.is-info}
 
 ### Practical Uses of SigmaFi
 
