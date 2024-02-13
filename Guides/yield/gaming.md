@@ -1,14 +1,14 @@
 ---
-title: Gaming
+title: Explore the Cyberverse
 description: 
 published: true
-date: 2024-02-13T16:17:55.407Z
+date: 2024-02-13T19:51:53.886Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-13T16:17:55.407Z
 ---
 
-## CyberVerse
+## Explore the Cyberverse
 
 CyberVerse is a pixelated, open-world multiplayer game on the Ergo Blockchain. In its beta version, players can explore, play mini-games, and earn CYPX tokens. By owning a CyberCitizen NFT, players get access to Cyberia city to enjoy activities like DJing, car racing, gardening, and more, earning tokens in the process. They can also collect daily rewards, complete quests, level up, and personalize NFT apartments. Features include a global chat, leaderboards, and loot boxes. There is even a recently released multiplayer version!
 
