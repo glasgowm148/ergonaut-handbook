@@ -2,7 +2,7 @@
 title: Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-13T09:19:23.987Z
+date: 2024-02-13T09:20:00.400Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
@@ -41,18 +41,13 @@ Lending pools are a fundamental component of DeFi, allowing users to lend out th
 ### Cross-chain opportunities
 
 
+Bridge your $ADA via Rosen Bridge and earn competitive yields
 
-<figure>
-  <img src="/screenshot_2024-02-12_at_23.40.32.png" alt="Bridge your $ADA via Rosen Bridge and earn competitive yields" width="100%">
-  <figcaption>Bridge your $ADA via Rosen Bridge and earn competitive yields.</figcaption>
-</figure>
+![screenshot_2024-02-12_at_23.40.32.png](/screenshot_2024-02-12_at_23.40.32.png)
 
+Lend ERG and use it as collateral to borrow $ADA now on [app.liqwid.finance](https://app.liqwid.finance)
 
-<figure>
-  <img src="/gfhkbnsxoaaepq9.jpeg" alt="Lend ERG and use it as collateral to borrow $ADA now on app.liqwid.finance" width="100%">
-  <figcaption>Lend ERG and use it as collateral to borrow $ADA now on app.liqwid.finance.</figcaption>
-</figure>
-
+![gfhkbnsxoaaepq9.jpeg](/gfhkbnsxoaaepq9.jpeg)
 
 ### Risks and Considerations
 
