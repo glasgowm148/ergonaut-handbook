@@ -2,7 +2,7 @@
 title: 2. Getting Started
 description: 
 published: true
-date: 2024-02-12T14:38:09.744Z
+date: 2024-02-13T14:30:53.955Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-12T14:28:37.900Z
@@ -17,6 +17,11 @@ Here's how to begin your journey:
 ## Step 1: Acquire Some ERG
 
 To participate in the Ergo ecosystem, you'll need ERG, the platform's native cryptocurrency. ERG is used for transaction fees, smart contract execution, and as a medium of exchange within the ecosystem. There are a few ways to get your hands on ERG:
+
+> [Join qx() on YouTube](https://youtube.com/watch?v=QxnOlzS9y8Q) as he takes you through a one shot no edits no nonsense take on how to obtain ERG from fiat in the USA in under five minutes.
+{.is-info}
+
+
 
 - **Mining**: If you have the technical know-how and the necessary hardware, mining ERG can be a rewarding way to earn the cryptocurrency. Ergo's mining algorithm is designed to be ASIC-resistant, making it accessible to individuals with GPU rigs. [Start Mining!](https://docs.ergoplatform.com/mining/setup/join/)
 - **Using Swap Services**: Services like SimpleSwap.io and SwapSpace.io offer a hassle-free way to exchange other cryptocurrencies for ERG without the need to create an account. These platforms are ideal for quick and easy transactions. You can send these platform USDT and it will be swapped for ERG and sent to your wallet directly.
