@@ -2,7 +2,7 @@
 title: Options Trading on Ergo: Unveiling SigmaO's Potential
 description: 
 published: true
-date: 2024-02-13T14:24:33.620Z
+date: 2024-02-13T19:53:16.678Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T14:48:07.115Z
@@ -44,7 +44,9 @@ SigmaO is an innovative platform that brings the complex world of options tradin
 
 SigmaO plans to make options trading accessible by providing a platform where users can easily create and trade options. The platform utilizes Ergo's smart contracts to ensure transactions are secure and efficient. Pricing mechanisms for these options are derived from Spectrum Liquidity Pools, providing transparent and fair valuation.
 
-- [WATCH: Options Trading on Ergo | One Take Series](https://youtube.com/watch?v=XoJT7aR7o4w): Join qx() as he takes you through a one shot no edits no nonsense take on how to do options trading on Ergo! This is only for buying call options, more videos to come with how to execute the call, and create calls and puts. 
+> Join qx() as he takes you through a [one shot no edits no nonsense take on how to do options trading on Ergo!](](https://youtube.com/watch?v=XoJT7aR7o4w)) This is only for buying call options, more videos to come with how to execute the call, and create calls and puts. 
+{.is-success}
+
 
 ## The Benefits of Trading Options on SigmaO
 
