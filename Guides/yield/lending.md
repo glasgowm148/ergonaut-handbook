@@ -2,7 +2,7 @@
 title: Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-12T23:41:04.463Z
+date: 2024-02-13T09:15:12.649Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
@@ -45,6 +45,9 @@ Bridge your $ADA via Rosen Bridge and earn competitive yields
 
 ![screenshot_2024-02-12_at_23.40.32.png](/screenshot_2024-02-12_at_23.40.32.png)
 
+Lend ERG and use it as collateral to borrow $ADA now on [app.liqwid.finance](https://app.liqwid.finance)
+
+![gfhkbnsxoaaepq9.jpeg](/gfhkbnsxoaaepq9.jpeg)
 
 ### Risks and Considerations
 
