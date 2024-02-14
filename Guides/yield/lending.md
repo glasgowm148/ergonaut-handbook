@@ -2,7 +2,7 @@
 title: Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-13T14:32:28.928Z
+date: 2024-02-14T09:35:35.152Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
@@ -25,6 +25,9 @@ Lending pools are a fundamental component of DeFi, allowing users to lend out th
 - **Understand the Terms**: Before depositing, make sure you fully understand the pool's terms, including how interest is calculated, payment frequency, and any applicable fees.
 - **Diversify**: Don't put all your crypto in one pool. Spread your investments across different assets and platforms to reduce risk.
 - **Stay Informed**: Keep up with developments in the Ergo ecosystem and the broader crypto market. Changes can affect interest rates and lending pool dynamics.
+
+> Each pool has their own settings, currently the pools are using a 30% liquidation penalty. So for example, if you borrow $100 of assets and your collateral drops below the 125% ratio (i.e. has a value < $125) then the collateral is liquidated. 100 + (30% * 25) of the collateral is directed to the pool = $107.50, and the borrower receives $17.50 of the liquidated assets.
+{.is-info}
 
 
 
