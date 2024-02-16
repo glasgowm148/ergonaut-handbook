@@ -2,7 +2,7 @@
 title: Leveraging Lending Pools
 description: 
 published: true
-date: 2024-02-14T09:35:35.152Z
+date: 2024-02-16T10:44:33.945Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T15:17:51.789Z
@@ -41,6 +41,11 @@ Lending pools are a fundamental component of DeFi, allowing users to lend out th
 	- [Step-by-Step Guide: How to Borrow on duckpools.io](https://www.youtube.com/watch?v=dN4VqQJAyuk)
 3. **Earn Interest**: Once your ERG is in the pool, you'll start earning interest. The rate can vary based on demand for loans and the amount of ERG in the pool.
 	- Some early analytics pulled up by Luivatra shows a [8% return in ~5 months](https://twitter.com/Luivatra/status/1750497386856665115) on SigUSD deposited in duckpools. 
+    - [Interest Arbitrage Calculator](https://docs.google.com/spreadsheets/d/1SLvkZITgrqHnFthN0kBsw_BOvYzjk_xMwgEltcJ0waI/edit#gid=403724413)
+    - [Long/Short Calculator](https://docs.google.com/spreadsheets/d/1SLvkZITgrqHnFthN0kBsw_BOvYzjk_xMwgEltcJ0waI/edit#gid=403724413)
+
+
+
 ### Cross-chain opportunities
 
 
