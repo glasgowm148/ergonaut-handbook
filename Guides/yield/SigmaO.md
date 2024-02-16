@@ -2,7 +2,7 @@
 title: Options Trading on Ergo: Unveiling SigmaO's Potential
 description: 
 published: true
-date: 2024-02-16T20:16:07.342Z
+date: 2024-02-16T23:28:27.748Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T14:48:07.115Z
@@ -66,7 +66,7 @@ Sigma'O is a decentralized application (dApp) built on the Ergo blockchain. It w
 - **Trading Platform**: Sigma'O provides contracts for trading Ergo tokens and Sigma'O options in an order book style exchange.
 - **Permissionless Contracts**: All contracts used by Sigma'O are permissionless, meaning developers and UIs interacting with Sigma'O contracts do not have any privileges. There's no updatable configuration by an "app owner."
 
-**Option Contracts:** (Continued)
+**Option Contracts:**
 
 - **Type**: Sigma'O options can be either Call (grant to buy an underlying token) or Put (grant to sell an underlying token).
 - **Style**: They can be American (exercisable up to the maturity date) or European (exercisable during 24h after the maturity date).
@@ -93,7 +93,7 @@ Sigma'O implements "Open sale order" and "Open buy order" contracts for trading 
 
 Sigma'O also supports priced sell options for options on an underlying token with an Oracle price or Spectrum liquidity pool. This allows for real-time pricing based on market conditions.
 
-**Exact Formula:** The exact computation implemented in Ergoscript and JS can be found [here](https://github.com/ThierryM1212/SigmaO/blob/main/front-end/src/utils/utils.js#L98) and [here](https://github.com/ThierryM1212/SigmaO/blob/main/contract/Option_Sell.es#L107).
+- **Exact Formula:** The exact computation implemented in Ergoscript and JS can be found [here](https://github.com/ThierryM1212/SigmaO/blob/main/front-end/src/utils/utils.js#L98) and [here](https://github.com/ThierryM1212/SigmaO/blob/main/contract/Option_Sell.es#L107).
 
 
 **Future Developments:**
