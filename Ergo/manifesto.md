@@ -2,7 +2,7 @@
 title: The Ergo Manifesto
 description: 
 published: true
-date: 2024-02-19T14:11:13.431Z
+date: 2024-02-19T14:11:24.130Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-11T10:54:18.363Z
@@ -29,4 +29,5 @@ Now available in 15 languages !
 - [Hungarian](https://ergonaut.space/hu/Manifesto)
 - [Russian](https://ergonaut.space/ru/Ergo/manifesto)
 - [Russian](https://ergonaut.space/ru/Ergo/manifesto)
+
 Please translate the Ergo Manifesto into your local language! [Bounties are available!](https://github.com/ergoplatform/grow-ergo/issues/6)
