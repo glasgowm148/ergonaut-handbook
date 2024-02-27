@@ -2,7 +2,7 @@
 title: Mastering the Game: A Comprehensive Overview of Gaming on Ergo
 description: 
 published: true
-date: 2024-02-13T19:54:14.115Z
+date: 2024-02-27T13:21:18.425Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-13T16:17:55.407Z
@@ -30,6 +30,11 @@ Once you've secured your character, you're ready to explore Cyberia, participate
 
 
 ## Maximizing Your Gains: Staking Rewards
+
+
+### CYPX Mining
+
+[CYPX Mining](https://cyberverse.fandom.com/wiki/CYPX_Mining) is one of the passive game mechanics and ways to earn CYPX.
 
 ### Staking Your NFTs for $CYPX
 
