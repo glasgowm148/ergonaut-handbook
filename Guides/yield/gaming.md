@@ -2,14 +2,17 @@
 title: Mastering the Game: A Comprehensive Overview of Gaming on Ergo
 description: 
 published: true
-date: 2024-02-27T13:21:18.425Z
+date: 2024-02-27T15:07:35.419Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-13T16:17:55.407Z
 ---
 
 **CyberVerse is a pixelated, open-world multiplayer game on the Ergo Blockchain. In its beta version, players can explore, play mini-games, and earn CYPX tokens. By owning a CyberCitizen NFT, players get access to Cyberia city to enjoy activities like DJing, car racing, gardening, and more, earning tokens in the process. They can also collect daily rewards, complete quests, level up, and personalize NFT apartments. Features include a global chat, leaderboards, and loot boxes. There is even a recently released multiplayer version!**
+
 - [CyberVerse - The Journey (Trailer)](https://www.youtube.com/watch?v=SZh_vjE96ZU)
+- [Game Updates Log](https://cyberverse.fandom.com/wiki/Updates)
+- [Roadmap](https://docs.cyberversegame.io/whitepaper-v3./learn/roadmap)
 
 
 ## How to Start Your Cyberverse Journey
@@ -27,7 +30,7 @@ Once you've secured your character, you're ready to explore Cyberia, participate
 
 - The [Official documentation and litepaper of CyberVerse game](https://docs.cyberversegame.io/cyberverse-litepaper/) has indepth documentation on the gameplay. 
 - You can also navigate to `Menu -> Help` to see a Help Book which goes over various parts of the game. 
-
+- Guide: How to get started: https://cyberverse.fandom.com/wiki/How_to_get_started
 
 ## Maximizing Your Gains: Staking Rewards
 
