@@ -2,7 +2,7 @@
 title: The Ergo Manifesto
 description: 
 published: true
-date: 2024-02-28T15:36:02.512Z
+date: 2024-02-29T01:51:39.702Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-11T10:54:18.363Z
@@ -17,7 +17,7 @@ Now available in 15 languages !
 - [German](https://ergonaut.space/de/ergo-manifest)
 - [French](https://ergonaut.space/fr/LeManifeste)
 - [Italian](https://ergonaut.space/it/home)
-- [Hindi](/hi-in/ghoshanapatra) PS: remove 'en' from URL to fix broken link, bug. Or go home, select hindi from language menu and then navigate to Manifesto
+- [Hindi](https://ergonaut.space/hi-in/Ghoshanapatra) PS: remove 'en' from URL to fix broken link, bug. Or go home, select hindi from language menu and then navigate to Manifesto
 - [Indonesian](https://ergonaut.space/id/Manifesto)
 - [Dutch](https://ergonaut.space/nl/Ergo/manifesto)
 - [Turkish](https://ergonaut.space/tr/home)
