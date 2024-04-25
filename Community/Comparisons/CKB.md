@@ -2,7 +2,7 @@
 title: Nervos CKB
 description: 
 published: true
-date: 2024-04-25T13:12:07.125Z
+date: 2024-04-25T13:13:56.428Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T09:16:19.415Z
@@ -13,7 +13,7 @@ dateCreated: 2023-08-08T09:16:19.415Z
 | Feature | Ergo (ERG) | Nervos CKB |
 |---------|------------|------------|
 | **Design Goal** | Focused on financial contracts | General platform for various scenarios |
-| **Consensus Mechanism** | Autolykos (Proof-of-Work), GPU-friendly and outsource-resistant | Eaglesong (Proof-of-Work), ASIC-friendly with simple hash function (Eaglesong) to lower ASIC manufacturing barrier |
+| **Consensus Mechanism** | Autolykos (Proof-of-Work), GPU-friendly | Eaglesong (Proof-of-Work), ASIC-friendly with simple hash function (Eaglesong) to lower ASIC manufacturing barrier |
 | **Smart Contracts** | ErgoScript, a DSL designed for financial contracts | CKB-VM (RISC-V based), more general and abstract, suitable for various scenarios like DeFi, layer2, interoperability, and DID |
 | **Privacy Features** | Includes ring signatures and zero-knowledge proofs | No native privacy features |
 | **Scalability** | Aims to solve scalability with the power of eUTXO, NiPoPoWs and other novel features | Layer 1 scalability with the "Common Knowledge Base" model |
@@ -56,7 +56,7 @@ In contrast, Nervos' CKB-VM is more akin to a traditional VM, executing the rule
 ## Key Takeaways
 
 1. Ergo is more focused on financial contracts, while Nervos CKB is designed as a general platform for various use cases.
-2. Both use PoW consensus, but Ergo is GPU-friendly and outsource-resistant, while CKB is ASIC-friendly.
+2. Both use PoW consensus, but Ergo is GPU-friendly, while CKB is ASIC-friendly.
 3. Ergo uses a DSL (ErgoScript) for financial contracts, while CKB uses a more general RISC-V based VM.
 4. Ergo's UTXO (Box) has built-in token support, while CKB's UTXO (Cell) requires separate token contracts.
 5. Ergo uses NiPoPoW and AVL+ tree for light clients, while CKB will use Flyclient with state tree design undetermined.
