@@ -2,25 +2,28 @@
 title: Nervos CKB
 description: 
 published: true
-date: 2024-04-09T10:37:44.774Z
+date: 2024-04-25T13:12:07.125Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T09:16:19.415Z
 ---
 
-# Nervos CKB
-
+# Nervos CKB 
 
 | Feature | Ergo (ERG) | Nervos CKB |
 |---------|------------|------------|
-| **Consensus Mechanism** | Autolykos (Proof-of-Work) | Eaglesong (Proof-of-Work) |
-| **Smart Contracts** | Yes, with [ErgoScript](https://docs.ergoplatform.com/dev/scs/ergoscript/) | Yes, with CKB-VM (RISC-V based) |
-| **Privacy Features** | Yes, includes ring signatures and zero-knowledge proofs | No |
-| **Scalability** | Aims to solve [scalability with the power of eUTXO, NiPoPoWs and other novel features](https://docs.ergoplatform.com/dev/protocol/scaling/) | Layer 1 scalability with the "Common Knowledge Base" model |
-| **Use Cases** | Financial contracts | Multi-asset store of value, smart contracts |
-| **ASIC-Resistant** | Yes | No (Eaglesong ASIC mining) |
-| **Language-base** | JVM | C, Rust |
-| **Public Distribution** | ~95% | TBC |
+| **Design Goal** | Focused on financial contracts | General platform for various scenarios |
+| **Consensus Mechanism** | Autolykos (Proof-of-Work), GPU-friendly and outsource-resistant | Eaglesong (Proof-of-Work), ASIC-friendly with simple hash function (Eaglesong) to lower ASIC manufacturing barrier |
+| **Smart Contracts** | ErgoScript, a DSL designed for financial contracts | CKB-VM (RISC-V based), more general and abstract, suitable for various scenarios like DeFi, layer2, interoperability, and DID |
+| **Privacy Features** | Includes ring signatures and zero-knowledge proofs | No native privacy features |
+| **Scalability** | Aims to solve scalability with the power of eUTXO, NiPoPoWs and other novel features | Layer 1 scalability with the "Common Knowledge Base" model |
+| **Token Model** | UTXO (named Box) with built-in custom token support | UTXO (named Cell) with no built-in custom token support, developers create token contracts similar to ERC20 |
+| **Light Client** | Uses NiPoPoW and AVL+ tree for state snapshot | Will use Flyclient, state tree design not determined yet |
+| **State Bloat Mitigation** | UTXO is free of storage rent in the first 4 years, charged after | Native token (CKByte) is the on-chain storage itself, 1 CKByte = 1 on-chain byte, pay for storage from day 1 |
+| **Token Economics** | Hard cap, linear emission curve ending in 8 years | No hard cap, primary issuance halves every 4 years, constant secondary issuance, tail emission rate approaches zero infinitely |
+| **Governance** | Mix of adjustable parameters and softfork based on miner voting | Open to both soft and hard forks, relying on "social contract" and techniques like VM versioning, formal governance model in design |
+| **Language Base** | JVM | C, Rust |
+| **Public Token Distribution** | ~95% | Token distribution details to be confirmed |
 
 ## Cell Model vs Box Model
 
@@ -50,6 +53,20 @@ In a traditional sense, no. A virtual machine typically simulates a computer sys
 
 In contrast, Nervos' CKB-VM is more akin to a traditional VM, executing the rules associated with cells in a controlled environment.
 
+## Key Takeaways
+
+1. Ergo is more focused on financial contracts, while Nervos CKB is designed as a general platform for various use cases.
+2. Both use PoW consensus, but Ergo is GPU-friendly and outsource-resistant, while CKB is ASIC-friendly.
+3. Ergo uses a DSL (ErgoScript) for financial contracts, while CKB uses a more general RISC-V based VM.
+4. Ergo's UTXO (Box) has built-in token support, while CKB's UTXO (Cell) requires separate token contracts.
+5. Ergo uses NiPoPoW and AVL+ tree for light clients, while CKB will use Flyclient with state tree design undetermined.
+6. Ergo has a hard cap and linear emission, while CKB has no hard cap with halving primary issuance and constant secondary issuance.
+7. Ergo governance is a mix of adjustable parameters and softforks, while CKB is open to both soft and hard forks with a formal governance model in design.
+8. Ergo has native privacy features, while CKB does not.
+9. Both aim to solve scalability, Ergo with eUTXO and NiPoPoWs, CKB with its "Common Knowledge Base" model.
+10. Ergo is JVM-based, while CKB is based on C and Rust.
+
+Both Ergo and Nervos CKB prioritize decentralization and security, aiming to build systems that can evolve and last for a long time. While they share some similarities in their UTXO-based models, they differ in their design goals, smart contract approaches, token economics, and governance. Ergo is more focused on financial applications with a DSL and built-in token support, while CKB is a more general platform with a RISC-V based VM suitable for various scenarios.
 
 ## Rosen Bridge vs RGB++ 
 
