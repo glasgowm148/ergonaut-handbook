@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-04-23T15:13:01.297Z
+date: 2024-06-26T00:03:20.603Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-04T14:32:12.332Z
@@ -61,8 +61,8 @@ El ecosistema Ergo está en continuo desarrollo. Espere nuevas formas de usarlo 
 ## Unirse a la conversación
 
 - [Reddit](https://www.reddit.com/r/ergonautas)
-- [Telegrama](https://t.me/ergoplatform)
-- [Discordia](https://discordapp.com/invite/gYrVrjS)
+- [Telegram](https://t.me/ergoplatform)
+- [Discord](https://discordapp.com/invite/gYrVrjS)
 - [Foro Ergo](https://www.ergoforum.org/)
 
 > ergonaut.space es un espacio impulsado por la comunidad donde cualquiera puede contribuir. Comuníquese con los moderadores en cualquiera de las salas de chat para agregar una nueva sección de idioma regional.
