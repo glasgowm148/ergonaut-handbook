@@ -2,7 +2,7 @@
 title: PERTANYAAN YANG SERING DIAJUKAN (FAQ)
 description: 
 published: true
-date: 2023-12-19T15:33:30.411Z
+date: 2024-09-04T19:33:46.005Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-19T15:33:30.411Z
@@ -18,7 +18,7 @@ Meskipun PoS adalah protokol yang sangat aman, beberapa smart contract mungkin m
 
 * Lihat tulisan kami di [Cardano] (https://ergonaut.space/en/Ergo/Ergo-And-Cardano) untuk informasi lebih lanjut
 * [Ergo: Mengapa Proof of Work?] (https://curiaregiscrypto.medium.com/ergo-why-proof-of-work-47c9b25fae70)
-* [Memasuki Era Pow Berikutnya dengan Ergo] (https://curiaregiscrypto.medium.com/entering-the-next-era-of-pow-with-ergo-e4d83530410c)
+* [Memasuki Era Pow Berikutnya bersama Ergo] (https://curiaregiscrypto.medium.com/entering-the-next-era-of-pow-with-ergo-e4d83530410c)
 
 ## Mengapa non-outsourceability dimatikan?
 
