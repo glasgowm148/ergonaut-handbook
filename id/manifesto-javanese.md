@@ -2,7 +2,7 @@
 title: Manifesto
 description: Manifesto Ergo Basa Jawa (Javanese)
 published: true
-date: 2024-10-03T08:48:46.601Z
+date: 2024-10-04T20:20:21.433Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T08:48:46.601Z
@@ -20,9 +20,9 @@ Iki mung tembung kunci liyane sing dianggep para bankir gedhe minangka alat liya
 
 Apa sing dakdeleng ing taun-taun awal babagan pangguna forum online yaiku,
 
-Cryptocurrencies kudu nyedhiyakake alat kanggo nambah wong biasa. Usaha cilik sing berjuang kanggo nyukupi kebutuhan, dudu modal finansial depersonalisasi sing gedhe. Iki sing nggawe aku inspirasi. Iki impenku.
+Mata Wang Kripto kudune nyedhiyakake alat kanggo nambah wong biasa. Usaha cilik sing berjuang kanggo nyukupi kebutuhan, dudu modal finansial depersonalisasi sing gedhe. Iki sing nggawe aku inspirasi. Iki impenku.
 
-Ing mripat saka sesanti masyarakat jembar asli, alat cryptocurrency kudu ngaktifake wong kanggo melu ing kegiatan ekonomi preduli saka ukuran bisnis, lokasi geografis, utawa tingkat kapentingan sing disetel dening pemain gedhe.
+Ing mripat saka sesanti masyarakat jembar asli, alat Mata Wang Kripto kudu ngaktifake wong kanggo melu ing kegiatan ekonomi preduli saka ukuran bisnis, lokasi geografis, utawa tingkat kapentingan sing disetel dening pemain gedhe.
 
 Alat kasebut kudu ngidini wong nggawe kontrak (digital, mandhiri, kontrak pinter sing bisa dimangerteni) sanajan beda-beda ing yurisdiksi, tradhisi, praktik bisnis sing ditindakake, lsp.
 
@@ -47,7 +47,7 @@ Wong bisa milih mata uang sing digunakake lan nemtokake sapa, kepiye, lan kapan 
 Kabeh industri nggawe ide dagang P2P. Saluran sing mbukak, tanpa wates lan aman bisa mbuktekake mekanisme kanggo leveling lapangan ekonomi lan nyedhiyakake sarana kanggo kamakmuran kanggo rata-rata warga bumi.
 
 #### Current Market Mindset (Pola Pikirane Pasar Saiki)
-Mentalitas pasar crypto wis owah banget sawise mania ICO saka 2017. Iku misale jek papan minangka sakabehe wis teka kanggo ngrameke bailouts, printing lan stimulus.
+Mentalitas pasar crypto wis owah banget sawise mania ICO saka 2017. Iku misale jek papan minangka sakabehe wis teka kanggo ngrameke talangan dhuwit, printing lan stimulus.
 
 Ya, ana sawetara kenaikan rega gedhe ing fiat lan akeh pemasaran adhedhasar hype, nanging misale jek tujuan awal cypherpunks saya tambah tipis.
 
@@ -56,12 +56,12 @@ Iki soko sing kudu ditangani. Yen mata dhuwit kripto bakal dileksanakake minangk
 Kahanan pasar saiki rada sedhih. Kita kudu bali menyang akar revolusi crypto, alat desentralisasi sing pribadi, aman, lan nyurung adopsi sistem kasebut ing donya nyata. Sing becik yaiku nggawe alat sing mbantu wong nggawe nilai.
 
 #### Kenopo iki penting?
-Ekonomi global durung saya apik wiwit bailout awal. Aku ngerti yen narasi ide babagan privasi lan keamanan tansah muter ing emosi nemen; Nanging, kasunyatan iku tansah saben dinten wong sing njaluk burned nalika ekonomi implodes.
+Ekonomi global durung saya apik wiwit dhuwit talangan awal. Aku ngerti yen narasi ide babagan privasi lan keamanan tansah muter ing emosi nemen; Nanging, kasunyatan iku tansah saben dinten wong sing njaluk diobong nalika ekonomi implodes.
 
 #### Coba pikirake sedhela.
 Perusahaan duwe akses menyang pasar manca lan kredit manca. Dheweke duwe akeh alat kanggo adaptasi lan ngindhari kesulitan ekonomi.
 
-Kanggo perusahaan kriminal, umume entuk manfaat saka kesulitan ekonomi. Wektu angel nyurung obat-obatan mandiri. Sindikat kriminal sing luwih gedhe utamane bisnis impor / ekspor. Dheweke uga duwe akses menyang mata uang asing lan asring mbukak ijol-ijolan mata uang pasar ireng lan luwih ngeksploitasi akses internasional iki kanggo entuk bathi.
+Kanggo perusahaan kriminal, umume entuk manfaat saka kesulitan ekonomi. Wektu angel nyurung obat-obatan mandiri. Sindikat kriminal sing luwih gedhe utamane bisnis impor utowo ekspor. Dheweke uga duwe akses menyang mata uang asing lan asring mbukak ijol-ijolan mata uang pasar ireng lan luwih ngeksploitasi akses internasional iki kanggo entuk bathi.
 
 Organisasi teroris entuk manfaat ing wektu kangelan ekonomi. Ora ana sing nyurung wong menyang kekerasan kaya nesu sing bener saka perasaan jebakan lan putus asa. Organisasi teroris berkembang ing wilayah kekacauan. Padha mangan lam; iku siji alat recruiting paling gedhe.
 
