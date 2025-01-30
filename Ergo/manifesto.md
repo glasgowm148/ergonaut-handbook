@@ -2,7 +2,7 @@
 title: The Ergo Manifesto
 description: 
 published: true
-date: 2025-01-30T10:19:06.043Z
+date: 2025-01-30T10:19:33.305Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-11T10:54:18.363Z
