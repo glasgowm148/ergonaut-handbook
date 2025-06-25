@@ -2,7 +2,7 @@
 title: The Ergo Manifesto
 description: 
 published: true
-date: 2025-01-30T10:26:13.665Z
+date: 2025-06-25T17:04:30.154Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-11T10:54:18.363Z
@@ -30,6 +30,7 @@ Now available in 18 languages !
 - [Russian](https://ergonaut.space/ru/Ergo/manifesto)
 - [Tamil](https://ergonaut.space/ta/manifesto)
 - [Javanese](https://ergonaut.space/id/manifesto-javanese)
+- [Melayu](https://ergonaut.space/id/manifesto-malaysian)
 - [Hindi](/hi-in/ghoshanapatra) Note: remove 'en' from URL to fix broken link, bug. Or go home, select hindi from language menu and then navigate to Manifesto
 
 
